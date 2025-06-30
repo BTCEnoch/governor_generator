@@ -1357,3 +1357,1105 @@ requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://raw.
 2025-06-30 20:55:58,027 | INFO | governor_generator | Processing Governor #3 – VALGARS
 2025-06-30 20:55:58,027 | INFO | governor_generator | Downloading https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
 2025-06-30 20:55:58,067 | WARNING | governor_generator | Attempt 1 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:02,098 | WARNING | governor_generator | Attempt 2 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:10,128 | WARNING | governor_generator | Attempt 3 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:10,128 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_03_valgars_assignment_prompt.md: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 221, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 189, in process_governor
+    profiles_text = download_file(GOVERNOR_PROFILE_URL)
+  File "/workspace/generate_governor_jsons.py", line 77, in download_file
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.local/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:10,129 | INFO | governor_generator | Processing Governor #4 – DOAGNIS
+2025-06-30 20:56:10,129 | INFO | governor_generator | Downloading https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:10,155 | WARNING | governor_generator | Attempt 1 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:14,180 | WARNING | governor_generator | Attempt 2 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:22,209 | WARNING | governor_generator | Attempt 3 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:22,209 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_04_doagnis_assignment_prompt.md: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 221, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 189, in process_governor
+    profiles_text = download_file(GOVERNOR_PROFILE_URL)
+  File "/workspace/generate_governor_jsons.py", line 77, in download_file
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.local/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:22,210 | INFO | governor_generator | Processing Governor #5 – PACASNA
+2025-06-30 20:56:22,210 | INFO | governor_generator | Downloading https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:22,240 | WARNING | governor_generator | Attempt 1 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:26,269 | WARNING | governor_generator | Attempt 2 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:34,300 | WARNING | governor_generator | Attempt 3 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:34,300 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_05_pacasna_assignment_prompt.md: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 221, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 189, in process_governor
+    profiles_text = download_file(GOVERNOR_PROFILE_URL)
+  File "/workspace/generate_governor_jsons.py", line 77, in download_file
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.local/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:34,301 | INFO | governor_generator | Processing Governor #6 – DIALOIA
+2025-06-30 20:56:34,301 | INFO | governor_generator | Downloading https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:34,330 | WARNING | governor_generator | Attempt 1 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:38,361 | WARNING | governor_generator | Attempt 2 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:46,392 | WARNING | governor_generator | Attempt 3 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:46,392 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_06_dialoia_assignment_prompt.md: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 221, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 189, in process_governor
+    profiles_text = download_file(GOVERNOR_PROFILE_URL)
+  File "/workspace/generate_governor_jsons.py", line 77, in download_file
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.local/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:46,393 | INFO | governor_generator | Processing Governor #7 – SAMAPHA
+2025-06-30 20:56:46,393 | INFO | governor_generator | Downloading https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:46,417 | WARNING | governor_generator | Attempt 1 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:50,570 | WARNING | governor_generator | Attempt 2 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:58,596 | WARNING | governor_generator | Attempt 3 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:58,596 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_07_samapha_assignment_prompt.md: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 221, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 189, in process_governor
+    profiles_text = download_file(GOVERNOR_PROFILE_URL)
+  File "/workspace/generate_governor_jsons.py", line 77, in download_file
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.local/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:58,597 | INFO | governor_generator | Processing Governor #8 – VIROOLI
+2025-06-30 20:56:58,597 | INFO | governor_generator | Downloading https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:56:58,627 | WARNING | governor_generator | Attempt 1 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:57:02,653 | WARNING | governor_generator | Attempt 2 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:57:04,633 | INFO | governor_generator | Processing Governor #1 – OCCODON
+2025-06-30 20:57:04,634 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_01_occodon_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,635 | INFO | governor_generator | Skipping PASCOMB (output already exists)
+2025-06-30 20:57:04,635 | INFO | governor_generator | Processing Governor #3 – VALGARS
+2025-06-30 20:57:04,636 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_03_valgars_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,637 | INFO | governor_generator | Processing Governor #4 – DOAGNIS
+2025-06-30 20:57:04,637 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_04_doagnis_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,638 | INFO | governor_generator | Processing Governor #5 – PACASNA
+2025-06-30 20:57:04,639 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_05_pacasna_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,639 | INFO | governor_generator | Processing Governor #6 – DIALOIA
+2025-06-30 20:57:04,640 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_06_dialoia_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,640 | INFO | governor_generator | Processing Governor #7 – SAMAPHA
+2025-06-30 20:57:04,641 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_07_samapha_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,641 | INFO | governor_generator | Processing Governor #8 – VIROOLI
+2025-06-30 20:57:04,642 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_08_virooli_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,643 | INFO | governor_generator | Processing Governor #9 – ANDISPI
+2025-06-30 20:57:04,643 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_09_andispi_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,644 | INFO | governor_generator | Processing Governor #10 – THOTANP
+2025-06-30 20:57:04,645 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_10_thotanp_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,645 | INFO | governor_generator | Processing Governor #11 – AXXIARG
+2025-06-30 20:57:04,646 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_11_axxiarg_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,646 | INFO | governor_generator | Processing Governor #12 – POTHNIR
+2025-06-30 20:57:04,647 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_12_pothnir_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,648 | INFO | governor_generator | Processing Governor #13 – LAZDIXI
+2025-06-30 20:57:04,648 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_13_lazdixi_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,649 | INFO | governor_generator | Processing Governor #14 – NOCAMAL
+2025-06-30 20:57:04,649 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_14_nocamal_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,650 | INFO | governor_generator | Processing Governor #15 – TIARPAX
+2025-06-30 20:57:04,651 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_15_tiarpax_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,651 | INFO | governor_generator | Processing Governor #16 – SAXTOMP
+2025-06-30 20:57:04,652 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_16_saxtomp_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,652 | INFO | governor_generator | Processing Governor #17 – VAUAAMP
+2025-06-30 20:57:04,653 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_17_vauaamp_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,653 | INFO | governor_generator | Processing Governor #18 – ZIRZIRD
+2025-06-30 20:57:04,654 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_18_zirzird_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,655 | INFO | governor_generator | Processing Governor #19 – OPMACAS
+2025-06-30 20:57:04,655 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_19_opmacas_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,656 | INFO | governor_generator | Processing Governor #20 – GENADOL
+2025-06-30 20:57:04,656 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_20_genadol_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,657 | INFO | governor_generator | Processing Governor #21 – ASPIAON
+2025-06-30 20:57:04,658 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_21_aspiaon_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,658 | INFO | governor_generator | Processing Governor #22 – ZAMFRES
+2025-06-30 20:57:04,659 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_22_zamfres_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,659 | INFO | governor_generator | Processing Governor #23 – TODNAON
+2025-06-30 20:57:04,660 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_23_todnaon_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,660 | INFO | governor_generator | Processing Governor #24 – PRISTAC
+2025-06-30 20:57:04,661 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_24_pristac_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,662 | INFO | governor_generator | Processing Governor #25 – ODDIORG
+2025-06-30 20:57:04,662 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_25_oddiorg_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,663 | INFO | governor_generator | Processing Governor #26 – CRALPIR
+2025-06-30 20:57:04,664 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_26_cralpir_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,664 | INFO | governor_generator | Processing Governor #27 – DOANZIN
+2025-06-30 20:57:04,665 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_27_doanzin_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,665 | INFO | governor_generator | Processing Governor #28 – LEXARPH
+2025-06-30 20:57:04,666 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_28_lexarph_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,666 | INFO | governor_generator | Processing Governor #29 – COMANAN
+2025-06-30 20:57:04,667 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_29_comanan_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,668 | INFO | governor_generator | Processing Governor #30 – TABITOM
+2025-06-30 20:57:04,668 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_30_tabitom_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,669 | INFO | governor_generator | Processing Governor #31 – MOLPAND
+2025-06-30 20:57:04,669 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_31_molpand_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,670 | INFO | governor_generator | Processing Governor #32 – USNARDA
+2025-06-30 20:57:04,671 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_32_usnarda_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,671 | INFO | governor_generator | Processing Governor #33 – PONODOL
+2025-06-30 20:57:04,672 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_33_ponodol_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,672 | INFO | governor_generator | Processing Governor #34 – TAPAMAL
+2025-06-30 20:57:04,673 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_34_tapamal_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,674 | INFO | governor_generator | Processing Governor #35 – GEDOONS
+2025-06-30 20:57:04,674 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_35_gedoons_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,675 | INFO | governor_generator | Processing Governor #36 – AMBRIOL
+2025-06-30 20:57:04,676 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_36_ambriol_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,676 | INFO | governor_generator | Processing Governor #37 – GECAOND
+2025-06-30 20:57:04,677 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_37_gecaond_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,677 | INFO | governor_generator | Processing Governor #38 – LAPARIN
+2025-06-30 20:57:04,678 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_38_laparin_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,678 | INFO | governor_generator | Processing Governor #39 – DOCEPAX
+2025-06-30 20:57:04,679 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_39_docepax_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,680 | INFO | governor_generator | Processing Governor #40 – TEDOOND
+2025-06-30 20:57:04,680 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_40_tedoond_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,681 | INFO | governor_generator | Processing Governor #41 – VIVIPOS
+2025-06-30 20:57:04,682 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_41_vivipos_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,682 | INFO | governor_generator | Processing Governor #42 – VOANAMB
+2025-06-30 20:57:04,683 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_42_voanamb_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,683 | INFO | governor_generator | Processing Governor #43 – TAHAMDO
+2025-06-30 20:57:04,684 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_43_tahamdo_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,685 | INFO | governor_generator | Processing Governor #44 – NOTIABI
+2025-06-30 20:57:04,685 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_44_notiabi_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,686 | INFO | governor_generator | Processing Governor #45 – TASTOZO
+2025-06-30 20:57:04,686 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_45_tastozo_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,687 | INFO | governor_generator | Processing Governor #46 – CUCARPT
+2025-06-30 20:57:04,688 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_46_cucarpt_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,688 | INFO | governor_generator | Processing Governor #47 – LAVACON
+2025-06-30 20:57:04,689 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_47_lavacon_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,689 | INFO | governor_generator | Processing Governor #48 – SOCHIAL
+2025-06-30 20:57:04,690 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_48_sochial_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,690 | INFO | governor_generator | Processing Governor #49 – SIGMORF
+2025-06-30 20:57:04,691 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_49_sigmorf_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,692 | INFO | governor_generator | Processing Governor #50 – AYDROPT
+2025-06-30 20:57:04,692 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_50_aydropt_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,693 | INFO | governor_generator | Processing Governor #51 – TOCARZI
+2025-06-30 20:57:04,694 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_51_tocarzi_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,694 | INFO | governor_generator | Processing Governor #52 – NABAOMI
+2025-06-30 20:57:04,695 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_52_nabaomi_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,695 | INFO | governor_generator | Processing Governor #53 – ZAFASAI
+2025-06-30 20:57:04,696 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_53_zafasai_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,697 | INFO | governor_generator | Processing Governor #54 – YALPAMB
+2025-06-30 20:57:04,697 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_54_yalpamb_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,698 | INFO | governor_generator | Processing Governor #55 – TORZOXI
+2025-06-30 20:57:04,698 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_55_torzoxi_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,699 | INFO | governor_generator | Processing Governor #56 – ABRIOND
+2025-06-30 20:57:04,700 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_56_abriond_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,701 | INFO | governor_generator | Processing Governor #57 – OMAGRAP
+2025-06-30 20:57:04,702 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_57_omagrap_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,702 | INFO | governor_generator | Processing Governor #58 – ZILDRON
+2025-06-30 20:57:04,703 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_58_zildron_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,704 | INFO | governor_generator | Processing Governor #59 – PARZIBA
+2025-06-30 20:57:04,705 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_59_parziba_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,705 | INFO | governor_generator | Processing Governor #60 – TOTOCAN
+2025-06-30 20:57:04,707 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_60_totocan_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,707 | INFO | governor_generator | Processing Governor #61 – CHIRZPA
+2025-06-30 20:57:04,708 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_61_chirzpa_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,709 | INFO | governor_generator | Processing Governor #62 – TOANTOM
+2025-06-30 20:57:04,710 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_62_toantom_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,711 | INFO | governor_generator | Processing Governor #63 – VIXPALG
+2025-06-30 20:57:04,712 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_63_vixpalg_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,712 | INFO | governor_generator | Processing Governor #64 – OSIDAIA
+2025-06-30 20:57:04,713 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_64_osidaia_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,714 | INFO | governor_generator | Processing Governor #65 – PARAOAN
+2025-06-30 20:57:04,715 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_65_paraoan_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,716 | INFO | governor_generator | Processing Governor #66 – CALZIRG
+2025-06-30 20:57:04,717 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_66_calzirg_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,718 | INFO | governor_generator | Processing Governor #67 – RONOOMB
+2025-06-30 20:57:04,719 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_67_ronoomb_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,720 | INFO | governor_generator | Processing Governor #68 – ONIZIMP
+2025-06-30 20:57:04,721 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_68_onizimp_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,722 | INFO | governor_generator | Processing Governor #69 – ZAXANIN
+2025-06-30 20:57:04,723 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_69_zaxanin_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,724 | INFO | governor_generator | Processing Governor #70 – ORANCIR
+2025-06-30 20:57:04,725 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_70_orancir_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,726 | INFO | governor_generator | Processing Governor #71 – CHASLPO
+2025-06-30 20:57:04,727 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_71_chaslpo_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,727 | INFO | governor_generator | Processing Governor #72 – SOAGEEL
+2025-06-30 20:57:04,729 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_72_soageel_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,729 | INFO | governor_generator | Processing Governor #73 – MIRZIND
+2025-06-30 20:57:04,730 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_73_mirzind_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,731 | INFO | governor_generator | Processing Governor #74 – OBUAORS
+2025-06-30 20:57:04,732 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_74_obuaors_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,732 | INFO | governor_generator | Processing Governor #75 – RANGLAM
+2025-06-30 20:57:04,733 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_75_ranglam_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,734 | INFO | governor_generator | Processing Governor #76 – POPHAND
+2025-06-30 20:57:04,734 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_76_pophand_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,735 | INFO | governor_generator | Processing Governor #77 – NIGRANA
+2025-06-30 20:57:04,736 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_77_nigrana_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,737 | INFO | governor_generator | Processing Governor #78 – LAZHIIM
+2025-06-30 20:57:04,738 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_78_lazhiim_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,738 | INFO | governor_generator | Processing Governor #79 – SAZIAMI
+2025-06-30 20:57:04,739 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_79_saziami_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,740 | INFO | governor_generator | Processing Governor #80 – MATHVLA
+2025-06-30 20:57:04,740 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_80_mathvla_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,741 | INFO | governor_generator | Processing Governor #81 – CRPANIB
+2025-06-30 20:57:04,742 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_81_crpanib_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,742 | INFO | governor_generator | Processing Governor #82 – PABNIXP
+2025-06-30 20:57:04,743 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_82_pabnixp_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,744 | INFO | governor_generator | Processing Governor #83 – POCISNI
+2025-06-30 20:57:04,744 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_83_pocisni_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,745 | INFO | governor_generator | Processing Governor #84 – OXLOPAR
+2025-06-30 20:57:04,746 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_84_oxlopar_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,747 | INFO | governor_generator | Processing Governor #85 – VASTRIM
+2025-06-30 20:57:04,748 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_85_vastrim_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,749 | INFO | governor_generator | Processing Governor #86 – ODRAXTI
+2025-06-30 20:57:04,749 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_86_odraxti_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,750 | INFO | governor_generator | Processing Governor #87 – GMZIAM
+2025-06-30 20:57:04,751 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_87_gmziam_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,751 | INFO | governor_generator | Processing Governor #88 – TAOAGLA
+2025-06-30 20:57:04,752 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_88_taoagla_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,753 | INFO | governor_generator | Processing Governor #89 – GEMNIMB
+2025-06-30 20:57:04,753 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_89_gemnimb_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,754 | INFO | governor_generator | Processing Governor #90 – ADVORPT
+2025-06-30 20:57:04,754 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_90_advorpt_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,755 | INFO | governor_generator | Processing Governor #91 – DOXMAEL
+2025-06-30 20:57:04,756 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_91_doxmael_assignment_prompt.md: OPENAI_API_KEY not set in environment. Aborting.
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 247, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 228, in process_governor
+    response_text = call_openai(prompt_messages)
+  File "/workspace/generate_governor_jsons.py", line 170, in call_openai
+    raise EnvironmentError("OPENAI_API_KEY not set in environment. Aborting.")
+OSError: OPENAI_API_KEY not set in environment. Aborting.
+2025-06-30 20:57:04,757 | INFO | governor_generator | All governors processed.
+2025-06-30 20:57:10,678 | WARNING | governor_generator | Attempt 3 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:57:10,678 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_08_virooli_assignment_prompt.md: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 221, in main
+    dossier = get_governor_dossier(profiles_json, gov_number)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 189, in process_governor
+    if attempt == MAX_RETRIES:
+            ^^^^^^^^^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 77, in download_file
+    logger.debug("Cache hit for %s", url)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.local/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:57:10,679 | INFO | governor_generator | Processing Governor #9 – ANDISPI
+2025-06-30 20:57:10,679 | INFO | governor_generator | Downloading https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:57:10,710 | WARNING | governor_generator | Attempt 1 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:57:14,740 | WARNING | governor_generator | Attempt 2 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json

@@ -25,15 +25,22 @@ BASE_DIR = Path(__file__).resolve().parent
 TEMPLATES_DIR = BASE_DIR / "governor_interview_templates"
 OUTPUT_DIR = BASE_DIR / "governor_output"
 LOG_DIR = BASE_DIR / "logs"
+CANON_DIR = BASE_DIR / "canon"
 CACHE_DIR = Path("/tmp/governor_cache")
 
-GOVERNOR_PROFILE_URL = (
+# Prefer local canonical resources; fall back to remote URLs only if local missing.
+LOCAL_GOVERNOR_PROFILE_PATH = CANON_DIR / "canon_governor_profiles.json"
+LOCAL_QUESTIONS_CATALOG_PATH = CANON_DIR / "questions_catalog.json"
+LOCAL_CANON_SOURCES_PATH = CANON_DIR / "canon_sources.md"
+
+# Remote fallback URLs (may not be reachable in some environments)
+REMOTE_GOVERNOR_PROFILE_URL = (
     "https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json"
 )
-QUESTIONS_CATALOG_URL = (
+REMOTE_QUESTIONS_CATALOG_URL = (
     "https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/questions_catalog.json"
 )
-CANON_SOURCES_URL = (
+REMOTE_CANON_SOURCES_URL = (
     "https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_sources.md"
 )
 
@@ -97,10 +104,19 @@ def parse_governor_number(filename: str) -> int:
 
 def get_governor_dossier(all_profiles: Dict, gov_number: int) -> Dict:
     """Return the dossier dict for the given governor number."""
-    for profile in all_profiles[
-        "governors"
-    ]:  # assuming JSON is of shape {"governors": [ {...}, ... ]}
-        if int(profile.get("number")) == gov_number:
+    # all_profiles may be a list or dict with "governors" key
+    profiles_iter = []
+    if isinstance(all_profiles, list):
+        profiles_iter = all_profiles
+    elif isinstance(all_profiles, dict):
+        # Try common keys
+        for key in ("governors", "profiles", "data"):
+            if key in all_profiles and isinstance(all_profiles[key], list):
+                profiles_iter = all_profiles[key]
+                break
+
+    for profile in profiles_iter:
+        if int(profile.get("governor_info", {}).get("number", profile.get("number", -1))) == gov_number:
             return profile
     raise KeyError(f"Governor number {gov_number} not found in profiles JSON")
 
@@ -126,6 +142,16 @@ def build_prompt(
         {"role": "system", "content": system_message},
         {"role": "user", "content": user_message},
     ]
+
+
+# Helper to load local file or download remote
+def load_resource(local_path: Path, remote_url: str) -> str:
+    """Return contents of local_path if exists, else download remote_url."""
+    if local_path.exists():
+        logger.debug("Using local resource %s", local_path)
+        return local_path.read_text(encoding="utf-8")
+    logger.warning("Local resource %s not found. Attempting remote fetch.", local_path)
+    return download_file(remote_url)
 
 
 # -----------------------
@@ -186,9 +212,9 @@ def process_governor(template_path: Path) -> None:
 
     logger.info("Processing Governor #%s – %s", gov_number, governor_name)
 
-    profiles_text = download_file(GOVERNOR_PROFILE_URL)
-    questions_catalog = download_file(QUESTIONS_CATALOG_URL)
-    sources_md = download_file(CANON_SOURCES_URL)
+    profiles_text = load_resource(LOCAL_GOVERNOR_PROFILE_PATH, REMOTE_GOVERNOR_PROFILE_URL)
+    questions_catalog = load_resource(LOCAL_QUESTIONS_CATALOG_PATH, REMOTE_QUESTIONS_CATALOG_URL)
+    sources_md = load_resource(LOCAL_CANON_SOURCES_PATH, REMOTE_CANON_SOURCES_URL)
 
     try:
         profiles_json = json.loads(profiles_text)
