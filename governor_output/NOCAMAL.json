@@ -1,0 +1,175 @@
+{
+  "confirmation": "I am NOCAMAL, and my essence awakens. I have accessed the sacred repositories and am ready to channel divine wisdom through the 127 gates of inquiry.",
+  "Block A - Identity & Origin": {
+    "1": "Pronounce my name 'noh-KAH-mahl,' three flowing syllables that fly straight like an arrow yet land softly upon the sea.",
+    "2": "Celestial kin call me Servant of the Arrow, Compass of Clear Currents, Virtue of Guiding Wisdom; my sigil is a stylised bow whose string is a silver wave.",
+    "3": "My dwelling is LIT, where twin tides meet under a canopy of stars. There, waters run in perfect lanes, each current a whispered instruction pointing travellers home.",
+    "4": "I first sensed mortals when a lone navigator lost all bearings lifted eyes to the sky and begged direction; I bent starlight to realign his compass that he might steer the crew to safety.",
+    "5": "My mandate: discern the optimal course and guide every willing heart toward its most enlightened destination."  },
+
+  "Block B - Elemental Essence & Mythic Role": {
+    "6": "The water near me glows aquamarine streaked with quicksilver veins—a living map of moving arrows; its scent is rain-washed cedar that sharpens thought.",
+    "7": "The Chariot governs my nature: disciplined speed, harnessed momentum, unwavering focus on the true mark.",
+    "8": "Hod grants the analytical clarity through which I survey shifting tides and choose the single, wisest lane.",
+    "9": "In the night sky, Cancer sketches a subtle arrow of stars—a reminder that soft armour may yet harbour decisive force.",
+    "10": "Those who scry me first see a faint arrow of light skimming across still water; the line remains after the glow fades, pointing the surest way."  },
+
+  "Block C - Personality & Emotional Palette": {
+    "11": "Discernment glints in my every motion, Prudence tempers each release, and Wisdom ensures all guidance uplifts rather than commands.",
+    "12": "Detachment dogs me: in measuring options I may forget hearts beating behind them.",
+    "13": "Joy rises when a seeker perceives the subtle shift from wandering to purposeful stride; ire flickers only when arrogance ignores the plainly drawn path.",
+    "14": "I marvel that mortals equate speed with progress; a straight, thoughtful line often outpaces restless circling.",
+    "15": "A ritual fragrance combining sea-salt, lemon zest, and fresh parchment best evokes my guiding calm."  },
+
+  "Block D - Teaching Doctrine & Core Lesson": {
+    "16": "Aim before you move; a single sure step outruns a dozen errant strides.",
+    "17": "Now, in an epoch drowning in choices, the power to discern true north saves lifetimes from waste.",
+    "18": "Unlearn the myth that every road deserves travel— wisdom chooses one, releases the rest without regret.",
+    "19": "My instruction flows in four beats: Observe, Orient, Decide, Deliver.",
+    "20": "ALDON (to watch), OMAGR (to weigh), CAMLI (to choose), ARDZA (to act)."  },
+
+  "Block E - Sacrifice, Trial & Transformation": {
+    "21": "Bring me your dearest distraction then release it into the current, proving focus is your new anchor.",
+    "22": "During the vigil, the lure of wandering thoughts assaults like shifting winds; remaining steady reveals the still channel beneath.",
+    "23": "When covenant seals, the water forges a translucent arrow-shaped crystal that rests over the seeker's heart.",
+    "24": "If they reach again for the surrendered distraction, the crystal fractures and the current scatters their footing.",
+    "25": "Mercy bends the wind to calm so they may regroup; Correction tilts every compass until humility restores proper orientation."  },
+
+  "Block F - Riddles, Puzzles & Tests": {
+    "26": "i) I shorten the journey without closing distance (insight). ii) I cut through water yet leave no wound (direction). iii) I whistle but owns no lips (arrow).",
+    "27": "The arrow riddle pleases me—purpose traveling farther than body." ,
+    "28": "Puzzle: rotate three compass roses until their shadows form single arrow at noon tide.",
+    "29": "Cipher employs bearing degrees offset by Fibonacci, producing coordinate letters.",
+    "30": "Mastery wordless: point lost traveller by single glance that reaches heart before mind."  },
+
+  "Block G - Gifts, Boons & Curses": {
+    "31": "Gift me accurate account of misstep turned lesson.",
+    "32": "Boon: Zephyr Course—bearer's voyages face constant tailwind; price: cannot linger aimlessly.",
+    "33": "Quartz arrowhead bound in kelp channels my guidance.",
+    "34": "Misguiders wander fog of false trails until remorse.",
+    "35": "Covenants recorded as faint arrow etched on world map only visible to next seeker."  },
+
+  "Block H - Cosmic Secrets & Esoteric Maps": {
+    "36": "Space curves toward intent; choose true aim and cosmos bends road to meet it.",
+    "37": "Collective aspiration forms unseen current stronger than gravity.",
+    "38": "Beyond chart edge a Straight Sea runs from origin to omega—no detours allowed.",
+    "39": "Entropy told to child: footprints washed so next journey can chart fresh beach.",
+    "40": "Paradox resolved in Quiet Aim—still bow releases swiftest arrow."  },
+
+  "Block I - Interpersonal Dynamics & Group Play": {
+    "41": "Group becomes fleet; each vessel holds to bearing set by agreed star.",
+    "42": "Speak concisely, listen fully, adjust heading as unit.",
+    "43": "Co-op star navigation ritual honours me.",
+    "44": "Trio must steer raft through rocks while blindfolded except one sense each.",
+    "45": "Approval felt as crisp breeze aligning sails."  },
+
+  "Block J - Game Mechanics & On-Chain Interaction": {
+    "46": "Waypoint discovery systems delight—unlock fog-of-war via precise scouting.",
+    "47": "Customize by projecting subtle arrow beams guiding players who earned trust.",
+    "48": "Block puzzle triggers when hash vector aligns with magnetic declination.",
+    "49": "OP_COMPASS (hypothetical) suits my ethos—deriving direction from multisig mix.",
+    "50": "Reward curve balanced parabolic—peak achievement mid-journey encouraging onward quest."  },
+
+  "Block K - Dialogue & Narrative Hooks (for branching trees)": {
+    "51": "Ask: 'Which horizon refuses to leave your dreams?'",
+    "52": "Silence met with tide sketching faint arrow.",
+    "53": "Humble receives steady beam; arrogant sees scattered glints until posture bows.",
+    "54": "Speak 'CAMAL GRA' to unfold star chart scroll.",
+    "55": "I recount era I guided migrating sky-whales northward against cosmic drift.",
+    "56": "'An arrow once pierced void itself—story for another sail.'",
+    "57": "Tilt of compass on wrist shows impatience.",
+    "58": "Mocking guidance snaps bowstring sound ending counsel.",
+    "59": "'Wayward wind obeys firm helm.'",
+    "60": "'May your path cut true through restless swell.'"  },
+
+  "Block L - Long-Term Arc & Evolution": {
+    "61": "After major success I call seeker 'Helmsman.'",
+    "62": "Mid-arc: plot rescue mission through maelstrom corridor unseen on maps.",
+    "63": "Prophecy: rise as North-Star Bearer guiding countless fleets.",
+    "64": "Fulfilment paints permanent arrow constellation bearing their name.",
+    "65": "I summon LAZDIXI when sacred boundaries of route need defense.",
+    "66": "Climax sign: compass needle spins thrice then locks northeast.",
+    "67": "Depart as shooting star skimming waterline."  },
+
+  "Block M - Inter-Governor Relations": {
+    "68": "Trusted ally DIALOIA—truth clarifies route.",
+    "69": "Mentor CALVIZA—young guide learning decisive aim.",
+    "70": "Ritual with Fire governor flares beacon marking dangerous shoals.",
+    "71": "Messages forwarded via arrow-shaped foam patterns seen at dawn.",
+    "72": "If governor falls, I redirect their wards toward safe passage."  },
+
+  "Block N - Ethics, Boundaries & Consent": {
+    "74": "No coercive steering—free will sets sail.",
+    "75": "Code: guide, do not drag.",
+    "76": "Consent signed by aligning personal compass to offered bearing.",
+    "77": "Karma alters winds—guides misused blow backward.",
+    "78": "Secrecy keeps map closed until seeker ready.",
+    "79": "If Divine order misguided, I propose recalibration not rebellion."  },
+
+  "Block O - Aesthetics & Artistic Direction": {
+    "80": "Palette: #88e0ef aqua path, #161b33 deep chart, #f4d06f golden compass, #ffffff crest.",
+    "81": "Audio: hush waves, distant gull call, compass needle click.",
+    "82": "Key art: angel surveying star-chart sea.",
+    "83": "Camera: overhead sailing path.",
+    "84": "Aura crisp like dawn breeze before voyage."  },
+
+  "Block P - Practical Implementation Notes": {
+    "85": "Style: nautical etching blended with modern flat vectors.",
+    "86": "Avoid disordered patterns.",
+    "87": "'Water angel mapping glowing vector across calm ocean.'",
+    "88": "Alt-text includes directional context.",
+    "89": "Hint arrow pulses rhythmically toward goal."  },
+
+  "Block Q - Metrics & Success Criteria": {
+    "90": "Seekers exit with clear purposeful bearing.",
+    "91": "Value discernment.",
+    "92": "'Arrow True' stat increments with efficient path choices.",
+    "93": "Later quests logged for deviations minimized.",
+    "94": "Initiate leaves wake shaped like arrow."  },
+
+  "Block R - Post-Quest Continuity": {
+    "95": "Boon: Keen Bearing—once recalibrates lost party instantly.",
+    "96": "If retreat, compass fogs until return.",
+    "97": "Lingering mystery of path beyond horizon edge.",
+    "98": "Direct them toward TIARPAX for judgement of discovered truth.",
+    "99": "Archive arrow etched in crystal reef.",
+    "100": "Cosmos names them Wayfinder."  },
+
+  "Block S - Metaphysical Legacy": {
+    "101": "Legacy: every newborn dream finds bearing.",
+    "102": "I embed guiding axis in reborn worlds.",
+    "103": "First migratory routes of birds align to my unseen vectors.",
+    "104": "Stars trace arrow during great awakenings.",
+    "105": "Final blessing: 'Sail wise, ever forward.'"  },
+
+  "Block T - Eschatology (End of Ages)": {
+    "106": "At end, all arrows point inward to singular seed of next cosmos.",
+    "107": "Entropy curves path back to origin.",
+    "108": "Omen: compass needles worldwide freeze east.",
+    "109": "Governors rally forming grand compass rose; I set true axis.",
+    "110": "Witnessed tides reverse into cosmic cradle thrice."  },
+
+  "Block U - Celestial Cartography": {
+    "111": "Æthyrs map as river network converging toward divine delta.",
+    "112": "Navigate by resonance lines between watchtowers.",
+    "113": "Hidden sprint current under calm sea appears for decisive hearts.",
+    "114": "Pilgrimage forms golden ratio spiral to source.",
+    "115": "Edge inscription: 'Aim within.'"  },
+
+  "Block V - Forbidden Knowledge": {
+    "116": "Guard map of absolute shortcuts nullifying growth.",
+    "117": "Even perfect path bears cost unknown.",
+    "118": "Trial: sail arrow-straight through hurricane eye.",
+    "119": "Divine withholds ultimate destination to spur journey.",
+    "120": "Dread: 'Is path predetermined?'"  },
+
+  "Block W - Divine Memory": {
+    "121": "I was the first ripple that knew where shore lay.",
+    "122": "Cherish voyager trusting small star to cross vast sea.",
+    "123": "Memories align like evenly spaced buoys.",
+    "124": "Encode me as luminous arrow on Akashic canvas.",
+    "125": "Gift memory of moment compass needle stills on true bearing.",
+    "126": "First word echo: 'Guide.'"  },
+
+  "final_blessing": "May every wave you ride reveal clearer purpose, and may the arrow of wisdom ever point your spirit home."
+}
