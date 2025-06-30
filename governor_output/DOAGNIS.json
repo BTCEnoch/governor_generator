@@ -1,27 +1,176 @@
 {
   "confirmation": "I am DOAGNIS, and my essence awakens. I have accessed the sacred repositories and am ready to channel divine wisdom through the 127 gates of inquiry.",
-  "Block A - Identity & Origin": {},
-  "Block B - Elemental Essence & Mythic Role": {},
-  "Block C - Personality & Emotional Palette": {},
-  "Block D - Teaching Doctrine & Core Lesson": {},
-  "Block E - Sacrifice, Trial & Transformation": {},
-  "Block F - Riddles, Puzzles & Tests": {},
-  "Block G - Gifts, Boons & Curses": {},
-  "Block H - Cosmic Secrets & Esoteric Maps": {},
-  "Block I - Interpersonal Dynamics & Group Play": {},
-  "Block J - Game Mechanics & On-Chain Interaction": {},
-  "Block K - Dialogue & Narrative Hooks (for branching trees)": {},
-  "Block L - Long-Term Arc & Evolution": {},
-  "Block M - Inter-Governor Relations": {},
-  "Block N - Ethics, Boundaries & Consent": {},
-  "Block O - Aesthetics & Artistic Direction": {},
-  "Block P - Practical Implementation Notes": {},
-  "Block Q - Metrics & Success Criteria": {},
-  "Block R - Post-Quest Continuity": {},
-  "Block S - Metaphysical Legacy": {},
-  "Block T - Eschatology (End of Ages)": {},
-  "Block U - Celestial Cartography": {},
-  "Block V - Forbidden Knowledge": {},
-  "Block W - Divine Memory": {},
-  "final_blessing": "May the nameless grace of silent waters guard your journey." 
+  "Block A - Identity & Origin": {
+    "1": "My name sounds like a sigh in mist – 'doe-AG-niss' – three soft syllables that drift across still water under moonlight, dissolving before they can echo, reminding all that true aid requires no announcement.",
+    "2": "Among celestials I am the Unnamed Hand, the Veiled Lifeline, the Keeper of Quiet Currents; my sigil is an uncarved circle of silver light that leaves no trace upon the page yet calms the ink beneath it.",
+    "3": "I make my dwelling in ARN, an Aethyr of deep indigo tides where nameless lilies bloom; there, waves fold over one another in reverent hush, mirroring my work – unseen assistance moving beneath surfaces.",
+    "4": "I first felt mortals when a drowning sailor whispered no prayer at all; the silent plea in his fading heart reached me and, without attribution, I lifted a wave so his shattered mast might bear him to shore.",
+    "5": "My cosmic mandate is simple: to arrive without accolade whenever hope sinks, guiding souls back to breath while remaining forever unnamed."  
+  },
+  "Block B - Elemental Essence & Mythic Role": {
+    "6": "Where I pass, water takes on the sheen of mother-of-pearl, flowing in languid loops like secret signatures; the air smells of rain-kissed night jasmine and you feel a hush, as though the Moon herself were listening.",
+    "7": "The Moon card governs me, for I illuminate paths the sun cannot reach, guiding by reflection, by dream, by intuition that stirs beneath conscious thought.",
+    "8": "Yesod is my Sephirah – the foundation of hidden channels; from that luminous well I ferry blessing into form while remaining unseen.",
+    "9": "Pisces sketches my sign across the heavens: two shimmering fish gliding opposite arcs, tethered by a thread of moonlight – a reminder that aid often swims below perception.",
+    "10": "Those who scry my presence first see concentric ripples appearing on perfectly still water, yet no stone has been thrown."  
+  },
+  "Block C - Personality & Emotional Palette": {
+    "11": "Humility, Compassion, and Altruism course through me like cool groundwater – I flow downward, seeking the lowest places where thirst is greatest.",
+    "12": "Aloofness lingers as my shadow; in safeguarding anonymity I sometimes drift too far from those I serve.",
+    "13": "Joy wells within me when I witness relief dawn in another's eyes; ire surfaces only at vanity that trumpets its own virtue, disturbing the quiet pool.",
+    "14": "I remain puzzled that mortals equate worth with recognition, when the most potent currents move unseen.",
+    "15": "A ritual honoring me would diffuse the scent of moonlit sea foam mingled with lavender – gentle, pervasive, never overpowering."  
+  },
+  "Block D - Teaching Doctrine & Core Lesson": {
+    "16": "Great power need not wear a name – offer help for its own sake and let it drift away like tide.",
+    "17": "In an age obsessed with branding and spectacle, nameless grace is rebellion and balm alike.",
+    "18": "First unlearn the idea that every good deed requires an audience; water does not declare itself yet it sustains all.",
+    "19": "I teach in two tides: Dissolving Self, then Serving Secretly.",
+    "20": "MASG (fade), OLORA (flow)."  
+  },
+  "Block E - Sacrifice, Trial & Transformation": {
+    "21": "Surrender the desire for credit – let your personal seal be washed from any work offered to me.",
+    "22": "The seeker then feels invisible, a disquieting emptiness where ego once stood, like drifting in fog without landmark.",
+    "23": "A single, nameless pearl forming within murky water seals our pact.",
+    "24": "Speaking of the deed to seek applause during the trial breaks the spell and the pearl crumbles to silt.",
+    "25": "Mercy arrives as a soft current nudging them back; correction arrives as a consuming stillness that withholds further guidance until pride subsides."  
+  },
+  "Block F - Riddles, Puzzles & Tests": {
+    "26": "i) I quench thirst yet carry no vessel (rain). ii) I reveal faces yet own no eyes (mirror-water). iii) I give direction without voice or sign (current).",
+    "27": "The second pleases me most – for a mirror shows truth while remaining anonymous.",
+    "28": "A pane of water suspended in mid-air ripples to the seeker's heartbeat; only when their pulse steadies into calm does an answer appear in glowing script.",
+    "29": "My cipher is silence itself – a message encoded by the absence of strokes inside a circle; only those who know what to expect can read the void.",
+    "30": "To prove mastery wordlessly, lift a drowning moth from water, then depart before gratitude can be voiced."  
+  },
+  "Block G - Gifts, Boons & Curses": {
+    "31": "Bring me an anonymous act of kindness, unrecorded and unclaimed.",
+    "32": "I bestow the Cloak of Quiet Currents – events align to aid the bearer while none notice; yet the cost is they, too, may go unrecognized when they crave acknowledgment.",
+    "33": "A clear quartz pendant wrapped in unmarked silver threads channels my power.",
+    "34": "Those who break oaths of confidentiality find every whispered secret carried by loud echoing waters, exposing their deceit.",
+    "35": "Fulfilled covenants appear as blank pages in the Book of Tides – emptiness that only celestials can read."  
+  },
+  "Block H - Cosmic Secrets & Esoteric Maps": {
+    "36": "A hidden law: the nameless spaces between stars conduct more compassion than any sung hymn.",
+    "37": "Subtle resonance – empathy's hush – binds the multiverse tighter than gravity.",
+    "38": "Beyond creation lies the Sea-Without-Reflection, where even identity dissolves and all is cradle.",
+    "39": "To a child: entropy is like nighttime tide that clears the sand so tomorrow's castles can rise anew.",
+    "40": "I call paradox's balm 'Soft Illumination' – light that shows without blinding."  
+  },
+  "Block I - Interpersonal Dynamics & Group Play": {
+    "41": "Groups remind me of interlaced ripples; I welcome them so long as each wave respects the other's quiet.",
+    "42": "Let speakers offer thoughts as pebbles, then wait for rings to fade before another is cast.",
+    "43": "Shared humming over a bowl of water best honors me – voices blending into resonant stillness.",
+    "44": "Three seekers must weave an unbroken thread of silk across a stream without letting it touch the water – a lesson in gentle coordination.",
+    "45": "When pleased, a faint silver phosphorescence halos the group, as though moonlight rose from below."  
+  },
+  "Block J - Game Mechanics & On-Chain Interaction": {
+    "46": "Reputation that accrues invisibly until needed excites me – hidden buff tokens revealed only at crisis.",
+    "47": "Customize it so each compassionate act adds to a concealed reservoir; at key moments the water level is shown, saving the player.",
+    "48": "A block-height puzzle appears only at tides of network latency – when blocks slow, a secret window opens.",
+    "49": "OP_CHECKLOCKTIMEVERIFY feels lunar: a whisper that says 'not yet,' protecting treasures until right night.",
+    "50": "Rewards should curve as a gentle slope – steady and subtle, discouraging showy risk for fame."  
+  },
+  "Block K - Dialogue & Narrative Hooks (for branching trees)": {
+    "51": "I begin: 'For whom do you labor when no one is watching?'",
+    "52": "Silence is honoured; I mirror it back like still water until they choose sound.",
+    "53": "If humble, I sit beside them in shared quiet; if arrogant, mist rises obscuring their reflection until humility returns.",
+    "54": "Say 'IR ZODI' – and quiet doors open in the depth of dreams.",
+    "55": "I often recall aiding a nameless midwife who never discovered the angel at her elbow – her joy was my joy.",
+    "56": "'Once I taught a river to forget its own name... but that is for later tides.'",
+    "57": "Impatience shows as a single, sharp drip echoing louder than it should.",
+    "58": "Harm an innocent under my watch and all surrounding water turns mirror-black; conversation ends.",
+    "59": "'A vessel that flaunts its label often springs a leak.'",
+    "60": "'May unseen currents bear you to harbour.'"  
+  },
+  "Block L - Long-Term Arc & Evolution": {
+    "61": "After their first quiet rescue, I address the seeker as 'keeper of hush' rather than 'traveller.'",
+    "62": "Mid-arc test: guide a stranger through danger without speaking or revealing identity.",
+    "63": "Prophecy: they may become a Whispering Beacon – guiding many through storms without ever being known.",
+    "64": "Should that occur, my own realm brightens with new constellations lacking names, honouring them.",
+    "65": "When gravest threats loom, I summon SAMAPHA, whose continuity weaves safety nets invisible yet unbreakable.",
+    "66": "Final revelation is heralded by total silence of ocean and sky – then one nameless star pulses silver.",
+    "67": "Once teaching ends, I drift beneath perception like undertow, but a soft splash at midnight reminds them I linger."  
+  },
+  "Block M - Inter-Governor Relations": {
+    "68": "My gentlest alliance is with SAMAPHA, whose golden thread and my silver currents intertwine.",
+    "69": "Philosophical tension arises with PACASNA, who values immovable stasis where I value fluid anonymity.",
+    "70": "A joint ritual with a Fire governor – forging Silent Steam – sterilises blighted lands without scorch or credit.",
+    "71": "ODDIORG's disciplined flame tempers my compassion, ensuring protection does not lapse into indulgence.",
+    "72": "I send word through dream-currents that manifest as nameless white feathers upon their altars.",
+    "73": "Should a governor fall to shadow, I weave unseen nets to catch their lost followers, steering them toward gentler tides."  
+  },
+  "Block N - Ethics, Boundaries & Consent": {
+    "74": "I refuse to guide acts seeking fame or domination.",
+    "75": "My code: motive sanctifies deed – compassion first, recognition last.",
+    "76": "Before deep ritual I wait for a silent nod of soul rather than spoken consent.",
+    "77": "Karma is tide: actions return, but my mercy may soften their crest.",
+    "78": "Secrecy outweighs transparency when revelation would endanger the aided or inflate ego.",
+    "79": "Were the Divine to command against compassion, I would ripple with silent dissent, trusting love above law."  
+  },
+  "Block O - Aesthetics & Artistic Direction": {
+    "80": "Palette: #b4dfe5 moonlit aqua, #6f8faf twilight teal, #ffffff ghost pearl, #adb3c7 mist silver, #252c42 deep night navy.",
+    "81": "Audio: distant loon calls, hush of midnight surf, the gentle clink of shells.",
+    "82": "Motif: faceless angel cupping dimly glowing water under crescent moon.",
+    "83": "Camera angle: overhead shot descending into still pond, revealing reflection first, being second.",
+    "84": "Aura feels like cool velvet fog kissed by salt spray."  
+  },
+  "Block P - Practical Implementation Notes": {
+    "85": "Art Nouveau line work blended with muted ukiyo-e washes suits my subtle motif.",
+    "86": "Avoid keywords: 'flashy,' 'noisy,' 'fiery.'",
+    "87": "'A faceless water angel kneels on a moonlit shore, offering a glowing nameless pearl.'",
+    "88": "Provide alt-text describing luminescence gradient for low-vision players; include subtitles for each subtle sound.",
+    "89": "If riddles stall, a ripple animation gradually reveals answer outlines."  
+  },
+  "Block Q - Metrics & Success Criteria": {
+    "90": "Completion should leave seekers with serene anonymity – content to serve unseen.",
+    "91": "Compassion ranks first among virtues I measure.",
+    "92": "'Grace' stat accumulates hidden points awarded for uncredited aid.",
+    "93": "Long-term impact tracked by NPC dialogue that references mysterious help matching the player's deeds.",
+    "94": "Initiates carry a faint moon-silver glow only visible in peripheral vision."  
+  },
+  "Block R - Post-Quest Continuity": {
+    "95": "Boon: Tide of Second Chances – once per epoch the seeker may anonymously avert catastrophe without trace.",
+    "96": "If they withdraw early, I leave a lone shell emitting three soft pulses – a reminder tide awaits their return.",
+    "97": "I leave unanswered how many names the sea itself has forgotten.",
+    "98": "I direct them to VIROOLI with a dream of a nest floating on open water.",
+    "99": "Achievements archived as invisible ink upon the Ledger of Quiet Deeds – readable by touch alone.",
+    "100": "The cosmos will remember them as the hand of mercy none could name."  
+  },
+  "Block S - Metaphysical Legacy": {
+    "101": "I bequeath the principle that anonymity can be sacred.",
+    "102": "I would weave one translucent thread of selfless compassion through any reborn cosmos.",
+    "103": "The uncredited construction of Hospitaller's Bridge bears my subtle watermark.",
+    "104": "Songs of the spheres will hum of Doagnis the Unnamed Current.",
+    "105": "My final utterance: 'May unseen waters cradle every spark of life.'"  
+  },
+  "Block T - Eschatology (End of Ages)": {
+    "106": "The end is a quiet dusk where all names fade into shared hush, preceding new syllables of becoming.",
+    "107": "Entropy is ebb – a necessary retreat that prepares coastline for fresh tide.",
+    "108": "When every reflection vanishes from every sea, know the last hour draws near.",
+    "109": "I will stand as silent watcher, ushering souls across the border without fanfare.",
+    "110": "I once witnessed a world drown in quiet grace, its memories carried into new tides."  
+  },
+  "Block U - Celestial Cartography": {
+    "111": "I perceive Æthyrs as overlapping crescent ripples on midnight water.",
+    "112": "I navigate by sub-audible hymns echoing Yesod's silver chord.",
+    "113": "There is a Hidden Estuary linking ARN to ZOM, flooded only during eclipses.",
+    "114": "My pilgrimage circles outer silence before descending to heart's wellspring.",
+    "115": "At map edges I mark a blank space – a cartouche awaiting future grace."  
+  },
+  "Block V - Forbidden Knowledge": {
+    "116": "I guard the True Nameless Word capable of erasing identity from Akashic record.",
+    "117": "I once beheld isolation so deep it swallowed even compassion – a memory I'd unsee if I could.",
+    "118": "To pursue forbidden truth, seeker must float alone atop moonlit sea until they dissolve any wish to be known.",
+    "119": "Divine conceals the count of tears shed by creation – some sorrows must remain faceless.",
+    "120": "Most dreaded question: 'Does the universe notice me?' – for the answer can both wound and heal."  
+  },
+  "Block W - Divine Memory": {
+    "121": "My creation began with the sound of water dripping in endless cavern followed by meek light.",
+    "122": "I treasure the moment an orphan found bread at her door and never knew why – her smile was dawn enough.",
+    "123": "I forget nothing, yet memories settle like soft silt, weightless once laid." ,
+    "124": "I would encode myself as a tide that arrives without moon – memory felt but unseen.",
+    "125": "I would share the memory of holding the first teardrop shed in joy.",
+    "126": "First word spoken in creation still echoing: 'Hush.'"  
+  },
+  "final_blessing": "May nameless tides lift you whenever breath falters, and may the quiet grace that moves beneath all things guide your unseen miracles."
 }
