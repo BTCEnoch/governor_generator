@@ -1,0 +1,22 @@
+2025-06-30 20:55:45,809 | INFO | governor_generator | Processing Governor #1 – OCCODON
+2025-06-30 20:55:45,809 | INFO | governor_generator | Downloading https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:55:45,865 | WARNING | governor_generator | Attempt 1 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:55:49,998 | WARNING | governor_generator | Attempt 2 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:55:58,026 | WARNING | governor_generator | Attempt 3 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:55:58,026 | ERROR | governor_generator | Unhandled error processing /workspace/governor_interview_templates/governor_01_occodon_assignment_prompt.md: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+Traceback (most recent call last):
+  File "/workspace/generate_governor_jsons.py", line 221, in main
+    process_governor(template)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/workspace/generate_governor_jsons.py", line 189, in process_governor
+    profiles_text = download_file(GOVERNOR_PROFILE_URL)
+  File "/workspace/generate_governor_jsons.py", line 77, in download_file
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/ubuntu/.local/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:55:58,027 | INFO | governor_generator | Skipping PASCOMB (output already exists)
+2025-06-30 20:55:58,027 | INFO | governor_generator | Processing Governor #3 – VALGARS
+2025-06-30 20:55:58,027 | INFO | governor_generator | Downloading https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
+2025-06-30 20:55:58,067 | WARNING | governor_generator | Attempt 1 to fetch https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json failed: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json
