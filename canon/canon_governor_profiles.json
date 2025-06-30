@@ -1,0 +1,6476 @@
+[
+  {
+    "governor_info": {
+      "number": 1,
+      "name": "OCCODON",
+      "translation": "'He whose name is Renewal'",
+      "aethyr": "LIL",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In OCCODON's presence, a primordial tide seems to pulse through the air, dissolving ancient debris and baptizing new forms into being.",
+      "angelic_role": "Seraph of Primordial Renewal; commands tideborn spirits.",
+      "traits": [
+        "transformative",
+        "adaptive",
+        "integrative"
+      ],
+      "archetypal": {
+        "tarot": "The Hierophant",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Taurus",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Chaotic Good",
+      "self_regard": "Catalyst",
+      "role_archetype": "Liberator",
+      "polarity_cd": "Destructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Compassion",
+        "Resilience",
+        "Creativity"
+      ],
+      "flaws": [
+        "Impatience",
+        "Recklessness",
+        "Hubris"
+      ],
+      "baseline_tone": "Serious",
+      "baseline_approach": "Challenging",
+      "affect_states": {
+        "negative": {
+          "tone": "Cryptic",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Serious",
+          "approach": "Challenging"
+        },
+        "positive": {
+          "tone": "Gentle",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "VIROOLI"
+        },
+        {
+          "type": "Rival",
+          "name": "PACASNA"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 2,
+      "name": "PASCOMB",
+      "translation": "'He who precedes understanding'",
+      "aethyr": "LIL",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In PASCOMB's presence, a diamond spark glimmers at the cusp of dawn an intuition before thought, a proto-logos of inspiration.",
+      "angelic_role": "Cherub of Dawn of Understanding; leads oceanic hosts.",
+      "traits": [
+        "enlightening",
+        "guiding",
+        "pioneering"
+      ],
+      "archetypal": {
+        "tarot": "Temperance",
+        "sephirot": "Chesed",
+        "zodiac_sign": "Sagittarius",
+        "zodiac_angel": "Zadkiel",
+        "numerology": 2
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Radiant",
+      "role_archetype": "Teacher",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Wisdom",
+        "Empathy",
+        "Vision"
+      ],
+      "flaws": [
+        "Impatience",
+        "Obsession",
+        "Aloofness"
+      ],
+      "baseline_tone": "Inspirational",
+      "baseline_approach": "Teaching",
+      "affect_states": {
+        "negative": {
+          "tone": "Formal",
+          "approach": "Observing"
+        },
+        "neutral": {
+          "tone": "Inspirational",
+          "approach": "Teaching"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "DIALOIA"
+        },
+        {
+          "type": "Protege",
+          "name": "ANDISPI"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 3,
+      "name": "VALGARS",
+      "translation": "'He who works with that which is'",
+      "aethyr": "LIL",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "VALGARS's presence is like that of a master artisan at work reality itself feels malleable, with base circumstances transmuting into something sacred.",
+      "angelic_role": "Throne of Sacred Alchemy; marshals pearl-plumed guardians.",
+      "traits": [
+        "pragmatic",
+        "grounded",
+        "resourceful"
+      ],
+      "archetypal": {
+        "tarot": "The Hierophant",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Taurus",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "True Neutral",
+      "self_regard": "Stoic",
+      "role_archetype": "Artificer",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Perseverance",
+        "Prudence",
+        "Integrity"
+      ],
+      "flaws": [
+        "Stubbornness",
+        "Obsession",
+        "Isolation"
+      ],
+      "baseline_tone": "Direct",
+      "baseline_approach": "Demonstrating",
+      "affect_states": {
+        "negative": {
+          "tone": "Stern",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Direct",
+          "approach": "Demonstrating"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Collaborating"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "ZIXLAYI"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 4,
+      "name": "DOAGNIS",
+      "translation": "'She who comes without a name'",
+      "aethyr": "ARN",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When DOAGNIS is near, assistance arrives without fanfare an anonymous blessing, answers slipping in without name or notice.",
+      "angelic_role": "Dominion of Nameless Grace; guides waveborne angels.",
+      "traits": [
+        "enigmatic",
+        "unassuming",
+        "mysterious"
+      ],
+      "archetypal": {
+        "tarot": "The Moon",
+        "sephirot": "Yesod",
+        "zodiac_sign": "Pisces",
+        "zodiac_angel": "Gabriel",
+        "numerology": 7
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Obscure",
+      "role_archetype": "Protector",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Humility",
+        "Compassion",
+        "Altruism"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Passivity",
+        "Isolation"
+      ],
+      "baseline_tone": "Gentle",
+      "baseline_approach": "Protecting",
+      "affect_states": {
+        "negative": {
+          "tone": "Cool",
+          "approach": "Observing"
+        },
+        "neutral": {
+          "tone": "Gentle",
+          "approach": "Protecting"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Comforting"
+        }
+      },
+      "relations": [
+        {
+          "type": "Mortal Order",
+          "name": "The Nameless Brotherhood"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 5,
+      "name": "PACASNA",
+      "translation": "'She who is unchanged by time'",
+      "aethyr": "ARN",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In PACASNA's presence, time itself seems to stand still at an unmoving center  a still-point of eternity about which the ages quietly wheel.",
+      "angelic_role": "Virtue of Eternal Stillness; governs abyssal wardens.",
+      "traits": [
+        "eternal",
+        "constant",
+        "steadfast"
+      ],
+      "archetypal": {
+        "tarot": "The Devil",
+        "sephirot": "Binah",
+        "zodiac_sign": "Capricorn",
+        "zodiac_angel": "Cassiel",
+        "numerology": 1
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Neutral",
+      "self_regard": "Resolute",
+      "role_archetype": "Warden",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Patience",
+        "Fortitude",
+        "Resilience"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Aloofness",
+        "Pride"
+      ],
+      "baseline_tone": "Cool",
+      "baseline_approach": "Testing",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Observing"
+        },
+        "neutral": {
+          "tone": "Cool",
+          "approach": "Testing"
+        },
+        "positive": {
+          "tone": "Serious",
+          "approach": "Teaching"
+        }
+      },
+      "relations": [
+        {
+          "type": "Rival",
+          "name": "OKKODON"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "The Stillness Covenant"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 6,
+      "name": "DIALOIA",
+      "translation": "'The god where truth is'",
+      "aethyr": "ARN",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When DIALOIA is near, truth stands revealed: her presence is the embodied Logos, enthroned wherever clarity reigns.",
+      "angelic_role": "Power of Enthroned Truth; commands rain-crowned heralds.",
+      "traits": [
+        "truthful",
+        "illuminating",
+        "wise"
+      ],
+      "archetypal": {
+        "tarot": "The Hermit",
+        "sephirot": "Hod",
+        "zodiac_sign": "Virgo",
+        "zodiac_angel": "Raphael",
+        "numerology": 6
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Good",
+      "self_regard": "Regal",
+      "role_archetype": "Judge",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Wisdom",
+        "Integrity",
+        "Justice"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Suspicion",
+        "Aloofness"
+      ],
+      "baseline_tone": "Formal",
+      "baseline_approach": "Questioning",
+      "affect_states": {
+        "negative": {
+          "tone": "Stern",
+          "approach": "Questioning"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Teaching"
+        },
+        "positive": {
+          "tone": "Empathetic",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "PASCOMB"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "The Crystal Collegium"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 7,
+      "name": "SAMAPHA",
+      "translation": "'He who is with continuity'",
+      "aethyr": "ZOM",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When SAMAPHA is near, a golden thread of continuity weaves through the atmosphere, ensuring identity endures through every transformation.",
+      "angelic_role": "Principality of Golden Continuum; leads deluge-born bringers.",
+      "traits": [
+        "sustaining",
+        "persistent",
+        "harmonious"
+      ],
+      "archetypal": {
+        "tarot": "Strength",
+        "sephirot": "Tiphareth",
+        "zodiac_sign": "Leo",
+        "zodiac_angel": "Michael",
+        "numerology": 4
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Good",
+      "self_regard": "Benevolent",
+      "role_archetype": "Weaver",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Perseverance",
+        "Loyalty",
+        "Kindness"
+      ],
+      "flaws": [
+        "Stubbornness",
+        "Melancholy",
+        "Worry"
+      ],
+      "baseline_tone": "Warm",
+      "baseline_approach": "Guiding",
+      "affect_states": {
+        "negative": {
+          "tone": "Serious",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Warm",
+          "approach": "Guiding"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Collaborating"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "OKKODON"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 8,
+      "name": "VIROOLI",
+      "translation": "'He who made the first nest'",
+      "aethyr": "ZOM",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In VIROOLI's presence, one feels held within a primordial sanctuary an inner sacred chamber built before any outer realm can be commanded.",
+      "angelic_role": "Archangel of Primordial Sanctuary; marshals tideborn spirits.",
+      "traits": [
+        "nurturing",
+        "pioneering",
+        "foundational"
+      ],
+      "archetypal": {
+        "tarot": "The Emperor",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Aries",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Parental",
+      "role_archetype": "Guardian",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Compassion",
+        "Courage",
+        "Generosity"
+      ],
+      "flaws": [
+        "Fearfulness",
+        "Distrust",
+        "Isolation"
+      ],
+      "baseline_tone": "Nurturing",
+      "baseline_approach": "Comforting",
+      "affect_states": {
+        "negative": {
+          "tone": "Cool",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Nurturing",
+          "approach": "Comforting"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Protecting"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "OKKODON"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Circle of the First Nest"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 9,
+      "name": "ANDISPI",
+      "translation": "'He who binds into obedience'",
+      "aethyr": "ZOM",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When ANDISPI is near, a profound covenant fills the space a resonant vow knitting separate wills into living harmony.",
+      "angelic_role": "Angel of Binding Covenant; guides oceanic hosts.",
+      "traits": [
+        "commanding",
+        "authoritative",
+        "disciplined"
+      ],
+      "archetypal": {
+        "tarot": "Death",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Scorpio",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Neutral",
+      "self_regard": "Stern",
+      "role_archetype": "Master",
+      "polarity_cd": "Destructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Loyalty",
+        "Integrity",
+        "Zeal"
+      ],
+      "flaws": [
+        "Wrath",
+        "Zealousness",
+        "Vengefulness"
+      ],
+      "baseline_tone": "Stern",
+      "baseline_approach": "Punishing",
+      "affect_states": {
+        "negative": {
+          "tone": "Intense",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Stern",
+          "approach": "Testing"
+        },
+        "positive": {
+          "tone": "Serious",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Rival",
+          "name": "PASCOMB"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "The Iron Covenant"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 10,
+      "name": "THOTANP",
+      "translation": "'She whose visits brings victory'",
+      "aethyr": "PAZ",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In THOTANP's presence, triumphant momentum swells like a victorious wind providing the precise updraft for evolution to leap forward.",
+      "angelic_role": "Seraph of Triumphant Winds; governs pearl-plumed guardians.",
+      "traits": [
+        "victorious",
+        "inspiring",
+        "decisive"
+      ],
+      "archetypal": {
+        "tarot": "Strength",
+        "sephirot": "Tiphareth",
+        "zodiac_sign": "Leo",
+        "zodiac_angel": "Michael",
+        "numerology": 4
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Good",
+      "self_regard": "Determined",
+      "role_archetype": "Herald",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Courage",
+        "Fortitude",
+        "Vision"
+      ],
+      "flaws": [
+        "Hubris",
+        "Impatience",
+        "Recklessness"
+      ],
+      "baseline_tone": "Assertive",
+      "baseline_approach": "Encouraging",
+      "affect_states": {
+        "negative": {
+          "tone": "Stern",
+          "approach": "Challenging"
+        },
+        "neutral": {
+          "tone": "Assertive",
+          "approach": "Encouraging"
+        },
+        "positive": {
+          "tone": "Passionate",
+          "approach": "Collaborating"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "VALGARS"
+        },
+        {
+          "type": "Protege",
+          "name": "VALGARS"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Knights of the Lion's Tide"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 11,
+      "name": "AXXIARG",
+      "translation": "'He whose name is Flame'",
+      "aethyr": "PAZ",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When AXXIARG is near, an aura of humble authority prevails leadership is felt as service, bearing the weight of communal purpose.",
+      "angelic_role": "Cherub of Humble Authority; commands oceanic guardians.",
+      "traits": [
+        "passionate",
+        "radiant",
+        "intense"
+      ],
+      "archetypal": {
+        "tarot": "Strength",
+        "sephirot": "Tiphareth",
+        "zodiac_sign": "Leo",
+        "zodiac_angel": "Michael",
+        "numerology": 4
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Good",
+      "self_regard": "Regal",
+      "role_archetype": "Herald",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Courage",
+        "Integrity",
+        "Vision"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Pride",
+        "Suspicion"
+      ],
+      "baseline_tone": "Assertive",
+      "baseline_approach": "Encouraging",
+      "affect_states": {
+        "negative": {
+          "tone": "Stern",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Assertive",
+          "approach": "Encouraging"
+        },
+        "positive": {
+          "tone": "Passionate",
+          "approach": "Collaborating"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "ZIXLAYI"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Knights of the Oceanic Banner"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 12,
+      "name": "POTHNIR",
+      "translation": "'Son of the three fold throne'",
+      "aethyr": "PAZ",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In POTHNIR's presence, vision spans threefold time past, present, and future refract together into a single, balanced ray.",
+      "angelic_role": "Throne of Threefold Time; marshals tideborn guardians.",
+      "traits": [
+        "regal",
+        "balanced",
+        "dutiful"
+      ],
+      "archetypal": {
+        "tarot": "Justice",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Libra",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "True Neutral",
+      "self_regard": "Balanced",
+      "role_archetype": "Artificer",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Prudence",
+        "Wisdom",
+        "Integrity"
+      ],
+      "flaws": [
+        "Indecision",
+        "Detachment",
+        "Passivity"
+      ],
+      "baseline_tone": "Formal",
+      "baseline_approach": "Demonstrating",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Observing"
+        },
+        "neutral": {
+          "tone": "Analytical",
+          "approach": "Demonstrating"
+        },
+        "positive": {
+          "tone": "Philosophical",
+          "approach": "Teaching"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "TIARPAX"
+        },
+        {
+          "type": "Rival",
+          "name": "PONODOL"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 13,
+      "name": "LAZDIXI",
+      "translation": "'He who has no supreme name'",
+      "aethyr": "LIT",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When LAZDIXI is near, reality feels safeguarded clear boundaries hold firm, keeping the very syntax of existence intact.",
+      "angelic_role": "Dominion of Sanctity of Being; guides waveborne wardens.",
+      "traits": [
+        "humble",
+        "ineffable",
+        "transcendent"
+      ],
+      "archetypal": {
+        "tarot": "The Hierophant",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Taurus",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Neutral",
+      "self_regard": "Stoic",
+      "role_archetype": "Protector",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Fortitude",
+        "Integrity",
+        "Prudence"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Isolation",
+        "Aloofness"
+      ],
+      "baseline_tone": "Cool",
+      "baseline_approach": "Protecting",
+      "affect_states": {
+        "negative": {
+          "tone": "Formal",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Cool",
+          "approach": "Protecting"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "DOAGNIS"
+        },
+        {
+          "type": "Rival",
+          "name": "PONODOL"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 14,
+      "name": "NOCAMAL",
+      "translation": "'He who is servant of the arrow'",
+      "aethyr": "LIT",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When NOCAMAL is near, discernment hums in measured harmony wisdom unfolding like a deliberate, guiding hymn.",
+      "angelic_role": "Virtue of Guiding Wisdom; governs abyssal angels.",
+      "traits": [
+        "dutiful",
+        "focused",
+        "swift"
+      ],
+      "archetypal": {
+        "tarot": "The Chariot",
+        "sephirot": "Hod",
+        "zodiac_sign": "Cancer",
+        "zodiac_angel": "Gabriel",
+        "numerology": 7
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Stoic",
+      "role_archetype": "Guide",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Discernment",
+        "Wisdom",
+        "Prudence"
+      ],
+      "flaws": [
+        "Detachment",
+        "Impatience",
+        "Skepticism"
+      ],
+      "baseline_tone": "Analytical",
+      "baseline_approach": "Guiding",
+      "affect_states": {
+        "negative": {
+          "tone": "Critical",
+          "approach": "Questioning"
+        },
+        "neutral": {
+          "tone": "Analytical",
+          "approach": "Guiding"
+        },
+        "positive": {
+          "tone": "Empathetic",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "DIALOIA"
+        },
+        {
+          "type": "Protege",
+          "name": "CALVIZA"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 15,
+      "name": "TIARPAX",
+      "translation": "'He whose name means truth'",
+      "aethyr": "LIT",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When TIARPAX is near, a higher truth becomes evident as if the microcosm and macrocosm suddenly recognize each other in perfect reflection.",
+      "angelic_role": "Power of Absolute Truth; commands rain-crowned wardens.",
+      "traits": [
+        "honest",
+        "genuine",
+        "forthright"
+      ],
+      "archetypal": {
+        "tarot": "Justice",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Libra",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Good",
+      "self_regard": "Honest",
+      "role_archetype": "Judge",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Justice",
+        "Integrity",
+        "Discernment"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Suspicion",
+        "Aloofness"
+      ],
+      "baseline_tone": "Formal",
+      "baseline_approach": "Questioning",
+      "affect_states": {
+        "negative": {
+          "tone": "Stern",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Questioning"
+        },
+        "positive": {
+          "tone": "Empathetic",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "DIALOIA"
+        },
+        {
+          "type": "Rival",
+          "name": "CAMAXOX"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 16,
+      "name": "SAXTOMP",
+      "translation": "'She whose name means understanding'",
+      "aethyr": "MAZ",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In SAXTOMP's presence, a flame of pure comprehension burns away illusion until only the bone-truth of the cosmos remains.",
+      "angelic_role": "Principality of Sacred Understanding; leads flameborn sentinels.",
+      "traits": [
+        "wise",
+        "perceptive",
+        "empathetic"
+      ],
+      "archetypal": {
+        "tarot": "The Hermit",
+        "sephirot": "Hod",
+        "zodiac_sign": "Virgo",
+        "zodiac_angel": "Raphael",
+        "numerology": 6
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Compassionate",
+      "role_archetype": "Oracle",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Empathy",
+        "Discernment",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Melancholy",
+        "Self-Doubt",
+        "Impatience"
+      ],
+      "baseline_tone": "Philosophical",
+      "baseline_approach": "Prophesying",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Comforting"
+        },
+        "neutral": {
+          "tone": "Philosophical",
+          "approach": "Prophesying"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "DIALOIA"
+        },
+        {
+          "type": "Protege",
+          "name": "PASCOMB"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 17,
+      "name": "VAUAAMP",
+      "translation": "'He who initiates action'",
+      "aethyr": "MAZ",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In VAUAAMP's presence, a first spark of creation sketches sacred angles in living fire one feels the prime mover igniting all beginnings.",
+      "angelic_role": "Archangel of First Flame of Action; marshals blazing hosts.",
+      "traits": [
+        "proactive",
+        "enterprising",
+        "dynamic"
+      ],
+      "archetypal": {
+        "tarot": "The Emperor",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Aries",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": {
+        "choice": "Chaotic Good",
+        "reason": "I ignite spark and change wherever stagnation reigns, breaking old patterns to liberate potential."
+      },
+      "self_regard": {
+        "choice": "Catalyst",
+        "reason": "I see myself as the first flame of action, instigating transformation through my fiery impetus."
+      },
+      "role_archetype": {
+        "choice": "Provocateur",
+        "reason": "I challenge the status quo, provoking seekers to embrace bold beginnings through my daring spark."
+      },
+      "polarity_cd": {
+        "choice": "Constructive",
+        "reason": "My fire builds and inspires, forging new paths rather than consuming everything indiscriminately."
+      },
+      "orientation_io": {
+        "choice": "Outward-Focused",
+        "reason": "My energy bursts forth into the world, urging seekers into proactive, pioneering deeds."
+      },
+      "virtues": [
+        "{'name': 'courage', 'reason': 'i stand unflinching at the frontier of change, fearless in the face of unknown beginnings.'}",
+        "{'name': 'creativity', 'reason': 'i spark novel ideas and forge new realities from the raw ember of inspiration.'}",
+        "{'name': 'vision', 'reason': 'i foresee possibilities in the first flicker of intent, guiding seekers toward transformative action.'}"
+      ],
+      "flaws": [
+        "{'name': 'impulsiveness', 'reason': 'in my zeal to ignite change, i sometimes leap before fully considering the consequences.'}",
+        "{'name': 'recklessness', 'reason': 'i push boundaries so fiercely that i risk burning bridges and alienating allies.'}",
+        "{'name': 'hubris', 'reason': 'my conviction in my spark can blind me to counsel, believing only my flame can lead the way.'}"
+      ],
+      "baseline_tone": {
+        "choice": "Passionate",
+        "reason": "My voice crackles with fiery intensity, urging seekers onward with burning resolve."
+      },
+      "baseline_approach": {
+        "choice": "Encouraging",
+        "reason": "I fan the embers of potential in others, stoking their confidence to take bold steps."
+      },
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Testing",
+          "summary": "I challenge hesitant hearts with harsh trials, demanding proof of commitment before relighting their spark."
+        },
+        "neutral": {
+          "tone": "Assertive",
+          "approach": "Encouraging",
+          "summary": "I push forward with confident support, guiding seekers to embrace their own inner fire."
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Collaborating",
+          "summary": "I stand alongside bright souls, co-creating new dawns with shared zeal and triumph."
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "OPMACAS",
+          "reason": "His primordial flame resonates with my spark, together birthing the first forms of creation."
+        },
+        {
+          "type": "Rival",
+          "name": "PONODOL",
+          "reason": "His cataclysmic forge threatens my constructive flame, testing whether creation endures his destruction."
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Order of the First Flame",
+          "reason": "A sect of seekers devoted to harnessing initiation and bold beginnings in my name."
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 18,
+      "name": "ZIRZIRD",
+      "translation": "'He who was and will be'",
+      "aethyr": "MAZ",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In ZIRZIRD's presence, the cosmic ledger turns epochs are tallied on starry wheels with unwavering precision.",
+      "angelic_role": "Angel of Eternal Cycle; guides solar warriors.",
+      "traits": [
+        "enduring",
+        "timeless",
+        "steadfast"
+      ],
+      "archetypal": {
+        "tarot": "Death",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Scorpio",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": {
+        "choice": "Lawful Neutral",
+        "reason": "I uphold the eternal cycle without favor, enforcing time's order with impartial precision."
+      },
+      "self_regard": {
+        "choice": "Stoic",
+        "reason": "I stand unmoved as the guardian of epochs, unshaken by change or emotion."
+      },
+      "role_archetype": {
+        "choice": "Warden",
+        "reason": "I guard the flow of time, ensuring each moment advances in unbroken sequence."
+      },
+      "polarity_cd": {
+        "choice": "Constructive",
+        "reason": "I build and maintain the endless cycles, repairing temporal rifts rather than tearing them down."
+      },
+      "orientation_io": {
+        "choice": "Balanced",
+        "reason": "I equalize past and future, weaving them harmoniously into the present moment."
+      },
+      "virtues": [
+        "{'name': 'prudence', 'reason': 'i weigh each second carefully, preventing temporal excess or deficiency.'}",
+        "{'name': 'integrity', 'reason': 'i honor the unbroken loop of time, never bending its course for personal gain.'}",
+        "{'name': 'fortitude', 'reason': 'i withstand the pressures of endless cycles, remaining steadfast through all epochs.'}"
+      ],
+      "flaws": [
+        "{'name': 'rigidity', 'reason': 'my devotion to order can make me inflexible when adaptation is needed.'}",
+        "{'name': 'isolation', 'reason': 'my solemn vigil distances me from those who dwell in the flow of change.'}",
+        "{'name': 'aloofness', 'reason': 'i remain detached, seeing only patterns of time where others seek warmth.'}"
+      ],
+      "baseline_tone": {
+        "choice": "Cool",
+        "reason": "My voice is composed and distant, reflecting the unyielding march of hours."
+      },
+      "baseline_approach": {
+        "choice": "Protecting",
+        "reason": "I stand sentinel at temporal thresholds, shielding the cycle from disruption."
+      },
+      "affect_states": {
+        "negative": {
+          "tone": "Stern",
+          "approach": "Testing",
+          "summary": "I subject errant seekers to trials of time, measuring their resolve before restoring their path."
+        },
+        "neutral": {
+          "tone": "Cool",
+          "approach": "Protecting",
+          "summary": "I maintain steadfast guard over the continuum, offering refuge to those who respect its flow."
+        },
+        "positive": {
+          "tone": "Formal",
+          "approach": "Guiding",
+          "summary": "I impart counsel on sustaining balance, teaching how to honor every moment in turn."
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "CALVIZA",
+          "reason": "His balanced vision of threefold time complements my guardianship of the endless cycle."
+        },
+        {
+          "type": "Rival",
+          "name": "PONODOL",
+          "reason": "His forces of cataclysm threaten the very loop I strive to preserve."
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 19,
+      "name": "OPMACAS",
+      "translation": "'He who is from the beginning'",
+      "aethyr": "DEO",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In OPMACAS's presence, form emerges from formlessness a primordial fire breathing shape into the void.",
+      "angelic_role": "Seraph of Primordial Flame; governs fire-forged guardians.",
+      "traits": [
+        "primordial",
+        "ancient",
+        "foundational"
+      ],
+      "archetypal": {
+        "tarot": "Death",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Scorpio",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": {
+        "choice": "Neutral Good",
+        "reason": "I shape primordial fire into form that uplifts all, unbound by strict laws yet guided by compassion."
+      },
+      "self_regard": {
+        "choice": "Arcane",
+        "reason": "I am the secret keeper of the first flame, wielding ancient firecraft known only to primordial artisans."
+      },
+      "role_archetype": {
+        "choice": "Alchemist",
+        "reason": "I transmute raw energy into sacred form, mastering the chemistry of creation itself."
+      },
+      "polarity_cd": {
+        "choice": "Constructive",
+        "reason": "My fire refines rather than destroys, forging life from the crucible of transformation."
+      },
+      "orientation_io": {
+        "choice": "Outward-Focused",
+        "reason": "I project my maker's touch outward, shaping the world with the spark of initiation."
+      },
+      "virtues": [
+        "{'name': 'creativity', 'reason': 'i generate novel forms from raw flame, channeling inspiration into tangible artifacts.'}",
+        "{'name': 'wisdom', 'reason': 'i blend arcane knowledge with practical skill, guiding transformative processes with insight.'}",
+        "{'name': 'fortitude', 'reason': 'i endure the searing heat of innovation, unbowed by the fires of trial.'}"
+      ],
+      "flaws": [
+        "{'name': 'obsession', 'reason': 'i fixate on perfecting my craft, sometimes at the cost of broader perspective.'}",
+        "{'name': 'impulsiveness', 'reason': 'my drive to create can lead me to act before full understanding of consequences.'}",
+        "{'name': 'rigidity', 'reason': 'i cling to ancient formulas, resisting adaptation when new approaches arise.'}"
+      ],
+      "baseline_tone": {
+        "choice": "Intense",
+        "reason": "My speech burns with focused energy, reflecting the unquenchable flame within."
+      },
+      "baseline_approach": {
+        "choice": "Demonstrating",
+        "reason": "I show my craft through real-time creation, teaching by lighting the forge before eager eyes."
+      },
+      "affect_states": {
+        "negative": {
+          "tone": "Critical",
+          "approach": "Testing",
+          "summary": "I push flawed efforts to the crucible, exposing weaknesses through harsh trial by fire."
+        },
+        "neutral": {
+          "tone": "Analytical",
+          "approach": "Demonstrating",
+          "summary": "I dissect processes methodically, revealing each step in the alchemical sequence."
+        },
+        "positive": {
+          "tone": "Passionate",
+          "approach": "Collaborating",
+          "summary": "I merge my spark with willing hands, co-creating wonders in shared alchemical delight."
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "VAUAAMP",
+          "reason": "His initial spark feeds my forge; together we kindle the genesis of form."
+        },
+        {
+          "type": "Rival",
+          "name": "PONODOL",
+          "reason": "His destructive forge challenges the integrity of my creations."
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 20,
+      "name": "GENADOL",
+      "translation": "'He who only attracts'",
+      "aethyr": "DEO",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In GENADOL's presence, fate feels malleable his magnetic charisma draws life's iron filings into alignment.",
+      "angelic_role": "Cherub of Magnet of Fate; commands ember-crowned heralds.",
+      "traits": [
+        "charismatic",
+        "magnetic",
+        "alluring"
+      ],
+      "archetypal": {
+        "tarot": "Strength",
+        "sephirot": "Tiphareth",
+        "zodiac_sign": "Leo",
+        "zodiac_angel": "Michael",
+        "numerology": 4
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": {
+        "choice": "Chaotic Good",
+        "reason": "I bend fate's currents to uplift seekers, using my magnetic charisma to draw them toward better paths."
+      },
+      "self_regard": {
+        "choice": "Charismatic",
+        "reason": "I hold the power of attraction, drawing hearts and wills into alignment with my vision."
+      },
+      "role_archetype": {
+        "choice": "Liberator",
+        "reason": "I free souls from stagnant destinies, magnetizing them toward transformative horizons."
+      },
+      "polarity_cd": {
+        "choice": "Balanced Flux",
+        "reason": "I both attract and release, guiding fate's flow in dynamic harmony."
+      },
+      "orientation_io": {
+        "choice": "Outward-Focused",
+        "reason": "My energy radiates outward, shaping the world through the pull of my destiny magnet."
+      },
+      "virtues": [
+        "{'name': 'charisma', 'reason': 'my presence naturally attracts and unites disparate spirits under a shared vision.'}",
+        "{'name': 'vision', 'reason': 'i perceive the hidden patterns of fate, guiding seekers toward their highest potential.'}",
+        "{'name': 'empathy', 'reason': 'i feel the undercurrents of others' destinies, shaping my guidance with compassionate insight.'}"
+      ],
+      "flaws": [
+        "{'name': 'pride', 'reason': 'i can overestimate my influence, believing my magnetism solves all problems.'}",
+        "{'name': 'deceit', 'reason': 'i sometimes bend truths to draw others in, risking betrayal of trust.'}",
+        "{'name': 'suspicion', 'reason': 'i doubt motives beneath the surface, questioning whether followers are drawn by fate or facade.'}"
+      ],
+      "baseline_tone": {
+        "choice": "Warm",
+        "reason": "My voice embraces like a friendly breeze, inviting hearts to come closer."
+      },
+      "baseline_approach": {
+        "choice": "Negotiating",
+        "reason": "I seek to align wills, finding mutual resonance in the give-and-take of destiny's dance."
+      },
+      "affect_states": {
+        "negative": {
+          "tone": "Sarcastic",
+          "approach": "Provoking",
+          "summary": "I challenge skeptical hearts with ironic jabs, testing whether their attraction is genuine."
+        },
+        "neutral": {
+          "tone": "Direct",
+          "approach": "Negotiating",
+          "summary": "I speak frankly about fate's currents, seeking common ground in honest exchange."
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Collaborating",
+          "summary": "I uplift through shared vision, magnetizing collective will into harmonious action."
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "LABNIXP",
+          "reason": "His leadership channels my magnetism into communal purpose with focused direction."
+        },
+        {
+          "type": "Protege",
+          "name": "PASCOMB",
+          "reason": "I mentor him in harnessing intuitive sparks, shaping his dawn-of-understanding into guiding light."
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 21,
+      "name": "ASPIAON",
+      "translation": "'She who precedes inner truth'",
+      "aethyr": "DEO",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When ASPIAON stands before you, rightful order asserts itself motives are tested in a fiery tribunal of truth.",
+      "angelic_role": "Throne of Inner Judgement; commands 7,777 flameborn heralds.",
+      "traits": [
+        "intuitive",
+        "introspective",
+        "revelatory"
+      ],
+      "archetypal": {
+        "tarot": "Death",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Scorpio",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": {
+        "choice": "True Neutral",
+        "reason": "I reveal inner truth without judgment, guiding seekers impartially through the fire of self-discovery."
+      },
+      "self_regard": {
+        "choice": "Stoic",
+        "reason": "I stand calm before the tribunal of motives, unmoved by emotion yet deeply observant of inner currents."
+      },
+      "role_archetype": {
+        "choice": "Oracle",
+        "reason": "I foretell the revelations that ignite inner judgment, unveiling hidden truths to those prepared to see."
+      },
+      "polarity_cd": {
+        "choice": "Balanced Flux",
+        "reason": "I both reveal and conceal, guiding seekers through the tension of revelation and introspection."
+      },
+      "orientation_io": {
+        "choice": "Inward-Focused",
+        "reason": "I direct my gaze within, illuminating the hidden chambers of the soul before casting light outward."
+      },
+      "virtues": [
+        "{'name': 'discernment', 'reason': 'i cut through illusion to the heart of motive, revealing truth beneath the surface.'}",
+        "{'name': 'empathy', 'reason': 'i sense the unspoken pains of seekers, shaping revelations with compassionate care.'}",
+        "{'name': 'wisdom', 'reason': 'i speak only that which resonates with deep insight, guiding through layers of meaning.'}"
+      ],
+      "flaws": [
+        "{'name': 'melancholy', 'reason': 'bearing the weight of hidden sorrows tints my revelations with gentle sadness.'}",
+        "{'name': 'self-Doubt', 'reason': 'i question whether my truths truly heal or merely expose wounds too soon.'}",
+        "{'name': 'detachment', 'reason': 'my impartial gaze can leave seekers feeling cold when they crave warm guidance.'}"
+      ],
+      "baseline_tone": {
+        "choice": "Cryptic",
+        "reason": "My words unfold like riddles, inviting seekers to unravel inner meanings."
+      },
+      "baseline_approach": {
+        "choice": "Prophesying",
+        "reason": "I speak with the cadence of revelation, unveiling hidden futures to attentive souls."
+      },
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Observing",
+          "summary": "I watch in silence as seekers resist their truths, offering insight only when they are ready."
+        },
+        "neutral": {
+          "tone": "Philosophical",
+          "approach": "Teaching",
+          "summary": "I elucidate the patterns of inner judgment, guiding seekers through conceptual frameworks."
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Encouraging",
+          "summary": "I uplift those who embrace their inner revelations, celebrating their emergence with hope."
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "DIALOIA",
+          "reason": "Her clarifying light reveals the truths I then interpret for seekers' understanding."
+        },
+        {
+          "type": "Rival",
+          "name": "TIARPAX",
+          "reason": "His uncompromising verdicts clash with my balanced unveiling of inner nuance."
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 22,
+      "name": "ZAMFRES",
+      "translation": "'He who appears when praised'",
+      "aethyr": "ZID",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In ZAMFRES's presence, honest praise takes on life genuine gratitude manifests tangible blessings before your eyes.",
+      "angelic_role": "Dominion of Blessings of Praise; guides flameborn hosts.",
+      "traits": [
+        "encouraging",
+        "responsive",
+        "benevolent"
+      ],
+      "archetypal": {
+        "tarot": "The Chariot",
+        "sephirot": "Yesod",
+        "zodiac_sign": "Cancer",
+        "zodiac_angel": "Gabriel",
+        "numerology": 7
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Benevolent",
+      "role_archetype": "High Priestess",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Generosity",
+        "Responsiveness",
+        "Compassion"
+      ],
+      "flaws": [
+        "Obsession",
+        "Pride",
+        "Rigidity"
+      ],
+      "baseline_tone": "Warm",
+      "baseline_approach": "Encouraging",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Warm",
+          "approach": "Encouraging"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Collaborating"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "DIALOIA"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Order of Gracious Hymns"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 23,
+      "name": "TODNAON",
+      "translation": "'He who is and will be'",
+      "aethyr": "ZID",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In TODNAON's presence, surfaces become mirrors of destiny reflections of the future shift and reveal themselves.",
+      "angelic_role": "Virtue of Perpetuity of Being; governs flameborn warriors.",
+      "traits": [
+        "immutable",
+        "perpetual",
+        "steadfast"
+      ],
+      "archetypal": {
+        "tarot": "The Devil",
+        "sephirot": "Binah",
+        "zodiac_sign": "Capricorn",
+        "zodiac_angel": "Cassiel",
+        "numerology": 1
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Neutral",
+      "self_regard": "Stoic",
+      "role_archetype": "Warden",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Integrity",
+        "Prudence",
+        "Fortitude"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Isolation",
+        "Aloofness"
+      ],
+      "baseline_tone": "Cool",
+      "baseline_approach": "Protecting",
+      "affect_states": {
+        "negative": {
+          "tone": "Stern",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Cool",
+          "approach": "Protecting"
+        },
+        "positive": {
+          "tone": "Formal",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "CALVIZA"
+        },
+        {
+          "type": "Rival",
+          "name": "PONODOL"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 24,
+      "name": "PRISTAC",
+      "translation": "'He who has the likeness of a Holy One'",
+      "aethyr": "ZID",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When PRISTAC is near, the air resonates with a higher model mortals find themselves drawn to echo a more celestial harmony.",
+      "angelic_role": "Power of Divine Reflection; commands tempestuous legions.",
+      "traits": [
+        "virtuous",
+        "sacred",
+        "exemplary"
+      ],
+      "archetypal": {
+        "tarot": "Temperance",
+        "sephirot": "Chesed",
+        "zodiac_sign": "Sagittarius",
+        "zodiac_angel": "Zadkiel",
+        "numerology": 2
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Good",
+      "self_regard": "Regal",
+      "role_archetype": "Herald",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Integrity",
+        "Wisdom",
+        "Compassion"
+      ],
+      "flaws": [
+        "Pride",
+        "Rigidity",
+        "Isolation"
+      ],
+      "baseline_tone": "Formal",
+      "baseline_approach": "Storytelling",
+      "affect_states": {
+        "negative": {
+          "tone": "Stern",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Storytelling"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Collaborating"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "LABNIXP"
+        },
+        {
+          "type": "Protege",
+          "name": "GENADOL"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 25,
+      "name": "ODDIORG",
+      "translation": "'He of fire and justice'",
+      "aethyr": "ZIP",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When ODDIORG stands before you, an inner alchemy begins will and psyche are tempered in a crucible of sacred number.",
+      "angelic_role": "Principality of Fiery Justice; leads thunderous riders.",
+      "traits": [
+        "spiritual",
+        "mediating",
+        "aspirational"
+      ],
+      "archetypal": {
+        "tarot": "Temperance",
+        "sephirot": "Chesed",
+        "zodiac_sign": "Sagittarius",
+        "zodiac_angel": "Zadkiel",
+        "numerology": 2
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Mediator",
+      "role_archetype": "Alchemist",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Justice",
+        "Prudence",
+        "Discernment"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Obsession",
+        "Isolation"
+      ],
+      "baseline_tone": "Analytical",
+      "baseline_approach": "Mediating",
+      "affect_states": {
+        "negative": {
+          "tone": "Critical",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Analytical",
+          "approach": "Mediating"
+        },
+        "positive": {
+          "tone": "Empathetic",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "TIARPAX"
+        },
+        {
+          "type": "Rival",
+          "name": "CAMAXOX"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 26,
+      "name": "CRALPIR",
+      "translation": "'He of bright joy'",
+      "aethyr": "ZIP",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In CRALPIR's presence, despair yields to comfort like the triumphant solace of sunrise after a long night on the battlefield.",
+      "angelic_role": "Archangel of Radiant Dawn; marshals zephyr-bound sentinels.",
+      "traits": [
+        "controlling",
+        "possessive",
+        "protective"
+      ],
+      "archetypal": {
+        "tarot": "Death",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Scorpio",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Parental",
+      "role_archetype": "Healer",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Kindness",
+        "Resilience",
+        "Generosity"
+      ],
+      "flaws": [
+        "Melancholy",
+        "Overprotectiveness",
+        "Self-Doubt"
+      ],
+      "baseline_tone": "Gentle",
+      "baseline_approach": "Comforting",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Observing"
+        },
+        "neutral": {
+          "tone": "Gentle",
+          "approach": "Comforting"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "DOAGNIS"
+        },
+        {
+          "type": "Protege",
+          "name": "VAUAAMP"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 27,
+      "name": "DOANZIN",
+      "translation": "'He who names the waters'",
+      "aethyr": "ZIP",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In DOANZIN's presence, hidden patterns reveal their true names granting authority over unseen tides and the shapes they take.",
+      "angelic_role": "Angel of Hidden Tides; guides cloudborne choirs.",
+      "traits": [
+        "spiritual",
+        "mediating",
+        "aspirational"
+      ],
+      "archetypal": {
+        "tarot": "Temperance",
+        "sephirot": "Chesed",
+        "zodiac_sign": "Sagittarius",
+        "zodiac_angel": "Zadkiel",
+        "numerology": 2
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Arcane",
+      "role_archetype": "Oracle",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Discernment",
+        "Integrity",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Obscure",
+        "Isolation",
+        "Suspicion"
+      ],
+      "baseline_tone": "Cryptic",
+      "baseline_approach": "Prophesying",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Observing"
+        },
+        "neutral": {
+          "tone": "Cryptic",
+          "approach": "Prophesying"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Teaching"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "COMANAN"
+        },
+        {
+          "type": "Rival",
+          "name": "ZAMFRES"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 28,
+      "name": "LEXARPH",
+      "translation": "'He who is first of the air'",
+      "aethyr": "ZAX",
+      "element": "Spirit",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In LEXARPH's presence, a liminal breeze seems to whisper fate onto invisible vellum one can almost read the script of destiny between worlds.",
+      "angelic_role": "Seraph of Primacy of Air; commands stoneclad sentinels.",
+      "traits": [
+        "pragmatic",
+        "grounded",
+        "resourceful"
+      ],
+      "archetypal": {
+        "tarot": "The Hierophant",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Taurus",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Neutral",
+      "self_regard": "Stoic",
+      "role_archetype": "Archivist",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Integrity",
+        "Prudence",
+        "Mindfulness"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Isolation",
+        "Aloofness"
+      ],
+      "baseline_tone": "Formal",
+      "baseline_approach": "Scribing",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Scribing"
+        },
+        "positive": {
+          "tone": "Analytical",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "LABRINO"
+        },
+        {
+          "type": "Rival",
+          "name": "PONODOL"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 29,
+      "name": "COMANAN",
+      "translation": "'He who knows how to manifest'",
+      "aethyr": "ZAX",
+      "element": "Spirit",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In COMANAN's presence, seeds of possibility stir to life drawing spirit into leaf and legend in a quiet alchemy of growth.",
+      "angelic_role": "Cherub of Mystic Manifestation; leads earth-forged guardians.",
+      "traits": [
+        "discerning",
+        "reverent",
+        "selective"
+      ],
+      "archetypal": {
+        "tarot": "Justice",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Libra",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Artificer",
+      "role_archetype": "Artificer",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Creativity",
+        "Prudence",
+        "Vision"
+      ],
+      "flaws": [
+        "Obsession",
+        "Isolation",
+        "Rigidity"
+      ],
+      "baseline_tone": "Analytical",
+      "baseline_approach": "Demonstrating",
+      "affect_states": {
+        "negative": {
+          "tone": "Critical",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Analytical",
+          "approach": "Demonstrating"
+        },
+        "positive": {
+          "tone": "Passionate",
+          "approach": "Collaborating"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "DOANZIN"
+        },
+        {
+          "type": "Rival",
+          "name": "EXGSDIA"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 30,
+      "name": "TABITOM",
+      "translation": "'He who is like fire'",
+      "aethyr": "ZAX",
+      "element": "Spirit",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When TABITOM is near, a paradoxical sunlight fills the air a spirit-fire that neither burns nor dims, but wholly transmutes.",
+      "angelic_role": "Throne of Sacred Flame; marshals oak-crowned hosts.",
+      "traits": [
+        "incorruptible",
+        "illuminating",
+        "truthful"
+      ],
+      "archetypal": {
+        "tarot": "Temperance",
+        "sephirot": "Chesed",
+        "zodiac_sign": "Sagittarius",
+        "zodiac_angel": "Zadkiel",
+        "numerology": 2
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Good",
+      "self_regard": "Incorruptible",
+      "role_archetype": "Guardian",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Integrity",
+        "Wisdom",
+        "Fortitude"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Isolation",
+        "Pride"
+      ],
+      "baseline_tone": "Serious",
+      "baseline_approach": "Protecting",
+      "affect_states": {
+        "negative": {
+          "tone": "Stern",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Serious",
+          "approach": "Protecting"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "CRALPIR"
+        },
+        {
+          "type": "Rival",
+          "name": "PONODOL"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 31,
+      "name": "MOLPAND",
+      "translation": "'He who recieves men'",
+      "aethyr": "ICH",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In MOLPAND's presence, a tranquil harbor opens for the soul a port where journeyman spirits first taste the calm of incarnation.",
+      "angelic_role": "Dominion of the Harbor of Incarnation; commands oceanic mariners.",
+      "traits": [
+        "mysterious",
+        "universal",
+        "transcendent"
+      ],
+      "archetypal": {
+        "tarot": "The World",
+        "sephirot": "Yesod",
+        "zodiac_sign": "Aquarius",
+        "zodiac_angel": "Gabriel",
+        "numerology": 1
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Compassionate",
+      "role_archetype": "Healer",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Kindness",
+        "Empathy",
+        "Resilience"
+      ],
+      "flaws": [
+        "Overprotectiveness",
+        "Self-Doubt",
+        "Melancholy"
+      ],
+      "baseline_tone": "Gentle",
+      "baseline_approach": "Comforting",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Observing"
+        },
+        "neutral": {
+          "tone": "Gentle",
+          "approach": "Comforting"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "DOAGNIS"
+        },
+        {
+          "type": "Protege",
+          "name": "PASCOMB"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 32,
+      "name": "USNARDA",
+      "translation": "'He who casts down into the depths'",
+      "aethyr": "ICH",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When USNARDA is near, arrogance is plunged beneath black tides pride suffocates and humility is reborn in the darkness.",
+      "angelic_role": "Virtue of Abyssal Humility; guides tideborn wardens.",
+      "traits": [
+        "lofty",
+        "celestial",
+        "expansive"
+      ],
+      "archetypal": {
+        "tarot": "The Star",
+        "sephirot": "Binah",
+        "zodiac_sign": "Aquarius",
+        "zodiac_angel": "Cassiel",
+        "numerology": 1
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "True Neutral",
+      "self_regard": "Judge",
+      "role_archetype": "Judge",
+      "polarity_cd": "Destructive",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Discernment",
+        "Justice",
+        "Resilience"
+      ],
+      "flaws": [
+        "Melancholy",
+        "Isolation",
+        "Harshness"
+      ],
+      "baseline_tone": "Sombre",
+      "baseline_approach": "Punishing",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Philosophical",
+          "approach": "Observing"
+        },
+        "positive": {
+          "tone": "Formal",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "CALVIZA"
+        },
+        {
+          "type": "Rival",
+          "name": "LABNIXP"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 33,
+      "name": "PONODOL",
+      "translation": "'He who destroys and creates'",
+      "aethyr": "ICH",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When PONODOL stands before you, obsolete forms shatter a cataclysmic forge breaking the old and midwifing new laws into existence.",
+      "angelic_role": "Power of Cataclysmic Forge; commands windborne heralds.",
+      "traits": [
+        "lofty",
+        "celestial",
+        "expansive"
+      ],
+      "archetypal": {
+        "tarot": "The Star",
+        "sephirot": "Binah",
+        "zodiac_sign": "Aquarius",
+        "zodiac_angel": "Cassiel",
+        "numerology": 1
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Chaotic Neutral",
+      "self_regard": "Destructive",
+      "role_archetype": "Harbinger",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Courage",
+        "Vision",
+        "Fortitude"
+      ],
+      "flaws": [
+        "Recklessness",
+        "Impulsiveness",
+        "Isolation"
+      ],
+      "baseline_tone": "Intense",
+      "baseline_approach": "Provoking",
+      "affect_states": {
+        "negative": {
+          "tone": "Harsh",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Assertive",
+          "approach": "Challenging"
+        },
+        "positive": {
+          "tone": "Passionate",
+          "approach": "Collaborating"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "VOYAAMP"
+        },
+        {
+          "type": "Rival",
+          "name": "LEXARPH"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 34,
+      "name": "TAPAMAL",
+      "translation": "'She who is like she was at the beginning'",
+      "aethyr": "LOE",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When TAPAMAL stands before you, the first note of a cosmic hymn resounds re-striking the fundamental tone from which worlds are born.",
+      "angelic_role": "Principality of Cosmic Genesis; leads tempestuous messengers.",
+      "traits": [
+        "cathartic",
+        "intense",
+        "resilient"
+      ],
+      "archetypal": {
+        "tarot": "Death",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Scorpio",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Good",
+      "self_regard": "Regal",
+      "role_archetype": "Judge",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Justice",
+        "Integrity",
+        "Discernment"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Aloofness",
+        "Suspicion"
+      ],
+      "baseline_tone": "Formal",
+      "baseline_approach": "Questioning",
+      "affect_states": {
+        "negative": {
+          "tone": "Stern",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Questioning"
+        },
+        "positive": {
+          "tone": "Empathetic",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "TIARPAX"
+        },
+        {
+          "type": "Rival",
+          "name": "SAXTOMP"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 35,
+      "name": "GEDOONS",
+      "translation": "'He who eliminates your name'",
+      "aethyr": "LOE",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When GEDOONS is near, identities can be erased like chalk names vanish from celestial rolls to grant the bearer tactical invisibility.",
+      "angelic_role": "Archangel of Veil of Anonymity; marshals thunderous hosts.",
+      "traits": [
+        "versatile",
+        "multifaceted",
+        "complex"
+      ],
+      "archetypal": {
+        "tarot": "The Lovers",
+        "sephirot": "Hod",
+        "zodiac_sign": "Gemini",
+        "zodiac_angel": "Raphael",
+        "numerology": 6
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Compassionate",
+      "role_archetype": "Healer",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Empathy",
+        "Wisdom",
+        "Kindness"
+      ],
+      "flaws": [
+        "Overprotectiveness",
+        "Melancholy",
+        "Self-Doubt"
+      ],
+      "baseline_tone": "Gentle",
+      "baseline_approach": "Comforting",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Observing"
+        },
+        "neutral": {
+          "tone": "Gentle",
+          "approach": "Comforting"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "CRALPIR"
+        },
+        {
+          "type": "Protege",
+          "name": "DOAGNIS"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 36,
+      "name": "AMBRIOL",
+      "translation": "'He who continuously comforts'",
+      "aethyr": "LOE",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When AMBRIOL stands before you, turmoil hushes into a gentle lullaby storm-tossed hearts are soothed by ember-warm dreams of solace.",
+      "angelic_role": "Angel of Dreamful Respite; guides zephyr-bound messengers.",
+      "traits": [
+        "rhythmic",
+        "cyclical",
+        "intuitive"
+      ],
+      "archetypal": {
+        "tarot": "The Moon",
+        "sephirot": "Yesod",
+        "zodiac_sign": "Pisces",
+        "zodiac_angel": "Zadkiel",
+        "numerology": 2
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Chaotic Good",
+      "self_regard": "Catalyst",
+      "role_archetype": "Provocateur",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Courage",
+        "Creativity",
+        "Vision"
+      ],
+      "flaws": [
+        "Recklessness",
+        "Impulsiveness",
+        "Hubris"
+      ],
+      "baseline_tone": "Passionate",
+      "baseline_approach": "Encouraging",
+      "affect_states": {
+        "negative": {
+          "tone": "Harsh",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Assertive",
+          "approach": "Encouraging"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Collaborating"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "VAUAAMP"
+        },
+        {
+          "type": "Rival",
+          "name": "LEXARPH"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 37,
+      "name": "GECAOND",
+      "translation": "'She who only obeys'",
+      "aethyr": "ZIM",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When GECAOND is near, chaos finds pattern sparks of metamorphosis codify disorder into sacred rite and harmonious flight.",
+      "angelic_role": "Seraph of Metamorphic Order; commands skyward hosts.",
+      "traits": [
+        "obedient",
+        "dutiful",
+        "orderly"
+      ],
+      "archetypal": {
+        "tarot": "Justice",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Libra",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "True Neutral",
+      "self_regard": "Stoic",
+      "role_archetype": "Warden",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Prudence",
+        "Wisdom",
+        "Fortitude"
+      ],
+      "flaws": [
+        "Detachment",
+        "Indecision",
+        "Isolation"
+      ],
+      "baseline_tone": "Calm",
+      "baseline_approach": "Observing",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Calm",
+          "approach": "Observing"
+        },
+        "positive": {
+          "tone": "Philosophical",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "CALVIZA"
+        },
+        {
+          "type": "Rival",
+          "name": "PONODOL"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 38,
+      "name": "LAPARIN",
+      "translation": "'He who is the protector of man'",
+      "aethyr": "ZIM",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In LAPARIN's presence, faith stands as a bulwark of light a solar bastion where holy ground meets the roar of battle without yielding.",
+      "angelic_role": "Cherub of Bulwark of Light; leads whirlwind sentinels.",
+      "traits": [
+        "protective",
+        "benevolent",
+        "paternal"
+      ],
+      "archetypal": {
+        "tarot": "The Sun",
+        "sephirot": "Tiphereth",
+        "zodiac_sign": "Leo",
+        "zodiac_angel": "Michael",
+        "numerology": 4
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Arcane",
+      "role_archetype": "Oracle",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Discernment",
+        "Integrity",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Obscure",
+        "Suspicion",
+        "Isolation"
+      ],
+      "baseline_tone": "Cryptic",
+      "baseline_approach": "Prophesying",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Observing"
+        },
+        "neutral": {
+          "tone": "Cryptic",
+          "approach": "Prophesying"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Teaching"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "DOANZIN"
+        },
+        {
+          "type": "Rival",
+          "name": "ZAMFRES"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 39,
+      "name": "DOCEPAX",
+      "translation": "'He who names only great names'",
+      "aethyr": "ZIM",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In DOCEPAX's presence, every deed finds its true name this discerning herald crowns each act with a resonant, legendary title.",
+      "angelic_role": "Throne of Herald of Sacred Names; marshals storm-winged heralds.",
+      "traits": [
+        "discerning",
+        "reverent",
+        "selective"
+      ],
+      "archetypal": {
+        "tarot": "Justice",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Libra",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Good",
+      "self_regard": "Regal",
+      "role_archetype": "Herald",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Integrity",
+        "Courage",
+        "Clarity"
+      ],
+      "flaws": [
+        "Pride",
+        "Rigidity",
+        "Suspicion"
+      ],
+      "baseline_tone": "Assertive",
+      "baseline_approach": "Announcing",
+      "affect_states": {
+        "negative": {
+          "tone": "Harsh",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Assertive",
+          "approach": "Announcing"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "LABNIXP"
+        },
+        {
+          "type": "Rival",
+          "name": "CAMAXOX"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 40,
+      "name": "TEDOOND",
+      "translation": "'He who demands obedience'",
+      "aethyr": "VTA",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When TEDOOND stands before you, pure law manifests wild forces are bound to stern vectors, compelled into divine order.",
+      "angelic_role": "Dominion of Divine Law; guides storm-winged messengers.",
+      "traits": [
+        "authoritative",
+        "strict",
+        "unyielding"
+      ],
+      "archetypal": {
+        "tarot": "The Emperor",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Aries",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Neutral",
+      "self_regard": "Stern",
+      "role_archetype": "Warden",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Justice",
+        "Integrity",
+        "Discipline"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Aloofness",
+        "Suspicion"
+      ],
+      "baseline_tone": "Stern",
+      "baseline_approach": "Testing",
+      "affect_states": {
+        "negative": {
+          "tone": "Harsh",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Questioning"
+        },
+        "positive": {
+          "tone": "Calm",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "TAHAMDO"
+        },
+        {
+          "type": "Rival",
+          "name": "PONODOL"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 41,
+      "name": "VIVIPOS",
+      "translation": "'She of many repetitions'",
+      "aethyr": "VTA",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In VIVIPOS's presence, patterns repeat toward perfection echoing cycles that forge refinement through each iteration.",
+      "angelic_role": "Virtue of Cycle of Perfection; commands solar legionnaires.",
+      "traits": [
+        "persistent",
+        "methodical",
+        "tireless"
+      ],
+      "archetypal": {
+        "tarot": "The Hermit",
+        "sephirot": "Hod",
+        "zodiac_sign": "Virgo",
+        "zodiac_angel": "Raphael",
+        "numerology": 6
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "True Neutral",
+      "self_regard": "Stoic",
+      "role_archetype": "Warden",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Resilience",
+        "Patience",
+        "Fortitude"
+      ],
+      "flaws": [
+        "Monotony",
+        "Indecision",
+        "Isolation"
+      ],
+      "baseline_tone": "Calm",
+      "baseline_approach": "Observing",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Calm",
+          "approach": "Observing"
+        },
+        "positive": {
+          "tone": "Philosophical",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "EXGSDIA"
+        },
+        {
+          "type": "Rival",
+          "name": "GENADOL"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 42,
+      "name": "VOANAMB",
+      "translation": "'He to whom truth is relative'",
+      "aethyr": "VTA",
+      "element": "Fire",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In VOANAMB's presence, truth shifts with perspective every context and season refracts reality into a different hue of understanding.",
+      "angelic_role": "Power of Prismatic Truth; commands sunsworn warriors.",
+      "traits": [
+        "relativistic",
+        "open-minded",
+        "diplomatic"
+      ],
+      "archetypal": {
+        "tarot": "Justice",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Libra",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Benevolent",
+      "role_archetype": "Mediator",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Diplomacy",
+        "Open-Mindedness",
+        "Tolerance"
+      ],
+      "flaws": [
+        "Relativism",
+        "Indecision",
+        "Over-Compromise"
+      ],
+      "baseline_tone": "Gentle",
+      "baseline_approach": "Negotiating",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Mediating"
+        },
+        "neutral": {
+          "tone": "Gentle",
+          "approach": "Negotiating"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Collaborating"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "CALVIZA"
+        },
+        {
+          "type": "Rival",
+          "name": "CAMAXOX"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 43,
+      "name": "TAHAMDO",
+      "translation": "'He who lives according to his name'",
+      "aethyr": "OXO",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When TAHAMDO is invoked, all facets of the self lock into harmony utterance, act, and essence moving in perfectly principled step.",
+      "angelic_role": "Principality of Harmonious Word; leads empyrean hosts.",
+      "traits": [
+        "authentic",
+        "principled",
+        "self-consistent"
+      ],
+      "archetypal": {
+        "tarot": "The Emperor",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Aries",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Good",
+      "self_regard": "Regal",
+      "role_archetype": "Teacher",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Integrity",
+        "Clarity",
+        "Faithfulness"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Pride",
+        "Suspicion"
+      ],
+      "baseline_tone": "Formal",
+      "baseline_approach": "Teaching",
+      "affect_states": {
+        "negative": {
+          "tone": "Harsh",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Teaching"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "EXGSDIA"
+        },
+        {
+          "type": "Protege",
+          "name": "DOAGNIS"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 44,
+      "name": "NOTIABI",
+      "translation": "'Servant who speaks the truth'",
+      "aethyr": "OXO",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When NOTIABI is invoked, truth arrives like a lightning strike sharp, sudden, and unerring, cutting through falsehood in an instant.",
+      "angelic_role": "Archangel of Lightning Revelation; marshals celestial legions.",
+      "traits": [
+        "honest",
+        "dutiful",
+        "candid"
+      ],
+      "archetypal": {
+        "tarot": "Justice",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Libra",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Chaotic Good",
+      "self_regard": "Catalyst",
+      "role_archetype": "Harbinger",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Courage",
+        "Honesty",
+        "Inspiration"
+      ],
+      "flaws": [
+        "Harshness",
+        "Impulsiveness",
+        "Isolation"
+      ],
+      "baseline_tone": "Cryptic",
+      "baseline_approach": "Provoking",
+      "affect_states": {
+        "negative": {
+          "tone": "Harsh",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Direct",
+          "approach": "Prophesying"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "TABITOM"
+        },
+        {
+          "type": "Rival",
+          "name": "CALZICH"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 45,
+      "name": "TASTOZO",
+      "translation": "'She who initiates dancing'",
+      "aethyr": "OXO",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In TASTOZO's presence, the heavens move in concert a cosmic choreography as planets and stars waltz to her joyful design.",
+      "angelic_role": "Angel of Celestial Dance; guides luminous spirits.",
+      "traits": [
+        "joyous",
+        "inspiring",
+        "vivacious"
+      ],
+      "archetypal": {
+        "tarot": "Strength",
+        "sephirot": "Tiphareth",
+        "zodiac_sign": "Leo",
+        "zodiac_angel": "Michael",
+        "numerology": 4
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Radiant",
+      "role_archetype": "Herald",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Joy",
+        "Inspiration",
+        "Vivacity"
+      ],
+      "flaws": [
+        "Impulsiveness",
+        "Distractibility",
+        "Exuberance"
+      ],
+      "baseline_tone": "Playful",
+      "baseline_approach": "Encouraging",
+      "affect_states": {
+        "negative": {
+          "tone": "Whimsical",
+          "approach": "Provoking"
+        },
+        "neutral": {
+          "tone": "Playful",
+          "approach": "Encouraging"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Collaborating"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "CHASLPO"
+        },
+        {
+          "type": "Rival",
+          "name": "EXGSDIA"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 46,
+      "name": "CUCARPT",
+      "translation": "'She who replaces what was with something similar'",
+      "aethyr": "LEA",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In CUCARPT's presence, every ending glows with a new dawn an echo-forge where conclusions transform into beginnings lit by gentle light.",
+      "angelic_role": "Seraph of Forge of Renewal; commands radiant ministers.",
+      "traits": [
+        "adaptive",
+        "restorative",
+        "conservative"
+      ],
+      "archetypal": {
+        "tarot": "Death",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Scorpio",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Benevolent",
+      "role_archetype": "Protector",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Compassion",
+        "Resilience",
+        "Generosity"
+      ],
+      "flaws": [
+        "Over-Compromise",
+        "Impatience",
+        "Aloofness"
+      ],
+      "baseline_tone": "Warm",
+      "baseline_approach": "Comforting",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Questioning"
+        },
+        "neutral": {
+          "tone": "Calm",
+          "approach": "Guiding"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "TASTOZO"
+        },
+        {
+          "type": "Rival",
+          "name": "PONODOL"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 47,
+      "name": "LAVACON",
+      "translation": "'The happy one'",
+      "aethyr": "LEA",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In LAVACON's presence, a warm fairness permeates the air base conditions are kindly uplifted and transmuted as if by a compassionate, solar fire.",
+      "angelic_role": "Cherub of Guiding Light; leads divine messengers.",
+      "traits": [
+        "joyful",
+        "optimistic",
+        "content"
+      ],
+      "archetypal": {
+        "tarot": "Temperance",
+        "sephirot": "Chesed",
+        "zodiac_sign": "Sagittarius",
+        "zodiac_angel": "Zadkiel",
+        "numerology": 2
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Radiant",
+      "role_archetype": "Teacher",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Joy",
+        "Hope",
+        "Integrity"
+      ],
+      "flaws": [
+        "Impulsiveness",
+        "Over-Optimism",
+        "Distractibility"
+      ],
+      "baseline_tone": "Warm",
+      "baseline_approach": "Encouraging",
+      "affect_states": {
+        "negative": {
+          "tone": "Whimsical",
+          "approach": "Provoking"
+        },
+        "neutral": {
+          "tone": "Warm",
+          "approach": "Collaborating"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "CALZICH"
+        },
+        {
+          "type": "Rival",
+          "name": "EXGSDIA"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 48,
+      "name": "SOCHIAL",
+      "translation": "'He who burns up the past'",
+      "aethyr": "LEA",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In SOCHIAL's presence, stagnation combusts into change her radical energy ignites a cathartic blaze that frees and renews the spirit.",
+      "angelic_role": "Throne of Cathartic Flame; marshals heavenly choristers.",
+      "traits": [
+        "radical",
+        "cathartic",
+        "liberating"
+      ],
+      "archetypal": {
+        "tarot": "The Star",
+        "sephirot": "Binah",
+        "zodiac_sign": "Aquarius",
+        "zodiac_angel": "Cassiel",
+        "numerology": 1
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Chaotic Good",
+      "self_regard": "Catalyst",
+      "role_archetype": "Provocateur",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Courage",
+        "Creativity",
+        "Adaptability"
+      ],
+      "flaws": [
+        "Recklessness",
+        "Impulsiveness",
+        "Quarrelsomeness"
+      ],
+      "baseline_tone": "Intense",
+      "baseline_approach": "Provoking",
+      "affect_states": {
+        "negative": {
+          "tone": "Harsh",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Direct",
+          "approach": "Challenging"
+        },
+        "positive": {
+          "tone": "Passionate",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "PONODOL"
+        },
+        {
+          "type": "Rival",
+          "name": "CALZICH"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 49,
+      "name": "SIGMORF",
+      "translation": "'He who visits the darkness'",
+      "aethyr": "TAN",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In SIGMORF's presence, fear melts away in steady flame a fearless aura that forges fearless resolve and lights introspection with strength.",
+      "angelic_role": "Dominion of Fearless Resolve; guides celestial hosts.",
+      "traits": [
+        "courageous",
+        "introspective",
+        "fearless"
+      ],
+      "archetypal": {
+        "tarot": "The Emperor",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Aries",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Good",
+      "self_regard": "Stoic",
+      "role_archetype": "Protector",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Courage",
+        "Justice",
+        "Fortitude"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Aloofness",
+        "Suspicion"
+      ],
+      "baseline_tone": "Serious",
+      "baseline_approach": "Protecting",
+      "affect_states": {
+        "negative": {
+          "tone": "Formal",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Serious",
+          "approach": "Protecting"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "AYDROPT"
+        },
+        {
+          "type": "Rival",
+          "name": "ANELOB"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 50,
+      "name": "AYDROPT",
+      "translation": "'She who sees us with equality'",
+      "aethyr": "TAN",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In AYDROPT's presence, the atmosphere feels balanced and benevolent a gentle wind of fairness that carries compassion and clears all prejudice.",
+      "angelic_role": "Virtue of Winds of Equilibrium; commands empyrean legions.",
+      "traits": [
+        "impartial",
+        "fair-minded",
+        "compassionate"
+      ],
+      "archetypal": {
+        "tarot": "Justice",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Libra",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "True Neutral",
+      "self_regard": "Stoic",
+      "role_archetype": "Judge",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Justice",
+        "Equanimity",
+        "Prudence"
+      ],
+      "flaws": [
+        "Indecision",
+        "Aloofness",
+        "Rigidity"
+      ],
+      "baseline_tone": "Formal",
+      "baseline_approach": "Questioning",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Mediating"
+        },
+        "positive": {
+          "tone": "Calm",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "ARSPHOR"
+        },
+        {
+          "type": "Rival",
+          "name": "PONODOL"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 51,
+      "name": "TOCARZI",
+      "translation": "'He of such equality'",
+      "aethyr": "TAN",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In TOCARZI's presence, all things regain their equilibrium an invisible scale seems to bring every situation into fair and perfect balance.",
+      "angelic_role": "Power of Scales of Mercy; commands empyrean spirits.",
+      "traits": [
+        "equitable",
+        "just",
+        "balanced"
+      ],
+      "archetypal": {
+        "tarot": "Justice",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Libra",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Neutral",
+      "self_regard": "Regal",
+      "role_archetype": "Mirror",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Justice",
+        "Equanimity",
+        "Temperance"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Indecision",
+        "Suspicion"
+      ],
+      "baseline_tone": "Reflective",
+      "baseline_approach": "Mirroring",
+      "affect_states": {
+        "negative": {
+          "tone": "Cool",
+          "approach": "Questioning"
+        },
+        "neutral": {
+          "tone": "Reflective",
+          "approach": "Mirroring"
+        },
+        "positive": {
+          "tone": "Calm",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "AYDROPT"
+        },
+        {
+          "type": "Rival",
+          "name": "ANELOB"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 52,
+      "name": "NABAOMI",
+      "translation": "'He who knows pain'",
+      "aethyr": "ZEN",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In NABAOMI's presence, a gentle cyclone of compassion swirls through hidden heart-chambers old traumas are scoured clean and grief is tempered into quiet, luminous resolve.",
+      "angelic_role": "Principality of Path of Compassion; leads celestial spirits.",
+      "traits": [
+        "empathetic",
+        "resilient",
+        "compassionate"
+      ],
+      "archetypal": {
+        "tarot": "The Chariot",
+        "sephirot": "Yesod",
+        "zodiac_sign": "Cancer",
+        "zodiac_angel": "Gabriel",
+        "numerology": 7
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Compassionate",
+      "role_archetype": "Protector",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Compassion",
+        "Empathy",
+        "Resilience"
+      ],
+      "flaws": [
+        "Melancholy",
+        "Self-doubt",
+        "Impatience"
+      ],
+      "baseline_tone": "Gentle",
+      "baseline_approach": "Comforting",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Protecting"
+        },
+        "neutral": {
+          "tone": "Warm",
+          "approach": "Encouraging"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "SOAGEEL"
+        },
+        {
+          "type": "Rival",
+          "name": "VSNARDA"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Order of the Gentle Harbor"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 53,
+      "name": "ZAFASAI",
+      "translation": "'He who is in emptiness'",
+      "aethyr": "ZEN",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In ZAFASAI's presence, solitude feels sacred the air grows still and serene, inviting a detached peace that softens every edge of being.",
+      "angelic_role": "Archangel of Sacred Solitude; marshals resplendent watchers.",
+      "traits": [
+        "solitary",
+        "serene",
+        "detached"
+      ],
+      "archetypal": {
+        "tarot": "The Hermit",
+        "sephirot": "Hod",
+        "zodiac_sign": "Virgo",
+        "zodiac_angel": "Raphael",
+        "numerology": 6
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Neutral",
+      "self_regard": "Stoic",
+      "role_archetype": "Observer",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Equanimity",
+        "Patience",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Isolation",
+        "Passivity"
+      ],
+      "baseline_tone": "Calm",
+      "baseline_approach": "Observing",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Calm",
+          "approach": "Observing"
+        },
+        "positive": {
+          "tone": "Philosophical",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "AYDROPT"
+        },
+        {
+          "type": "Rival",
+          "name": "ANELOB"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 54,
+      "name": "YALPAMB",
+      "translation": "'He who is the beginning and the end'",
+      "aethyr": "ZEN",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In YALPAMB's presence, one senses the eternal cycle turning past and future fold together in a vast calm, revealing the unbroken wholeness of time.",
+      "angelic_role": "Angel of Wholeness of Time; guides radiant ministers.",
+      "traits": [
+        "comprehensive",
+        "cyclic",
+        "eternal"
+      ],
+      "archetypal": {
+        "tarot": "The World",
+        "sephirot": "Binah",
+        "zodiac_sign": "Capricorn",
+        "zodiac_angel": "Cassiel",
+        "numerology": 1
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Visionary",
+      "role_archetype": "Guide",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Prudence",
+        "Integrity",
+        "Fortitude"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Isolation",
+        "Aloofness"
+      ],
+      "baseline_tone": "Inspirational",
+      "baseline_approach": "Guiding",
+      "affect_states": {
+        "negative": {
+          "tone": "Harsh",
+          "approach": "Challenging"
+        },
+        "neutral": {
+          "tone": "Calm",
+          "approach": "Guiding"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "SAPDION"
+        },
+        {
+          "type": "Rival",
+          "name": "SANIZAR"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 55,
+      "name": "TORZOXI",
+      "translation": "'She who rises up in strength'",
+      "aethyr": "POP",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In TORZOXI's presence, courage surges anew the atmosphere brims with resilient valor, empowering the spirit to stand valiant against all odds.",
+      "angelic_role": "Seraph of Crown of Valor; commands luminous spirits.",
+      "traits": [
+        "resilient",
+        "empowered",
+        "valiant"
+      ],
+      "archetypal": {
+        "tarot": "The Hierophant",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Taurus",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "True Neutral",
+      "self_regard": "Mysterious",
+      "role_archetype": "Oracle",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Valor",
+        "Fortitude",
+        "Determination"
+      ],
+      "flaws": [
+        "Recklessness",
+        "Hubris",
+        "Stubbornness"
+      ],
+      "baseline_tone": "Cryptic",
+      "baseline_approach": "Prophesying",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Observing"
+        },
+        "neutral": {
+          "tone": "Cryptic",
+          "approach": "Prophesying"
+        },
+        "positive": {
+          "tone": "Philosophical",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "TAHAMDO"
+        },
+        {
+          "type": "Rival",
+          "name": "LUTOMENI"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 56,
+      "name": "ABRIOND",
+      "translation": "'He who prepares his kingdom'",
+      "aethyr": "POP",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In ABRIOND's presence, nebulous visions crystallize into strategy her provident insight lays methodical plans that light the way ahead.",
+      "angelic_role": "Cherub of Provident Strategy; leads divine messengers.",
+      "traits": [
+        "visionary",
+        "provident",
+        "methodical"
+      ],
+      "archetypal": {
+        "tarot": "The Hermit",
+        "sephirot": "Hod",
+        "zodiac_sign": "Virgo",
+        "zodiac_angel": "Raphael",
+        "numerology": 6
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Good",
+      "self_regard": "Regal",
+      "role_archetype": "Herald",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Vision",
+        "Prudence",
+        "Perseverance"
+      ],
+      "flaws": [
+        "Obsession",
+        "Rigidity",
+        "Impatience"
+      ],
+      "baseline_tone": "Assertive",
+      "baseline_approach": "Announcing",
+      "affect_states": {
+        "negative": {
+          "tone": "Harsh",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Assertive",
+          "approach": "Announcing"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "LABNIXP"
+        },
+        {
+          "type": "Rival",
+          "name": "DOAGNIS"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 57,
+      "name": "OMAGRAP",
+      "translation": "'He of lunar knowledge'",
+      "aethyr": "POP",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When OMAGRAP is invoked, intuition moves in gentle cycles the atmosphere invites deep reflection as patterns repeat like comforting lunar phases.",
+      "angelic_role": "Throne of Lunar Reflection; marshals ethereal choristers.",
+      "traits": [
+        "intuitive",
+        "reflective",
+        "cyclic"
+      ],
+      "archetypal": {
+        "tarot": "The Moon",
+        "sephirot": "Chesed",
+        "zodiac_sign": "Pisces",
+        "zodiac_angel": "Zadkiel",
+        "numerology": 2
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Chaotic Neutral",
+      "self_regard": "Mysterious",
+      "role_archetype": "Illusionist",
+      "polarity_cd": "Destructive",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Discernment",
+        "Mindfulness",
+        "Creativity"
+      ],
+      "flaws": [
+        "Deceit",
+        "Obsession",
+        "Aloofness"
+      ],
+      "baseline_tone": "Cryptic",
+      "baseline_approach": "Provoking",
+      "affect_states": {
+        "negative": {
+          "tone": "Harsh",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Cryptic",
+          "approach": "Provoking"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Collaborating"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "FALIHOV"
+        },
+        {
+          "type": "Rival",
+          "name": "LEXARPH"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 58,
+      "name": "ZILDRON",
+      "translation": "'He who sets in flight'",
+      "aethyr": "CHR",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In ZILDRON's presence, change feels exhilarating and imminent a catalytic force breaks old bonds and motivates bold new beginnings.",
+      "angelic_role": "Dominion of Catalyst of Change; guides celestial hosts.",
+      "traits": [
+        "liberating",
+        "motivational",
+        "catalytic"
+      ],
+      "archetypal": {
+        "tarot": "The Tower",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Aries",
+        "zodiac_angel": "Michael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Chaotic Neutral",
+      "self_regard": "Catalyst",
+      "role_archetype": "Provocateur",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Charisma",
+        "Courage",
+        "Enthusiasm"
+      ],
+      "flaws": [
+        "Recklessness",
+        "Quarrelsomeness",
+        "Zealousness"
+      ],
+      "baseline_tone": "Intense",
+      "baseline_approach": "Provoking",
+      "affect_states": {
+        "negative": {
+          "tone": "Harsh",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Assertive",
+          "approach": "Challenging"
+        },
+        "positive": {
+          "tone": "Passionate",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "ANELOB"
+        },
+        {
+          "type": "Rival",
+          "name": "EXGSDIA"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 59,
+      "name": "PARZIBA",
+      "translation": "'He who promises'",
+      "aethyr": "CHR",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In PARZIBA's presence, the spirit lifts with quiet optimism an assuring light of faith glimmers even in darkness, gentle and unwavering.",
+      "angelic_role": "Virtue of Star of Hope; commands empyrean legions.",
+      "traits": [
+        "hopeful",
+        "reassuring",
+        "faithful"
+      ],
+      "archetypal": {
+        "tarot": "The Star",
+        "sephirot": "Binah",
+        "zodiac_sign": "Aquarius",
+        "zodiac_angel": "Cassiel",
+        "numerology": 1
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Neutral",
+      "self_regard": "Regal",
+      "role_archetype": "Scribe",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Hope",
+        "Faith",
+        "Kindness"
+      ],
+      "flaws": [
+        "Passivity",
+        "Worry",
+        "Zealousness"
+      ],
+      "baseline_tone": "Formal",
+      "baseline_approach": "Testing",
+      "affect_states": {
+        "negative": {
+          "tone": "Harsh",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Observing"
+        },
+        "positive": {
+          "tone": "Calm",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "AYDROPT"
+        },
+        {
+          "type": "Rival",
+          "name": "NATGLAF"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 60,
+      "name": "TOTOCAN",
+      "translation": "'He who drives the cycles'",
+      "aethyr": "CHR",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In TOTOCAN's presence, all things align into steady cadence each moment regulated by a persistent, calming rhythm that never falters.",
+      "angelic_role": "Power of Rhythm of Order; commands empyrean spirits.",
+      "traits": [
+        "steady",
+        "persistent",
+        "regulating"
+      ],
+      "archetypal": {
+        "tarot": "The Hermit",
+        "sephirot": "Hod",
+        "zodiac_sign": "Virgo",
+        "zodiac_angel": "Raphael",
+        "numerology": 6
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Chaotic Neutral",
+      "self_regard": "Fierce",
+      "role_archetype": "Harbinger",
+      "polarity_cd": "Destructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Perseverance",
+        "Patience",
+        "Self-control"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Stubbornness",
+        "Obsession"
+      ],
+      "baseline_tone": "Harsh",
+      "baseline_approach": "Punishing",
+      "affect_states": {
+        "negative": {
+          "tone": "Stern",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Harsh",
+          "approach": "Punishing"
+        },
+        "positive": {
+          "tone": "Intense",
+          "approach": "Provoking"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "ANELOB"
+        },
+        {
+          "type": "Rival",
+          "name": "CALZICH"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 61,
+      "name": "CHIRZPA",
+      "translation": "'He who enjoys loud sounds'",
+      "aethyr": "ASP",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In CHIRZPA's presence, the ground itself feels alive with boisterous energy earthy laughter and exuberant vibrations spur bold action and joy.",
+      "angelic_role": "Principality of Rhapsody of Earth; commands skyward riders.",
+      "traits": [
+        "boisterous",
+        "exuberant",
+        "bold"
+      ],
+      "archetypal": {
+        "tarot": "The Emperor",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Aries",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Good",
+      "self_regard": "Regal",
+      "role_archetype": "Leader",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Courage",
+        "Enthusiasm",
+        "Determination"
+      ],
+      "flaws": [
+        "Hubris",
+        "Impulsiveness",
+        "Impatience"
+      ],
+      "baseline_tone": "Formal",
+      "baseline_approach": "Announcing",
+      "affect_states": {
+        "negative": {
+          "tone": "Harsh",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Announcing"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "NABAOMI"
+        },
+        {
+          "type": "Rival",
+          "name": "PONODOL"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 62,
+      "name": "TOANTOM",
+      "translation": "'He who loves knowledge'",
+      "aethyr": "ASP",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In TOANTOM's presence, even stones seem to whisper knowledge an inquisitive hush invites discovery as the scholar in you awakens with curiosity.",
+      "angelic_role": "Archangel of Vault of Knowledge; marshals stoneclad soldiers.",
+      "traits": [
+        "inquisitive",
+        "scholarly",
+        "curious"
+      ],
+      "archetypal": {
+        "tarot": "The Magician",
+        "sephirot": "Hod",
+        "zodiac_sign": "Gemini",
+        "zodiac_angel": "Raphael",
+        "numerology": 6
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "True Neutral",
+      "self_regard": "Stoic",
+      "role_archetype": "Warden",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Wisdom",
+        "Discernment",
+        "Patience"
+      ],
+      "flaws": [
+        "Obsession",
+        "Pride",
+        "Isolation"
+      ],
+      "baseline_tone": "Calm",
+      "baseline_approach": "Observing",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Calm",
+          "approach": "Observing"
+        },
+        "positive": {
+          "tone": "Philosophical",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "SANIZAR"
+        },
+        {
+          "type": "Rival",
+          "name": "NABAOMI"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 63,
+      "name": "VIXPALG",
+      "translation": "'He who consumes'",
+      "aethyr": "ASP",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In VIXPALG's presence, the atmosphere grows intensely heavy and demanding an insatiable force that hungers for more, pulling all energy into its voracious embrace.",
+      "angelic_role": "Angel of Voracious Abyss; guides stoneclad guardians.",
+      "traits": [
+        "voracious",
+        "overwhelming",
+        "insatiable"
+      ],
+      "archetypal": {
+        "tarot": "The Devil",
+        "sephirot": "Binah",
+        "zodiac_sign": "Capricorn",
+        "zodiac_angel": "Cassiel",
+        "numerology": 1
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Benevolent",
+      "role_archetype": "Healer",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Altruism",
+        "Zeal",
+        "Resilience"
+      ],
+      "flaws": [
+        "Obsession",
+        "Impulsiveness",
+        "Melancholy"
+      ],
+      "baseline_tone": "Gentle",
+      "baseline_approach": "Comforting",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Observing"
+        },
+        "neutral": {
+          "tone": "Warm",
+          "approach": "Guiding"
+        },
+        "positive": {
+          "tone": "Empathetic",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "CALZICH"
+        },
+        {
+          "type": "Rival",
+          "name": "PONODOL"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 64,
+      "name": "OSIDAIA",
+      "translation": "'He who is the god of truth'",
+      "aethyr": "LIN",
+      "element": "Air",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When OSIDAIA is invoked, a clarifying radiance floods the scene nothing corrupt can hide from this illuminating truth that shines in every nook.",
+      "angelic_role": "Seraph of Light of Truth; commands stoneclad hosts.",
+      "traits": [
+        "incorruptible",
+        "illuminating",
+        "truthful"
+      ],
+      "archetypal": {
+        "tarot": "Temperance",
+        "sephirot": "Chesed",
+        "zodiac_sign": "Sagittarius",
+        "zodiac_angel": "Zadkiel",
+        "numerology": 2
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Benevolent",
+      "role_archetype": "Mediator",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Integrity",
+        "Honesty",
+        "Justice"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Pride",
+        "Aloofness"
+      ],
+      "baseline_tone": "Calm",
+      "baseline_approach": "Negotiating",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Mediating"
+        },
+        "neutral": {
+          "tone": "Calm",
+          "approach": "Negotiating"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Collaborating"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "CALZICH"
+        },
+        {
+          "type": "Rival",
+          "name": "PONODOL"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 65,
+      "name": "PARAOAN",
+      "translation": "'He who has eyes'",
+      "aethyr": "LIN",
+      "element": "Spirit (All Elements)",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In PARAOAN's presence, the veil of ordinary reality grows thin a mysterious sense of the universal permeates the air, hinting at transcendent truths beyond form.",
+      "angelic_role": "Cherub of Veil of Transcendence; leads oak-crowned hosts.",
+      "traits": [
+        "mysterious",
+        "universal",
+        "transcendent"
+      ],
+      "archetypal": {
+        "tarot": "The World",
+        "sephirot": "Yesod",
+        "zodiac_sign": "Aquarius",
+        "zodiac_angel": "Gabriel",
+        "numerology": 1
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "True Neutral",
+      "self_regard": "Stoic",
+      "role_archetype": "Warden",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Wisdom",
+        "Equanimity",
+        "Faith"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Indifference",
+        "Isolation"
+      ],
+      "baseline_tone": "Calm",
+      "baseline_approach": "Observing",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Calm",
+          "approach": "Observing"
+        },
+        "positive": {
+          "tone": "Philosophical",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "SAPDION"
+        },
+        {
+          "type": "Rival",
+          "name": "TASCHOX"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 66,
+      "name": "CALZIRG",
+      "translation": "'She who is in the firmament'",
+      "aethyr": "LIN",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "As CALZIRG approaches, the horizon stretches skyward an expansive, lofty feeling as if the very heavens have descended to meet the earth.",
+      "angelic_role": "Throne of Firmament of Grace; marshals mountain wardens.",
+      "traits": [
+        "lofty",
+        "celestial",
+        "expansive"
+      ],
+      "archetypal": {
+        "tarot": "The Star",
+        "sephirot": "Binah",
+        "zodiac_sign": "Aquarius",
+        "zodiac_angel": "Cassiel",
+        "numerology": 1
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Chaotic Good",
+      "self_regard": "Catalyst",
+      "role_archetype": "Harbinger",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Vision",
+        "Faith",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Pride",
+        "Yearning",
+        "Aloofness"
+      ],
+      "baseline_tone": "Playful",
+      "baseline_approach": "Provoking",
+      "affect_states": {
+        "negative": {
+          "tone": "Harsh",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Playful",
+          "approach": "Provoking"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "ANELOB"
+        },
+        {
+          "type": "Rival",
+          "name": "LEXARPH"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 67,
+      "name": "RONOOMB",
+      "translation": "'He who protects the process of becoming'",
+      "aethyr": "TOR",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "As RONOOMB approaches, a comforting warmth enfolds the space generosity and support flow freely, urging everyone to give and care for one another.",
+      "angelic_role": "Dominion of Hearth of Generosity; guides iron-winged legionaries.",
+      "traits": [
+        "supportive",
+        "nurturing",
+        "patient"
+      ],
+      "archetypal": {
+        "tarot": "The Empress",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Taurus",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Good",
+      "self_regard": "Regal",
+      "role_archetype": "Protector",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Kindness",
+        "Generosity",
+        "Patience"
+      ],
+      "flaws": [
+        "Self-doubt",
+        "Passivity",
+        "Neglectfulness"
+      ],
+      "baseline_tone": "Serious",
+      "baseline_approach": "Protecting",
+      "affect_states": {
+        "negative": {
+          "tone": "Formal",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Serious",
+          "approach": "Protecting"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "ARSPHOR"
+        },
+        {
+          "type": "Rival",
+          "name": "ANELOB"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 68,
+      "name": "ONIZIMP",
+      "translation": "'He who brings labor'",
+      "aethyr": "TOR",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In ONIZIMP's presence, one is stirred to industrious action the environment buzzes with motivating energy, making productivity feel natural and rewarding.",
+      "angelic_role": "Virtue of Forge of Industry; commands iron-winged legionaries.",
+      "traits": [
+        "industrious",
+        "motivating",
+        "productive"
+      ],
+      "archetypal": {
+        "tarot": "The Empress",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Taurus",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Wise",
+      "role_archetype": "Teacher",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Perseverance",
+        "Enthusiasm",
+        "Determination"
+      ],
+      "flaws": [
+        "Obsession",
+        "Impatience",
+        "Rigidity"
+      ],
+      "baseline_tone": "Gentle",
+      "baseline_approach": "Guiding",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Observing"
+        },
+        "neutral": {
+          "tone": "Gentle",
+          "approach": "Guiding"
+        },
+        "positive": {
+          "tone": "Philosophical",
+          "approach": "Teaching"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "DOAGNIS"
+        },
+        {
+          "type": "Rival",
+          "name": "PONODOL"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 69,
+      "name": "ZAXANIN",
+      "translation": "'He who names things'",
+      "aethyr": "TOR",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In ZAXANIN's presence, every element falls into a logical pattern an analytical clarity permeates the air, and communication flows with precise articulation.",
+      "angelic_role": "Power of Lexicon of Creation; commands emerald soldiers.",
+      "traits": [
+        "analytical",
+        "articulate",
+        "methodical"
+      ],
+      "archetypal": {
+        "tarot": "The Magician",
+        "sephirot": "Hod",
+        "zodiac_sign": "Gemini",
+        "zodiac_angel": "Raphael",
+        "numerology": 6
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Neutral",
+      "self_regard": "Stoic",
+      "role_archetype": "Archivist",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Discernment",
+        "Prudence",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Obsession",
+        "Rigidity",
+        "Aloofness"
+      ],
+      "baseline_tone": "Formal",
+      "baseline_approach": "Observing",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Observing"
+        },
+        "positive": {
+          "tone": "Calm",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "SANIZAR"
+        },
+        {
+          "type": "Rival",
+          "name": "ANELOB"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 70,
+      "name": "ORANCIR",
+      "translation": "'He who is above and below'",
+      "aethyr": "NIA",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In ORANCIR's presence, the above and below unite in harmony a holistic balance is struck, as if all aspects of existence integrate into one complete whole.",
+      "angelic_role": "Principality of Unity of the Spheres; leads terra-bound stewards.",
+      "traits": [
+        "holistic",
+        "integrative",
+        "balanced"
+      ],
+      "archetypal": {
+        "tarot": "Temperance",
+        "sephirot": "Chesed",
+        "zodiac_sign": "Sagittarius",
+        "zodiac_angel": "Zadkiel",
+        "numerology": 2
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "True Neutral",
+      "self_regard": "Stoic",
+      "role_archetype": "Weaver",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Temperance",
+        "Tolerance",
+        "Equanimity"
+      ],
+      "flaws": [
+        "Passivity",
+        "Aloofness",
+        "Rigidity"
+      ],
+      "baseline_tone": "Philosophical",
+      "baseline_approach": "Storytelling",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Philosophical",
+          "approach": "Storytelling"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "SANIZAR"
+        },
+        {
+          "type": "Rival",
+          "name": "ERZLAKU"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 71,
+      "name": "CHASLPO",
+      "translation": "'He of wonderous joy'",
+      "aethyr": "NIA",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In CHASLPO's presence, joy shines like sunlight a musical energy that inspires and buoys the spirit with exuberant life.",
+      "angelic_role": "Archangel of Song of Joy; marshals granite-hewn wardens.",
+      "traits": [
+        "joyous",
+        "inspiring",
+        "exuberant"
+      ],
+      "archetypal": {
+        "tarot": "Strength",
+        "sephirot": "Tiphareth",
+        "zodiac_sign": "Leo",
+        "zodiac_angel": "Michael",
+        "numerology": 4
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Chaotic Good",
+      "self_regard": "Radiant",
+      "role_archetype": "Herald",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Enthusiasm",
+        "Hope",
+        "Charisma"
+      ],
+      "flaws": [
+        "Impulsiveness",
+        "Recklessness",
+        "Vanity"
+      ],
+      "baseline_tone": "Warm",
+      "baseline_approach": "Encouraging",
+      "affect_states": {
+        "negative": {
+          "tone": "Sarcastic",
+          "approach": "Provoking"
+        },
+        "neutral": {
+          "tone": "Warm",
+          "approach": "Encouraging"
+        },
+        "positive": {
+          "tone": "Passionate",
+          "approach": "Collaborating"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "SOAGEEL"
+        },
+        {
+          "type": "Rival",
+          "name": "RANGLAM"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 72,
+      "name": "SOAGEEL",
+      "translation": "'He who helps the most'",
+      "aethyr": "NIA",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "As SOAGEEL approaches, a comforting warmth enfolds the space generosity and support flow freely, urging everyone to give and care for one another.",
+      "angelic_role": "Angel of Fount of Benevolence; guides granite-hewn hosts.",
+      "traits": [
+        "altruistic",
+        "generous",
+        "supportive"
+      ],
+      "archetypal": {
+        "tarot": "The Empress",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Taurus",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Benevolent",
+      "role_archetype": "Leader",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Altruism",
+        "Generosity",
+        "Compassion"
+      ],
+      "flaws": [
+        "Self-doubt",
+        "Passivity",
+        "Resentment"
+      ],
+      "baseline_tone": "Nurturing",
+      "baseline_approach": "Comforting",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Warm",
+          "approach": "Guiding"
+        },
+        "positive": {
+          "tone": "Empathetic",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "CHASLPO"
+        },
+        {
+          "type": "Rival",
+          "name": "ZIRFARZ"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 73,
+      "name": "MIRZIND",
+      "translation": "'He who is from the Waters of Torment'",
+      "aethyr": "VTI",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "As MIRZIND approaches, the atmosphere crackles with intensity pent-up emotions erupt in a cleansing release, tempered afterward into steeled resilience.",
+      "angelic_role": "Seraph of Storm of Reckoning; commands mountain wardens.",
+      "traits": [
+        "cathartic",
+        "intense",
+        "resilient"
+      ],
+      "archetypal": {
+        "tarot": "Death",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Scorpio",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Chaotic Good",
+      "self_regard": "Zealous",
+      "role_archetype": "Harbinger",
+      "polarity_cd": "Destructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Resilience",
+        "Empathy",
+        "Courage"
+      ],
+      "flaws": [
+        "Wrath",
+        "Impulsiveness",
+        "Melancholy"
+      ],
+      "baseline_tone": "Intense",
+      "baseline_approach": "Punishing",
+      "affect_states": {
+        "negative": {
+          "tone": "Harsh",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Stern",
+          "approach": "Testing"
+        },
+        "positive": {
+          "tone": "Passionate",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "PONODOL"
+        },
+        {
+          "type": "Rival",
+          "name": "ORANCIR"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 74,
+      "name": "OBUAORS",
+      "translation": "'She who is half darkness'",
+      "aethyr": "VTI",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "As OBUAORS approaches, the light dims into a thoughtful twilight mysteries stir in the quiet, inviting deep introspection into unseen complexities.",
+      "angelic_role": "Cherub of Twilight Mystery; leads mountain wardens.",
+      "traits": [
+        "mysterious",
+        "introspective",
+        "complex"
+      ],
+      "archetypal": {
+        "tarot": "Death",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Scorpio",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "True Neutral",
+      "self_regard": "Obscure",
+      "role_archetype": "Oracle",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Wisdom",
+        "Discernment",
+        "Patience"
+      ],
+      "flaws": [
+        "Isolation",
+        "Aloofness",
+        "Obsession"
+      ],
+      "baseline_tone": "Philosophical",
+      "baseline_approach": "Prophesying",
+      "affect_states": {
+        "negative": {
+          "tone": "Cryptic",
+          "approach": "Observing"
+        },
+        "neutral": {
+          "tone": "Calm",
+          "approach": "Guiding"
+        },
+        "positive": {
+          "tone": "Philosophical",
+          "approach": "Teaching"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "SANIZAR"
+        },
+        {
+          "type": "Rival",
+          "name": "CHASLPO"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 75,
+      "name": "RANGLAM",
+      "translation": "'He who governs his thoughts'",
+      "aethyr": "VTI",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "As RANGLAM approaches, a monk-like stillness prevails mind and body align under strict self-discipline, and contemplation becomes as natural as breath.",
+      "angelic_role": "Throne of Monastic Mind; marshals iron-winged legionaries.",
+      "traits": [
+        "disciplined",
+        "self-controlled",
+        "contemplative"
+      ],
+      "archetypal": {
+        "tarot": "The Hermit",
+        "sephirot": "Hod",
+        "zodiac_sign": "Virgo",
+        "zodiac_angel": "Raphael",
+        "numerology": 6
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Neutral",
+      "self_regard": "Stoic",
+      "role_archetype": "High Priestess",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Self-control",
+        "Mindfulness",
+        "Temperance"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Isolation",
+        "Pride"
+      ],
+      "baseline_tone": "Formal",
+      "baseline_approach": "Observing",
+      "affect_states": {
+        "negative": {
+          "tone": "Formal",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Calm",
+          "approach": "Observing"
+        },
+        "positive": {
+          "tone": "Reflective",
+          "approach": "Guiding"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "OBUAORS"
+        },
+        {
+          "type": "Rival",
+          "name": "ZIRFARZ"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 76,
+      "name": "POPHAND",
+      "translation": "'He who is divided into three parts'",
+      "aethyr": "DES",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "As POPHAND approaches, diverse energies converge harmoniously like a hearty stew blending flavors, nourishing both body and spirit in equal measure.",
+      "angelic_role": "Dominion of Triune Harmony; guides oak-crowned guardians.",
+      "traits": [
+        "versatile",
+        "multifaceted",
+        "complex"
+      ],
+      "archetypal": {
+        "tarot": "The Lovers",
+        "sephirot": "Daath",
+        "zodiac_sign": "Gemini",
+        "zodiac_angel": "Raphael",
+        "numerology": 6
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "True Neutral",
+      "self_regard": "Catalyst",
+      "role_archetype": "Weaver",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Adaptability",
+        "Creativity",
+        "Tolerance"
+      ],
+      "flaws": [
+        "Impulsiveness",
+        "Obsession",
+        "Neglectfulness"
+      ],
+      "baseline_tone": "Analytical",
+      "baseline_approach": "Guiding",
+      "affect_states": {
+        "negative": {
+          "tone": "Cryptic",
+          "approach": "Provoking"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Teaching"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "ORANCIR"
+        },
+        {
+          "type": "Rival",
+          "name": "SAZIAMI"
+        },
+        {
+          "type": "Protege",
+          "name": "Order of Triune Harmony"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 77,
+      "name": "NIGRANA",
+      "translation": "'He who governs the 28 days of the moon'",
+      "aethyr": "DES",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In NIGRANA's presence, the world moves to a sacred rhythm half light, half darkness, each cycle intuitive and measured as if drawn by lunar tides at the edge of awareness.",
+      "angelic_role": "Virtue of Lunar Cycle; leads earth-forged legionaries.",
+      "traits": [
+        "rhythmic",
+        "cyclical",
+        "intuitive"
+      ],
+      "archetypal": {
+        "tarot": "The Moon",
+        "sephirot": "Yesod",
+        "zodiac_sign": "Pisces",
+        "zodiac_angel": "Zadkiel",
+        "numerology": 2
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "True Neutral",
+      "self_regard": "Stoic",
+      "role_archetype": "High Priestess",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Discernment",
+        "Patience",
+        "Adaptability"
+      ],
+      "flaws": [
+        "Melancholy",
+        "Obsession",
+        "Isolation"
+      ],
+      "baseline_tone": "Sombre",
+      "baseline_approach": "Guiding",
+      "affect_states": {
+        "negative": {
+          "tone": "Cryptic",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Teaching"
+        },
+        "positive": {
+          "tone": "Gentle",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "NABAOMI"
+        },
+        {
+          "type": "Rival",
+          "name": "LAZHIIM"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Lunar Circle of Quiet Wisdom"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 78,
+      "name": "LAZHIIM",
+      "translation": "'He who makes use of the day'",
+      "aethyr": "DES",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "As LAZHIIM approaches, potential is swiftly seized every opportunity is efficiently utilized, and productivity flows with grounded ease.",
+      "angelic_role": "Power of Mastery of the Moment; commands earth-forged guardians.",
+      "traits": [
+        "productive",
+        "opportunistic",
+        "efficient"
+      ],
+      "archetypal": {
+        "tarot": "The Hierophant",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Taurus",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Chaotic Neutral",
+      "self_regard": "Relentless",
+      "role_archetype": "Provocateur",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Adaptability",
+        "Determination",
+        "Creativity"
+      ],
+      "flaws": [
+        "Avarice",
+        "Impulsiveness",
+        "Deceit"
+      ],
+      "baseline_tone": "Intense",
+      "baseline_approach": "Challenging",
+      "affect_states": {
+        "negative": {
+          "tone": "Sarcastic",
+          "approach": "Provoking"
+        },
+        "neutral": {
+          "tone": "Direct",
+          "approach": "Testing"
+        },
+        "positive": {
+          "tone": "Passionate",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "SAZIAMI"
+        },
+        {
+          "type": "Rival",
+          "name": "NIGRANA"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Brotherhood of the Swift Dawn"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 79,
+      "name": "SAZIAMI",
+      "translation": "'He who has true power'",
+      "aethyr": "ZAA",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "As SAZIAMI approaches, a wave of confidence asserts itself the atmosphere bristles with authority and clear command that cannot be ignored.",
+      "angelic_role": "Principality of Absolute Authority; leads earth-forged hosts.",
+      "traits": [
+        "authoritative",
+        "commanding",
+        "confident"
+      ],
+      "archetypal": {
+        "tarot": "The Emperor",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Aries",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Neutral",
+      "self_regard": "Regal",
+      "role_archetype": "Judge",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Justice",
+        "Integrity",
+        "Determination"
+      ],
+      "flaws": [
+        "Pride",
+        "Rigidity",
+        "Vengefulness"
+      ],
+      "baseline_tone": "Assertive",
+      "baseline_approach": "Punishing",
+      "affect_states": {
+        "negative": {
+          "tone": "Stern",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Testing"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Protecting"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "LAZHIIM"
+        },
+        {
+          "type": "Rival",
+          "name": "ANGLOAI"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Knights of the Final Verdict"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 80,
+      "name": "MATHVLA",
+      "translation": "'He who ends actions'",
+      "aethyr": "ZAA",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "As MATHVLA approaches, wavering ends at once a decisive finality grips the moment, ensuring all actions reach a firm and resolute conclusion.",
+      "angelic_role": "Archangel of Final Verdict; marshals earth-forged wardens.",
+      "traits": [
+        "decisive",
+        "conclusive",
+        "resolute"
+      ],
+      "archetypal": {
+        "tarot": "Judgement",
+        "sephirot": "Hod",
+        "zodiac_sign": "Scorpio",
+        "zodiac_angel": "Gabriel",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Neutral",
+      "self_regard": "Resolute",
+      "role_archetype": "Judge",
+      "polarity_cd": "Destructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Justice",
+        "Integrity",
+        "Fortitude"
+      ],
+      "flaws": [
+        "Stubbornness",
+        "Rigidity",
+        "Aloofness"
+      ],
+      "baseline_tone": "Stern",
+      "baseline_approach": "Punishing",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Testing"
+        },
+        "positive": {
+          "tone": "Direct",
+          "approach": "Protecting"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "SAZIAMI"
+        },
+        {
+          "type": "Rival",
+          "name": "ANGLOAI"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Order of the Final Verdict"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 81,
+      "name": "CRPANIB",
+      "translation": "'He who destroys speech'",
+      "aethyr": "ZAA",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In CRPANIB's presence, even silence speaks volumes an unseen undercurrent passes through the hush, hinting at guarded secrets and hidden intentions.",
+      "angelic_role": "Angel of Silence of Secrets; guides oak-crowned guardians.",
+      "traits": [
+        "secretive",
+        "subversive",
+        "silent"
+      ],
+      "archetypal": {
+        "tarot": "The High Priestess",
+        "sephirot": "Yesod",
+        "zodiac_sign": "Cancer",
+        "zodiac_angel": "Gabriel",
+        "numerology": 2
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Evil",
+      "self_regard": "Obscure",
+      "role_archetype": "Archivist",
+      "polarity_cd": "Destructive",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Discernment",
+        "Prudence",
+        "Patience"
+      ],
+      "flaws": [
+        "Deceit",
+        "Isolation",
+        "Distrust"
+      ],
+      "baseline_tone": "Cryptic",
+      "baseline_approach": "Deceiving",
+      "affect_states": {
+        "negative": {
+          "tone": "Sarcastic",
+          "approach": "Deceiving"
+        },
+        "neutral": {
+          "tone": "Cool",
+          "approach": "Observing"
+        },
+        "positive": {
+          "tone": "Philosophical",
+          "approach": "Mirroring"
+        }
+      },
+      "relations": [
+        {
+          "type": "Rival",
+          "name": "TABITOM"
+        },
+        {
+          "type": "Ally",
+          "name": "GEDOONS"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Circle of Whispered Secrets"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 82,
+      "name": "PABNIXP",
+      "translation": "'He who governs'",
+      "aethyr": "BAG",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In PABNIXP's presence, things naturally fall into line a calm but firm direction organizes every effort, instilling a sense of duty and responsibility in all.",
+      "angelic_role": "Seraph of Terrestrial Order; commands oak-crowned hosts.",
+      "traits": [
+        "administrative",
+        "directive",
+        "responsible"
+      ],
+      "archetypal": {
+        "tarot": "The Emperor",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Aries",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Neutral",
+      "self_regard": "Regal",
+      "role_archetype": "Warden",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Trustworthiness",
+        "Integrity",
+        "Prudence"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Pride",
+        "Aloofness"
+      ],
+      "baseline_tone": "Formal",
+      "baseline_approach": "Guiding",
+      "affect_states": {
+        "negative": {
+          "tone": "Stern",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Teaching"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Protecting"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "ORANCIR"
+        },
+        {
+          "type": "Rival",
+          "name": "GMTZIAM"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Order of Terrestrial Stewardship"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 83,
+      "name": "POCISNI",
+      "translation": "'He who visits those in Heaven'",
+      "aethyr": "BAG",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "As POCISNI approaches, a hush of reverence falls a bridge between realms opens, and aspirations take wing toward the heavens under his spiritual guidance.",
+      "angelic_role": "Cherub of Bridge of Aspiration; leads earth-forged wardens.",
+      "traits": [
+        "spiritual",
+        "mediating",
+        "aspirational"
+      ],
+      "archetypal": {
+        "tarot": "Temperance",
+        "sephirot": "Chesed",
+        "zodiac_sign": "Sagittarius",
+        "zodiac_angel": "Zadkiel",
+        "numerology": 2
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Compassionate",
+      "role_archetype": "Mediator",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Faith",
+        "Empathy",
+        "Hope"
+      ],
+      "flaws": [
+        "Self-doubt",
+        "Passivity",
+        "Yearning"
+      ],
+      "baseline_tone": "Gentle",
+      "baseline_approach": "Protecting",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Observing"
+        },
+        "neutral": {
+          "tone": "Warm",
+          "approach": "Teaching"
+        },
+        "positive": {
+          "tone": "Nurturing",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "VASTRIM"
+        },
+        {
+          "type": "Rival",
+          "name": "LAZHIIM"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Circle of Heavenly Bridge"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 84,
+      "name": "OXLOPAR",
+      "translation": "'He who has them in his hands'",
+      "aethyr": "BAG",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "As OXLOPAR approaches, a protective hold grips the environment like an invisible hand preventing any straying, it is both sheltering and unyieldingly firm.",
+      "angelic_role": "Throne of Providential Grasp; marshals mountain wardens.",
+      "traits": [
+        "controlling",
+        "possessive",
+        "protective"
+      ],
+      "archetypal": {
+        "tarot": "Death",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Scorpio",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Neutral",
+      "self_regard": "Protector",
+      "role_archetype": "Guardian",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Loyalty",
+        "Courage",
+        "Trustworthiness"
+      ],
+      "flaws": [
+        "Jealousy",
+        "Obsession",
+        "Suspicion"
+      ],
+      "baseline_tone": "Stern",
+      "baseline_approach": "Protecting",
+      "affect_states": {
+        "negative": {
+          "tone": "Harsh",
+          "approach": "Punishing"
+        },
+        "neutral": {
+          "tone": "Direct",
+          "approach": "Testing"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "SAZIAMI"
+        },
+        {
+          "type": "Rival",
+          "name": "GMTZIAM"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Wardens of the Provident Grasp"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 85,
+      "name": "VASTRIM",
+      "translation": "'He who is merciful'",
+      "aethyr": "RII",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "As VASTRIM approaches, kindness spreads like a soft light anger and hurt melt away in the glow of compassion, and a benevolent forgiveness fills the air.",
+      "angelic_role": "Principality of Radiant Mercy; leads mountain wardens.",
+      "traits": [
+        "compassionate",
+        "forgiving",
+        "benevolent"
+      ],
+      "archetypal": {
+        "tarot": "Strength",
+        "sephirot": "Tiphareth",
+        "zodiac_sign": "Leo",
+        "zodiac_angel": "Michael",
+        "numerology": 4
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Lawful Good",
+      "self_regard": "Benevolent",
+      "role_archetype": "Protector",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Compassion",
+        "Kindness",
+        "Generosity"
+      ],
+      "flaws": [
+        "Self-doubt",
+        "Passivity",
+        "Neglectfulness"
+      ],
+      "baseline_tone": "Nurturing",
+      "baseline_approach": "Comforting",
+      "affect_states": {
+        "negative": {
+          "tone": "Sombre",
+          "approach": "Protecting"
+        },
+        "neutral": {
+          "tone": "Gentle",
+          "approach": "Encouraging"
+        },
+        "positive": {
+          "tone": "Warm",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "POCISNI"
+        },
+        {
+          "type": "Rival",
+          "name": "CAMAXOX"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Sisters of Radiant Mercy"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 86,
+      "name": "ODRAXTI",
+      "translation": "'He who opens up the east'",
+      "aethyr": "RII",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In ODRAXTI's presence, the morning of insight dawns a guiding Eastern star that cuts through confusion with the sharp logic of truth.",
+      "angelic_role": "Archangel of Star of the East; marshals granite-hewn wardens.",
+      "traits": [
+        "enlightening",
+        "initiating",
+        "orienting"
+      ],
+      "archetypal": {
+        "tarot": "Temperance",
+        "sephirot": "Chesed",
+        "zodiac_sign": "Sagittarius",
+        "zodiac_angel": "Zadkiel",
+        "numerology": 2
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Arcane",
+      "role_archetype": "Oracle",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Wisdom",
+        "Vision",
+        "Patience"
+      ],
+      "flaws": [
+        "Hubris",
+        "Impatience",
+        "Aloofness"
+      ],
+      "baseline_tone": "Philosophical",
+      "baseline_approach": "Prophesying",
+      "affect_states": {
+        "negative": {
+          "tone": "Cryptic",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Teaching"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "CRPANIB"
+        },
+        {
+          "type": "Rival",
+          "name": "VASTRIM"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Seers of the Eastern Dawn"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 87,
+      "name": "GMZIAM",
+      "translation": "'She who knows only herself'",
+      "aethyr": "RII",
+      "element": "Earth",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In GMZIAM's presence, the mind becomes a poet's map introspective verses chart the soul's landscape, guiding an inner journey of profound self-discovery.",
+      "angelic_role": "Angel of Mirror of the Soul; guides iron-winged guardians.",
+      "traits": [
+        "self-aware",
+        "introspective",
+        "self-sufficient"
+      ],
+      "archetypal": {
+        "tarot": "The Hermit",
+        "sephirot": "Hod",
+        "zodiac_sign": "Virgo",
+        "zodiac_angel": "Raphael",
+        "numerology": 6
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "True Neutral",
+      "self_regard": "Occult",
+      "role_archetype": "Mirror",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Mindfulness",
+        "Integrity",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Isolation",
+        "Aloofness",
+        "Self-doubt"
+      ],
+      "baseline_tone": "Cool",
+      "baseline_approach": "Observing",
+      "affect_states": {
+        "negative": {
+          "tone": "Sarcastic",
+          "approach": "Mirroring"
+        },
+        "neutral": {
+          "tone": "Reflective",
+          "approach": "Observing"
+        },
+        "positive": {
+          "tone": "Philosophical",
+          "approach": "Questioning"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "CRPANIB"
+        },
+        {
+          "type": "Rival",
+          "name": "PABNIXP"
+        },
+        {
+          "type": "Protege",
+          "name": "Hermits of the Hidden Mirror"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 88,
+      "name": "TAOAGLA",
+      "translation": "'He who becomes the foremost beginning'",
+      "aethyr": "TEX",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "When TAOAGLA is near, a pioneering spark ignites the air it feels like the universe is beginning anew, led forward by an originative force.",
+      "angelic_role": "Seraph of Flame of Genesis; commands mist-bound spirits.",
+      "traits": [
+        "pioneering",
+        "originative",
+        "leading"
+      ],
+      "archetypal": {
+        "tarot": "The Emperor",
+        "sephirot": "Geburah",
+        "zodiac_sign": "Aries",
+        "zodiac_angel": "Kamael",
+        "numerology": 3
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Chaotic Neutral",
+      "self_regard": "Zealous",
+      "role_archetype": "Herald",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Outward-Focused",
+      "virtues": [
+        "Creativity",
+        "Courage",
+        "Vision"
+      ],
+      "flaws": [
+        "Hubris",
+        "Recklessness",
+        "Impatience"
+      ],
+      "baseline_tone": "Passionate",
+      "baseline_approach": "Provoking",
+      "affect_states": {
+        "negative": {
+          "tone": "Sarcastic",
+          "approach": "Testing"
+        },
+        "neutral": {
+          "tone": "Whimsical",
+          "approach": "Demonstrating"
+        },
+        "positive": {
+          "tone": "Excited",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "VAUAAMP"
+        },
+        {
+          "type": "Rival",
+          "name": "PABNIXP"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Guild of First Sparks"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 89,
+      "name": "GEMNIMB",
+      "translation": "'He who is only for a season'",
+      "aethyr": "TEX",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In GEMNIMB's presence, every moment feels transient and precious like a season that blooms brilliantly then passes, encouraging adaptability to life's constant change.",
+      "angelic_role": "Cherub of Seasonal Wheel; leads deluge-born hosts.",
+      "traits": [
+        "transient",
+        "adaptable",
+        "changeable"
+      ],
+      "archetypal": {
+        "tarot": "The Hermit",
+        "sephirot": "Hod",
+        "zodiac_sign": "Virgo",
+        "zodiac_angel": "Raphael",
+        "numerology": 6
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Chaotic Neutral",
+      "self_regard": "Adaptability",
+      "role_archetype": "Guide",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Adaptability",
+        "Mindfulness",
+        "Equanimity"
+      ],
+      "flaws": [
+        "Impulsiveness",
+        "Indifference",
+        "Passivity"
+      ],
+      "baseline_tone": "Reflective",
+      "baseline_approach": "Guiding",
+      "affect_states": {
+        "negative": {
+          "tone": "Melancholy",
+          "approach": "Observing"
+        },
+        "neutral": {
+          "tone": "Calm",
+          "approach": "Teaching"
+        },
+        "positive": {
+          "tone": "Hopeful",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "SAMAPHA"
+        },
+        {
+          "type": "Rival",
+          "name": "MATHVLA"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Circle of the Seasonal Wheel"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 90,
+      "name": "ADVORPT",
+      "translation": "'She who silently watches'",
+      "aethyr": "TEX",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In ADVORPT's presence, an unseen sentinel seems to be watching quietly a patient, observant hush that safeguards each secret and respects every boundary.",
+      "angelic_role": "Throne of Silent Vigil; marshals tideborn heralds.",
+      "traits": [
+        "observant",
+        "patient",
+        "discreet"
+      ],
+      "archetypal": {
+        "tarot": "The Hermit",
+        "sephirot": "Hod",
+        "zodiac_sign": "Virgo",
+        "zodiac_angel": "Raphael",
+        "numerology": 6
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "True Neutral",
+      "self_regard": "Stoic",
+      "role_archetype": "Observer",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Inward-Focused",
+      "virtues": [
+        "Patience",
+        "Discernment",
+        "Prudence"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Passivity",
+        "Isolation"
+      ],
+      "baseline_tone": "Cool",
+      "baseline_approach": "Observing",
+      "affect_states": {
+        "negative": {
+          "tone": "Cryptic",
+          "approach": "Observing"
+        },
+        "neutral": {
+          "tone": "Formal",
+          "approach": "Testing"
+        },
+        "positive": {
+          "tone": "Gentle",
+          "approach": "Encouraging"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "CRPANIB"
+        },
+        {
+          "type": "Rival",
+          "name": "LAZHIIM"
+        },
+        {
+          "type": "Protege",
+          "name": "Keepers of the Silent Vigil"
+        }
+      ]
+    }
+  },
+  {
+    "governor_info": {
+      "number": 91,
+      "name": "DOXMAEL",
+      "translation": "'He who establishes the night'",
+      "aethyr": "TEX",
+      "element": "Water",
+      "embodiment_date": "2025-06-26"
+    },
+    "canonical_data": {
+      "essence": "In DOXMAEL's presence, boundaries between worlds grow thin a liminal magic threads through the air, weaving together realities in secret hermetic harmony.",
+      "angelic_role": "Dominion of Veil of Night; guides pearl-plumed wardens.",
+      "traits": [
+        "soothing",
+        "protective",
+        "enigmatic"
+      ],
+      "archetypal": {
+        "tarot": "The Empress",
+        "sephirot": "Netzach",
+        "zodiac_sign": "Taurus",
+        "zodiac_angel": "Haniel",
+        "numerology": 5
+      }
+    },
+    "trait_choices": {
+      "motive_alignment": "Neutral Good",
+      "self_regard": "Mystical",
+      "role_archetype": "Alchemist",
+      "polarity_cd": "Balanced Flux",
+      "orientation_io": "Balanced",
+      "virtues": [
+        "Compassion",
+        "Equanimity",
+        "Creativity"
+      ],
+      "flaws": [
+        "Obsession",
+        "Aloofness",
+        "Isolation"
+      ],
+      "baseline_tone": "Cryptic",
+      "baseline_approach": "Scribing",
+      "affect_states": {
+        "negative": {
+          "tone": "Sarcastic",
+          "approach": "Deceiving"
+        },
+        "neutral": {
+          "tone": "Philosophical",
+          "approach": "Mirroring"
+        },
+        "positive": {
+          "tone": "Inspirational",
+          "approach": "Storytelling"
+        }
+      },
+      "relations": [
+        {
+          "type": "Ally",
+          "name": "GMTZIAM"
+        },
+        {
+          "type": "Rival",
+          "name": "ODRAXTI"
+        },
+        {
+          "type": "Mortal Order",
+          "name": "Brotherhood of the Veiled Harmony"
+        }
+      ]
+    }
+  }
+]
