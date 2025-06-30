@@ -18,6 +18,13 @@ except ImportError as exc:  # pragma: no cover
     # Provide a graceful message so the user remembers to install packages.
     raise SystemExit("openai package not found. Please run `pip install -r requirements.txt` before executing.") from exc
 
+# Attempt to load .env if python-dotenv is available
+try:
+    from dotenv import load_dotenv  # type: ignore
+except ImportError:  # pragma: no cover
+    def load_dotenv(*args, **kwargs):  # type: ignore
+        return False
+
 # -----------------------
 # Constants & Config
 # -----------------------
@@ -64,6 +71,9 @@ logging.basicConfig(
     format="%(asctime)s | %(levelname)s | %(name)s | %(message)s",
 )
 logger = logging.getLogger("governor_generator")
+
+# Load environment variables from .env if it exists
+load_dotenv(dotenv_path=BASE_DIR / ".env", override=False)
 
 # -----------------------
 # Utility Functions
