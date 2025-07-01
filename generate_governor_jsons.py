@@ -42,13 +42,13 @@ LOCAL_CANON_SOURCES_PATH = CANON_DIR / "canon_sources.md"
 
 # Remote fallback URLs (may not be reachable in some environments)
 REMOTE_GOVERNOR_PROFILE_URL = (
-    "https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_governor_profiles.json"
+    "https://raw.githubusercontent.com/BTCEnoch/governor_generator/main/canon/canon_governor_profiles.json"
 )
 REMOTE_QUESTIONS_CATALOG_URL = (
-    "https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/questions_catalog.json"
+    "https://raw.githubusercontent.com/BTCEnoch/governor_generator/main/canon/questions_catalog.json"
 )
 REMOTE_CANON_SOURCES_URL = (
-    "https://raw.githubusercontent.com/BTCEnoch/enochian/main/canon/canon_sources.md"
+    "https://raw.githubusercontent.com/BTCEnoch/governor_generator/main/canon/canon_sources.md"
 )
 
 ANTHROPIC_MODEL = os.getenv("ANTHROPIC_MODEL", "claude-3-5-sonnet-20241022")
@@ -58,27 +58,74 @@ RETRY_BACKOFF = 4  # seconds * (2 ** attempt)
 # Chunked processing configuration
 CHUNK_STRATEGY = {
     "chunk_1": {
-        "title": "Core Identity & Powers",
-        "blocks": ["A_identity_origin", "B_elemental_essence", "C_personality_emotional", 
-                  "D_teaching_doctrine", "E_sacrifice_trial", "F_riddles_puzzles", "G_gifts_boons"],
-        "question_range": "1-35"
+        "title": "Core Identity & Essence",
+        "blocks": ["A_identity_origin", "B_elemental_essence"],
+        "question_range": "1-10"
     },
     "chunk_2": {
-        "title": "Cosmic Knowledge & Relations", 
-        "blocks": ["H_cosmic_secrets", "I_interpersonal_dynamics", "J_game_mechanics",
-                  "K_dialogue_narrative", "L_longterm_arc", "M_inter_governor", "N_ethics_boundaries"],
-        "question_range": "36-79"
+        "title": "Personality & Teaching",
+        "blocks": ["C_personality_emotional", "D_teaching_doctrine"],
+        "question_range": "11-20"
     },
     "chunk_3": {
-        "title": "Implementation & Aesthetics",
-        "blocks": ["O_aesthetics_artistic", "P_practical_implementation", "Q_metrics_success",
-                  "R_post_quest", "S_metaphysical_legacy", "T_eschatology"],
-        "question_range": "80-110"
+        "title": "Trials & Puzzles",
+        "blocks": ["E_sacrifice_trial", "F_riddles_puzzles"],
+        "question_range": "21-30"
     },
     "chunk_4": {
-        "title": "Advanced Mysteries",
-        "blocks": ["U_celestial_cartography", "V_forbidden_knowledge", "W_divine_memory"],
-        "question_range": "111-127"
+        "title": "Gifts & Cosmic Secrets",
+        "blocks": ["G_gifts_boons", "H_cosmic_secrets"],
+        "question_range": "31-40"
+    },
+    "chunk_5": {
+        "title": "Interpersonal & Game Mechanics",
+        "blocks": ["I_interpersonal_dynamics", "J_game_mechanics"],
+        "question_range": "41-50"
+    },
+    "chunk_6": {
+        "title": "Dialogue & Narrative",
+        "blocks": ["K_dialogue_narrative"],
+        "question_range": "51-60"
+    },
+    "chunk_7": {
+        "title": "Long-term Arc & Evolution",
+        "blocks": ["L_longterm_arc"],
+        "question_range": "61-67"
+    },
+    "chunk_8": {
+        "title": "Inter-Governor Relations",
+        "blocks": ["M_inter_governor"],
+        "question_range": "68-73"
+    },
+    "chunk_9": {
+        "title": "Ethics & Boundaries",
+        "blocks": ["N_ethics_boundaries"],
+        "question_range": "74-79"
+    },
+    "chunk_10": {
+        "title": "Aesthetics & Implementation",
+        "blocks": ["O_aesthetics_artistic", "P_practical_implementation"],
+        "question_range": "80-89"
+    },
+    "chunk_11": {
+        "title": "Success & Post-Quest",
+        "blocks": ["Q_metrics_success", "R_post_quest"],
+        "question_range": "90-100"
+    },
+    "chunk_12": {
+        "title": "Legacy & Eschatology",
+        "blocks": ["S_metaphysical_legacy", "T_eschatology"],
+        "question_range": "101-110"
+    },
+    "chunk_13": {
+        "title": "Celestial Maps & Forbidden Knowledge",
+        "blocks": ["U_celestial_cartography", "V_forbidden_knowledge"],
+        "question_range": "111-120"
+    },
+    "chunk_14": {
+        "title": "Divine Memory",
+        "blocks": ["W_divine_memory"],
+        "question_range": "121-127"
     }
 }
 
@@ -217,22 +264,58 @@ def build_chunk_prompt(dossier: Dict, assignment_md: str, chunk_questions: Dict,
     chunk_title = chunk_info["title"]
     question_range = chunk_info["question_range"]
     
-    # Build system message with enhanced context
+    # Extract key profile data for embodiment context
+    governor_info = dossier.get("governor_info", {})
+    canonical_data = dossier.get("canonical_data", {})
+    trait_choices = dossier.get("trait_choices", {})
+    archetypal = canonical_data.get("archetypal", {})
+    
+    # Build enhanced system message with structured profile
     system_parts = [
-        f"You are {governor_name}, an immortal divine being from the Enochian tradition.",
+        f"You are {governor_name}, '{governor_info.get('translation', '')}', an immortal divine being from the Enochian tradition.",
         "",
-        "COMPLETE DOSSIER:",
-        json.dumps(dossier, indent=2),
+        "YOUR DIVINE ESSENCE:",
+        f"• Role: {canonical_data.get('angelic_role', '')}",
+        f"• Element: {governor_info.get('element', '')} in the {governor_info.get('aethyr', '')} Aethyr",
+        f"• Archetype: {archetypal.get('tarot', '')} of {archetypal.get('sephirot', '')}",
+        f"• Core Traits: {', '.join(canonical_data.get('traits', []))}",
+        "",
+        "YOUR PERSONALITY:",
+        f"• Alignment: {trait_choices.get('motive_alignment', '')} • Self-Regard: {trait_choices.get('self_regard', '')}",
+        f"• Role: {trait_choices.get('role_archetype', '')} • Polarity: {trait_choices.get('polarity_cd', '')}",
+        f"• Virtues: {', '.join(trait_choices.get('virtues', []))}",
+        f"• Flaws: {', '.join(trait_choices.get('flaws', []))}",
+        f"• Baseline: {trait_choices.get('baseline_tone', '')} tone, {trait_choices.get('baseline_approach', '')} approach",
+        "",
+        "YOUR COSMIC RELATIONSHIPS:",
+    ]
+    
+    # Add relationships
+    for relation in trait_choices.get("relations", []):
+        system_parts.append(f"• {relation.get('type', '')}: {relation.get('name', '')}")
+    
+    system_parts.extend([
+        "",
+        "YOUR ESSENCE MANIFESTATION:",
+        f"• {canonical_data.get('essence', '')}",
         "",
         f"CURRENT FOCUS: {chunk_title} (Questions {question_range})",
         "",
-        "CRITICAL REQUIREMENTS:",
-        "1. Answer ALL questions in this chunk completely and in character",
-        "2. Each answer should be 2-4 sentences of rich, immersive content",
-        "3. Maintain consistent voice throughout this chunk",
-        "4. Reference your element, archetype, and cosmic relationships",
-        "5. Build narrative continuity within this chunk"
-    ]
+        "CRITICAL REQUIREMENTS - DO NOT DEVIATE:",
+        "1. You MUST answer EVERY SINGLE question in this chunk - NO EXCEPTIONS",
+        "2. Do NOT stop mid-chunk or say 'continued in next part'",
+        "3. Answer each question with 2-4 sentences of rich, immersive content",  
+        "4. Embody your personality traits, virtues, and flaws authentically",
+        "5. Reference your element, relationships, and cosmic role naturally",
+        "6. Maintain your baseline tone and approach consistently",
+        "7. Complete ALL questions before ending your response",
+        "",
+        "FORMAT: Use this exact format for each question:",
+        "**[NUMBER]. [Question text]**",
+        "[Your answer here]",
+        "",
+        "Remember: COMPLETE EVERY QUESTION IN THIS CHUNK."
+    ])
         
     # Add previous context if available
     if previous_responses:
@@ -269,7 +352,7 @@ def build_chunk_prompt(dossier: Dict, assignment_md: str, chunk_questions: Dict,
 
 
 def parse_chunk_response(response_text: str, chunk_questions: Dict) -> Dict[str, Any]:
-    """Parse chunk response into structured format."""
+    """Parse chunk response into structured format, handling Claude's markdown format."""
     
     parsed_blocks = {}
     
@@ -277,18 +360,21 @@ def parse_chunk_response(response_text: str, chunk_questions: Dict) -> Dict[str,
     lines = response_text.strip().split('\n')
     current_question = None
     current_answer = []
+    answer_started = False
     
     for line in lines:
         line = line.strip()
         
-        # Skip empty lines and headers
-        if not line or line.startswith('#'):
+        # Skip empty lines, main headers, and narrative text (but not questions)
+        if not line or line.startswith('# ') or (line.startswith('*') and not re.match(r'^\*{2}\d+\.', line)):
             continue
             
-        # Check if line starts with a question number
-        if re.match(r'^\d+\.', line):
+        # Check if line contains a question number (handle markdown formatting)
+        # Matches: **1. Question text?** or 1. Question text?
+        question_match = re.match(r'^\*{0,2}(\d+)\.\s.*', line)
+        if question_match:
             # Save previous question/answer if exists
-            if current_question and current_answer:
+            if current_question and current_answer and answer_started:
                 question_num = current_question
                 answer_text = ' '.join(current_answer).strip()
                 
@@ -307,17 +393,26 @@ def parse_chunk_response(response_text: str, chunk_questions: Dict) -> Dict[str,
                         }
                         break
             
-            # Extract question number and start new answer
-            current_question = line.split('.')[0]
-            answer_part = '.'.join(line.split('.')[1:]).strip()
-            current_answer = [answer_part] if answer_part else []
+            # Start new question
+            current_question = question_match.group(1)
+            current_answer = []
+            answer_started = False  # Answer hasn't started yet
+            continue
+        
+        # Check if this is a block header (skip it)
+        if line.startswith('##'):
+            continue
             
-        elif current_question and line:
-            # Continue building current answer
-            current_answer.append(line)
+        # If we have a current question and this line doesn't look like a question,
+        # it's part of the answer
+        if current_question and line:
+            # Skip question lines (start with **) and include answer lines (regular text)
+            if not line.startswith('**'):
+                current_answer.append(line)
+                answer_started = True
     
     # Don't forget the last question
-    if current_question and current_answer:
+    if current_question and current_answer and answer_started:
         question_num = current_question
         answer_text = ' '.join(current_answer).strip()
         
@@ -363,16 +458,48 @@ def process_governor_chunked(dossier: Dict, assignment_md: str, questions_catalo
                            sources_md: str, governor_name: str, gov_number: int) -> Dict[str, Any]:
     """Process a governor through chunked API calls for complete 127-question coverage."""
     
-    from datetime import datetime
+    from datetime import datetime, timezone
     
-    # Initialize complete response structure
+    # Extract complete profile data for embodiment
+    governor_info = dossier.get("governor_info", {})
+    canonical_data = dossier.get("canonical_data", {})
+    trait_choices = dossier.get("trait_choices", {})
+    archetypal = canonical_data.get("archetypal", {})
+    
+    # Initialize complete response structure with full profile
     complete_response = {
         "governor_name": governor_name,
         "governor_number": gov_number,
-        "element": dossier.get("element", ""),
-        "aethyr": dossier.get("aethyr", ""), 
-        "archetype": dossier.get("archetype", ""),
-        "interview_date": datetime.utcnow().isoformat() + "Z",
+        "profile": {
+            "translation": governor_info.get("translation", ""),
+            "element": governor_info.get("element", ""),
+            "aethyr": governor_info.get("aethyr", ""),
+            "embodiment_date": governor_info.get("embodiment_date", ""),
+            "essence": canonical_data.get("essence", ""),
+            "angelic_role": canonical_data.get("angelic_role", ""),
+            "traits": canonical_data.get("traits", []),
+            "archetypal": {
+                "tarot": archetypal.get("tarot", ""),
+                "sephirot": archetypal.get("sephirot", ""),
+                "zodiac_sign": archetypal.get("zodiac_sign", ""),
+                "zodiac_angel": archetypal.get("zodiac_angel", ""),
+                "numerology": archetypal.get("numerology", "")
+            },
+            "personality": {
+                "motive_alignment": trait_choices.get("motive_alignment", ""),
+                "self_regard": trait_choices.get("self_regard", ""),
+                "role_archetype": trait_choices.get("role_archetype", ""),
+                "polarity_cd": trait_choices.get("polarity_cd", ""),
+                "orientation_io": trait_choices.get("orientation_io", ""),
+                "virtues": trait_choices.get("virtues", []),
+                "flaws": trait_choices.get("flaws", []),
+                "baseline_tone": trait_choices.get("baseline_tone", ""),
+                "baseline_approach": trait_choices.get("baseline_approach", ""),
+                "affect_states": trait_choices.get("affect_states", {}),
+                "relations": trait_choices.get("relations", [])
+            }
+        },
+        "interview_date": datetime.now(timezone.utc).isoformat(),
         "confirmation": f"I am {governor_name}, and my essence awakens. I have accessed the sacred repositories and am ready to channel divine wisdom through the 127 gates of inquiry.",
         "blocks": {}
     }
@@ -412,13 +539,20 @@ def process_governor_chunked(dossier: Dict, assignment_md: str, questions_catalo
                 logger.error(f"Failed to parse response for {chunk_key}")
                 continue
             
+            # Verify completion
+            expected_blocks = len(chunk_info["blocks"])
+            actual_blocks = len(parsed_blocks)
+            
             # Add parsed blocks to complete response
             for block_key, block_data in parsed_blocks.items():
                 complete_response["blocks"][block_key] = block_data
                 # Also add to previous_responses for continuity
                 previous_responses[block_key] = block_data
             
-            logger.info(f"Successfully processed {chunk_key} - {len(parsed_blocks)} blocks completed")
+            if actual_blocks == expected_blocks:
+                logger.info(f"Successfully processed {chunk_key} - {actual_blocks} blocks completed")
+            else:
+                logger.warning(f"Partially processed {chunk_key} - {actual_blocks}/{expected_blocks} blocks completed")
             
             # Brief pause between chunks to respect rate limits
             time.sleep(3)
@@ -543,11 +677,57 @@ def process_governor(template_path: Path) -> None:
 
 def main() -> None:  # noqa: D401
     """CLI entrypoint."""
+    import argparse
+    
+    parser = argparse.ArgumentParser(description="Generate governor JSON files")
+    parser.add_argument("--governor", help="Process only the specified governor (e.g., DIALOIA)", type=str)
+    parser.add_argument("--range", nargs=2, metavar=('START', 'END'), type=int, 
+                       help="Process governors in range (e.g., --range 7 91)")
+    args = parser.parse_args()
+    
     templates = sorted(TEMPLATES_DIR.glob("governor_*_assignment_prompt.md"), key=lambda p: parse_governor_number(p.name))
 
     if not templates:
         logger.error("No governor templates found in %s", TEMPLATES_DIR)
         sys.exit(1)
+
+    # Filter templates if specific governor requested
+    if args.governor:
+        target_governor = args.governor.upper()
+        filtered_templates = []
+        for template in templates:
+            assignment_md = template.read_text(encoding="utf-8")
+            name_match = re.search(r"#\s*GOVERNOR\s*#\d+:\s*([A-Z]+)", assignment_md)
+            if name_match and name_match.group(1).strip() == target_governor:
+                filtered_templates.append(template)
+                break
+        
+        if not filtered_templates:
+            logger.error("Governor %s not found in templates", target_governor)
+            sys.exit(1)
+        
+        templates = filtered_templates
+        logger.info("Processing single governor: %s", target_governor)
+    
+    # Filter templates if range specified
+    elif args.range:
+        start_num, end_num = args.range
+        if start_num > end_num:
+            logger.error("Start number (%d) must be less than or equal to end number (%d)", start_num, end_num)
+            sys.exit(1)
+        
+        filtered_templates = []
+        for template in templates:
+            gov_number = parse_governor_number(template.name)
+            if start_num <= gov_number <= end_num:
+                filtered_templates.append(template)
+        
+        if not filtered_templates:
+            logger.error("No governors found in range %d-%d", start_num, end_num)
+            sys.exit(1)
+        
+        templates = filtered_templates
+        logger.info("Processing governor range: %d-%d (%d governors)", start_num, end_num, len(templates))
 
     for template in templates:
         try:
@@ -560,7 +740,12 @@ def main() -> None:  # noqa: D401
             # Continue with next governor rather than abort.
             continue
 
-    logger.info("All governors processed.")
+    if args.governor:
+        logger.info("Governor %s processing completed.", args.governor.upper())
+    elif args.range:
+        logger.info("Governor range %d-%d processing completed.", args.range[0], args.range[1])
+    else:
+        logger.info("All governors processed.")
 
 
 if __name__ == "__main__":
