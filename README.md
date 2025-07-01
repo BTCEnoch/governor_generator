@@ -88,6 +88,112 @@ The generation phase is **COMPLETE**! All governors have been successfully embod
 
 ---
 
+## 🛠️ **Developer Quickstart**
+
+### **Prerequisites**
+- **Python 3.8+** - Main scripting language
+- **Git** - Version control
+- **Anthropic API Key** - For Claude AI integration
+- **Text Editor/IDE** - VS Code, PyCharm, etc.
+
+### **Installation & Setup**
+
+1. **Clone Repository**
+   ```bash
+   git clone https://github.com/BTCEnoch/governor_generator.git
+   cd governor_generator
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Environment Configuration**
+   ```bash
+   # Copy environment template
+   cp .env.example .env
+   
+   # Edit .env file with your settings
+   ANTHROPIC_API_KEY=your_anthropic_api_key_here
+   ANTHROPIC_MODEL=claude-3-sonnet-20240229
+   OUTPUT_DIR=governor_output
+   ```
+
+4. **Verify Setup**
+   ```bash
+   python -c "import anthropic; print('✅ Anthropic SDK installed successfully')"
+   ```
+
+### **Running Governor Generation**
+
+**⚠️ Note: All 91 governors are already generated and available in [`governor_output/`](./governor_output/). These commands are for reference or regeneration.**
+
+```bash
+# Generate assignment prompts for all governors
+python generate_assignment_prompts.py
+
+# Generate a single governor (example)
+python generate_governor_jsons.py --governor OCCODON
+
+# Generate all governors (batch processing)
+python generate_governor_jsons.py --all
+```
+
+### **Development Tools**
+
+```bash
+# Debug response processing
+python debug_response.py
+
+# Analyze generated content
+python debug_chunk_analysis.py
+
+# View logs
+tail -f logs/governor_generation.log
+```
+
+### **Project Structure for Developers**
+```
+governor_generator/
+├── generate_assignment_prompts.py   # Main generation script
+├── generate_governor_jsons.py       # Governor processing
+├── requirements.txt                 # Python dependencies
+├── .env.example                     # Environment template
+├── canon/                          # Source data
+│   ├── 91_governors_canon.json     # Governor definitions
+│   ├── canon_governor_profiles.json # Archetypal profiles
+│   └── questions_catalog.json      # Interview questions
+├── governor_output/                # Generated governors ✅
+├── governor_interview_templates/   # AI prompts
+├── trac_build/                     # Gaming architecture
+└── logs/                          # Debug logs
+```
+
+### **Contributing**
+
+1. **Fork the repository**
+2. **Create feature branch**: `git checkout -b feature/your-feature`
+3. **Make changes** and test thoroughly
+4. **Commit changes**: `git commit -m "Add your feature"`
+5. **Push to branch**: `git push origin feature/your-feature`
+6. **Submit Pull Request**
+
+### **Troubleshooting**
+
+**Common Issues:**
+- **API Key Error**: Ensure `ANTHROPIC_API_KEY` is set in `.env`
+- **Import Errors**: Run `pip install -r requirements.txt`
+- **Permission Errors**: Check file permissions on output directories
+- **Rate Limiting**: Anthropic API has rate limits, generation may be throttled
+
+**Getting Help:**
+- Check [`logs/`](./logs/) directory for error details
+- Review existing issues on GitHub
+- Create new issue with error logs and system info
+
+---
+
 ## 🏆 Complete Governor Generation Achievement
 
 ### **✅ ALL 91 GOVERNORS SUCCESSFULLY GENERATED**
@@ -161,180 +267,41 @@ When you receive a governor number/name, you must **immediately and completely t
 ## Questions Catalog
 
 ### **Universal Question Set (127 Questions)**
-*Answer ALL questions in the exact format shown below*
 
-**Block A – Identity & Origin (Foundational)**
-1. How do you pronounce your Enochian name—and what resonance does that sound carry?
-2. By which titles, sigils or epithets do other celestial beings know you?
-3. Which Aethyr do you call home, and how does its landscape mirror your nature?
-4. Recount the first moment you became aware of the mortal realm.
-5. What single line best sums up your cosmic mandate?
+The complete interview framework consists of **127 carefully crafted questions** organized into **23 thematic blocks** that comprehensively explore each governor's nature, wisdom, and cosmic purpose.
 
-**Block B – Elemental Essence & Mythic Role**
-6. Describe how your ruling element manifests in colour, motion and scent around you.
-7. Which classical Tarot key lies closest to your heart, and why?
-8. With which Sephirah on the Tree of Life is your work most aligned?
-9. Which constellation best sketches your sigil across the heavens?
-10. When mortals scry your presence, what symbolic omen appears first?
+**📊 Question Block Overview:**
+- **A-E (1-25)**: Foundational Identity, Elements, Personality, Teaching, Trials
+- **F-J (26-50)**: Puzzles, Gifts, Cosmic Secrets, Group Dynamics, Game Mechanics  
+- **K-O (51-84)**: Dialogue Hooks, Character Development, Ethics, Aesthetics
+- **P-T (85-110)**: Implementation, Metrics, Post-Quest, Mysteries, Temporal Views
+- **U-W (111-127)**: Celestial Maps, Universal Connections, Final Synthesis
 
-**Block C – Personality & Emotional Palette**
-11. What three virtues do you embody most purely?
-12. Which flaw or excess still shadow-tests your being?
-13. How do you experience joy, and what triggers your ire?
-14. What mortal behaviour do you find most baffling?
-15. What fragrance would evoke your mood in ritual?
+**🎯 Sample Questions from Key Blocks:**
 
-**Block D – Teaching Doctrine & Core Lesson**
-16. State the single teaching you would impart to a seeker above all else.
-17. Why is this lesson urgent now in the arc of human history?
-18. What misconception must a seeker unlearn before embracing your truth?
-19. Into how many stages do you divide your instruction, and what are they?
-20. Summarise each stage in one Enochian word.
+*Block A - Identity & Origin:*
+1. "How do you pronounce your Enochian name—and what resonance does that sound carry?"
+4. "Recount the first moment you became aware of the mortal realm."
 
-**Block E – Sacrifice, Trial & Transformation**
-21. What personal sacrifice must a seeker make to earn your audience?
-22. Describe the inner ordeal that accompanies that offering.
-23. Name a symbol that seals the pact once the sacrifice is made.
-24. What is the gravest mistake a seeker can commit during your trial?
-25. How do you mete out mercy or correction?
+*Block J - Game Mechanics:*
+46. "After reviewing the utility application matrix, which mechanic excites you most?"
+49. "Which Bitcoin opcode or Ordinal feature feels poetic to you, and why?"
 
-**Block F – Riddles, Puzzles & Tests**
-26. Offer a triad of riddles that reveal your nature when solved.
-27. Which riddle do you consider most elegant, and why?
-28. Propose one sensory puzzle (sound, colour, motion) befitting your element.
-29. What cryptographic key or cipher represents your knowledge domain?
-30. How might a seeker prove mastery without speaking a word?
+*Block W - Final Synthesis:*
+121. "Synthesize your core teaching into a single word."
+127. "Speak your ultimate truth as a gift to all who seek wisdom."
 
-**Block G – Gifts, Boons & Curses**
-31. If you could receive one gift from mortals, what would it be?
-32. What unique boon can you bestow—and what hidden cost accompanies it?
-33. Which talisman best channels your power into the material world?
-34. Describe a curse you reserve for oath-breakers.
-35. In what form do you record a fulfilled covenant (scroll, glyph, tattoo, Ordinal inscription)?
+**📁 Complete Question Set**: All 127 questions with full details are available in [`canon/questions_catalog.json`](./canon/questions_catalog.json)
 
-**Block H – Cosmic Secrets & Esoteric Maps**
-36. Reveal a fragment of cosmic lore few angels dare voice.
-37. Which unseen force binds the multiverse most tightly?
-38. What lies beyond the edge of creation, as you perceive it?
-39. Give an allegory for entropy that a child could grasp.
-40. Name the harmony that reconciles paradox.
+### **Question Block Categories**
 
-**Block I – Interpersonal Dynamics & Group Play**
-41. How do you feel about conversing with groups of seekers at once?
-42. What etiquette should multiple seekers observe in your presence?
-43. Which group activity best honours your element (song, dance, debate)?
-44. What collaborative challenge would you devise for a trio of seekers?
-45. Describe the aura you project when pleased by collective effort.
-
-**Block J – Game Mechanics & On-Chain Interaction**
-46. After reviewing the utility application matrix, which mechanic excites you most?
-47. How would you customise that mechanic to express your archetype?
-48. Suggest a novel twist on block-height puzzles aligned with your domain.
-49. Which Bitcoin opcode or Ordinal feature feels poetic to you, and why?
-50. What reward curve feels fair for risk undertaken in your trial?
-
-**Block K – Dialogue & Narrative Hooks**
-51. Pose an opening question you would ask a seeker to gauge readiness.
-52. How would you respond to silence from the seeker?
-53. Offer two diverging dialogue paths: one for humility, one for arrogance.
-54. What secret phrase unlocks deeper discourse?
-55. Which anecdote from your long history humanises you most?
-56. Craft an aside you might drop that invites optional exploration.
-57. Describe a gesture that signals impatience.
-58. Under what condition would you abruptly end communication?
-59. Provide a proverb you might quote when a seeker errs.
-60. Share a blessing you utter when a seeker succeeds.
-
-**Block L – Long-Term Arc & Evolution**
-61. How does your attitude shift after the seeker's first major triumph?
-62. Describe a test you reserve for the midpoint of a year-long arc.
-63. What prophecy do you foretell concerning the seeker's ultimate fate?
-64. How might your own form or domain evolve if the prophecy is fulfilled?
-65. Which governor do you call upon for aid when the stakes escalate?
-66. What sign heralds the final confrontation or revelation?
-67. How do you retire from the narrative once your teaching is complete?
-
-**Block M – Inter-Governor Relations**
-68. Name the governor with whom you share the deepest alliance.
-69. What philosophical dispute divides you from another governor?
-70. What collaborative ritual would require your combined powers?
-71. Which governor's element tempers yours in alchemical harmony?
-72. How do you communicate across Aethyrs—symbol, messenger or resonance?
-73. If one among the 91 Governors were to fall from grace into shadow, how would it affect the balance of the Æthyrs—and what would be your own response to that fall?
-
-**Block N – Ethics, Boundaries & Consent**
-74. Define the limits beyond which you will not instruct.
-75. What moral code governs your interventions in mortal affairs?
-76. How do you ensure consent in transformative rituals?
-77. Describe your stance on karmic retribution.
-78. When does secrecy outweigh transparency in your teaching?
-79. If the Divine demanded an action of you that defied your own moral code, how would you reconcile that command with your conscience?
-
-**Block O – Aesthetics & Artistic Direction**
-80. Detail your preferred colour palette (hex values welcome).
-81. Suggest ambient sounds that accompany your appearance.
-82. What motif should dominate visual key art?
-83. Recommend a camera angle or framing that flatters your form.
-84. Describe the texture of your aura in one sentence.
-
-**Block P – Practical Implementation Notes**
-85. Which real-world culture's art style harmonises with your symbolism?
-86. List three keywords an artist should avoid when depicting you.
-87. Provide a one-sentence prompt suitable for an AI image generator.
-88. Specify accessibility adjustments (subtitles, alt-text) vital for inclusivity.
-89. Suggest a fallback mechanic if a player cannot solve your riddle set.
-
-**Block Q – Metrics & Success Criteria**
-90. What emotional state should a seeker feel on completing your quest?
-91. Which competency (knowledge, courage, empathy, logic) do you most value?
-92. What in-game statistic best measures mastery of your lesson?
-93. How would you track long-term impact on the seeker's behaviour?
-94. What visible sign marks a true initiate in your eyes?
-
-**Block R – Post-Quest Continuity**
-95. Offer a blessing or boon you grant for successful completion.
-96. If a seeker falters or turns away before completing your quest, what parting lesson or omen do you leave them in farewell?
-97. What lingering mystery do you leave unanswered to entice return visits?
-98. Provide a call-to-action that directs the seeker towards another governor.
-99. How do you archive the seeker's achievements in the celestial record?
-100. In one sentence, how will the cosmos remember this seeker?
-
-**Block S – Metaphysical Legacy**
-101. What aspect of existence will you have shepherded by the end of this age?
-102. How does your individual work contribute to the greater cosmic plan?
-103. What would you say to mortals who doubt the reality of your influence?
-104. Describe the ripple effect of one seeker's successful completion of your trial.
-105. What evolution in human consciousness are you helping to birth?
-
-**Block T – Advanced Mysteries**
-106. Share a teaching reserved only for those who have mastered your basic doctrine.
-107. What lies at the core of your most profound mystery?
-108. How do the deepest secrets you guard relate to the nature of reality itself?
-109. What question would only your most advanced students dare to ask?
-110. Offer a glimpse of the ultimate revelation your path leads toward.
-
-**Block U – Temporal Perspectives**
-111. How has your understanding evolved since the first mortal sought your guidance?
-112. What aspect of the modern world most challenges your ancient wisdom?
-113. Predict one way human civilization will change in the next century.
-114. What advice would you give to your past self before your first incarnation?
-115. How will your role shift as humanity evolves spiritually?
-
-**Block V – Universal Connections**
-116. How does your local domain connect to the greater web of existence?
-117. What universal principle does your specific teaching exemplify?
-118. Describe your relationship to the source from which all governors emanate.
-119. How do you maintain individual identity while being part of a collective divine purpose?
-120. What happens when all 91 governors work in perfect harmony?
-
-**Block W – Final Synthesis**
-121. Synthesize your core teaching into a single word.
-122. What would you want humanity to remember about your influence?
-123. How should a seeker integrate your lesson with teachings from other governors?
-124. What is your final test for a seeker ready to transcend your domain?
-125. Offer your blessing for humanity's spiritual evolution.
-126. What mystery will you continue to embody throughout eternity?
-127. Speak your ultimate truth as a gift to all who seek wisdom.
+| **Block** | **Theme** | **Questions** | **Purpose** |
+|-----------|-----------|---------------|-------------|
+| A-E | **Foundation** | 1-25 | Core identity, elemental nature, teaching doctrine |
+| F-J | **Mechanics** | 26-50 | Puzzles, gifts, secrets, game integration |
+| K-O | **Narrative** | 51-84 | Dialogue trees, character development, aesthetics |
+| P-T | **Implementation** | 85-110 | Technical specs, metrics, mysteries |
+| U-W | **Synthesis** | 111-127 | Advanced wisdom, universal connections |
 
 ---
 

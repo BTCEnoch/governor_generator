@@ -2040,34 +2040,53 @@ function onDialogueOptionSelected(govId, choiceId) {
 }
 ```
 
-**Back-end Event Collection:** On the server side, some events are better captured by the indexer or API:
+**P2P Analytics Collection:** In the Trac Systems P2P architecture, analytics are captured locally and optionally shared:
 
-* When a block is processed, how many game transactions were in it? Could log "TransactionsPerBlock" for monitoring throughput.
-* If an error occurs in contract execution (shouldn't happen if well-validated, but maybe track unexpected reverts or indexer parsing issues).
-* Aggregated stats: the indexer could emit an event "DailyActivePlayers" or similar once a day.
-* The separate **analytics service** (foundation described creating `backend/analytics` with Kafka, Redis, etc.) can ingest events from both front-end and back-end. We might use Kafka as a buffer: front-end events are sent to an API endpoint that pushes them to a Kafka topic, and the analytics service consumes them to store in a database for analytics or forward to external analytics.
+* **Local Event Tracking**: All events are captured client-side and stored in local IndexedDB
+* **On-Chain Analytics**: Major game events are recorded as Bitcoin transactions (permanent audit trail)
+* **Peer-to-Peer Metrics**: Network health and gameplay stats shared via P2P consensus
+* **Privacy-First**: Users control what analytics data (if any) they share
 
-For simplicity, assume we send events to an API:
+**Zero Infrastructure Analytics:**
 
 ```ts
-// Pseudocode for a simple analytics collector endpoint (could be part of backend/api or a separate service)
-app.post('/analytics/event', (req, res) => {
-  const { event, properties } = req.body;
-  // Basic validation...
-  analyticsQueue.push({ event, properties, timestamp: Date.now() });
-  res.sendStatus(204);
-});
+// Trac Systems P2P Analytics (no backend needed)
+class TracAnalytics {
+  private localDB: IDBDatabase;
+  private p2pNetwork: TracP2PNetwork;
 
-// In analytics service, consuming events
-analyticsQueue.on('event', evt => {
-  // Log to console or file for now
-  console.log(`[Analytics] ${evt.event}`, evt.properties);
-  // Optionally, forward to external service
-  posthog.capture(evt.event, evt.properties);
-  mixpanel.track(evt.event, evt.properties);
-  // Or store in a database for custom queries
-  db.insert('events', evt);
-});
+  async trackEvent(event: string, properties: any) {
+    // Store locally first (always works offline)
+    await this.storeLocalEvent(event, properties);
+    
+    // Optional: Share anonymized data via P2P network
+    if (this.userOptedIntoSharing) {
+      this.p2pNetwork.shareAnonymizedEvent({
+        event,
+        properties: this.anonymizeProperties(properties),
+        timestamp: Date.now()
+      });
+    }
+    
+    // Optional: Send to external analytics (user choice)
+    if (this.externalAnalyticsEnabled) {
+      posthog.capture(event, properties);
+      mixpanel.track(event, properties);
+    }
+  }
+
+  private async storeLocalEvent(event: string, properties: any) {
+    // Store in client-side IndexedDB (no server database needed)
+    const transaction = this.localDB.transaction(['analytics'], 'readwrite');
+    const store = transaction.objectStore('analytics');
+    await store.add({
+      event,
+      properties,
+      timestamp: Date.now(),
+      sessionId: this.sessionId
+    });
+  }
+}
 ```
 
 **Analytics Dashboard:** We set up dashboards to visualize this data. For business metrics and live monitoring:
@@ -2476,17 +2495,17 @@ echo "Game deployed to Bitcoin. Client ID: $inscription_id"
 - ❌ Application server credentials
 
 **Remaining Minimal Secrets:**
-* **Bitcoin Node Credentials**: RPC access to Bitcoin node
-* **MetaShrew Database**: Indexer's internal Postgres credentials
+* **TAP Wallet Extension**: User's private keys (managed by wallet)
+* **P2P Network Identity**: Node keypair for peer authentication
 * **Optional Analytics Keys**: If using client-side analytics
 
 **Simplified Secret Management:**
 ```bash
-# Minimal secrets needed (can use environment variables)
-export BITCOIN_RPC_USER="readonly_user"
-export BITCOIN_RPC_PASS="secure_password"
-export INDEXER_DB_URL="postgresql://user:pass@localhost/indexer"
+# Minimal secrets needed (client-side only)
+export P2P_NODE_KEYPAIR="generated_locally_by_client"
+export TAP_WALLET_CONNECT="managed_by_browser_extension"
 
+# No server secrets or databases needed
 # No complex Vault infrastructure needed
 ```
 
@@ -2535,31 +2554,34 @@ echo "💾 Total cost: ~$50-200 (one-time, permanent)"
 echo "🚀 Zero ongoing hosting costs"
 ```
 
-**Minimal Infrastructure (replaces Terraform):**
+**Zero Infrastructure (replaces all server infrastructure):**
 
 ```yaml
-# docker-compose.minimal.yml - Only for MetaShrew indexer
+# ✅ NO DOCKER COMPOSE NEEDED - True P2P Architecture
+# 
+# Traditional approach (REMOVED):
+# - No indexer services
+# - No database containers  
+# - No server infrastructure
+#
+# New Trac Systems approach:
+# - P2P network handles all data
+# - TAP Protocol manages state
+# - Bitcoin provides permanent storage
+# - Client apps connect directly to P2P network
+
+# Optional: P2P bootstrap node (community-run)
+# p2p-bootstrap-node.yml (for community infrastructure only)
 version: '3.8'
 services:
-  indexer:
-    image: metashrew/indexer:latest
+  bootstrap-node:
+    image: trac-systems/bootstrap-node:latest
     environment:
-      - BITCOIN_RPC_URL=https://bitcoin.node.com:8332
-      - DATABASE_URL=postgresql://indexer:pass@db:5432/metashrew
+      - P2P_PORT=4001
+      - NETWORK_ID=enochian-governors
     ports:
-      - "4000:4000"  # GraphQL endpoint
-      
-  db:
-    image: postgres:15
-    environment:
-      - POSTGRES_DB=metashrew
-      - POSTGRES_USER=indexer
-      - POSTGRES_PASSWORD=secure_pass
-    volumes:
-      - indexer_data:/var/lib/postgresql/data
-
-volumes:
-  indexer_data:
+      - "4001:4001"  # P2P listening port
+    # No database needed - just P2P routing
 ```
 
 **Optional Monitoring (Simplified):**
