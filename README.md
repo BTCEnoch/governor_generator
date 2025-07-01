@@ -53,6 +53,8 @@ With all governors generated, focus has shifted to:
 - **Template Code Samples** - [`trac_build/template_psudocode_samples_trac.md`](./trac_build/template_psudocode_samples_trac.md) - P2P implementation patterns
 - **UI Build Checklist** - [`trac_build/ui_build_checklist_trac.md`](./trac_build/ui_build_checklist_trac.md) - PWA development guide
 - **Utility Matrix** - [`trac_build/utility_matrix.md`](./trac_build/utility_matrix.md) - P2P gaming mechanics framework
+- **TAP/Trac Resources** - [`TAP_TRAC_RESOURCES.md`](./TAP_TRAC_RESOURCES.md) - Complete protocol documentation and SDKs
+- **Implementation Guides** - [`IMPLEMENTATION_GUIDES.md`](./IMPLEMENTATION_GUIDES.md) - Step-by-step development tutorials
 
 ### **🎭 Governor Storyline System** ✅ **NEW BREAKTHROUGH**
 - **Storyline Template** - [`storyline_template.md`](./storyline_template.md) - Comprehensive narrative framework for immersive governor interactions
@@ -100,6 +102,8 @@ The generation phase is **COMPLETE**! All governors have been successfully embod
 4. **Code Templates** - Use [`trac_build/template_psudocode_samples_trac.md`](./trac_build/template_psudocode_samples_trac.md)
 5. **UI Development** - Reference [`trac_build/ui_build_checklist_trac.md`](./trac_build/ui_build_checklist_trac.md)
 6. **Gaming Mechanics** - Review [`trac_build/utility_matrix.md`](./trac_build/utility_matrix.md) for P2P game features
+7. **Protocol Documentation** - Study [`TAP_TRAC_RESOURCES.md`](./TAP_TRAC_RESOURCES.md) for complete TAP/Trac setup
+8. **Implementation Tutorials** - Follow [`IMPLEMENTATION_GUIDES.md`](./IMPLEMENTATION_GUIDES.md) for development workflows
 
 ### **📚 For Researchers & Occultists**
 - **Complete Governor Database** - All 91 archetypal profiles with full embodiment
@@ -180,6 +184,8 @@ governor_generator/
 ├── generate_governor_jsons.py       # Governor processing
 ├── storyline_template.md            # Comprehensive narrative framework
 ├── storyline_checklist.md           # AI storyline automation blueprint
+├── TAP_TRAC_RESOURCES.md            # Complete TAP/Trac protocol documentation
+├── IMPLEMENTATION_GUIDES.md         # Step-by-step development tutorials
 ├── requirements.txt                 # Python dependencies
 ├── .env.example                     # Environment template
 ├── canon/                          # Source data
