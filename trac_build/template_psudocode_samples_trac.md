@@ -829,7 +829,7 @@ class TapPlayer {
 
     // Sync reputation change with P2P network
     await this.tracPeer.syncReputationChange(governorId, reputationToken.value, newValue);
-  }
+    }
 }
 ```
 
