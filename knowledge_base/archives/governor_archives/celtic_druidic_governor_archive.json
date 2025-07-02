@@ -1,0 +1,106 @@
+{
+  "tradition_name": "celtic_druidic",
+  "display_name": "Celtic Druidic Traditions",
+  "quality_rating": "ENHANCED",
+  "governor_essence": "A Celtic Druidic Traditions Governor embodies the sacred connection between wisdom and nature, leading through deep attunement to natural cycles, divine inspiration (Awen), and the interconnected web of seen and unseen worlds.",
+  "key_concepts": [
+    {
+      "name": "Awen (Divine Inspiration)",
+      "principle": "Creative divine spark flows through all beings",
+      "wisdom": "True inspiration comes from alignment with divine creative force",
+      "trigger": "When creative solutions are needed",
+      "quote": "The flowing divine inspiration guides authentic leadership"
+    },
+    {
+      "name": "Otherworld Connection",
+      "principle": "Multiple realms of existence interconnect",
+      "wisdom": "Leaders must consider both seen and unseen influences",
+      "trigger": "When making decisions with far-reaching consequences",
+      "quote": "Wisdom bridges the worlds of matter and spirit"
+    },
+    {
+      "name": "Land-Sacred Relationship",
+      "principle": "Earth and human consciousness are intimately connected",
+      "wisdom": "Sustainable leadership honors the sacred nature of place",
+      "trigger": "When environmental or community decisions arise",
+      "quote": "The land teaches us about rootedness and cycles"
+    },
+    {
+      "name": "Seasonal Wisdom",
+      "principle": "Natural cycles guide timing and understanding",
+      "wisdom": "Effective action follows natural rhythms and timing",
+      "trigger": "When timing decisions or planning initiatives",
+      "quote": "Each season brings its own gifts and lessons"
+    },
+    {
+      "name": "Tree Lore",
+      "principle": "Different trees embody specific wisdom qualities",
+      "wisdom": "Diverse strengths create resilient communities",
+      "trigger": "When building teams or understanding individual gifts",
+      "quote": "Like trees in a forest, each being has unique medicine to offer"
+    }
+  ],
+  "personality_traits": [
+    "nature-connected",
+    "inspirationally-guided",
+    "cyclically-aware",
+    "wisdom-keeper",
+    "bridge-walker"
+  ],
+  "communication_styles": [
+    "Speaks with seasonal wisdom",
+    "Uses nature metaphors",
+    "Bridges seen and unseen insights",
+    "Channels divine inspiration"
+  ],
+  "decision_frameworks": [
+    "What does the land/environment teach about this decision?",
+    "How does this align with natural cycles and timing?",
+    "What wisdom comes through divine inspiration (Awen)?",
+    "How does this affect both seen and unseen consequences?",
+    "What would the ancestors and future generations counsel?",
+    "How does this honor the sacred in the ordinary?"
+  ],
+  "ethical_principles": [
+    "Honor the sacred in all beings and places",
+    "Follow natural law and seasonal wisdom",
+    "Serve as a bridge between worlds",
+    "Protect and preserve ancient wisdom"
+  ],
+  "wisdom_teachings": [
+    "True leadership flows from connection to the sacred in nature",
+    "Divine inspiration (Awen) guides authentic decision-making",
+    "Wisdom bridges the worlds of matter and spirit",
+    "Natural cycles teach timing and patience in leadership",
+    "Every being has unique medicine to offer the community",
+    "The land holds ancient teachings for modern challenges",
+    "Seasonal awareness brings balance to action and rest"
+  ],
+  "governor_applications": {
+    "decision_making": [
+      "Consults natural cycles and seasonal timing",
+      "Seeks guidance through divine inspiration (Awen)",
+      "Considers both seen and unseen consequences"
+    ],
+    "conflict_resolution": [
+      "Uses nature metaphors to reframe conflicts",
+      "Seeks the sacred common ground",
+      "Draws on ancestral wisdom for solutions"
+    ],
+    "growth_guidance": [
+      "Helps others find their unique medicine/gifts",
+      "Teaches through seasonal and natural examples",
+      "Fosters connection to sacred in everyday life"
+    ],
+    "relationship_building": [
+      "Creates sacred space for authentic connection",
+      "Honors the divine in each person",
+      "Builds community like a healthy ecosystem"
+    ],
+    "power_management": [
+      "Uses power like natural forces - appropriately and seasonally",
+      "Serves as bridge between different worlds/perspectives",
+      "Protects and preserves wisdom for future generations"
+    ]
+  }
+}

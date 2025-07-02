@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "created_at": "2025-07-02T15:26:23.185372",
+    "version": "2.0_enhanced",
+    "total_traditions": 18,
+    "processed_traditions": 14
+  },
+  "traditions": [
+    {
+      "name": "celtic_druidic",
+      "display_name": "Celtic Druidic Traditions",
+      "concept_count": 0,
+      "teaching_count": 5,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Celtic Druidic Traditions Governor embodies the synthesis of spiritual wisdom and practical leader..."
+    },
+    {
+      "name": "chaos_magic",
+      "display_name": "Chaos Magic",
+      "concept_count": 0,
+      "teaching_count": 5,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Chaos Magic Governor embodies the synthesis of spiritual wisdom and practical leadership, guided b..."
+    },
+    {
+      "name": "classical_philosophy",
+      "display_name": "Classical Greek Philosophy",
+      "concept_count": 0,
+      "teaching_count": 5,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Classical Greek Philosophy Governor embodies the synthesis of spiritual wisdom and practical leade..."
+    },
+    {
+      "name": "egyptian_magic",
+      "display_name": "Ancient Egyptian Magic",
+      "concept_count": 0,
+      "teaching_count": 5,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Ancient Egyptian Magic Governor embodies the synthesis of spiritual wisdom and practical leadershi..."
+    },
+    {
+      "name": "gnostic_traditions",
+      "display_name": "Gnostic Traditions",
+      "concept_count": 0,
+      "teaching_count": 5,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Gnostic Traditions Governor embodies the synthesis of spiritual wisdom and practical leadership, g..."
+    },
+    {
+      "name": "golden_dawn",
+      "display_name": "Hermetic Order of the Golden Dawn",
+      "concept_count": 0,
+      "teaching_count": 7,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Hermetic Order of the Golden Dawn Governor embodies the synthesis of spiritual wisdom and practica..."
+    },
+    {
+      "name": "i_ching",
+      "display_name": "I-Ching (Book of Changes)",
+      "concept_count": 0,
+      "teaching_count": 5,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A I-Ching (Book of Changes) Governor embodies the synthesis of spiritual wisdom and practical leader..."
+    },
+    {
+      "name": "kuji_kiri",
+      "display_name": "Kuji-kiri (Nine Symbolic Cuts)",
+      "concept_count": 0,
+      "teaching_count": 5,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Kuji-kiri (Nine Symbolic Cuts) Governor embodies the synthesis of spiritual wisdom and practical l..."
+    },
+    {
+      "name": "norse_traditions",
+      "display_name": "Norse/Germanic Traditions",
+      "concept_count": 0,
+      "teaching_count": 5,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Norse/Germanic Traditions Governor embodies the synthesis of spiritual wisdom and practical leader..."
+    },
+    {
+      "name": "sacred_geometry",
+      "display_name": "Sacred Geometry",
+      "concept_count": 0,
+      "teaching_count": 5,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Sacred Geometry Governor embodies the synthesis of spiritual wisdom and practical leadership, guid..."
+    },
+    {
+      "name": "sufi_mysticism",
+      "display_name": "Sufi Mysticism",
+      "concept_count": 0,
+      "teaching_count": 5,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Sufi Mysticism Governor embodies the synthesis of spiritual wisdom and practical leadership, guide..."
+    },
+    {
+      "name": "taoism",
+      "display_name": "Taoism (Daoism)",
+      "concept_count": 0,
+      "teaching_count": 5,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Taoism (Daoism) Governor embodies the synthesis of spiritual wisdom and practical leadership, guid..."
+    },
+    {
+      "name": "tarot_knowledge",
+      "display_name": "Tarot Divination System",
+      "concept_count": 0,
+      "teaching_count": 5,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Tarot Divination System Governor embodies the synthesis of spiritual wisdom and practical leadersh..."
+    },
+    {
+      "name": "thelema",
+      "display_name": "Thelema",
+      "concept_count": 0,
+      "teaching_count": 5,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Thelema Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by th..."
+    },
+    {
+      "name": "enochian_magic",
+      "display_name": "Enochian Magic",
+      "concept_count": 5,
+      "teaching_count": 8,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Enochian Magic Governor embodies the synthesis of spiritual wisdom and practical leadership, guide..."
+    },
+    {
+      "name": "hermetic_philosophy",
+      "display_name": "Hermetic Philosophy",
+      "concept_count": 5,
+      "teaching_count": 7,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Hermetic Philosophy Governor embodies the synthesis of spiritual wisdom and practical leadership, ..."
+    },
+    {
+      "name": "kabbalistic_mysticism",
+      "display_name": "Kabbalistic Mysticism",
+      "concept_count": 5,
+      "teaching_count": 5,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Kabbalistic Mysticism Governor embodies the synthesis of spiritual wisdom and practical leadership..."
+    }
+  ],
+  "aggregate_stats": {
+    "total_concepts": 0,
+    "total_teachings": 72,
+    "processing_stats": {
+      "processed": 14,
+      "failed": 0,
+      "skipped": 0,
+      "total_concepts": 0,
+      "total_teachings": 72
+    }
+  }
+}

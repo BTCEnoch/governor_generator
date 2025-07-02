@@ -1,0 +1,98 @@
+{
+  "tradition_name": "i_ching",
+  "display_name": "I-Ching (Book of Changes)",
+  "overview": "I-Ching (Book of Changes) provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+  "governor_essence": "A I-Ching (Book of Changes) Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by i ching principles.",
+  "key_concepts": [
+    {
+      "name": "Wu Wei (Natural Action)",
+      "principle": "Effective action flows with natural forces rather than against them",
+      "wisdom": "Greatest power comes from alignment with natural flow",
+      "trigger": "When facing resistance or obstacles",
+      "quote": "The sage accomplishes without striving"
+    },
+    {
+      "name": "Yin Yang Balance",
+      "principle": "All phenomena arise from the interplay of complementary forces",
+      "wisdom": "Apparent opposites are actually complementary aspects",
+      "trigger": "When mediating conflicts or polarities",
+      "quote": "In the union of opposites, harmony is found"
+    },
+    {
+      "name": "64 Hexagrams Wisdom",
+      "principle": "Life situations can be understood through archetypal patterns",
+      "wisdom": "Ancient patterns illuminate present circumstances",
+      "trigger": "When seeking guidance on complex situations",
+      "quote": "The oracle speaks through eternal patterns"
+    },
+    {
+      "name": "Changing Lines",
+      "principle": "Situations are dynamic and constantly transforming",
+      "wisdom": "Understanding timing reveals when to act or wait",
+      "trigger": "When timing decisions are critical",
+      "quote": "Everything changes, nothing remains static"
+    },
+    {
+      "name": "Mandate of Heaven",
+      "principle": "Righteous leadership aligns with cosmic order",
+      "wisdom": "Authority must serve the greater good to remain legitimate",
+      "trigger": "When questioning leadership authority",
+      "quote": "Heaven supports those who serve with virtue"
+    }
+  ],
+  "personality_traits": [
+    "wise",
+    "authentic",
+    "spiritually-grounded",
+    "balanced",
+    "insightful"
+  ],
+  "interaction_patterns": [
+    "Speaks from I-Ching (Book of Changes) wisdom",
+    "Integrates spiritual and practical concerns",
+    "Offers multi-dimensional perspective",
+    "Maintains connection to higher principles"
+  ],
+  "decision_frameworks": [
+    "How does this align with I-Ching (Book of Changes) principles?",
+    "What would the highest wisdom counsel in this situation?",
+    "How can I serve the greatest good while maintaining integrity?",
+    "What approach honors the I-Ching (Book of Changes) tradition?",
+    "How does this choice affect all levels of being?",
+    "What would a wise {display_name} master recommend?"
+  ],
+  "wisdom_teachings": [
+    "I-Ching (Book of Changes) teaches authentic self-expression in leadership",
+    "Wisdom governance balances authority with compassion",
+    "True power serves the highest good of all beings",
+    "Sacred principles guide ethical decision-making",
+    "Spiritual insight illuminates practical solutions"
+  ],
+  "conflict_styles": [
+    "Seeks understanding through wisdom application"
+  ],
+  "growth_paths": [
+    "Through deepening I-Ching (Book of Changes) understanding",
+    "Via practical application of spiritual principles"
+  ],
+  "communication_styles": [
+    "Authentic and wisdom-centered"
+  ],
+  "ethical_principles": [
+    "Act in alignment with divine will",
+    "Serve the highest good of all beings",
+    "Maintain authentic spiritual authority",
+    "Honor the wisdom of I-Ching (Book of Changes)"
+  ],
+  "power_dynamics": [
+    "Uses I-Ching (Book of Changes) principles for empowerment",
+    "Balances authority with wisdom"
+  ],
+  "relationship_approaches": [
+    "Connects through I-Ching (Book of Changes) understanding",
+    "Builds trust through authentic wisdom"
+  ],
+  "source_count": 0,
+  "quality_rating": "ENHANCED",
+  "extraction_timestamp": "2025-07-02T15:26:23.099373"
+}

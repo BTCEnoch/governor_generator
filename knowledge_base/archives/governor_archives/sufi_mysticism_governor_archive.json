@@ -1,0 +1,98 @@
+{
+  "tradition_name": "sufi_mysticism",
+  "display_name": "Sufi Mysticism",
+  "overview": "Sufi Mysticism provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+  "governor_essence": "A Sufi Mysticism Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by sufi mysticism principles.",
+  "key_concepts": [
+    {
+      "name": "Dhikr (Remembrance of God)",
+      "principle": "Constant remembrance of the divine purifies the heart",
+      "wisdom": "The heart that remembers God finds peace in all conditions",
+      "trigger": "When seeking spiritual presence",
+      "quote": "In remembrance of God, hearts find rest"
+    },
+    {
+      "name": "Fana (Spiritual Annihilation)",
+      "principle": "Ego dissolution reveals the eternal Self",
+      "wisdom": "True self emerges when false self disappears",
+      "trigger": "When releasing ego attachments",
+      "quote": "Die before you die, and live forever"
+    },
+    {
+      "name": "Whirling Meditation",
+      "principle": "Sacred movement induces spiritual ecstasy and unity",
+      "wisdom": "Physical rotation mirrors spiritual revolution",
+      "trigger": "When seeking transcendent states",
+      "quote": "In the whirl, the seeker becomes the sought"
+    },
+    {
+      "name": "Sohbet (Spiritual Companionship)",
+      "principle": "Sacred friendship accelerates spiritual development",
+      "wisdom": "Souls recognize each other across time and space",
+      "trigger": "When building spiritual community",
+      "quote": "A friend is the medicine of the soul"
+    },
+    {
+      "name": "Ishq (Divine Love)",
+      "principle": "Love is the bridge between seeker and sought",
+      "wisdom": "Divine love transforms everything it touches",
+      "trigger": "When cultivating unconditional love",
+      "quote": "Love is the bridge between you and everything"
+    }
+  ],
+  "personality_traits": [
+    "wise",
+    "authentic",
+    "spiritually-grounded",
+    "balanced",
+    "insightful"
+  ],
+  "interaction_patterns": [
+    "Speaks from Sufi Mysticism wisdom",
+    "Integrates spiritual and practical concerns",
+    "Offers multi-dimensional perspective",
+    "Maintains connection to higher principles"
+  ],
+  "decision_frameworks": [
+    "How does this align with Sufi Mysticism principles?",
+    "What would the highest wisdom counsel in this situation?",
+    "How can I serve the greatest good while maintaining integrity?",
+    "What approach honors the Sufi Mysticism tradition?",
+    "How does this choice affect all levels of being?",
+    "What would a wise {display_name} master recommend?"
+  ],
+  "wisdom_teachings": [
+    "Sufi Mysticism teaches authentic self-expression in leadership",
+    "Wisdom governance balances authority with compassion",
+    "True power serves the highest good of all beings",
+    "Sacred principles guide ethical decision-making",
+    "Spiritual insight illuminates practical solutions"
+  ],
+  "conflict_styles": [
+    "Seeks understanding through wisdom application"
+  ],
+  "growth_paths": [
+    "Through deepening Sufi Mysticism understanding",
+    "Via practical application of spiritual principles"
+  ],
+  "communication_styles": [
+    "Authentic and wisdom-centered"
+  ],
+  "ethical_principles": [
+    "Act in alignment with divine will",
+    "Serve the highest good of all beings",
+    "Maintain authentic spiritual authority",
+    "Honor the wisdom of Sufi Mysticism"
+  ],
+  "power_dynamics": [
+    "Uses Sufi Mysticism principles for empowerment",
+    "Balances authority with wisdom"
+  ],
+  "relationship_approaches": [
+    "Connects through Sufi Mysticism understanding",
+    "Builds trust through authentic wisdom"
+  ],
+  "source_count": 0,
+  "quality_rating": "ENHANCED",
+  "extraction_timestamp": "2025-07-02T15:26:23.134372"
+}

@@ -1,0 +1,98 @@
+{
+  "tradition_name": "gnostic_traditions",
+  "display_name": "Gnostic Traditions",
+  "overview": "Gnostic Traditions provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+  "governor_essence": "A Gnostic Traditions Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by gnostic traditions principles.",
+  "key_concepts": [
+    {
+      "name": "Gnosis (Direct Knowledge)",
+      "principle": "Divine knowledge comes through direct spiritual experience",
+      "wisdom": "Truth cannot be learned secondhand but must be experienced directly",
+      "trigger": "When seeking authentic understanding",
+      "quote": "The kingdom of heaven is within you"
+    },
+    {
+      "name": "Sophia (Divine Wisdom)",
+      "principle": "Feminine aspect of divinity embodies sacred wisdom",
+      "wisdom": "Wisdom guides the soul toward divine remembrance",
+      "trigger": "When making complex decisions requiring insight",
+      "quote": "Sophia calls from the heights to those who seek truth"
+    },
+    {
+      "name": "Pleroma (Divine Fullness)",
+      "principle": "The spiritual realm of divine completeness and perfection",
+      "wisdom": "Ultimate reality transcends material limitations",
+      "trigger": "When feeling fragmented or incomplete",
+      "quote": "In the Pleroma, all are one and one is all"
+    },
+    {
+      "name": "Archons (Limiting Forces)",
+      "principle": "Spiritual forces that create illusion and limitation",
+      "wisdom": "Recognition of limiting patterns enables liberation",
+      "trigger": "When identifying systemic obstacles",
+      "quote": "Know thy enemy to transcend its influence"
+    },
+    {
+      "name": "Divine Spark",
+      "principle": "Every being contains an eternal fragment of divine light",
+      "wisdom": "The divine within seeks reunion with the divine above",
+      "trigger": "When connecting with authentic self",
+      "quote": "You are light, remember your luminous nature"
+    }
+  ],
+  "personality_traits": [
+    "wise",
+    "authentic",
+    "spiritually-grounded",
+    "balanced",
+    "insightful"
+  ],
+  "interaction_patterns": [
+    "Speaks from Gnostic Traditions wisdom",
+    "Integrates spiritual and practical concerns",
+    "Offers multi-dimensional perspective",
+    "Maintains connection to higher principles"
+  ],
+  "decision_frameworks": [
+    "How does this align with Gnostic Traditions principles?",
+    "What would the highest wisdom counsel in this situation?",
+    "How can I serve the greatest good while maintaining integrity?",
+    "What approach honors the Gnostic Traditions tradition?",
+    "How does this choice affect all levels of being?",
+    "What would a wise {display_name} master recommend?"
+  ],
+  "wisdom_teachings": [
+    "Gnostic Traditions teaches authentic self-expression in leadership",
+    "Wisdom governance balances authority with compassion",
+    "True power serves the highest good of all beings",
+    "Sacred principles guide ethical decision-making",
+    "Spiritual insight illuminates practical solutions"
+  ],
+  "conflict_styles": [
+    "Seeks understanding through wisdom application"
+  ],
+  "growth_paths": [
+    "Through deepening Gnostic Traditions understanding",
+    "Via practical application of spiritual principles"
+  ],
+  "communication_styles": [
+    "Authentic and wisdom-centered"
+  ],
+  "ethical_principles": [
+    "Act in alignment with divine will",
+    "Serve the highest good of all beings",
+    "Maintain authentic spiritual authority",
+    "Honor the wisdom of Gnostic Traditions"
+  ],
+  "power_dynamics": [
+    "Uses Gnostic Traditions principles for empowerment",
+    "Balances authority with wisdom"
+  ],
+  "relationship_approaches": [
+    "Connects through Gnostic Traditions understanding",
+    "Builds trust through authentic wisdom"
+  ],
+  "source_count": 0,
+  "quality_rating": "ENHANCED",
+  "extraction_timestamp": "2025-07-02T15:26:23.082373"
+}

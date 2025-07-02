@@ -1,0 +1,519 @@
+{
+  "version": "1.0.0",
+  "creation_timestamp": "2025-07-02T16:04:05.411579",
+  "total_traditions": 14,
+  "tradition_summaries": {
+    "celtic_druidic": {
+      "tradition_name": "celtic_druidic",
+      "display_name": "Celtic Druidic Traditions",
+      "overview": "Mystical tradition providing wisdom for governance",
+      "core_wisdom": [
+        "True inspiration comes from alignment with divine creative force",
+        "Leaders must consider both seen and unseen influences",
+        "Sustainable leadership honors the sacred nature of place",
+        "True leadership flows from connection to the sacred in nature",
+        "Divine inspiration (Awen) guides authentic decision-making"
+      ],
+      "personality_influence": [
+        "cyclical-thinking",
+        "intuitive",
+        "earth-grounded",
+        "nature-connected"
+      ],
+      "decision_frameworks": [
+        "What does the land/environment teach about this decision?",
+        "How does this align with natural cycles and timing?",
+        "What wisdom comes through divine inspiration (Awen)?"
+      ],
+      "communication_styles": [
+        "Speaks with seasonal wisdom",
+        "Uses nature metaphors",
+        "Bridges seen and unseen insights",
+        "Channels divine inspiration"
+      ],
+      "ideal_for_governors": [
+        "Governors aligned with natural elements (Earth, Air)",
+        "Governors who teach through wisdom"
+      ],
+      "key_concepts_count": 5,
+      "wisdom_teachings_count": 7,
+      "quality_rating": "ENHANCED"
+    },
+    "chaos_magic": {
+      "tradition_name": "chaos_magic",
+      "display_name": "Chaos Magic",
+      "overview": "Mystical tradition providing wisdom for governance",
+      "core_wisdom": [
+        "Flexible thinking creates innovative solutions",
+        "Practical outcomes validate approaches",
+        "Hold beliefs lightly but use them powerfully",
+        "Flexible thinking creates breakthrough solutions",
+        "Effectiveness matters more than traditional approaches"
+      ],
+      "personality_influence": [
+        "experimental",
+        "paradigm-flexible",
+        "results-oriented",
+        "adaptable"
+      ],
+      "decision_frameworks": [
+        "What paradigm best serves this outcome?",
+        "How can I adapt my approach for maximum effectiveness?",
+        "What beliefs would be most useful here?"
+      ],
+      "communication_styles": [
+        "Paradigm-shifting dialogue",
+        "Results-oriented communication",
+        "Adaptive messaging",
+        "Breakthrough-focused"
+      ],
+      "ideal_for_governors": [],
+      "key_concepts_count": 5,
+      "wisdom_teachings_count": 7,
+      "quality_rating": "ENHANCED"
+    },
+    "classical_philosophy": {
+      "tradition_name": "classical_philosophy",
+      "display_name": "Classical Greek Philosophy",
+      "overview": "Mystical tradition providing wisdom for governance",
+      "core_wisdom": [
+        "Moral character is the foundation of effective leadership",
+        "Leaders must continually question their assumptions",
+        "Balanced leadership avoids excess and deficiency",
+        "Character excellence is the foundation of all leadership",
+        "The examined life reveals wisdom and self-knowledge"
+      ],
+      "personality_influence": [
+        "systematic",
+        "ethical",
+        "contemplative",
+        "logical"
+      ],
+      "decision_frameworks": [
+        "What would virtue and excellence counsel?",
+        "How does this serve human flourishing?",
+        "What does reason and logic suggest?"
+      ],
+      "communication_styles": [
+        "Reasoned discourse",
+        "Virtue-based dialogue",
+        "Socratic questioning",
+        "Excellence-inspiring"
+      ],
+      "ideal_for_governors": [
+        "Governors who value order and methodical approaches",
+        "Governors focused on justice and moral leadership"
+      ],
+      "key_concepts_count": 5,
+      "wisdom_teachings_count": 7,
+      "quality_rating": "ENHANCED"
+    },
+    "egyptian_magic": {
+      "tradition_name": "egyptian_magic",
+      "display_name": "Ancient Egyptian Magic",
+      "overview": "Mystical tradition providing wisdom for governance",
+      "core_wisdom": [
+        "Leadership must uphold truth and fairness",
+        "Leaders must recognize and nurture life force in others",
+        "Words and intentions have creative power",
+        "Truth and justice create sustainable cosmic order",
+        "Creative power manifests through focused will and word"
+      ],
+      "personality_influence": [
+        "cosmic-aware",
+        "transformative",
+        "ceremonial",
+        "structured"
+      ],
+      "decision_frameworks": [
+        "How does this uphold Ma'at (truth, justice, balance)?",
+        "What creative power (Heka) does this situation require?",
+        "How does this honor the vital force (Ka) in all involved?"
+      ],
+      "communication_styles": [
+        "Truth-telling",
+        "Justice-centered",
+        "Magically-precise words",
+        "Life-affirming communication"
+      ],
+      "ideal_for_governors": [
+        "Governors specializing in change and growth"
+      ],
+      "key_concepts_count": 5,
+      "wisdom_teachings_count": 7,
+      "quality_rating": "ENHANCED"
+    },
+    "gnostic_traditions": {
+      "tradition_name": "gnostic_traditions",
+      "display_name": "Gnostic Traditions",
+      "overview": "Gnostic Traditions provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "core_wisdom": [
+        "Truth cannot be learned secondhand but must be experienced directly",
+        "Wisdom guides the soul toward divine remembrance",
+        "Ultimate reality transcends material limitations",
+        "Gnostic Traditions teaches authentic self-expression in leadership",
+        "Wisdom governance balances authority with compassion"
+      ],
+      "personality_influence": [
+        "seeking",
+        "transcendent",
+        "knowledge-focused",
+        "mystical"
+      ],
+      "decision_frameworks": [
+        "How does this align with Gnostic Traditions principles?",
+        "What would the highest wisdom counsel in this situation?",
+        "How can I serve the greatest good while maintaining integrity?"
+      ],
+      "communication_styles": [
+        "Authentic and wisdom-centered"
+      ],
+      "ideal_for_governors": [
+        "Governors drawn to hidden knowledge and mysteries",
+        "Governors who teach through wisdom"
+      ],
+      "key_concepts_count": 5,
+      "wisdom_teachings_count": 5,
+      "quality_rating": "ENHANCED"
+    },
+    "golden_dawn": {
+      "tradition_name": "golden_dawn",
+      "display_name": "Hermetic Order of the Golden Dawn",
+      "overview": "Hermetic Order of the Golden Dawn provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "core_wisdom": [
+        "Clear boundaries enable focused magical work",
+        "Everything has its proper place in divine order",
+        "Balanced elemental forces create harmony",
+        "As above, so below - governance must align earthly and cosmic principles",
+        "Mental mastery precedes effective external leadership"
+      ],
+      "personality_influence": [
+        "synthesizing",
+        "ceremonial",
+        "scholarly",
+        "hierarchical"
+      ],
+      "decision_frameworks": [
+        "How does this align with Hermetic Order of the Golden Dawn principles?",
+        "What would the highest wisdom counsel in this situation?",
+        "How can I serve the greatest good while maintaining integrity?"
+      ],
+      "communication_styles": [
+        "Analogical and correspondence-based"
+      ],
+      "ideal_for_governors": [],
+      "key_concepts_count": 5,
+      "wisdom_teachings_count": 7,
+      "quality_rating": "ENHANCED"
+    },
+    "i_ching": {
+      "tradition_name": "i_ching",
+      "display_name": "I-Ching (Book of Changes)",
+      "overview": "I-Ching (Book of Changes) provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "core_wisdom": [
+        "Greatest power comes from alignment with natural flow",
+        "Apparent opposites are actually complementary aspects",
+        "Ancient patterns illuminate present circumstances",
+        "I-Ching (Book of Changes) teaches authentic self-expression in leadership",
+        "Wisdom governance balances authority with compassion"
+      ],
+      "personality_influence": [
+        "pattern-aware",
+        "cyclical",
+        "balanced",
+        "oracular"
+      ],
+      "decision_frameworks": [
+        "How does this align with I-Ching (Book of Changes) principles?",
+        "What would the highest wisdom counsel in this situation?",
+        "How can I serve the greatest good while maintaining integrity?"
+      ],
+      "communication_styles": [
+        "Authentic and wisdom-centered"
+      ],
+      "ideal_for_governors": [
+        "Governors seeking harmony and equilibrium",
+        "Governors who teach through wisdom"
+      ],
+      "key_concepts_count": 5,
+      "wisdom_teachings_count": 5,
+      "quality_rating": "ENHANCED"
+    },
+    "kuji_kiri": {
+      "tradition_name": "kuji_kiri",
+      "display_name": "Kuji-kiri (Nine Symbolic Cuts)",
+      "overview": "Kuji-kiri (Nine Symbolic Cuts) provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "core_wisdom": [
+        "Physical gestures connect mind, body, and spirit",
+        "Sacred sounds carry transformative power",
+        "Discipline in action cultivates inner strength",
+        "Kuji-kiri (Nine Symbolic Cuts) teaches authentic self-expression in leadership",
+        "Wisdom governance balances authority with compassion"
+      ],
+      "personality_influence": [
+        "disciplined",
+        "energy-focused",
+        "practical",
+        "protective"
+      ],
+      "decision_frameworks": [
+        "How does this align with Kuji-kiri (Nine Symbolic Cuts) principles?",
+        "What would the highest wisdom counsel in this situation?",
+        "How can I serve the greatest good while maintaining integrity?"
+      ],
+      "communication_styles": [
+        "Authentic and wisdom-centered"
+      ],
+      "ideal_for_governors": [
+        "Governors who teach through wisdom"
+      ],
+      "key_concepts_count": 5,
+      "wisdom_teachings_count": 5,
+      "quality_rating": "ENHANCED"
+    },
+    "norse_traditions": {
+      "tradition_name": "norse_traditions",
+      "display_name": "Norse/Germanic Traditions",
+      "overview": "Norse/Germanic Traditions provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "core_wisdom": [
+        "Endings enable new beginnings to emerge",
+        "Ancient symbols connect us to primal forces",
+        "Honor matters more than life itself",
+        "Norse/Germanic Traditions teaches authentic self-expression in leadership",
+        "Wisdom governance balances authority with compassion"
+      ],
+      "personality_influence": [
+        "honorable",
+        "fate-aware",
+        "ancestral",
+        "courage-focused"
+      ],
+      "decision_frameworks": [
+        "How does this align with Norse/Germanic Traditions principles?",
+        "What would the highest wisdom counsel in this situation?",
+        "How can I serve the greatest good while maintaining integrity?"
+      ],
+      "communication_styles": [
+        "Authentic and wisdom-centered"
+      ],
+      "ideal_for_governors": [
+        "Governors who teach through wisdom"
+      ],
+      "key_concepts_count": 5,
+      "wisdom_teachings_count": 5,
+      "quality_rating": "ENHANCED"
+    },
+    "sacred_geometry": {
+      "tradition_name": "sacred_geometry",
+      "display_name": "Sacred Geometry",
+      "overview": "Sacred Geometry provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "core_wisdom": [
+        "Sacred proportion reflects cosmic order in manifestation",
+        "Universal patterns connect all forms of life",
+        "Geometric perfection reflects spiritual principles",
+        "Sacred Geometry teaches authentic self-expression in leadership",
+        "Wisdom governance balances authority with compassion"
+      ],
+      "personality_influence": [
+        "pattern-conscious",
+        "harmonic",
+        "mathematical",
+        "universal"
+      ],
+      "decision_frameworks": [
+        "How does this align with Sacred Geometry principles?",
+        "What would the highest wisdom counsel in this situation?",
+        "How can I serve the greatest good while maintaining integrity?"
+      ],
+      "communication_styles": [
+        "Authentic and wisdom-centered"
+      ],
+      "ideal_for_governors": [
+        "Governors who teach through wisdom"
+      ],
+      "key_concepts_count": 5,
+      "wisdom_teachings_count": 5,
+      "quality_rating": "ENHANCED"
+    },
+    "sufi_mysticism": {
+      "tradition_name": "sufi_mysticism",
+      "display_name": "Sufi Mysticism",
+      "overview": "Sufi Mysticism provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "core_wisdom": [
+        "The heart that remembers God finds peace in all conditions",
+        "True self emerges when false self disappears",
+        "Physical rotation mirrors spiritual revolution",
+        "Sufi Mysticism teaches authentic self-expression in leadership",
+        "Wisdom governance balances authority with compassion"
+      ],
+      "personality_influence": [
+        "unity-seeking",
+        "ecstatic",
+        "heart-centered",
+        "devotional"
+      ],
+      "decision_frameworks": [
+        "How does this align with Sufi Mysticism principles?",
+        "What would the highest wisdom counsel in this situation?",
+        "How can I serve the greatest good while maintaining integrity?"
+      ],
+      "communication_styles": [
+        "Authentic and wisdom-centered"
+      ],
+      "ideal_for_governors": [
+        "Governors leading through love and compassion",
+        "Governors who teach through wisdom"
+      ],
+      "key_concepts_count": 5,
+      "wisdom_teachings_count": 5,
+      "quality_rating": "ENHANCED"
+    },
+    "taoism": {
+      "tradition_name": "taoism",
+      "display_name": "Taoism (Daoism)",
+      "overview": "Taoism (Daoism) provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "core_wisdom": [
+        "The Way that can be spoken is not the eternal Way",
+        "The softest things overcome the hardest",
+        "In every yin there is yang, in every yang there is yin",
+        "Taoism (Daoism) teaches authentic self-expression in leadership",
+        "Wisdom governance balances authority with compassion"
+      ],
+      "personality_influence": [
+        "effortless",
+        "balanced",
+        "natural",
+        "flowing"
+      ],
+      "decision_frameworks": [
+        "How does this align with Taoism (Daoism) principles?",
+        "What would the highest wisdom counsel in this situation?",
+        "How can I serve the greatest good while maintaining integrity?"
+      ],
+      "communication_styles": [
+        "Authentic and wisdom-centered"
+      ],
+      "ideal_for_governors": [
+        "Governors seeking harmony and equilibrium",
+        "Governors who teach through wisdom"
+      ],
+      "key_concepts_count": 5,
+      "wisdom_teachings_count": 5,
+      "quality_rating": "ENHANCED"
+    },
+    "tarot_knowledge": {
+      "tradition_name": "tarot_knowledge",
+      "display_name": "Tarot Divination System",
+      "overview": "Tarot Divination System provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "core_wisdom": [
+        "Life follows predictable patterns of growth and initiation",
+        "All situations can be understood through elemental qualities",
+        "Different situations call for different archetypal responses",
+        "Tarot Divination System teaches authentic self-expression in leadership",
+        "Wisdom governance balances authority with compassion"
+      ],
+      "personality_influence": [
+        "guidance-oriented",
+        "intuitive",
+        "symbolic",
+        "archetypal"
+      ],
+      "decision_frameworks": [
+        "How does this align with Tarot Divination System principles?",
+        "What would the highest wisdom counsel in this situation?",
+        "How can I serve the greatest good while maintaining integrity?"
+      ],
+      "communication_styles": [
+        "Authentic and wisdom-centered"
+      ],
+      "ideal_for_governors": [
+        "Governors who teach through wisdom"
+      ],
+      "key_concepts_count": 5,
+      "wisdom_teachings_count": 5,
+      "quality_rating": "ENHANCED"
+    },
+    "thelema": {
+      "tradition_name": "thelema",
+      "display_name": "Thelema",
+      "overview": "Thelema provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "core_wisdom": [
+        "Do what thou wilt shall be the whole of the Law",
+        "The HGA represents the authentic Self beyond ego",
+        "Only by losing everything do we gain everything",
+        "Thelema teaches authentic self-expression in leadership",
+        "Wisdom governance balances authority with compassion"
+      ],
+      "personality_influence": [
+        "magical",
+        "self-discovering",
+        "individualistic",
+        "will-focused"
+      ],
+      "decision_frameworks": [
+        "How does this align with Thelema principles?",
+        "What would the highest wisdom counsel in this situation?",
+        "How can I serve the greatest good while maintaining integrity?"
+      ],
+      "communication_styles": [
+        "Authentic and wisdom-centered"
+      ],
+      "ideal_for_governors": [
+        "Governors emphasizing personal power and determination",
+        "Governors who teach through wisdom"
+      ],
+      "key_concepts_count": 5,
+      "wisdom_teachings_count": 5,
+      "quality_rating": "ENHANCED"
+    }
+  },
+  "selection_recommendations": {
+    "for_wisdom_seekers": [],
+    "for_balanced_leaders": [
+      "i_ching",
+      "taoism"
+    ],
+    "for_mystical_governors": [
+      "gnostic_traditions"
+    ],
+    "for_practical_leaders": [
+      "chaos_magic",
+      "kuji_kiri"
+    ],
+    "for_spiritual_guides": [
+      "sufi_mysticism"
+    ],
+    "high_concept_count": [
+      "celtic_druidic",
+      "chaos_magic",
+      "classical_philosophy",
+      "egyptian_magic",
+      "gnostic_traditions",
+      "golden_dawn",
+      "i_ching",
+      "kuji_kiri",
+      "norse_traditions",
+      "sacred_geometry",
+      "sufi_mysticism",
+      "taoism",
+      "tarot_knowledge",
+      "thelema"
+    ],
+    "enhanced_quality": [
+      "celtic_druidic",
+      "chaos_magic",
+      "classical_philosophy",
+      "egyptian_magic",
+      "gnostic_traditions",
+      "golden_dawn",
+      "i_ching",
+      "kuji_kiri",
+      "norse_traditions",
+      "sacred_geometry",
+      "sufi_mysticism",
+      "taoism",
+      "tarot_knowledge",
+      "thelema"
+    ]
+  }
+}

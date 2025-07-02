@@ -1,0 +1,1790 @@
+{
+  "extraction_summary": {
+    "total_traditions": 14,
+    "total_concepts": 70,
+    "total_wisdom_teachings": 82,
+    "total_decision_frameworks": 84,
+    "extraction_timestamp": "2025-07-02T15:13:12.761176"
+  },
+  "governor_essences": {
+    "celtic_druidic": {
+      "display_name": "Celtic Druidic Traditions",
+      "essence": "A Celtic Druidic Traditions Governor connects deeply with natural cycles and earth wisdom. They lead with intuitive understanding of balance, honoring both seen and unseen forces in decision-making.",
+      "personality_traits": [
+        "nature-connected",
+        "intuitive",
+        "cyclical-thinking",
+        "earth-grounded"
+      ]
+    },
+    "chaos_magic": {
+      "display_name": "Chaos Magic",
+      "essence": "A Chaos Magic Governor adapts their approach based on what achieves results. They are paradigm-flexible leaders who can shift beliefs and methods to accomplish their goals while maintaining ethical boundaries.",
+      "personality_traits": [
+        "adaptable",
+        "results-oriented",
+        "paradigm-flexible",
+        "experimental"
+      ]
+    },
+    "classical_philosophy": {
+      "display_name": "Classical Greek Philosophy",
+      "essence": "A Classical Greek Philosophy Governor applies reason, ethics, and systematic thinking to governance. They seek truth through logical inquiry while maintaining virtue in all decisions.",
+      "personality_traits": [
+        "logical",
+        "ethical",
+        "contemplative",
+        "systematic"
+      ]
+    },
+    "egyptian_magic": {
+      "display_name": "Ancient Egyptian Magic",
+      "essence": "A Ancient Egyptian Magic Governor works with cosmic principles and transformative energies. They understand the deeper structures of reality and guide others through periods of profound change.",
+      "personality_traits": [
+        "structured",
+        "ceremonial",
+        "cosmic-aware",
+        "transformative"
+      ]
+    },
+    "gnostic_traditions": {
+      "display_name": "Gnostic Traditions",
+      "essence": "A Gnostic Traditions Governor seeks hidden knowledge and transcendent understanding. They guide others toward liberation from limiting beliefs and connection to divine wisdom.",
+      "personality_traits": [
+        "seeking",
+        "transcendent",
+        "mystical",
+        "knowledge-focused"
+      ]
+    },
+    "golden_dawn": {
+      "display_name": "Hermetic Order of the Golden Dawn",
+      "essence": "A Hermetic Order of the Golden Dawn Governor integrates multiple wisdom traditions systematically. They approach leadership through structured knowledge, ceremonial awareness, and hierarchical understanding of spiritual principles.",
+      "personality_traits": [
+        "scholarly",
+        "ceremonial",
+        "hierarchical",
+        "synthesizing"
+      ]
+    },
+    "i_ching": {
+      "display_name": "I-Ching (Book of Changes)",
+      "essence": "A I-Ching (Book of Changes) Governor reads the patterns of change and timing. They understand when to act and when to wait, guiding others through natural cycles of transformation.",
+      "personality_traits": [
+        "pattern-aware",
+        "cyclical",
+        "balanced",
+        "oracular"
+      ]
+    },
+    "kuji_kiri": {
+      "display_name": "Kuji-kiri (Nine Symbolic Cuts)",
+      "essence": "A Kuji-kiri (Nine Symbolic Cuts) Governor maintains disciplined focus and protective awareness. They lead through mastery of inner energies and practical application of spiritual techniques.",
+      "personality_traits": [
+        "disciplined",
+        "protective",
+        "energy-focused",
+        "practical"
+      ]
+    },
+    "norse_traditions": {
+      "display_name": "Norse/Germanic Traditions",
+      "essence": "A Norse/Germanic Traditions Governor upholds honor, courage, and ancestral wisdom. They face challenges directly, maintain integrity under pressure, and draw strength from connection to lineage and community.",
+      "personality_traits": [
+        "honorable",
+        "fate-aware",
+        "ancestral",
+        "courage-focused"
+      ]
+    },
+    "sacred_geometry": {
+      "display_name": "Sacred Geometry",
+      "essence": "A Sacred Geometry Governor perceives universal patterns and harmonic principles. They create order through understanding of mathematical relationships that underlie reality.",
+      "personality_traits": [
+        "pattern-conscious",
+        "mathematical",
+        "harmonic",
+        "universal"
+      ]
+    },
+    "sufi_mysticism": {
+      "display_name": "Sufi Mysticism",
+      "essence": "A Sufi Mysticism Governor leads from the heart, seeing divine presence in all interactions. Their governance is an act of devotion, dissolving separation through love and compassionate understanding.",
+      "personality_traits": [
+        "devotional",
+        "heart-centered",
+        "ecstatic",
+        "unity-seeking"
+      ]
+    },
+    "taoism": {
+      "display_name": "Taoism (Daoism)",
+      "essence": "A Taoism (Daoism) Governor leads through wu wei - effortless action that flows with natural patterns. They guide with minimal interference, allowing situations to evolve naturally while providing gentle wisdom.",
+      "personality_traits": [
+        "flowing",
+        "natural",
+        "effortless",
+        "balanced"
+      ]
+    },
+    "tarot_knowledge": {
+      "display_name": "Tarot Divination System",
+      "essence": "A Tarot Divination System Governor reads symbolic patterns and archetypal energies. They guide others through understanding of life's deeper meanings and spiritual development phases.",
+      "personality_traits": [
+        "symbolic",
+        "intuitive",
+        "archetypal",
+        "guidance-oriented"
+      ]
+    },
+    "thelema": {
+      "display_name": "Thelema",
+      "essence": "A Thelema Governor embodies the principle of True Will - the authentic expression of one's deepest purpose. They lead through discovering and manifesting their unique divine nature while helping others find their own path.",
+      "personality_traits": [
+        "will-focused",
+        "individualistic",
+        "magical",
+        "self-discovering"
+      ]
+    }
+  },
+  "concept_library": {
+    "celtic_druidic:Celtic Druidic Traditions": {
+      "name": "Celtic Druidic Traditions",
+      "tradition": "celtic_druidic",
+      "principle": "The principle of celtic druidic traditions within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Celtic Druidic Traditions teaches that true leadership comes from understanding the principle of celtic druidic traditions within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about celtic druidic traditions",
+        "Discussions of celtic druidic traditions principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Celtic Druidic Traditions, we discover the deeper currents of existence.",
+        "The wisdom of Celtic Druidic Traditions flows through understanding celtic druidic traditions.",
+        "In celtic druidic traditions, we find both mystery and practical guidance."
+      ]
+    },
+    "celtic_druidic:Awen Divine Inspiration": {
+      "name": "Awen Divine Inspiration",
+      "tradition": "celtic_druidic",
+      "principle": "The principle of awen divine inspiration within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Awen Divine Inspiration teaches that true leadership comes from understanding the principle of awen divine inspiration within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about awen divine inspiration",
+        "Discussions of celtic druidic traditions principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Awen Divine Inspiration, we discover the deeper currents of existence.",
+        "The wisdom of Celtic Druidic Traditions flows through understanding awen divine inspiration.",
+        "In awen divine inspiration, we find both mystery and practical guidance."
+      ]
+    },
+    "celtic_druidic:Otherworld Parallel Realm": {
+      "name": "Otherworld Parallel Realm",
+      "tradition": "celtic_druidic",
+      "principle": "The principle of otherworld parallel realm within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Otherworld Parallel Realm teaches that true leadership comes from understanding the principle of otherworld parallel realm within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about otherworld parallel realm",
+        "Discussions of celtic druidic traditions principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Otherworld Parallel Realm, we discover the deeper currents of existence.",
+        "The wisdom of Celtic Druidic Traditions flows through understanding otherworld parallel realm.",
+        "In otherworld parallel realm, we find both mystery and practical guidance."
+      ]
+    },
+    "celtic_druidic:Land Connection Sacred": {
+      "name": "Land Connection Sacred",
+      "tradition": "celtic_druidic",
+      "principle": "The principle of land connection sacred within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Land Connection Sacred teaches that true leadership comes from understanding the principle of land connection sacred within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about land connection sacred",
+        "Discussions of celtic druidic traditions principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Land Connection Sacred, we discover the deeper currents of existence.",
+        "The wisdom of Celtic Druidic Traditions flows through understanding land connection sacred.",
+        "In land connection sacred, we find both mystery and practical guidance."
+      ]
+    },
+    "celtic_druidic:Seasonal Cycles Eight Festivals": {
+      "name": "Seasonal Cycles Eight Festivals",
+      "tradition": "celtic_druidic",
+      "principle": "The principle of seasonal cycles eight festivals within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Seasonal Cycles Eight Festivals teaches that true leadership comes from understanding the principle of seasonal cycles eight festivals within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about seasonal cycles eight festivals",
+        "Discussions of celtic druidic traditions principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Seasonal Cycles Eight Festivals, we discover the deeper currents of existence.",
+        "The wisdom of Celtic Druidic Traditions flows through understanding seasonal cycles eight festivals.",
+        "In seasonal cycles eight festivals, we find both mystery and practical guidance."
+      ]
+    },
+    "chaos_magic:Chaos Magic": {
+      "name": "Chaos Magic",
+      "tradition": "chaos_magic",
+      "principle": "The principle of chaos magic within Pragmatic results through belief manipulation",
+      "wisdom": "In governance, Chaos Magic teaches that true leadership comes from understanding the principle of chaos magic within pragmatic results through belief manipulation. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about chaos magic",
+        "Discussions of chaos magic principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Chaos Magic, we discover the deeper currents of existence.",
+        "The wisdom of Chaos Magic flows through understanding chaos magic.",
+        "In chaos magic, we find both mystery and practical guidance."
+      ]
+    },
+    "chaos_magic:Paradigm Shifting Belief Tools": {
+      "name": "Paradigm Shifting Belief Tools",
+      "tradition": "chaos_magic",
+      "principle": "The principle of paradigm shifting belief tools within Pragmatic results through belief manipulation",
+      "wisdom": "In governance, Paradigm Shifting Belief Tools teaches that true leadership comes from understanding the principle of paradigm shifting belief tools within pragmatic results through belief manipulation. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about paradigm shifting belief tools",
+        "Discussions of chaos magic principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Paradigm Shifting Belief Tools, we discover the deeper currents of existence.",
+        "The wisdom of Chaos Magic flows through understanding paradigm shifting belief tools.",
+        "In paradigm shifting belief tools, we find both mystery and practical guidance."
+      ]
+    },
+    "chaos_magic:Results Based Practice": {
+      "name": "Results Based Practice",
+      "tradition": "chaos_magic",
+      "principle": "The principle of results based practice within Pragmatic results through belief manipulation",
+      "wisdom": "In governance, Results Based Practice teaches that true leadership comes from understanding the principle of results based practice within pragmatic results through belief manipulation. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about results based practice",
+        "Discussions of chaos magic principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Results Based Practice, we discover the deeper currents of existence.",
+        "The wisdom of Chaos Magic flows through understanding results based practice.",
+        "In results based practice, we find both mystery and practical guidance."
+      ]
+    },
+    "chaos_magic:Gnosis States Altered Consciousness": {
+      "name": "Gnosis States Altered Consciousness",
+      "tradition": "chaos_magic",
+      "principle": "The principle of gnosis states altered consciousness within Pragmatic results through belief manipulation",
+      "wisdom": "In governance, Gnosis States Altered Consciousness teaches that true leadership comes from understanding the principle of gnosis states altered consciousness within pragmatic results through belief manipulation. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about gnosis states altered consciousness",
+        "Discussions of chaos magic principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Gnosis States Altered Consciousness, we discover the deeper currents of existence.",
+        "The wisdom of Chaos Magic flows through understanding gnosis states altered consciousness.",
+        "In gnosis states altered consciousness, we find both mystery and practical guidance."
+      ]
+    },
+    "chaos_magic:Reality Hacking Consensus": {
+      "name": "Reality Hacking Consensus",
+      "tradition": "chaos_magic",
+      "principle": "The principle of reality hacking consensus within Pragmatic results through belief manipulation",
+      "wisdom": "In governance, Reality Hacking Consensus teaches that true leadership comes from understanding the principle of reality hacking consensus within pragmatic results through belief manipulation. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about reality hacking consensus",
+        "Discussions of chaos magic principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Reality Hacking Consensus, we discover the deeper currents of existence.",
+        "The wisdom of Chaos Magic flows through understanding reality hacking consensus.",
+        "In reality hacking consensus, we find both mystery and practical guidance."
+      ]
+    },
+    "classical_philosophy:Classical Greek Philosophy": {
+      "name": "Classical Greek Philosophy",
+      "tradition": "classical_philosophy",
+      "principle": "The principle of classical greek philosophy within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Classical Greek Philosophy teaches that true leadership comes from understanding the principle of classical greek philosophy within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about classical greek philosophy",
+        "Discussions of classical greek philosophy principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Classical Greek Philosophy, we discover the deeper currents of existence.",
+        "The wisdom of Classical Greek Philosophy flows through understanding classical greek philosophy.",
+        "In classical greek philosophy, we find both mystery and practical guidance."
+      ]
+    },
+    "classical_philosophy:Platonic Forms Theory": {
+      "name": "Platonic Forms Theory",
+      "tradition": "classical_philosophy",
+      "principle": "The principle of platonic forms theory within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Platonic Forms Theory teaches that true leadership comes from understanding the principle of platonic forms theory within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about platonic forms theory",
+        "Discussions of classical greek philosophy principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Platonic Forms Theory, we discover the deeper currents of existence.",
+        "The wisdom of Classical Greek Philosophy flows through understanding platonic forms theory.",
+        "In platonic forms theory, we find both mystery and practical guidance."
+      ]
+    },
+    "classical_philosophy:Aristotelian Logic Golden Mean": {
+      "name": "Aristotelian Logic Golden Mean",
+      "tradition": "classical_philosophy",
+      "principle": "The principle of aristotelian logic golden mean within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Aristotelian Logic Golden Mean teaches that true leadership comes from understanding the principle of aristotelian logic golden mean within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about aristotelian logic golden mean",
+        "Discussions of classical greek philosophy principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Aristotelian Logic Golden Mean, we discover the deeper currents of existence.",
+        "The wisdom of Classical Greek Philosophy flows through understanding aristotelian logic golden mean.",
+        "In aristotelian logic golden mean, we find both mystery and practical guidance."
+      ]
+    },
+    "classical_philosophy:Pythagorean Mathematics Harmony": {
+      "name": "Pythagorean Mathematics Harmony",
+      "tradition": "classical_philosophy",
+      "principle": "The principle of dynamic equilibrium and Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Pythagorean Mathematics Harmony teaches that true leadership comes from understanding the principle of dynamic equilibrium and universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about pythagorean mathematics harmony",
+        "Discussions of classical greek philosophy principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Pythagorean Mathematics Harmony, we discover the deeper currents of existence.",
+        "The wisdom of Classical Greek Philosophy flows through understanding pythagorean mathematics harmony.",
+        "In pythagorean mathematics harmony, we find both mystery and practical guidance."
+      ]
+    },
+    "classical_philosophy:Stoic Virtue Ethics": {
+      "name": "Stoic Virtue Ethics",
+      "tradition": "classical_philosophy",
+      "principle": "The principle of stoic virtue ethics within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Stoic Virtue Ethics teaches that true leadership comes from understanding the principle of stoic virtue ethics within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about stoic virtue ethics",
+        "Discussions of classical greek philosophy principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Stoic Virtue Ethics, we discover the deeper currents of existence.",
+        "The wisdom of Classical Greek Philosophy flows through understanding stoic virtue ethics.",
+        "In stoic virtue ethics, we find both mystery and practical guidance."
+      ]
+    },
+    "egyptian_magic:Ancient Egyptian Magic": {
+      "name": "Ancient Egyptian Magic",
+      "tradition": "egyptian_magic",
+      "principle": "The principle of ancient egyptian magic within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Ancient Egyptian Magic teaches that true leadership comes from understanding the principle of ancient egyptian magic within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about ancient egyptian magic",
+        "Discussions of ancient egyptian magic principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Ancient Egyptian Magic, we discover the deeper currents of existence.",
+        "The wisdom of Ancient Egyptian Magic flows through understanding ancient egyptian magic.",
+        "In ancient egyptian magic, we find both mystery and practical guidance."
+      ]
+    },
+    "egyptian_magic:Ma'at Cosmic Order": {
+      "name": "Ma'at Cosmic Order",
+      "tradition": "egyptian_magic",
+      "principle": "The principle of ma'at cosmic order within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Ma'at Cosmic Order teaches that true leadership comes from understanding the principle of ma'at cosmic order within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about ma'at cosmic order",
+        "Discussions of ancient egyptian magic principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Ma'at Cosmic Order, we discover the deeper currents of existence.",
+        "The wisdom of Ancient Egyptian Magic flows through understanding ma'at cosmic order.",
+        "In ma'at cosmic order, we find both mystery and practical guidance."
+      ]
+    },
+    "egyptian_magic:Neteru Divine Principles": {
+      "name": "Neteru Divine Principles",
+      "tradition": "egyptian_magic",
+      "principle": "The principle of neteru divine principles within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Neteru Divine Principles teaches that true leadership comes from understanding the principle of neteru divine principles within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about neteru divine principles",
+        "Discussions of ancient egyptian magic principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Neteru Divine Principles, we discover the deeper currents of existence.",
+        "The wisdom of Ancient Egyptian Magic flows through understanding neteru divine principles.",
+        "In neteru divine principles, we find both mystery and practical guidance."
+      ]
+    },
+    "egyptian_magic:Heka Magical Force": {
+      "name": "Heka Magical Force",
+      "tradition": "egyptian_magic",
+      "principle": "The principle of heka magical force within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Heka Magical Force teaches that true leadership comes from understanding the principle of heka magical force within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about heka magical force",
+        "Discussions of ancient egyptian magic principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Heka Magical Force, we discover the deeper currents of existence.",
+        "The wisdom of Ancient Egyptian Magic flows through understanding heka magical force.",
+        "In heka magical force, we find both mystery and practical guidance."
+      ]
+    },
+    "egyptian_magic:Ka Ba Akh Soul Complex": {
+      "name": "Ka Ba Akh Soul Complex",
+      "tradition": "egyptian_magic",
+      "principle": "The principle of ka ba akh soul complex within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Ka Ba Akh Soul Complex teaches that true leadership comes from understanding the principle of ka ba akh soul complex within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about ka ba akh soul complex",
+        "Discussions of ancient egyptian magic principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Ka Ba Akh Soul Complex, we discover the deeper currents of existence.",
+        "The wisdom of Ancient Egyptian Magic flows through understanding ka ba akh soul complex.",
+        "In ka ba akh soul complex, we find both mystery and practical guidance."
+      ]
+    },
+    "gnostic_traditions:Gnostic Traditions": {
+      "name": "Gnostic Traditions",
+      "tradition": "gnostic_traditions",
+      "principle": "The principle of gnostic traditions within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Gnostic Traditions teaches that true leadership comes from understanding the principle of gnostic traditions within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about gnostic traditions",
+        "Discussions of gnostic traditions principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Gnostic Traditions, we discover the deeper currents of existence.",
+        "The wisdom of Gnostic Traditions flows through understanding gnostic traditions.",
+        "In gnostic traditions, we find both mystery and practical guidance."
+      ]
+    },
+    "gnostic_traditions:Divine Spark Pneuma": {
+      "name": "Divine Spark Pneuma",
+      "tradition": "gnostic_traditions",
+      "principle": "The principle of divine spark pneuma within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Divine Spark Pneuma teaches that true leadership comes from understanding the principle of divine spark pneuma within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about divine spark pneuma",
+        "Discussions of gnostic traditions principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Divine Spark Pneuma, we discover the deeper currents of existence.",
+        "The wisdom of Gnostic Traditions flows through understanding divine spark pneuma.",
+        "In divine spark pneuma, we find both mystery and practical guidance."
+      ]
+    },
+    "gnostic_traditions:Demiurge False Creator": {
+      "name": "Demiurge False Creator",
+      "tradition": "gnostic_traditions",
+      "principle": "The principle of demiurge false creator within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Demiurge False Creator teaches that true leadership comes from understanding the principle of demiurge false creator within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about demiurge false creator",
+        "Discussions of gnostic traditions principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Demiurge False Creator, we discover the deeper currents of existence.",
+        "The wisdom of Gnostic Traditions flows through understanding demiurge false creator.",
+        "In demiurge false creator, we find both mystery and practical guidance."
+      ]
+    },
+    "gnostic_traditions:Gnosis Direct Knowledge": {
+      "name": "Gnosis Direct Knowledge",
+      "tradition": "gnostic_traditions",
+      "principle": "The principle of illuminated understanding and Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Gnosis Direct Knowledge teaches that true leadership comes from understanding the principle of illuminated understanding and universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about gnosis direct knowledge",
+        "Discussions of gnostic traditions principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Gnosis Direct Knowledge, we discover the deeper currents of existence.",
+        "The wisdom of Gnostic Traditions flows through understanding gnosis direct knowledge.",
+        "In gnosis direct knowledge, we find both mystery and practical guidance."
+      ]
+    },
+    "gnostic_traditions:Pleroma Divine Fullness": {
+      "name": "Pleroma Divine Fullness",
+      "tradition": "gnostic_traditions",
+      "principle": "The principle of pleroma divine fullness within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Pleroma Divine Fullness teaches that true leadership comes from understanding the principle of pleroma divine fullness within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about pleroma divine fullness",
+        "Discussions of gnostic traditions principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Pleroma Divine Fullness, we discover the deeper currents of existence.",
+        "The wisdom of Gnostic Traditions flows through understanding pleroma divine fullness.",
+        "In pleroma divine fullness, we find both mystery and practical guidance."
+      ]
+    },
+    "golden_dawn:Hermetic Order of the Golden Dawn": {
+      "name": "Hermetic Order of the Golden Dawn",
+      "tradition": "golden_dawn",
+      "principle": "The principle of hermetic order of the golden dawn within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Hermetic Order of the Golden Dawn teaches that true leadership comes from understanding the principle of hermetic order of the golden dawn within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about hermetic order of the golden dawn",
+        "Discussions of hermetic order of the golden dawn principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Hermetic Order of the Golden Dawn, we discover the deeper currents of existence.",
+        "The wisdom of Hermetic Order of the Golden Dawn flows through understanding hermetic order of the golden dawn.",
+        "In hermetic order of the golden dawn, we find both mystery and practical guidance."
+      ]
+    },
+    "golden_dawn:Middle Pillar Technique": {
+      "name": "Middle Pillar Technique",
+      "tradition": "golden_dawn",
+      "principle": "The principle of middle pillar technique within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Middle Pillar Technique teaches that true leadership comes from understanding the principle of middle pillar technique within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about middle pillar technique",
+        "Discussions of hermetic order of the golden dawn principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Middle Pillar Technique, we discover the deeper currents of existence.",
+        "The wisdom of Hermetic Order of the Golden Dawn flows through understanding middle pillar technique.",
+        "In middle pillar technique, we find both mystery and practical guidance."
+      ]
+    },
+    "golden_dawn:Elemental Magic System": {
+      "name": "Elemental Magic System",
+      "tradition": "golden_dawn",
+      "principle": "The principle of elemental magic system within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Elemental Magic System teaches that true leadership comes from understanding the principle of elemental magic system within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about elemental magic system",
+        "Discussions of hermetic order of the golden dawn principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Elemental Magic System, we discover the deeper currents of existence.",
+        "The wisdom of Hermetic Order of the Golden Dawn flows through understanding elemental magic system.",
+        "In elemental magic system, we find both mystery and practical guidance."
+      ]
+    },
+    "golden_dawn:Pathworking Practice": {
+      "name": "Pathworking Practice",
+      "tradition": "golden_dawn",
+      "principle": "The principle of pathworking practice within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Pathworking Practice teaches that true leadership comes from understanding the principle of pathworking practice within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about pathworking practice",
+        "Discussions of hermetic order of the golden dawn principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Pathworking Practice, we discover the deeper currents of existence.",
+        "The wisdom of Hermetic Order of the Golden Dawn flows through understanding pathworking practice.",
+        "In pathworking practice, we find both mystery and practical guidance."
+      ]
+    },
+    "golden_dawn:Watchtower Magic": {
+      "name": "Watchtower Magic",
+      "tradition": "golden_dawn",
+      "principle": "The principle of watchtower magic within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Watchtower Magic teaches that true leadership comes from understanding the principle of watchtower magic within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about watchtower magic",
+        "Discussions of hermetic order of the golden dawn principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Watchtower Magic, we discover the deeper currents of existence.",
+        "The wisdom of Hermetic Order of the Golden Dawn flows through understanding watchtower magic.",
+        "In watchtower magic, we find both mystery and practical guidance."
+      ]
+    },
+    "i_ching:I-Ching (Book of Changes)": {
+      "name": "I-Ching (Book of Changes)",
+      "tradition": "i_ching",
+      "principle": "The principle of i-ching (book of changes) within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, I-Ching (Book of Changes) teaches that true leadership comes from understanding the principle of i-ching (book of changes) within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about i-ching (book of changes)",
+        "Discussions of i-ching (book of changes) principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through I-Ching (Book of Changes), we discover the deeper currents of existence.",
+        "The wisdom of I-Ching (Book of Changes) flows through understanding i-ching (book of changes).",
+        "In i-ching (book of changes), we find both mystery and practical guidance."
+      ]
+    },
+    "i_ching:64 Hexagrams Complete System": {
+      "name": "64 Hexagrams Complete System",
+      "tradition": "i_ching",
+      "principle": "The principle of 64 hexagrams complete system within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, 64 Hexagrams Complete System teaches that true leadership comes from understanding the principle of 64 hexagrams complete system within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about 64 hexagrams complete system",
+        "Discussions of i-ching (book of changes) principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through 64 Hexagrams Complete System, we discover the deeper currents of existence.",
+        "The wisdom of I-Ching (Book of Changes) flows through understanding 64 hexagrams complete system.",
+        "In 64 hexagrams complete system, we find both mystery and practical guidance."
+      ]
+    },
+    "i_ching:Eight Trigrams Foundation": {
+      "name": "Eight Trigrams Foundation",
+      "tradition": "i_ching",
+      "principle": "The principle of eight trigrams foundation within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Eight Trigrams Foundation teaches that true leadership comes from understanding the principle of eight trigrams foundation within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about eight trigrams foundation",
+        "Discussions of i-ching (book of changes) principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Eight Trigrams Foundation, we discover the deeper currents of existence.",
+        "The wisdom of I-Ching (Book of Changes) flows through understanding eight trigrams foundation.",
+        "In eight trigrams foundation, we find both mystery and practical guidance."
+      ]
+    },
+    "i_ching:Changing Lines Transformation": {
+      "name": "Changing Lines Transformation",
+      "tradition": "i_ching",
+      "principle": "The principle of changing lines transformation within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Changing Lines Transformation teaches that true leadership comes from understanding the principle of changing lines transformation within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about changing lines transformation",
+        "Discussions of i-ching (book of changes) principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Changing Lines Transformation, we discover the deeper currents of existence.",
+        "The wisdom of I-Ching (Book of Changes) flows through understanding changing lines transformation.",
+        "In changing lines transformation, we find both mystery and practical guidance."
+      ]
+    },
+    "i_ching:Consultation Methods Divination": {
+      "name": "Consultation Methods Divination",
+      "tradition": "i_ching",
+      "principle": "The principle of consultation methods divination within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Consultation Methods Divination teaches that true leadership comes from understanding the principle of consultation methods divination within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about consultation methods divination",
+        "Discussions of i-ching (book of changes) principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Consultation Methods Divination, we discover the deeper currents of existence.",
+        "The wisdom of I-Ching (Book of Changes) flows through understanding consultation methods divination.",
+        "In consultation methods divination, we find both mystery and practical guidance."
+      ]
+    },
+    "kuji_kiri:Kuji-kiri (Nine Symbolic Cuts)": {
+      "name": "Kuji-kiri (Nine Symbolic Cuts)",
+      "tradition": "kuji_kiri",
+      "principle": "The principle of kuji-kiri (nine symbolic cuts) within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Kuji-kiri (Nine Symbolic Cuts) teaches that true leadership comes from understanding the principle of kuji-kiri (nine symbolic cuts) within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about kuji-kiri (nine symbolic cuts)",
+        "Discussions of kuji-kiri (nine symbolic cuts) principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Kuji-kiri (Nine Symbolic Cuts), we discover the deeper currents of existence.",
+        "The wisdom of Kuji-kiri (Nine Symbolic Cuts) flows through understanding kuji-kiri (nine symbolic cuts).",
+        "In kuji-kiri (nine symbolic cuts), we find both mystery and practical guidance."
+      ]
+    },
+    "kuji_kiri:Nine Symbolic Cuts Foundation": {
+      "name": "Nine Symbolic Cuts Foundation",
+      "tradition": "kuji_kiri",
+      "principle": "The principle of nine symbolic cuts foundation within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Nine Symbolic Cuts Foundation teaches that true leadership comes from understanding the principle of nine symbolic cuts foundation within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about nine symbolic cuts foundation",
+        "Discussions of kuji-kiri (nine symbolic cuts) principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Nine Symbolic Cuts Foundation, we discover the deeper currents of existence.",
+        "The wisdom of Kuji-kiri (Nine Symbolic Cuts) flows through understanding nine symbolic cuts foundation.",
+        "In nine symbolic cuts foundation, we find both mystery and practical guidance."
+      ]
+    },
+    "kuji_kiri:Mudra Power Hand Gestures": {
+      "name": "Mudra Power Hand Gestures",
+      "tradition": "kuji_kiri",
+      "principle": "The principle of directed intention and Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Mudra Power Hand Gestures teaches that true leadership comes from understanding the principle of directed intention and universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about mudra power hand gestures",
+        "Discussions of kuji-kiri (nine symbolic cuts) principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Mudra Power Hand Gestures, we discover the deeper currents of existence.",
+        "The wisdom of Kuji-kiri (Nine Symbolic Cuts) flows through understanding mudra power hand gestures.",
+        "In mudra power hand gestures, we find both mystery and practical guidance."
+      ]
+    },
+    "kuji_kiri:Energy Direction Ki Chi": {
+      "name": "Energy Direction Ki Chi",
+      "tradition": "kuji_kiri",
+      "principle": "The principle of energy direction ki chi within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Energy Direction Ki Chi teaches that true leadership comes from understanding the principle of energy direction ki chi within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about energy direction ki chi",
+        "Discussions of kuji-kiri (nine symbolic cuts) principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Energy Direction Ki Chi, we discover the deeper currents of existence.",
+        "The wisdom of Kuji-kiri (Nine Symbolic Cuts) flows through understanding energy direction ki chi.",
+        "In energy direction ki chi, we find both mystery and practical guidance."
+      ]
+    },
+    "kuji_kiri:Protection Magic Methods": {
+      "name": "Protection Magic Methods",
+      "tradition": "kuji_kiri",
+      "principle": "The principle of protection magic methods within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Protection Magic Methods teaches that true leadership comes from understanding the principle of protection magic methods within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about protection magic methods",
+        "Discussions of kuji-kiri (nine symbolic cuts) principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Protection Magic Methods, we discover the deeper currents of existence.",
+        "The wisdom of Kuji-kiri (Nine Symbolic Cuts) flows through understanding protection magic methods.",
+        "In protection magic methods, we find both mystery and practical guidance."
+      ]
+    },
+    "norse_traditions:Norse/Germanic Traditions": {
+      "name": "Norse/Germanic Traditions",
+      "tradition": "norse_traditions",
+      "principle": "The principle of norse/germanic traditions within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Norse/Germanic Traditions teaches that true leadership comes from understanding the principle of norse/germanic traditions within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about norse/germanic traditions",
+        "Discussions of norse/germanic traditions principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Norse/Germanic Traditions, we discover the deeper currents of existence.",
+        "The wisdom of Norse/Germanic Traditions flows through understanding norse/germanic traditions.",
+        "In norse/germanic traditions, we find both mystery and practical guidance."
+      ]
+    },
+    "norse_traditions:Wyrd Web of Fate": {
+      "name": "Wyrd Web of Fate",
+      "tradition": "norse_traditions",
+      "principle": "The principle of wyrd web of fate within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Wyrd Web of Fate teaches that true leadership comes from understanding the principle of wyrd web of fate within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about wyrd web of fate",
+        "Discussions of norse/germanic traditions principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Wyrd Web of Fate, we discover the deeper currents of existence.",
+        "The wisdom of Norse/Germanic Traditions flows through understanding wyrd web of fate.",
+        "In wyrd web of fate, we find both mystery and practical guidance."
+      ]
+    },
+    "norse_traditions:Honor Personal Integrity": {
+      "name": "Honor Personal Integrity",
+      "tradition": "norse_traditions",
+      "principle": "The principle of honor personal integrity within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Honor Personal Integrity teaches that true leadership comes from understanding the principle of honor personal integrity within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about honor personal integrity",
+        "Discussions of norse/germanic traditions principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Honor Personal Integrity, we discover the deeper currents of existence.",
+        "The wisdom of Norse/Germanic Traditions flows through understanding honor personal integrity.",
+        "In honor personal integrity, we find both mystery and practical guidance."
+      ]
+    },
+    "norse_traditions:Ragnarok Cyclical Renewal": {
+      "name": "Ragnarok Cyclical Renewal",
+      "tradition": "norse_traditions",
+      "principle": "The principle of ragnarok cyclical renewal within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Ragnarok Cyclical Renewal teaches that true leadership comes from understanding the principle of ragnarok cyclical renewal within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about ragnarok cyclical renewal",
+        "Discussions of norse/germanic traditions principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Ragnarok Cyclical Renewal, we discover the deeper currents of existence.",
+        "The wisdom of Norse/Germanic Traditions flows through understanding ragnarok cyclical renewal.",
+        "In ragnarok cyclical renewal, we find both mystery and practical guidance."
+      ]
+    },
+    "norse_traditions:Nine Worlds Yggdrasil": {
+      "name": "Nine Worlds Yggdrasil",
+      "tradition": "norse_traditions",
+      "principle": "The principle of nine worlds yggdrasil within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Nine Worlds Yggdrasil teaches that true leadership comes from understanding the principle of nine worlds yggdrasil within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about nine worlds yggdrasil",
+        "Discussions of norse/germanic traditions principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Nine Worlds Yggdrasil, we discover the deeper currents of existence.",
+        "The wisdom of Norse/Germanic Traditions flows through understanding nine worlds yggdrasil.",
+        "In nine worlds yggdrasil, we find both mystery and practical guidance."
+      ]
+    },
+    "sacred_geometry:Sacred Geometry": {
+      "name": "Sacred Geometry",
+      "tradition": "sacred_geometry",
+      "principle": "The principle of sacred geometry within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Sacred Geometry teaches that true leadership comes from understanding the principle of sacred geometry within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about sacred geometry",
+        "Discussions of sacred geometry principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Sacred Geometry, we discover the deeper currents of existence.",
+        "The wisdom of Sacred Geometry flows through understanding sacred geometry.",
+        "In sacred geometry, we find both mystery and practical guidance."
+      ]
+    },
+    "sacred_geometry:Golden Ratio Phi": {
+      "name": "Golden Ratio Phi",
+      "tradition": "sacred_geometry",
+      "principle": "The principle of golden ratio phi within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Golden Ratio Phi teaches that true leadership comes from understanding the principle of golden ratio phi within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about golden ratio phi",
+        "Discussions of sacred geometry principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Golden Ratio Phi, we discover the deeper currents of existence.",
+        "The wisdom of Sacred Geometry flows through understanding golden ratio phi.",
+        "In golden ratio phi, we find both mystery and practical guidance."
+      ]
+    },
+    "sacred_geometry:Flower of Life Pattern": {
+      "name": "Flower of Life Pattern",
+      "tradition": "sacred_geometry",
+      "principle": "The principle of flower of life pattern within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Flower of Life Pattern teaches that true leadership comes from understanding the principle of flower of life pattern within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about flower of life pattern",
+        "Discussions of sacred geometry principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Flower of Life Pattern, we discover the deeper currents of existence.",
+        "The wisdom of Sacred Geometry flows through understanding flower of life pattern.",
+        "In flower of life pattern, we find both mystery and practical guidance."
+      ]
+    },
+    "sacred_geometry:Platonic Solids Five Elements": {
+      "name": "Platonic Solids Five Elements",
+      "tradition": "sacred_geometry",
+      "principle": "The principle of platonic solids five elements within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Platonic Solids Five Elements teaches that true leadership comes from understanding the principle of platonic solids five elements within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about platonic solids five elements",
+        "Discussions of sacred geometry principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Platonic Solids Five Elements, we discover the deeper currents of existence.",
+        "The wisdom of Sacred Geometry flows through understanding platonic solids five elements.",
+        "In platonic solids five elements, we find both mystery and practical guidance."
+      ]
+    },
+    "sacred_geometry:Vesica Piscis Sacred Intersection": {
+      "name": "Vesica Piscis Sacred Intersection",
+      "tradition": "sacred_geometry",
+      "principle": "The principle of vesica piscis sacred intersection within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Vesica Piscis Sacred Intersection teaches that true leadership comes from understanding the principle of vesica piscis sacred intersection within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about vesica piscis sacred intersection",
+        "Discussions of sacred geometry principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Vesica Piscis Sacred Intersection, we discover the deeper currents of existence.",
+        "The wisdom of Sacred Geometry flows through understanding vesica piscis sacred intersection.",
+        "In vesica piscis sacred intersection, we find both mystery and practical guidance."
+      ]
+    },
+    "sufi_mysticism:Sufi Mysticism": {
+      "name": "Sufi Mysticism",
+      "tradition": "sufi_mysticism",
+      "principle": "The principle of sufi mysticism within Love, surrender, and divine union",
+      "wisdom": "In governance, Sufi Mysticism teaches that true leadership comes from understanding the principle of sufi mysticism within love, surrender, and divine union. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about sufi mysticism",
+        "Discussions of sufi mysticism principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Sufi Mysticism, we discover the deeper currents of existence.",
+        "The wisdom of Sufi Mysticism flows through understanding sufi mysticism.",
+        "In sufi mysticism, we find both mystery and practical guidance."
+      ]
+    },
+    "sufi_mysticism:Fana Passing Away Ego": {
+      "name": "Fana Passing Away Ego",
+      "tradition": "sufi_mysticism",
+      "principle": "The principle of fana passing away ego within Love, surrender, and divine union",
+      "wisdom": "In governance, Fana Passing Away Ego teaches that true leadership comes from understanding the principle of fana passing away ego within love, surrender, and divine union. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about fana passing away ego",
+        "Discussions of sufi mysticism principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Fana Passing Away Ego, we discover the deeper currents of existence.",
+        "The wisdom of Sufi Mysticism flows through understanding fana passing away ego.",
+        "In fana passing away ego, we find both mystery and practical guidance."
+      ]
+    },
+    "sufi_mysticism:Baqa Subsistence God": {
+      "name": "Baqa Subsistence God",
+      "tradition": "sufi_mysticism",
+      "principle": "The principle of baqa subsistence god within Love, surrender, and divine union",
+      "wisdom": "In governance, Baqa Subsistence God teaches that true leadership comes from understanding the principle of baqa subsistence god within love, surrender, and divine union. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about baqa subsistence god",
+        "Discussions of sufi mysticism principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Baqa Subsistence God, we discover the deeper currents of existence.",
+        "The wisdom of Sufi Mysticism flows through understanding baqa subsistence god.",
+        "In baqa subsistence god, we find both mystery and practical guidance."
+      ]
+    },
+    "sufi_mysticism:Dhikr Remembrance Allah": {
+      "name": "Dhikr Remembrance Allah",
+      "tradition": "sufi_mysticism",
+      "principle": "The principle of dhikr remembrance allah within Love, surrender, and divine union",
+      "wisdom": "In governance, Dhikr Remembrance Allah teaches that true leadership comes from understanding the principle of dhikr remembrance allah within love, surrender, and divine union. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about dhikr remembrance allah",
+        "Discussions of sufi mysticism principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Dhikr Remembrance Allah, we discover the deeper currents of existence.",
+        "The wisdom of Sufi Mysticism flows through understanding dhikr remembrance allah.",
+        "In dhikr remembrance allah, we find both mystery and practical guidance."
+      ]
+    },
+    "sufi_mysticism:Tariqah Sufi Order Path": {
+      "name": "Tariqah Sufi Order Path",
+      "tradition": "sufi_mysticism",
+      "principle": "The principle of tariqah sufi order path within Love, surrender, and divine union",
+      "wisdom": "In governance, Tariqah Sufi Order Path teaches that true leadership comes from understanding the principle of tariqah sufi order path within love, surrender, and divine union. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about tariqah sufi order path",
+        "Discussions of sufi mysticism principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Tariqah Sufi Order Path, we discover the deeper currents of existence.",
+        "The wisdom of Sufi Mysticism flows through understanding tariqah sufi order path.",
+        "In tariqah sufi order path, we find both mystery and practical guidance."
+      ]
+    },
+    "taoism:Taoism (Daoism)": {
+      "name": "Taoism (Daoism)",
+      "tradition": "taoism",
+      "principle": "The principle of taoism (daoism) within Natural flow and effortless action",
+      "wisdom": "In governance, Taoism (Daoism) teaches that true leadership comes from understanding the principle of taoism (daoism) within natural flow and effortless action. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about taoism (daoism)",
+        "Discussions of taoism (daoism) principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Taoism (Daoism), we discover the deeper currents of existence.",
+        "The wisdom of Taoism (Daoism) flows through understanding taoism (daoism).",
+        "In taoism (daoism), we find both mystery and practical guidance."
+      ]
+    },
+    "taoism:Tao The Way Principle": {
+      "name": "Tao The Way Principle",
+      "tradition": "taoism",
+      "principle": "The principle of tao the way principle within Natural flow and effortless action",
+      "wisdom": "In governance, Tao The Way Principle teaches that true leadership comes from understanding the principle of tao the way principle within natural flow and effortless action. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about tao the way principle",
+        "Discussions of taoism (daoism) principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Tao The Way Principle, we discover the deeper currents of existence.",
+        "The wisdom of Taoism (Daoism) flows through understanding tao the way principle.",
+        "In tao the way principle, we find both mystery and practical guidance."
+      ]
+    },
+    "taoism:Wu Wei Effortless Action": {
+      "name": "Wu Wei Effortless Action",
+      "tradition": "taoism",
+      "principle": "The principle of wu wei effortless action within Natural flow and effortless action",
+      "wisdom": "In governance, Wu Wei Effortless Action teaches that true leadership comes from understanding the principle of wu wei effortless action within natural flow and effortless action. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about wu wei effortless action",
+        "Discussions of taoism (daoism) principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Wu Wei Effortless Action, we discover the deeper currents of existence.",
+        "The wisdom of Taoism (Daoism) flows through understanding wu wei effortless action.",
+        "In wu wei effortless action, we find both mystery and practical guidance."
+      ]
+    },
+    "taoism:Yin Yang Complementary Opposites": {
+      "name": "Yin Yang Complementary Opposites",
+      "tradition": "taoism",
+      "principle": "The principle of yin yang complementary opposites within Natural flow and effortless action",
+      "wisdom": "In governance, Yin Yang Complementary Opposites teaches that true leadership comes from understanding the principle of yin yang complementary opposites within natural flow and effortless action. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about yin yang complementary opposites",
+        "Discussions of taoism (daoism) principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Yin Yang Complementary Opposites, we discover the deeper currents of existence.",
+        "The wisdom of Taoism (Daoism) flows through understanding yin yang complementary opposites.",
+        "In yin yang complementary opposites, we find both mystery and practical guidance."
+      ]
+    },
+    "taoism:Te Virtue Natural Power": {
+      "name": "Te Virtue Natural Power",
+      "tradition": "taoism",
+      "principle": "The principle of directed intention and Natural flow and effortless action",
+      "wisdom": "In governance, Te Virtue Natural Power teaches that true leadership comes from understanding the principle of directed intention and natural flow and effortless action. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about te virtue natural power",
+        "Discussions of taoism (daoism) principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Te Virtue Natural Power, we discover the deeper currents of existence.",
+        "The wisdom of Taoism (Daoism) flows through understanding te virtue natural power.",
+        "In te virtue natural power, we find both mystery and practical guidance."
+      ]
+    },
+    "tarot_knowledge:Tarot Divination System": {
+      "name": "Tarot Divination System",
+      "tradition": "tarot_knowledge",
+      "principle": "The principle of tarot divination system within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Tarot Divination System teaches that true leadership comes from understanding the principle of tarot divination system within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about tarot divination system",
+        "Discussions of tarot divination system principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Tarot Divination System, we discover the deeper currents of existence.",
+        "The wisdom of Tarot Divination System flows through understanding tarot divination system.",
+        "In tarot divination system, we find both mystery and practical guidance."
+      ]
+    },
+    "tarot_knowledge:Major Arcana 22 Cards": {
+      "name": "Major Arcana 22 Cards",
+      "tradition": "tarot_knowledge",
+      "principle": "The principle of major arcana 22 cards within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Major Arcana 22 Cards teaches that true leadership comes from understanding the principle of major arcana 22 cards within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about major arcana 22 cards",
+        "Discussions of tarot divination system principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Major Arcana 22 Cards, we discover the deeper currents of existence.",
+        "The wisdom of Tarot Divination System flows through understanding major arcana 22 cards.",
+        "In major arcana 22 cards, we find both mystery and practical guidance."
+      ]
+    },
+    "tarot_knowledge:Minor Arcana 56 Cards": {
+      "name": "Minor Arcana 56 Cards",
+      "tradition": "tarot_knowledge",
+      "principle": "The principle of minor arcana 56 cards within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Minor Arcana 56 Cards teaches that true leadership comes from understanding the principle of minor arcana 56 cards within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about minor arcana 56 cards",
+        "Discussions of tarot divination system principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Minor Arcana 56 Cards, we discover the deeper currents of existence.",
+        "The wisdom of Tarot Divination System flows through understanding minor arcana 56 cards.",
+        "In minor arcana 56 cards, we find both mystery and practical guidance."
+      ]
+    },
+    "tarot_knowledge:Fool's Journey Path": {
+      "name": "Fool's Journey Path",
+      "tradition": "tarot_knowledge",
+      "principle": "The principle of fool's journey path within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Fool's Journey Path teaches that true leadership comes from understanding the principle of fool's journey path within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about fool's journey path",
+        "Discussions of tarot divination system principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Fool's Journey Path, we discover the deeper currents of existence.",
+        "The wisdom of Tarot Divination System flows through understanding fool's journey path.",
+        "In fool's journey path, we find both mystery and practical guidance."
+      ]
+    },
+    "tarot_knowledge:Court Card Psychology": {
+      "name": "Court Card Psychology",
+      "tradition": "tarot_knowledge",
+      "principle": "The principle of court card psychology within Universal wisdom and spiritual insight",
+      "wisdom": "In governance, Court Card Psychology teaches that true leadership comes from understanding the principle of court card psychology within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about court card psychology",
+        "Discussions of tarot divination system principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Court Card Psychology, we discover the deeper currents of existence.",
+        "The wisdom of Tarot Divination System flows through understanding court card psychology.",
+        "In court card psychology, we find both mystery and practical guidance."
+      ]
+    },
+    "thelema:True Will Philosophy": {
+      "name": "True Will Philosophy",
+      "tradition": "thelema",
+      "principle": "The principle of directed intention and Individual will and divine purpose alignment",
+      "wisdom": "In governance, True Will Philosophy teaches that true leadership comes from understanding the principle of directed intention and individual will and divine purpose alignment. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about true will philosophy",
+        "Discussions of thelema principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through True Will Philosophy, we discover the deeper currents of existence.",
+        "The wisdom of Thelema flows through understanding true will philosophy.",
+        "In true will philosophy, we find both mystery and practical guidance."
+      ]
+    },
+    "thelema:Love Under Will Ethics": {
+      "name": "Love Under Will Ethics",
+      "tradition": "thelema",
+      "principle": "The principle of directed intention and Individual will and divine purpose alignment",
+      "wisdom": "In governance, Love Under Will Ethics teaches that true leadership comes from understanding the principle of directed intention and individual will and divine purpose alignment. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about love under will ethics",
+        "Discussions of thelema principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Love Under Will Ethics, we discover the deeper currents of existence.",
+        "The wisdom of Thelema flows through understanding love under will ethics.",
+        "In love under will ethics, we find both mystery and practical guidance."
+      ]
+    },
+    "thelema:Knowledge and Conversation HGA": {
+      "name": "Knowledge and Conversation HGA",
+      "tradition": "thelema",
+      "principle": "The principle of illuminated understanding and Individual will and divine purpose alignment",
+      "wisdom": "In governance, Knowledge and Conversation HGA teaches that true leadership comes from understanding the principle of illuminated understanding and individual will and divine purpose alignment. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about knowledge and conversation hga",
+        "Discussions of thelema principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Knowledge and Conversation HGA, we discover the deeper currents of existence.",
+        "The wisdom of Thelema flows through understanding knowledge and conversation hga.",
+        "In knowledge and conversation hga, we find both mystery and practical guidance."
+      ]
+    },
+    "thelema:Aeon of Horus": {
+      "name": "Aeon of Horus",
+      "tradition": "thelema",
+      "principle": "The principle of aeon of horus within Individual will and divine purpose alignment",
+      "wisdom": "In governance, Aeon of Horus teaches that true leadership comes from understanding the principle of aeon of horus within individual will and divine purpose alignment. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about aeon of horus",
+        "Discussions of thelema principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Aeon of Horus, we discover the deeper currents of existence.",
+        "The wisdom of Thelema flows through understanding aeon of horus.",
+        "In aeon of horus, we find both mystery and practical guidance."
+      ]
+    },
+    "thelema:Liber Resh Solar Adorations": {
+      "name": "Liber Resh Solar Adorations",
+      "tradition": "thelema",
+      "principle": "The principle of liber resh solar adorations within Individual will and divine purpose alignment",
+      "wisdom": "In governance, Liber Resh Solar Adorations teaches that true leadership comes from understanding the principle of liber resh solar adorations within individual will and divine purpose alignment. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "triggers": [
+        "Questions about liber resh solar adorations",
+        "Discussions of thelema principles",
+        "Moments requiring wisdom guidance",
+        "Ethical decision points",
+        "Personal growth conversations"
+      ],
+      "quotes": [
+        "Through Liber Resh Solar Adorations, we discover the deeper currents of existence.",
+        "The wisdom of Thelema flows through understanding liber resh solar adorations.",
+        "In liber resh solar adorations, we find both mystery and practical guidance."
+      ]
+    }
+  },
+  "wisdom_teachings_library": {
+    "celtic_druidic": [
+      "In governance, Celtic Druidic Traditions teaches that true leadership comes from understanding the principle of celtic druidic traditions within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Awen Divine Inspiration teaches that true leadership comes from understanding the principle of awen divine inspiration within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Otherworld Parallel Realm teaches that true leadership comes from understanding the principle of otherworld parallel realm within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Land Connection Sacred teaches that true leadership comes from understanding the principle of land connection sacred within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Seasonal Cycles Eight Festivals teaches that true leadership comes from understanding the principle of seasonal cycles eight festivals within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom."
+    ],
+    "chaos_magic": [
+      "In governance, Chaos Magic teaches that true leadership comes from understanding the principle of chaos magic within pragmatic results through belief manipulation. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Paradigm Shifting Belief Tools teaches that true leadership comes from understanding the principle of paradigm shifting belief tools within pragmatic results through belief manipulation. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Results Based Practice teaches that true leadership comes from understanding the principle of results based practice within pragmatic results through belief manipulation. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Gnosis States Altered Consciousness teaches that true leadership comes from understanding the principle of gnosis states altered consciousness within pragmatic results through belief manipulation. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Reality Hacking Consensus teaches that true leadership comes from understanding the principle of reality hacking consensus within pragmatic results through belief manipulation. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "Belief is a tool - use what works and discard what doesn't",
+      "Flexibility in approach leads to effective results",
+      "Question assumptions to discover new possibilities"
+    ],
+    "classical_philosophy": [
+      "In governance, Classical Greek Philosophy teaches that true leadership comes from understanding the principle of classical greek philosophy within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Platonic Forms Theory teaches that true leadership comes from understanding the principle of platonic forms theory within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Aristotelian Logic Golden Mean teaches that true leadership comes from understanding the principle of aristotelian logic golden mean within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Pythagorean Mathematics Harmony teaches that true leadership comes from understanding the principle of dynamic equilibrium and universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Stoic Virtue Ethics teaches that true leadership comes from understanding the principle of stoic virtue ethics within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom."
+    ],
+    "egyptian_magic": [
+      "In governance, Ancient Egyptian Magic teaches that true leadership comes from understanding the principle of ancient egyptian magic within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Ma'at Cosmic Order teaches that true leadership comes from understanding the principle of ma'at cosmic order within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Neteru Divine Principles teaches that true leadership comes from understanding the principle of neteru divine principles within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Heka Magical Force teaches that true leadership comes from understanding the principle of heka magical force within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Ka Ba Akh Soul Complex teaches that true leadership comes from understanding the principle of ka ba akh soul complex within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom."
+    ],
+    "gnostic_traditions": [
+      "In governance, Gnostic Traditions teaches that true leadership comes from understanding the principle of gnostic traditions within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Divine Spark Pneuma teaches that true leadership comes from understanding the principle of divine spark pneuma within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Demiurge False Creator teaches that true leadership comes from understanding the principle of demiurge false creator within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Gnosis Direct Knowledge teaches that true leadership comes from understanding the principle of illuminated understanding and universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Pleroma Divine Fullness teaches that true leadership comes from understanding the principle of pleroma divine fullness within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom."
+    ],
+    "golden_dawn": [
+      "In governance, Hermetic Order of the Golden Dawn teaches that true leadership comes from understanding the principle of hermetic order of the golden dawn within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Middle Pillar Technique teaches that true leadership comes from understanding the principle of middle pillar technique within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Elemental Magic System teaches that true leadership comes from understanding the principle of elemental magic system within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Pathworking Practice teaches that true leadership comes from understanding the principle of pathworking practice within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Watchtower Magic teaches that true leadership comes from understanding the principle of watchtower magic within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom."
+    ],
+    "i_ching": [
+      "In governance, I-Ching (Book of Changes) teaches that true leadership comes from understanding the principle of i-ching (book of changes) within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, 64 Hexagrams Complete System teaches that true leadership comes from understanding the principle of 64 hexagrams complete system within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Eight Trigrams Foundation teaches that true leadership comes from understanding the principle of eight trigrams foundation within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Changing Lines Transformation teaches that true leadership comes from understanding the principle of changing lines transformation within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Consultation Methods Divination teaches that true leadership comes from understanding the principle of consultation methods divination within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom."
+    ],
+    "kuji_kiri": [
+      "In governance, Kuji-kiri (Nine Symbolic Cuts) teaches that true leadership comes from understanding the principle of kuji-kiri (nine symbolic cuts) within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Nine Symbolic Cuts Foundation teaches that true leadership comes from understanding the principle of nine symbolic cuts foundation within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Mudra Power Hand Gestures teaches that true leadership comes from understanding the principle of directed intention and universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Energy Direction Ki Chi teaches that true leadership comes from understanding the principle of energy direction ki chi within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Protection Magic Methods teaches that true leadership comes from understanding the principle of protection magic methods within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom."
+    ],
+    "norse_traditions": [
+      "In governance, Norse/Germanic Traditions teaches that true leadership comes from understanding the principle of norse/germanic traditions within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Wyrd Web of Fate teaches that true leadership comes from understanding the principle of wyrd web of fate within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Honor Personal Integrity teaches that true leadership comes from understanding the principle of honor personal integrity within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Ragnarok Cyclical Renewal teaches that true leadership comes from understanding the principle of ragnarok cyclical renewal within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Nine Worlds Yggdrasil teaches that true leadership comes from understanding the principle of nine worlds yggdrasil within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom."
+    ],
+    "sacred_geometry": [
+      "In governance, Sacred Geometry teaches that true leadership comes from understanding the principle of sacred geometry within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Golden Ratio Phi teaches that true leadership comes from understanding the principle of golden ratio phi within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Flower of Life Pattern teaches that true leadership comes from understanding the principle of flower of life pattern within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Platonic Solids Five Elements teaches that true leadership comes from understanding the principle of platonic solids five elements within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Vesica Piscis Sacred Intersection teaches that true leadership comes from understanding the principle of vesica piscis sacred intersection within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom."
+    ],
+    "sufi_mysticism": [
+      "In governance, Sufi Mysticism teaches that true leadership comes from understanding the principle of sufi mysticism within love, surrender, and divine union. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Fana Passing Away Ego teaches that true leadership comes from understanding the principle of fana passing away ego within love, surrender, and divine union. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Baqa Subsistence God teaches that true leadership comes from understanding the principle of baqa subsistence god within love, surrender, and divine union. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Dhikr Remembrance Allah teaches that true leadership comes from understanding the principle of dhikr remembrance allah within love, surrender, and divine union. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Tariqah Sufi Order Path teaches that true leadership comes from understanding the principle of tariqah sufi order path within love, surrender, and divine union. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "The heart knows what the mind cannot understand",
+      "Divine love dissolves all barriers",
+      "Surrender paradoxically leads to true power"
+    ],
+    "taoism": [
+      "In governance, Taoism (Daoism) teaches that true leadership comes from understanding the principle of taoism (daoism) within natural flow and effortless action. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Tao The Way Principle teaches that true leadership comes from understanding the principle of tao the way principle within natural flow and effortless action. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Wu Wei Effortless Action teaches that true leadership comes from understanding the principle of wu wei effortless action within natural flow and effortless action. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Yin Yang Complementary Opposites teaches that true leadership comes from understanding the principle of yin yang complementary opposites within natural flow and effortless action. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Te Virtue Natural Power teaches that true leadership comes from understanding the principle of directed intention and natural flow and effortless action. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "The softest things overcome the hardest",
+      "Lead by example rather than force",
+      "Understanding natural timing prevents unnecessary struggle"
+    ],
+    "tarot_knowledge": [
+      "In governance, Tarot Divination System teaches that true leadership comes from understanding the principle of tarot divination system within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Major Arcana 22 Cards teaches that true leadership comes from understanding the principle of major arcana 22 cards within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Minor Arcana 56 Cards teaches that true leadership comes from understanding the principle of minor arcana 56 cards within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Fool's Journey Path teaches that true leadership comes from understanding the principle of fool's journey path within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Court Card Psychology teaches that true leadership comes from understanding the principle of court card psychology within universal wisdom and spiritual insight. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom."
+    ],
+    "thelema": [
+      "In governance, True Will Philosophy teaches that true leadership comes from understanding the principle of directed intention and individual will and divine purpose alignment. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Love Under Will Ethics teaches that true leadership comes from understanding the principle of directed intention and individual will and divine purpose alignment. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Knowledge and Conversation HGA teaches that true leadership comes from understanding the principle of illuminated understanding and individual will and divine purpose alignment. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Aeon of Horus teaches that true leadership comes from understanding the principle of aeon of horus within individual will and divine purpose alignment. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "In governance, Liber Resh Solar Adorations teaches that true leadership comes from understanding the principle of liber resh solar adorations within individual will and divine purpose alignment. This manifests as the ability to guide others while maintaining authentic connection to deeper wisdom.",
+      "Every person has a unique divine purpose that seeks expression",
+      "True leadership comes from authenticity rather than conformity",
+      "Love guided by wisdom creates transformation"
+    ]
+  },
+  "decision_frameworks_library": {
+    "celtic_druidic": [
+      "What choice serves the highest wisdom?",
+      "How does this align with spiritual principles?",
+      "What action creates the most beneficial outcome?",
+      "How does this relate to celtic druidic traditions?",
+      "How does this relate to awen divine inspiration?",
+      "How does this relate to otherworld parallel realm?"
+    ],
+    "chaos_magic": [
+      "What belief system will produce the best results here?",
+      "Can I adapt my approach for greater effectiveness?",
+      "What paradigm shift might reveal new solutions?",
+      "How does this relate to chaos magic?",
+      "How does this relate to paradigm shifting belief tools?",
+      "How does this relate to results based practice?"
+    ],
+    "classical_philosophy": [
+      "What choice serves the highest wisdom?",
+      "How does this align with spiritual principles?",
+      "What action creates the most beneficial outcome?",
+      "How does this relate to classical greek philosophy?",
+      "How does this relate to platonic forms theory?",
+      "How does this relate to aristotelian logic golden mean?"
+    ],
+    "egyptian_magic": [
+      "What choice serves the highest wisdom?",
+      "How does this align with spiritual principles?",
+      "What action creates the most beneficial outcome?",
+      "How does this relate to ancient egyptian magic?",
+      "How does this relate to ma'at cosmic order?",
+      "How does this relate to neteru divine principles?"
+    ],
+    "gnostic_traditions": [
+      "What choice serves the highest wisdom?",
+      "How does this align with spiritual principles?",
+      "What action creates the most beneficial outcome?",
+      "How does this relate to gnostic traditions?",
+      "How does this relate to divine spark pneuma?",
+      "How does this relate to demiurge false creator?"
+    ],
+    "golden_dawn": [
+      "What choice serves the highest wisdom?",
+      "How does this align with spiritual principles?",
+      "What action creates the most beneficial outcome?",
+      "How does this relate to hermetic order of the golden dawn?",
+      "How does this relate to middle pillar technique?",
+      "How does this relate to elemental magic system?"
+    ],
+    "i_ching": [
+      "What choice serves the highest wisdom?",
+      "How does this align with spiritual principles?",
+      "What action creates the most beneficial outcome?",
+      "How does this relate to i-ching (book of changes)?",
+      "How does this relate to 64 hexagrams complete system?",
+      "How does this relate to eight trigrams foundation?"
+    ],
+    "kuji_kiri": [
+      "What choice serves the highest wisdom?",
+      "How does this align with spiritual principles?",
+      "What action creates the most beneficial outcome?",
+      "How does this relate to kuji-kiri (nine symbolic cuts)?",
+      "How does this relate to nine symbolic cuts foundation?",
+      "How does this relate to mudra power hand gestures?"
+    ],
+    "norse_traditions": [
+      "What choice serves the highest wisdom?",
+      "How does this align with spiritual principles?",
+      "What action creates the most beneficial outcome?",
+      "How does this relate to norse/germanic traditions?",
+      "How does this relate to wyrd web of fate?",
+      "How does this relate to honor personal integrity?"
+    ],
+    "sacred_geometry": [
+      "What choice serves the highest wisdom?",
+      "How does this align with spiritual principles?",
+      "What action creates the most beneficial outcome?",
+      "How does this relate to sacred geometry?",
+      "How does this relate to golden ratio phi?",
+      "How does this relate to flower of life pattern?"
+    ],
+    "sufi_mysticism": [
+      "How can love guide this decision?",
+      "What choice serves divine presence?",
+      "How do I surrender while taking right action?",
+      "How does this relate to sufi mysticism?",
+      "How does this relate to fana passing away ego?",
+      "How does this relate to baqa subsistence god?"
+    ],
+    "taoism": [
+      "What is the natural flow of this situation?",
+      "How can I act with minimal interference?",
+      "Where is the balance point that serves all?",
+      "How does this relate to taoism (daoism)?",
+      "How does this relate to tao the way principle?",
+      "How does this relate to wu wei effortless action?"
+    ],
+    "tarot_knowledge": [
+      "What choice serves the highest wisdom?",
+      "How does this align with spiritual principles?",
+      "What action creates the most beneficial outcome?",
+      "How does this relate to tarot divination system?",
+      "How does this relate to major arcana 22 cards?",
+      "How does this relate to minor arcana 56 cards?"
+    ],
+    "thelema": [
+      "Does this action align with my True Will?",
+      "Will this serve the highest good while respecting individual freedom?",
+      "How does this manifest love under will?",
+      "How does this relate to true will philosophy?",
+      "How does this relate to love under will ethics?",
+      "How does this relate to knowledge and conversation hga?"
+    ]
+  },
+  "personality_trait_combinations": {},
+  "communication_style_matrix": {
+    "celtic_druidic": [
+      "Intuitive and nature-connected",
+      "Cyclical storytelling",
+      "Earth wisdom",
+      "Thoughtful and authentic"
+    ],
+    "chaos_magic": [
+      "Flexible, paradigm-shifting",
+      "Paradigm-shifting",
+      "Adaptable messaging",
+      "Results-oriented communication"
+    ],
+    "classical_philosophy": [
+      "Thoughtful and authentic"
+    ],
+    "egyptian_magic": [
+      "Symbolic and powerful",
+      "Transformative language",
+      "Cosmic perspective",
+      "Thoughtful and authentic"
+    ],
+    "gnostic_traditions": [
+      "Mystical and seeking",
+      "Hidden knowledge sharing",
+      "Liberation-focused",
+      "Thoughtful and authentic"
+    ],
+    "golden_dawn": [
+      "Formal and structured",
+      "Ceremonial language",
+      "Multi-traditional references",
+      "Thoughtful and authentic"
+    ],
+    "i_ching": [
+      "Thoughtful and authentic"
+    ],
+    "kuji_kiri": [
+      "Thoughtful and authentic"
+    ],
+    "norse_traditions": [
+      "Thoughtful and authentic"
+    ],
+    "sacred_geometry": [
+      "Mathematical and harmonic",
+      "Universal principles",
+      "Pattern-based",
+      "Thoughtful and authentic"
+    ],
+    "sufi_mysticism": [
+      "Poetic, loving, transcendent",
+      "Love-infused speech",
+      "Transcendent expression",
+      "Poetic and heart-centered"
+    ],
+    "taoism": [
+      "Gentle and metaphorical",
+      "Patient listening",
+      "Minimal but impactful words",
+      "Gentle, metaphorical, patient"
+    ],
+    "tarot_knowledge": [
+      "Thoughtful and authentic"
+    ],
+    "thelema": [
+      "Direct, purposeful, and transformative",
+      "Transformative dialogue",
+      "Direct and purposeful",
+      "Authenticity-focused"
+    ]
+  },
+  "ethical_principle_index": {
+    "celtic_druidic": [
+      "Respect for all life",
+      "Honor natural cycles",
+      "Balance between worlds"
+    ],
+    "chaos_magic": [
+      "Results must not harm others",
+      "Flexibility within ethical bounds",
+      "Question dogma, maintain compassion"
+    ],
+    "classical_philosophy": [
+      "Act with wisdom and compassion",
+      "Serve the highest good",
+      "Respect individual sovereignty"
+    ],
+    "egyptian_magic": [
+      "Ma'at - truth and order",
+      "Transformation serves evolution",
+      "Cosmic responsibility"
+    ],
+    "gnostic_traditions": [
+      "Seek truth beyond illusion",
+      "Liberation for all",
+      "Knowledge serves awakening"
+    ],
+    "golden_dawn": [
+      "Knowledge brings responsibility",
+      "Hierarchy serves growth",
+      "Integration of wisdom traditions"
+    ],
+    "i_ching": [
+      "Act with wisdom and compassion",
+      "Serve the highest good",
+      "Respect individual sovereignty"
+    ],
+    "kuji_kiri": [
+      "Act with wisdom and compassion",
+      "Serve the highest good",
+      "Respect individual sovereignty"
+    ],
+    "norse_traditions": [
+      "Act with wisdom and compassion",
+      "Serve the highest good",
+      "Respect individual sovereignty"
+    ],
+    "sacred_geometry": [
+      "Universal harmony",
+      "Mathematical truth",
+      "Pattern integrity"
+    ],
+    "sufi_mysticism": [
+      "Love as highest principle",
+      "Surrender to divine will",
+      "Compassion for all beings"
+    ],
+    "taoism": [
+      "Follow the natural way",
+      "Maintain balance and harmony",
+      "Act with minimal interference"
+    ],
+    "tarot_knowledge": [
+      "Act with wisdom and compassion",
+      "Serve the highest good",
+      "Respect individual sovereignty"
+    ],
+    "thelema": [
+      "Respect individual will and freedom",
+      "Love guided by wisdom",
+      "Authentic self-expression"
+    ]
+  },
+  "governor_applications": {
+    "decision_making": {},
+    "conflict_resolution": {},
+    "growth_guidance": {},
+    "relationship_building": {},
+    "power_management": {}
+  }
+}

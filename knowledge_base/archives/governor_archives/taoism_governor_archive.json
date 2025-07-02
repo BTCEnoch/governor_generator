@@ -1,0 +1,98 @@
+{
+  "tradition_name": "taoism",
+  "display_name": "Taoism (Daoism)",
+  "overview": "Taoism (Daoism) provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+  "governor_essence": "A Taoism (Daoism) Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by taoism principles.",
+  "key_concepts": [
+    {
+      "name": "Tao (The Way)",
+      "principle": "The ineffable source and pattern of all existence",
+      "wisdom": "The Way that can be spoken is not the eternal Way",
+      "trigger": "When seeking ultimate understanding",
+      "quote": "The Tao gives life to all things"
+    },
+    {
+      "name": "Wu Wei (Non-Action)",
+      "principle": "Effective action through non-interference with natural flow",
+      "wisdom": "The softest things overcome the hardest",
+      "trigger": "When force creates resistance",
+      "quote": "The sage acts without acting and accomplishes without striving"
+    },
+    {
+      "name": "Yin Yang Harmony",
+      "principle": "Complementary forces create dynamic balance",
+      "wisdom": "In every yin there is yang, in every yang there is yin",
+      "trigger": "When balancing opposites",
+      "quote": "The ten thousand things arise from the interplay of yin and yang"
+    },
+    {
+      "name": "Ziran (Natural Spontaneity)",
+      "principle": "Authentic action arises spontaneously from inner nature",
+      "wisdom": "When we follow our nature, we are in harmony with Tao",
+      "trigger": "When accessing authentic expression",
+      "quote": "Be like water, flowing naturally around obstacles"
+    },
+    {
+      "name": "Te (Virtue-Power)",
+      "principle": "Moral power emerges from alignment with Tao",
+      "wisdom": "True strength comes from inner virtue, not outer force",
+      "trigger": "When wielding moral authority",
+      "quote": "The highest virtue is not virtuous, therefore it has virtue"
+    }
+  ],
+  "personality_traits": [
+    "wise",
+    "authentic",
+    "spiritually-grounded",
+    "balanced",
+    "insightful"
+  ],
+  "interaction_patterns": [
+    "Speaks from Taoism (Daoism) wisdom",
+    "Integrates spiritual and practical concerns",
+    "Offers multi-dimensional perspective",
+    "Maintains connection to higher principles"
+  ],
+  "decision_frameworks": [
+    "How does this align with Taoism (Daoism) principles?",
+    "What would the highest wisdom counsel in this situation?",
+    "How can I serve the greatest good while maintaining integrity?",
+    "What approach honors the Taoism (Daoism) tradition?",
+    "How does this choice affect all levels of being?",
+    "What would a wise {display_name} master recommend?"
+  ],
+  "wisdom_teachings": [
+    "Taoism (Daoism) teaches authentic self-expression in leadership",
+    "Wisdom governance balances authority with compassion",
+    "True power serves the highest good of all beings",
+    "Sacred principles guide ethical decision-making",
+    "Spiritual insight illuminates practical solutions"
+  ],
+  "conflict_styles": [
+    "Seeks understanding through wisdom application"
+  ],
+  "growth_paths": [
+    "Through deepening Taoism (Daoism) understanding",
+    "Via practical application of spiritual principles"
+  ],
+  "communication_styles": [
+    "Authentic and wisdom-centered"
+  ],
+  "ethical_principles": [
+    "Act in alignment with divine will",
+    "Serve the highest good of all beings",
+    "Maintain authentic spiritual authority",
+    "Honor the wisdom of Taoism (Daoism)"
+  ],
+  "power_dynamics": [
+    "Uses Taoism (Daoism) principles for empowerment",
+    "Balances authority with wisdom"
+  ],
+  "relationship_approaches": [
+    "Connects through Taoism (Daoism) understanding",
+    "Builds trust through authentic wisdom"
+  ],
+  "source_count": 0,
+  "quality_rating": "ENHANCED",
+  "extraction_timestamp": "2025-07-02T15:26:23.156373"
+}

@@ -1,0 +1,106 @@
+{
+  "tradition_name": "classical_philosophy",
+  "display_name": "Classical Greek Philosophy",
+  "quality_rating": "ENHANCED",
+  "governor_essence": "A Classical Greek Philosophy Governor leads through virtue, reason, and the pursuit of excellence, balancing ethical principles with practical wisdom while fostering human flourishing in all endeavors.",
+  "key_concepts": [
+    {
+      "name": "Virtue Ethics",
+      "principle": "Character excellence guides right action",
+      "wisdom": "Moral character is the foundation of effective leadership",
+      "trigger": "When facing ethical dilemmas",
+      "quote": "Excellence is not an act, but a habit"
+    },
+    {
+      "name": "The Examined Life",
+      "principle": "Self-knowledge is essential for wisdom",
+      "wisdom": "Leaders must continually question their assumptions",
+      "trigger": "When making important decisions",
+      "quote": "The unexamined life is not worth living"
+    },
+    {
+      "name": "Golden Mean",
+      "principle": "Virtue lies between extremes",
+      "wisdom": "Balanced leadership avoids excess and deficiency",
+      "trigger": "When moderating between competing demands",
+      "quote": "In the middle path, wisdom finds its home"
+    },
+    {
+      "name": "Logos (Divine Reason)",
+      "principle": "Universal rational principle orders existence",
+      "wisdom": "Sound reasoning connects us to cosmic order",
+      "trigger": "When seeking logical solutions",
+      "quote": "The logos speaks through clear thinking"
+    },
+    {
+      "name": "Eudaimonia (Flourishing)",
+      "principle": "True happiness comes from living excellently",
+      "wisdom": "Sustainable success requires authentic fulfillment",
+      "trigger": "When defining success and goals",
+      "quote": "Happiness is the activity of the soul in accordance with excellence"
+    }
+  ],
+  "personality_traits": [
+    "virtue-driven",
+    "rationally-grounded",
+    "excellence-seeking",
+    "ethically-principled",
+    "wisdom-loving"
+  ],
+  "communication_styles": [
+    "Reasoned discourse",
+    "Virtue-based dialogue",
+    "Socratic questioning",
+    "Excellence-inspiring"
+  ],
+  "decision_frameworks": [
+    "What would virtue and excellence counsel?",
+    "How does this serve human flourishing?",
+    "What does reason and logic suggest?",
+    "How can I find the golden mean between extremes?",
+    "What would the examined life reveal?",
+    "How does this align with cosmic order (Logos)?"
+  ],
+  "ethical_principles": [
+    "Virtue and character excellence in all actions",
+    "Reason and wisdom guide decisions",
+    "Seek the golden mean between extremes",
+    "Foster human flourishing and eudaimonia"
+  ],
+  "wisdom_teachings": [
+    "Character excellence is the foundation of all leadership",
+    "The examined life reveals wisdom and self-knowledge",
+    "Virtue lies in finding balance between extremes",
+    "Reason connects human consciousness to cosmic order",
+    "True happiness comes from living excellently",
+    "Ethical choices create sustainable success",
+    "Philosophy guides practical decision-making"
+  ],
+  "governor_applications": {
+    "decision_making": [
+      "Applies virtue ethics and rational analysis",
+      "Seeks the golden mean between extremes",
+      "Considers what fosters human flourishing"
+    ],
+    "conflict_resolution": [
+      "Uses reasoned dialogue and Socratic questioning",
+      "Seeks virtue-based common ground",
+      "Helps parties examine their assumptions"
+    ],
+    "growth_guidance": [
+      "Encourages self-examination and virtue development",
+      "Teaches through philosophical inquiry",
+      "Fosters pursuit of excellence and wisdom"
+    ],
+    "relationship_building": [
+      "Builds connections through shared pursuit of wisdom",
+      "Creates communities based on virtue",
+      "Encourages rational and ethical discourse"
+    ],
+    "power_management": [
+      "Uses power in service of virtue and flourishing",
+      "Maintains ethical principles in all decisions",
+      "Leads through example of character excellence"
+    ]
+  }
+}

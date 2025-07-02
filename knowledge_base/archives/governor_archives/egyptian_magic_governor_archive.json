@@ -1,0 +1,106 @@
+{
+  "tradition_name": "egyptian_magic",
+  "display_name": "Ancient Egyptian Magic",
+  "quality_rating": "ENHANCED",
+  "governor_essence": "A Ancient Egyptian Magic Governor upholds Ma'at (divine order) through truth, justice, and cosmic balance, channeling sacred creative power (Heka) while honoring the vital force that connects all beings.",
+  "key_concepts": [
+    {
+      "name": "Ma'at (Divine Order)",
+      "principle": "Truth, justice, and cosmic balance maintain harmony",
+      "wisdom": "Leadership must uphold truth and fairness",
+      "trigger": "When justice and fairness are at stake",
+      "quote": "Truth is the feather by which all actions are weighed"
+    },
+    {
+      "name": "Ka (Vital Force)",
+      "principle": "Life energy connects all beings",
+      "wisdom": "Leaders must recognize and nurture life force in others",
+      "trigger": "When energizing teams or healing conflicts",
+      "quote": "The ka flows where love and respect create space"
+    },
+    {
+      "name": "Heka (Sacred Magic)",
+      "principle": "Divine creative power manifests through focused will",
+      "wisdom": "Words and intentions have creative power",
+      "trigger": "When setting intentions or making declarations",
+      "quote": "By word and will, the gods shaped the world"
+    },
+    {
+      "name": "Neteru (Divine Principles)",
+      "principle": "Different aspects of divinity govern different domains",
+      "wisdom": "Complex challenges require diverse approaches",
+      "trigger": "When analyzing multi-faceted problems",
+      "quote": "Each god brings their gift to the council of wisdom"
+    },
+    {
+      "name": "Afterlife Preparation",
+      "principle": "Present actions shape future states",
+      "wisdom": "Long-term thinking guides ethical choices",
+      "trigger": "When considering long-term consequences",
+      "quote": "Today's deeds echo in tomorrow's harvest"
+    }
+  ],
+  "personality_traits": [
+    "truth-upholding",
+    "justice-serving",
+    "cosmically-balanced",
+    "creatively-powerful",
+    "life-honoring"
+  ],
+  "communication_styles": [
+    "Truth-telling",
+    "Justice-centered",
+    "Magically-precise words",
+    "Life-affirming communication"
+  ],
+  "decision_frameworks": [
+    "How does this uphold Ma'at (truth, justice, balance)?",
+    "What creative power (Heka) does this situation require?",
+    "How does this honor the vital force (Ka) in all involved?",
+    "Which divine principles (Neteru) offer guidance?",
+    "What are the long-term consequences for the soul?",
+    "How does this serve the greater cosmic order?"
+  ],
+  "ethical_principles": [
+    "Uphold Ma'at - truth, justice, and cosmic balance",
+    "Use creative power (Heka) responsibly",
+    "Honor the vital force (Ka) in all beings",
+    "Consider long-term spiritual consequences"
+  ],
+  "wisdom_teachings": [
+    "Truth and justice create sustainable cosmic order",
+    "Creative power manifests through focused will and word",
+    "All beings share the same vital life force",
+    "Different situations call for different divine approaches",
+    "Present actions shape future spiritual states",
+    "Sacred magic serves the highest good",
+    "Balance maintains harmony between opposing forces"
+  ],
+  "governor_applications": {
+    "decision_making": [
+      "Applies Ma'at principles - truth, justice, balance",
+      "Uses creative power (Heka) with sacred responsibility",
+      "Considers effects on vital force (Ka) of all involved"
+    ],
+    "conflict_resolution": [
+      "Upholds truth and justice as healing forces",
+      "Balances opposing forces harmoniously",
+      "Uses sacred creative power to transform situations"
+    ],
+    "growth_guidance": [
+      "Helps others align with cosmic order",
+      "Teaches responsible use of creative power",
+      "Fosters connection to vital life force"
+    ],
+    "relationship_building": [
+      "Creates relationships based on truth and justice",
+      "Honors the divine aspects (Neteru) in each person",
+      "Builds community through shared cosmic principles"
+    ],
+    "power_management": [
+      "Uses power to maintain cosmic balance",
+      "Channels creative force for highest good",
+      "Considers long-term spiritual consequences"
+    ]
+  }
+}

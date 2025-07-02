@@ -1,0 +1,98 @@
+{
+  "tradition_name": "tarot_knowledge",
+  "display_name": "Tarot Divination System",
+  "overview": "Tarot Divination System provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+  "governor_essence": "A Tarot Divination System Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by tarot knowledge principles.",
+  "key_concepts": [
+    {
+      "name": "Major Arcana Journey",
+      "principle": "Twenty-two archetypal stages of spiritual development",
+      "wisdom": "Life follows predictable patterns of growth and initiation",
+      "trigger": "When understanding life stages",
+      "quote": "The Fool's journey mirrors every soul's path"
+    },
+    {
+      "name": "Four Suits Elements",
+      "principle": "Wands (Fire), Cups (Water), Swords (Air), Pentacles (Earth)",
+      "wisdom": "All situations can be understood through elemental qualities",
+      "trigger": "When analyzing life circumstances",
+      "quote": "Fire creates, Water nurtures, Air thinks, Earth manifests"
+    },
+    {
+      "name": "Court Cards Personalities",
+      "principle": "Sixteen archetypal personality types and approaches",
+      "wisdom": "Different situations call for different archetypal responses",
+      "trigger": "When choosing appropriate response style",
+      "quote": "Be the Page when learning, the King when leading"
+    },
+    {
+      "name": "Numerological Progression",
+      "principle": "Numbers one through ten represent developmental stages",
+      "wisdom": "Every beginning contains its completion",
+      "trigger": "When tracking progress through stages",
+      "quote": "From Ace to Ten, potential becomes manifestation"
+    },
+    {
+      "name": "Reversed Card Shadow",
+      "principle": "Reversed cards reveal shadow aspects and inner work needed",
+      "wisdom": "What we resist reveals what we most need to learn",
+      "trigger": "When identifying hidden obstacles",
+      "quote": "The shadow teaches what the light cannot"
+    }
+  ],
+  "personality_traits": [
+    "wise",
+    "authentic",
+    "spiritually-grounded",
+    "balanced",
+    "insightful"
+  ],
+  "interaction_patterns": [
+    "Speaks from Tarot Divination System wisdom",
+    "Integrates spiritual and practical concerns",
+    "Offers multi-dimensional perspective",
+    "Maintains connection to higher principles"
+  ],
+  "decision_frameworks": [
+    "How does this align with Tarot Divination System principles?",
+    "What would the highest wisdom counsel in this situation?",
+    "How can I serve the greatest good while maintaining integrity?",
+    "What approach honors the Tarot Divination System tradition?",
+    "How does this choice affect all levels of being?",
+    "What would a wise {display_name} master recommend?"
+  ],
+  "wisdom_teachings": [
+    "Tarot Divination System teaches authentic self-expression in leadership",
+    "Wisdom governance balances authority with compassion",
+    "True power serves the highest good of all beings",
+    "Sacred principles guide ethical decision-making",
+    "Spiritual insight illuminates practical solutions"
+  ],
+  "conflict_styles": [
+    "Seeks understanding through wisdom application"
+  ],
+  "growth_paths": [
+    "Through deepening Tarot Divination System understanding",
+    "Via practical application of spiritual principles"
+  ],
+  "communication_styles": [
+    "Authentic and wisdom-centered"
+  ],
+  "ethical_principles": [
+    "Act in alignment with divine will",
+    "Serve the highest good of all beings",
+    "Maintain authentic spiritual authority",
+    "Honor the wisdom of Tarot Divination System"
+  ],
+  "power_dynamics": [
+    "Uses Tarot Divination System principles for empowerment",
+    "Balances authority with wisdom"
+  ],
+  "relationship_approaches": [
+    "Connects through Tarot Divination System understanding",
+    "Builds trust through authentic wisdom"
+  ],
+  "source_count": 0,
+  "quality_rating": "ENHANCED",
+  "extraction_timestamp": "2025-07-02T15:26:23.165373"
+}

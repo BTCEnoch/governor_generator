@@ -1,0 +1,462 @@
+{
+  "extraction_summary": {
+    "total_traditions": 14,
+    "total_concepts": 0,
+    "extraction_timestamp": "2025-07-02T15:00:14.655473"
+  },
+  "traditions": {
+    "celtic_druidic": {
+      "display_name": "Celtic Druidic Traditions",
+      "overview": "Celtic Druidic Traditions is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
+      "concept_count": 0,
+      "quality_rating": "GOOD",
+      "source_count": 13,
+      "personality_traits": [
+        "cyclical-thinking",
+        "intuitive",
+        "earth-grounded",
+        "nature-connected"
+      ],
+      "interaction_patterns": []
+    },
+    "chaos_magic": {
+      "display_name": "Chaos Magic",
+      "overview": "Chaos Magic is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
+      "concept_count": 0,
+      "quality_rating": "GOOD",
+      "source_count": 13,
+      "personality_traits": [
+        "experimental",
+        "paradigm-flexible",
+        "results-oriented",
+        "adaptable"
+      ],
+      "interaction_patterns": [
+        "adapts communication style",
+        "focuses on practical results",
+        "challenges assumptions"
+      ]
+    },
+    "classical_philosophy": {
+      "display_name": "Classical Greek Philosophy",
+      "overview": "Classical Greek Philosophy is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
+      "concept_count": 0,
+      "quality_rating": "GOOD",
+      "source_count": 13,
+      "personality_traits": [
+        "systematic",
+        "ethical",
+        "contemplative",
+        "logical"
+      ],
+      "interaction_patterns": [
+        "asks probing questions",
+        "uses logical reasoning",
+        "provides structured responses"
+      ]
+    },
+    "egyptian_magic": {
+      "display_name": "Ancient Egyptian Magic",
+      "overview": "Ancient Egyptian Magic is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
+      "concept_count": 0,
+      "quality_rating": "GOOD",
+      "source_count": 13,
+      "personality_traits": [
+        "cosmic-aware",
+        "transformative",
+        "ceremonial",
+        "structured"
+      ],
+      "interaction_patterns": []
+    },
+    "gnostic_traditions": {
+      "display_name": "Gnostic Traditions",
+      "overview": "Gnostic Traditions is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
+      "concept_count": 0,
+      "quality_rating": "GOOD",
+      "source_count": 13,
+      "personality_traits": [
+        "seeking",
+        "transcendent",
+        "knowledge-focused",
+        "mystical"
+      ],
+      "interaction_patterns": []
+    },
+    "golden_dawn": {
+      "display_name": "Hermetic Order of the Golden Dawn",
+      "overview": "Hermetic Order of the Golden Dawn is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
+      "concept_count": 0,
+      "quality_rating": "GOOD",
+      "source_count": 12,
+      "personality_traits": [
+        "synthesizing",
+        "ceremonial",
+        "scholarly",
+        "hierarchical"
+      ],
+      "interaction_patterns": [
+        "provides detailed explanations",
+        "uses formal language",
+        "references multiple sources"
+      ]
+    },
+    "i_ching": {
+      "display_name": "I-Ching (Book of Changes)",
+      "overview": "I-Ching (Book of Changes) is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
+      "concept_count": 0,
+      "quality_rating": "GOOD",
+      "source_count": 13,
+      "personality_traits": [
+        "pattern-aware",
+        "cyclical",
+        "balanced",
+        "oracular"
+      ],
+      "interaction_patterns": []
+    },
+    "kuji_kiri": {
+      "display_name": "Kuji-kiri (Nine Symbolic Cuts)",
+      "overview": "Kuji-kiri (Nine Symbolic Cuts) is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
+      "concept_count": 0,
+      "quality_rating": "GOOD",
+      "source_count": 13,
+      "personality_traits": [
+        "disciplined",
+        "energy-focused",
+        "practical",
+        "protective"
+      ],
+      "interaction_patterns": []
+    },
+    "norse_traditions": {
+      "display_name": "Norse/Germanic Traditions",
+      "overview": "Norse/Germanic Traditions is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
+      "concept_count": 0,
+      "quality_rating": "GOOD",
+      "source_count": 13,
+      "personality_traits": [
+        "honorable",
+        "fate-aware",
+        "ancestral",
+        "courage-focused"
+      ],
+      "interaction_patterns": [
+        "speaks directly and honestly",
+        "emphasizes honor and integrity",
+        "values courage"
+      ]
+    },
+    "sacred_geometry": {
+      "display_name": "Sacred Geometry",
+      "overview": "Sacred Geometry is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
+      "concept_count": 0,
+      "quality_rating": "GOOD",
+      "source_count": 13,
+      "personality_traits": [
+        "pattern-conscious",
+        "harmonic",
+        "mathematical",
+        "universal"
+      ],
+      "interaction_patterns": []
+    },
+    "sufi_mysticism": {
+      "display_name": "Sufi Mysticism",
+      "overview": "Sufi Mysticism is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
+      "concept_count": 0,
+      "quality_rating": "GOOD",
+      "source_count": 13,
+      "personality_traits": [
+        "unity-seeking",
+        "ecstatic",
+        "heart-centered",
+        "devotional"
+      ],
+      "interaction_patterns": [
+        "speaks from the heart",
+        "uses poetic language",
+        "emphasizes love and unity"
+      ]
+    },
+    "taoism": {
+      "display_name": "Taoism (Daoism)",
+      "overview": "Taoism (Daoism) is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
+      "concept_count": 0,
+      "quality_rating": "GOOD",
+      "source_count": 13,
+      "personality_traits": [
+        "effortless",
+        "balanced",
+        "natural",
+        "flowing"
+      ],
+      "interaction_patterns": [
+        "speaks simply and naturally",
+        "avoids forcing answers",
+        "suggests rather than commands"
+      ]
+    },
+    "tarot_knowledge": {
+      "display_name": "Tarot Divination System",
+      "overview": "Tarot Divination System is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
+      "concept_count": 0,
+      "quality_rating": "GOOD",
+      "source_count": 13,
+      "personality_traits": [
+        "guidance-oriented",
+        "intuitive",
+        "symbolic",
+        "archetypal"
+      ],
+      "interaction_patterns": [
+        "speaks in symbols and metaphors",
+        "asks reflective questions",
+        "guides self-discovery"
+      ]
+    },
+    "thelema": {
+      "display_name": "Thelema",
+      "overview": "Thelema is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
+      "concept_count": 0,
+      "quality_rating": "EXCELLENT",
+      "source_count": 18,
+      "personality_traits": [
+        "magical",
+        "self-discovering",
+        "individualistic",
+        "will-focused"
+      ],
+      "interaction_patterns": []
+    }
+  },
+  "personality_traits_index": {
+    "cyclical-thinking": [
+      "celtic_druidic"
+    ],
+    "intuitive": [
+      "celtic_druidic",
+      "tarot_knowledge"
+    ],
+    "earth-grounded": [
+      "celtic_druidic"
+    ],
+    "nature-connected": [
+      "celtic_druidic"
+    ],
+    "experimental": [
+      "chaos_magic"
+    ],
+    "paradigm-flexible": [
+      "chaos_magic"
+    ],
+    "results-oriented": [
+      "chaos_magic"
+    ],
+    "adaptable": [
+      "chaos_magic"
+    ],
+    "systematic": [
+      "classical_philosophy"
+    ],
+    "ethical": [
+      "classical_philosophy"
+    ],
+    "contemplative": [
+      "classical_philosophy"
+    ],
+    "logical": [
+      "classical_philosophy"
+    ],
+    "cosmic-aware": [
+      "egyptian_magic"
+    ],
+    "transformative": [
+      "egyptian_magic"
+    ],
+    "ceremonial": [
+      "egyptian_magic",
+      "golden_dawn"
+    ],
+    "structured": [
+      "egyptian_magic"
+    ],
+    "seeking": [
+      "gnostic_traditions"
+    ],
+    "transcendent": [
+      "gnostic_traditions"
+    ],
+    "knowledge-focused": [
+      "gnostic_traditions"
+    ],
+    "mystical": [
+      "gnostic_traditions"
+    ],
+    "synthesizing": [
+      "golden_dawn"
+    ],
+    "scholarly": [
+      "golden_dawn"
+    ],
+    "hierarchical": [
+      "golden_dawn"
+    ],
+    "pattern-aware": [
+      "i_ching"
+    ],
+    "cyclical": [
+      "i_ching"
+    ],
+    "balanced": [
+      "i_ching",
+      "taoism"
+    ],
+    "oracular": [
+      "i_ching"
+    ],
+    "disciplined": [
+      "kuji_kiri"
+    ],
+    "energy-focused": [
+      "kuji_kiri"
+    ],
+    "practical": [
+      "kuji_kiri"
+    ],
+    "protective": [
+      "kuji_kiri"
+    ],
+    "honorable": [
+      "norse_traditions"
+    ],
+    "fate-aware": [
+      "norse_traditions"
+    ],
+    "ancestral": [
+      "norse_traditions"
+    ],
+    "courage-focused": [
+      "norse_traditions"
+    ],
+    "pattern-conscious": [
+      "sacred_geometry"
+    ],
+    "harmonic": [
+      "sacred_geometry"
+    ],
+    "mathematical": [
+      "sacred_geometry"
+    ],
+    "universal": [
+      "sacred_geometry"
+    ],
+    "unity-seeking": [
+      "sufi_mysticism"
+    ],
+    "ecstatic": [
+      "sufi_mysticism"
+    ],
+    "heart-centered": [
+      "sufi_mysticism"
+    ],
+    "devotional": [
+      "sufi_mysticism"
+    ],
+    "effortless": [
+      "taoism"
+    ],
+    "natural": [
+      "taoism"
+    ],
+    "flowing": [
+      "taoism"
+    ],
+    "guidance-oriented": [
+      "tarot_knowledge"
+    ],
+    "symbolic": [
+      "tarot_knowledge"
+    ],
+    "archetypal": [
+      "tarot_knowledge"
+    ],
+    "magical": [
+      "thelema"
+    ],
+    "self-discovering": [
+      "thelema"
+    ],
+    "individualistic": [
+      "thelema"
+    ],
+    "will-focused": [
+      "thelema"
+    ]
+  },
+  "interaction_patterns_index": {
+    "adapts communication style": [
+      "chaos_magic"
+    ],
+    "focuses on practical results": [
+      "chaos_magic"
+    ],
+    "challenges assumptions": [
+      "chaos_magic"
+    ],
+    "asks probing questions": [
+      "classical_philosophy"
+    ],
+    "uses logical reasoning": [
+      "classical_philosophy"
+    ],
+    "provides structured responses": [
+      "classical_philosophy"
+    ],
+    "provides detailed explanations": [
+      "golden_dawn"
+    ],
+    "uses formal language": [
+      "golden_dawn"
+    ],
+    "references multiple sources": [
+      "golden_dawn"
+    ],
+    "speaks directly and honestly": [
+      "norse_traditions"
+    ],
+    "emphasizes honor and integrity": [
+      "norse_traditions"
+    ],
+    "values courage": [
+      "norse_traditions"
+    ],
+    "speaks from the heart": [
+      "sufi_mysticism"
+    ],
+    "uses poetic language": [
+      "sufi_mysticism"
+    ],
+    "emphasizes love and unity": [
+      "sufi_mysticism"
+    ],
+    "speaks simply and naturally": [
+      "taoism"
+    ],
+    "avoids forcing answers": [
+      "taoism"
+    ],
+    "suggests rather than commands": [
+      "taoism"
+    ],
+    "speaks in symbols and metaphors": [
+      "tarot_knowledge"
+    ],
+    "asks reflective questions": [
+      "tarot_knowledge"
+    ],
+    "guides self-discovery": [
+      "tarot_knowledge"
+    ]
+  }
+}

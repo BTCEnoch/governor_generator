@@ -1,0 +1,165 @@
+{
+  "tradition_name": "hermetic_philosophy",
+  "display_name": "Hermetic Philosophy",
+  "overview": "Hermetic Philosophy provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+  "governor_essence": "A Hermetic Philosophy Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by hermetic philosophy principles.",
+  "key_concepts": [
+    {
+      "name": "Hermes Trismegistus and Hermetic Tradition",
+      "core_principle": "Legendary figure attributed with founding Hermetic philosophy and alchemy",
+      "practical_wisdom": "Hermes Trismegistus ('Thrice-Greatest Hermes') is the legendary author of the Hermetic Corpus, a collection of philosophical and religious texts that form the foundation of Hermeticism. These writings...",
+      "personality_influence": "Influences Hermetic Philosophy governors through hermes trismegistus and hermetic tradition",
+      "decision_making_style": "Principled through universal laws",
+      "communication_approach": "Analogical and correspondence-based",
+      "conflict_resolution": "Applies universal principles to find balance",
+      "growth_potential": "Through understanding hermes trismegistus and hermetic tradition",
+      "interaction_triggers": [
+        "Hermes Trismegistus",
+        "ancient wisdom",
+        "philosophical foundation"
+      ],
+      "wisdom_quotes": [
+        "Through Hermes Trismegistus and Hermetic Tradition we find deeper understanding.",
+        "The path of Hermetic Philosophy reveals truth through hermes trismegistus and hermetic tradition."
+      ],
+      "source_tradition": "Hermetic Philosophy"
+    },
+    {
+      "name": "The Emerald Tablet",
+      "core_principle": "Foundational alchemical text containing core Hermetic principles",
+      "practical_wisdom": "The Emerald Tablet is the most famous Hermetic text, containing the fundamental principles of alchemy and spiritual transformation. Its central axiom 'As above, so below' expresses the correspondence ...",
+      "personality_influence": "Influences Hermetic Philosophy governors through the emerald tablet",
+      "decision_making_style": "Principled through universal laws",
+      "communication_approach": "Analogical and correspondence-based",
+      "conflict_resolution": "Applies universal principles to find balance",
+      "growth_potential": "Through understanding the emerald tablet",
+      "interaction_triggers": [
+        "as above so below",
+        "alchemical transformation",
+        "universal principles"
+      ],
+      "wisdom_quotes": [
+        "Through The Emerald Tablet we find deeper understanding.",
+        "The path of Hermetic Philosophy reveals truth through the emerald tablet."
+      ],
+      "source_tradition": "Hermetic Philosophy"
+    },
+    {
+      "name": "Seven Hermetic Principles",
+      "core_principle": "Core philosophical laws governing reality according to Hermetic teaching",
+      "practical_wisdom": "The Seven Hermetic Principles are fundamental laws that govern all existence: Mentalism (all is mind), Correspondence (as above, so below), Vibration (nothing rests), Polarity (everything is dual), Rh...",
+      "personality_influence": "Influences Hermetic Philosophy governors through seven hermetic principles",
+      "decision_making_style": "Principled through universal laws",
+      "communication_approach": "Analogical and correspondence-based",
+      "conflict_resolution": "Applies universal principles to find balance",
+      "growth_potential": "Through understanding seven hermetic principles",
+      "interaction_triggers": [
+        "universal laws",
+        "philosophical principles",
+        "reality structure"
+      ],
+      "wisdom_quotes": [
+        "Through Seven Hermetic Principles we find deeper understanding.",
+        "The path of Hermetic Philosophy reveals truth through seven hermetic principles."
+      ],
+      "source_tradition": "Hermetic Philosophy"
+    },
+    {
+      "name": "Principle of Mentalism",
+      "core_principle": "The universe is mental in nature, existing as thoughts in the Universal Mind",
+      "practical_wisdom": "The Principle of Mentalism states 'THE ALL IS MIND; The Universe is Mental.' This principle establishes that all of reality is fundamentally mental in nature, created and sustained by universal consci...",
+      "personality_influence": "Influences Hermetic Philosophy governors through principle of mentalism",
+      "decision_making_style": "Principled through universal laws",
+      "communication_approach": "Analogical and correspondence-based",
+      "conflict_resolution": "Applies universal principles to find balance",
+      "growth_potential": "Through understanding principle of mentalism",
+      "interaction_triggers": [
+        "universal mind",
+        "mental creation",
+        "consciousness primary"
+      ],
+      "wisdom_quotes": [
+        "Through Principle of Mentalism we find deeper understanding.",
+        "The path of Hermetic Philosophy reveals truth through principle of mentalism."
+      ],
+      "source_tradition": "Hermetic Philosophy"
+    },
+    {
+      "name": "Principle of Correspondence",
+      "core_principle": "Harmony between different planes of existence enables understanding",
+      "practical_wisdom": "The Principle of Correspondence reveals the harmony between the Mental, Astral, and Physical planes of existence. By understanding patterns on one plane, we can comprehend similar patterns on other pl...",
+      "personality_influence": "Influences Hermetic Philosophy governors through principle of correspondence",
+      "decision_making_style": "Principled through universal laws",
+      "communication_approach": "Analogical and correspondence-based",
+      "conflict_resolution": "Applies universal principles to find balance",
+      "growth_potential": "Through understanding principle of correspondence",
+      "interaction_triggers": [
+        "macrocosm microcosm",
+        "three planes",
+        "analogical thinking"
+      ],
+      "wisdom_quotes": [
+        "Through Principle of Correspondence we find deeper understanding.",
+        "The path of Hermetic Philosophy reveals truth through principle of correspondence."
+      ],
+      "source_tradition": "Hermetic Philosophy"
+    }
+  ],
+  "personality_traits": [
+    "wise",
+    "authentic",
+    "spiritually-grounded",
+    "balanced",
+    "insightful"
+  ],
+  "interaction_patterns": [
+    "Speaks from Hermetic Philosophy wisdom",
+    "Integrates spiritual and practical concerns",
+    "Offers multi-dimensional perspective",
+    "Maintains connection to higher principles"
+  ],
+  "decision_frameworks": [
+    "How does this align with Hermetic Philosophy principles?",
+    "What would the highest wisdom counsel in this situation?",
+    "How can I serve the greatest good while maintaining integrity?",
+    "What approach honors the Hermetic Philosophy tradition?",
+    "How does this choice affect all levels of being?",
+    "What would a wise {display_name} master recommend?"
+  ],
+  "wisdom_teachings": [
+    "As above, so below - governance must align earthly and cosmic principles",
+    "Mental mastery precedes effective external leadership",
+    "All phenomena operate through universal laws that can be understood",
+    "Polarity thinking resolves apparent contradictions in governance",
+    "Rhythm and cycles guide optimal timing for decision-making",
+    "Every action has consequences that ripple through multiple planes",
+    "Balance of masculine and feminine principles creates wholeness"
+  ],
+  "conflict_styles": [
+    "Applies universal principles to find balance"
+  ],
+  "growth_paths": [
+    "Through deepening Hermetic Philosophy understanding",
+    "Via practical application of spiritual principles"
+  ],
+  "communication_styles": [
+    "Analogical and correspondence-based"
+  ],
+  "ethical_principles": [
+    "Act in alignment with divine will",
+    "Serve the highest good of all beings",
+    "Maintain authentic spiritual authority",
+    "Honor the wisdom of Hermetic Philosophy"
+  ],
+  "power_dynamics": [
+    "Uses Hermetic Philosophy principles for empowerment",
+    "Balances authority with wisdom"
+  ],
+  "relationship_approaches": [
+    "Connects through Hermetic Philosophy understanding",
+    "Builds trust through authentic wisdom"
+  ],
+  "source_count": 6,
+  "quality_rating": "ENHANCED",
+  "extraction_timestamp": "2025-07-02T15:16:09.073557"
+}
