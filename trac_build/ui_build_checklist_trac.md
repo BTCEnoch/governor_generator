@@ -1,28 +1,29 @@
 # Enochian Governors UI Build Checklist - Trac Systems Revolution
 
 ## 📋 Project Overview
-Building a **breakthrough fully decentralized Bitcoin RPG** where all game logic, assets, and state operate through TAP Protocol programmable tokens and Trac Peer Network consensus. The game features 91 Enochian Governors with **ZERO infrastructure costs** after initial development.
+Building a **breakthrough fully decentralized Bitcoin RPG** where all game logic, assets, and state operate through TAP Protocol programmable assets and Hyperswarm DHT P2P network consensus. The game features 91 Enochian Governors with **ZERO infrastructure costs** after initial development.
 
-**Trac Systems Revolutionary Architecture:**
-- All assets inscribed as Bitcoin Ordinals (permanent storage)
-- Game logic runs through TAP Protocol programmable tokens
-- Trac Peer Network provides decentralized P2P consensus
-- Downloadable clients connect to P2P network with zero servers
-- Progressive Web App for browser-based play
-- Complete offline functionality with P2P synchronization
+**TAP Protocol Revolutionary Architecture:**
+- All assets inscribed as Bitcoin Ordinals (permanent immutable storage)
+- Game logic runs through TAP Protocol programmable assets with evolution mechanics
+- Hyperswarm DHT provides decentralized P2P consensus and peer discovery
+- Downloadable clients connect directly to Bitcoin network and P2P swarm
+- Progressive Web App for cross-platform browser-based gameplay
+- Complete offline functionality with peer-to-peer state synchronization
 
 **Cost Breakthrough:** Total development cost of **$800-1,500** vs traditional $200K-300K, representing **4,000x efficiency gain** with **TRUE $0 ongoing costs**.
 
-✅ **TRAC SYSTEMS: TRUE COST BREAKTHROUGH**
+✅ **TAP PROTOCOL: TRUE COST BREAKTHROUGH**
 
-**Trac Systems Cost Breakdown (Zero Infrastructure Forever):**
-- **AI Development**: $500-800 (Claude API usage for TAP Protocol logic)
-- **Bitcoin Inscription Costs**: $300-700 (optimized P2P asset distribution)
-  - Low fees (10 sat/vB): ~$300-500 for essential game assets only
-  - Average fees (50 sat/vB): ~$500-700 for full TAP Protocol deployment
-  - High fees (200+ sat/vB): ~$800-1,200 during peak times (avoid deployment)
-- **Ongoing Infrastructure**: **$0/month FOREVER** (Trac P2P network eliminates ALL servers)
-- **Optional Domain**: $100/year (optional, players can use Bitcoin addresses)
+**TAP Protocol Cost Breakdown (Zero Infrastructure Forever):**
+- **AI Development**: $500-800 (Claude API usage for TAP Protocol asset logic and P2P networking)
+- **Bitcoin On-Chain Costs**: $300-700 (optimized TAP asset minting and Ordinal inscriptions)
+  - TAP Asset Creation: ~$50-150 (initial game asset minting via TAP daemon)
+  - Bitcoin Ordinal Inscriptions: ~$250-550 (governor portraits, game content)
+  - Low fees (10 sat/vB): ~$300-500 total deployment cost
+  - Average fees (50 sat/vB): ~$500-700 full TAP Protocol + Ordinals deployment
+- **Ongoing Infrastructure**: **$0/month FOREVER** (Pure P2P network, no servers required)
+- **Optional Domain**: $100/year (optional, players can connect via Bitcoin addresses)
 
 **Total Development**: $800-1,500 vs traditional $2M+
 **Annual Ongoing**: **$0 FOREVER** vs traditional $50K-200K+
@@ -33,42 +34,42 @@ Building a **breakthrough fully decentralized Bitcoin RPG** where all game logic
 ## 🏗️ Technical Architecture Setup - Trac Systems P2P Native
 
 ### Core Tech Stack - Fully Decentralized P2P
-- [ ] **Progressive Web App (PWA)** with P2P-first architecture
+- [ ] **Progressive Web App (PWA)** with offline-first P2P architecture
 - [ ] **React SPA (Single Page Application)** - Pure client-side rendering only
-- [ ] **Service Worker** for P2P network caching and token synchronization
-- [ ] **Downloadable Clients** (Electron/Tauri) for desktop P2P nodes
-- [ ] **Trac Peer Network Integration** - Direct P2P connection, zero servers
-- [ ] **TAP Protocol Token Logic** for programmable game mechanics
-- [ ] **Trac P2P Network** for decentralized state consensus
-- [ ] **Ordinal Inscription** system for permanent asset storage
-- [ ] **Tap Wallet Extension** for TAP Protocol token management
-- [ ] **WebGL/Canvas API** for ritual visualization effects
-- [ ] **HypertokenLoader** component for evolved token asset loading
-- [ ] **TapTransactionBuilder** for client-side TAP Protocol transactions
+- [ ] **Service Worker** for Bitcoin Ordinal asset caching and offline synchronization
+- [ ] **Downloadable Clients** (Electron/Tauri) for desktop Bitcoin full node integration
+- [ ] **Hyperswarm DHT Integration** - Direct P2P peer discovery, zero bootstrap servers
+- [ ] **TAP Protocol Client** for programmable Bitcoin asset management
+- [ ] **Bitcoin Core RPC** for direct blockchain interaction and mempool monitoring
+- [ ] **Ordinal Inscription Resolver** for permanent on-chain asset loading
+- [ ] **TAP Daemon Integration** for asset minting, transfers, and evolution
+- [ ] **WebGL/Canvas API** for governor interaction visualization effects
+- [ ] **HypertokenEvolution** component for dynamic asset property management
+- [ ] **TAPTransactionBuilder** for client-side Bitcoin transaction construction
 
-### ❌ **DEPRECATED COMPONENTS** (Completely Eliminated by Trac Systems)
-- [ ] ~~Next.js Server-Side Rendering~~ → Replaced by P2P PWA
-- [ ] ~~Express.js API Gateway~~ → Replaced by TAP Protocol transactions
-- [ ] ~~PostgreSQL Database~~ → Replaced by Trac P2P Network consensus
-- [ ] ~~Traditional Authentication Service~~ → Replaced by Tap Wallet Extension
-- [ ] ~~Custom WebSocket Events~~ → Replaced by P2P network subscriptions
-- [ ] ~~REST API Routes~~ → Replaced by TAP Protocol token interactions
-- [ ] ~~GraphQL Servers~~ → Replaced by P2P network queries
-- [ ] ~~MetaShrew Indexer~~ → Replaced by distributed P2P consensus
-- [ ] ~~File-based Asset Storage~~ → Replaced by Ordinal inscriptions
-- [ ] ~~CDN Asset Delivery~~ → Replaced by P2P network distribution
-- [ ] ~~Server-Side Sessions/JWTs~~ → Replaced by TAP Protocol identity
+### ❌ **DEPRECATED COMPONENTS** (Completely Eliminated by TAP Protocol)
+- [ ] ~~Next.js Server-Side Rendering~~ → Replaced by offline-first PWA with P2P sync
+- [ ] ~~Express.js API Gateway~~ → Replaced by direct TAP Protocol Bitcoin transactions
+- [ ] ~~PostgreSQL Database~~ → Replaced by Bitcoin blockchain state via TAP assets
+- [ ] ~~Traditional Authentication Service~~ → Replaced by Bitcoin address + signature authentication
+- [ ] ~~Custom WebSocket Events~~ → Replaced by Hyperswarm P2P messaging
+- [ ] ~~REST API Routes~~ → Replaced by TAP asset queries and Bitcoin RPC calls
+- [ ] ~~GraphQL Servers~~ → Replaced by direct Bitcoin mempool and UTXO queries
+- [ ] ~~MetaShrew Indexer~~ → Replaced by TAP daemon's built-in asset indexing
+- [ ] ~~File-based Asset Storage~~ → Replaced by Bitcoin Ordinal inscriptions
+- [ ] ~~CDN Asset Delivery~~ → Replaced by P2P Ordinal content distribution
+- [ ] ~~Server-Side Sessions/JWTs~~ → Replaced by TAP Protocol cryptographic identity
 
-### Development Environment - Trac Systems Native
+### Development Environment - TAP Protocol Native
 - [ ] **AI Code Generation** setup (Claude/GPT API integration for TAP Protocol logic)
 - [ ] **Template-Driven Development** with TAP Protocol pseudocode scaffolds
-- [ ] **Bitcoin Regtest Environment** for local P2P testing (no Docker needed)
-- [ ] **Inscription Testing Tools** for asset deployment simulation
-- [ ] **TAP Protocol Testing Framework** (TypeScript testing, hypertoken evolution tests)
-- [ ] **Trac P2P Network Simulator** for local consensus testing
-- [ ] **Cross-Platform Build Pipeline** for PWA and P2P client distribution
-- [ ] **Ordinal Inscription Pipeline** for asset optimization and P2P deployment
-- [ ] **Hypertoken Evolution Simulator** for advanced token behavior testing
+- [ ] **Bitcoin Core + LND + TAP Daemon** local development stack (regtest mode)
+- [ ] **Ordinal Inscription Testing Tools** for asset deployment simulation
+- [ ] **TAP Protocol Testing Framework** (TypeScript testing for asset evolution mechanics)
+- [ ] **Hyperswarm DHT Local Network** for P2P testing and consensus simulation
+- [ ] **Cross-Platform Build Pipeline** for PWA and Bitcoin full node client distribution
+- [ ] **Bitcoin Inscription Optimization Pipeline** for efficient on-chain asset storage
+- [ ] **Hypertoken Evolution Simulator** for testing dynamic asset property changes
 
 ---
 
@@ -130,24 +131,24 @@ Building a **breakthrough fully decentralized Bitcoin RPG** where all game logic
 
 ## 🧩 Component Architecture - PWA & Offline-First
 
-### Core PWA Components ✅ **TRAC SYSTEMS P2P NATIVE**
-- [ ] **ServiceWorkerManager** ✅ **P2P NETWORK COMPONENT**
-  - [ ] Asset caching from Ordinal inscriptions via P2P network
-  - [ ] Offline hypertoken state management
-  - [ ] Background Trac P2P network synchronization
-  - [ ] Update management for evolved tokens and new inscriptions
+### Core PWA Components ✅ **TAP PROTOCOL P2P NATIVE**
+- [ ] **ServiceWorkerManager** ✅ **BITCOIN ORDINAL CACHING COMPONENT**
+  - [ ] Bitcoin Ordinal inscription caching for offline gameplay
+  - [ ] TAP asset state synchronization and local storage
+  - [ ] Background Bitcoin mempool monitoring for pending transactions
+  - [ ] Progressive loading of inscribed game content and assets
 
-- [ ] **TracPeerConnector** ✅ **REPLACES BITCOIN CONNECTOR**
-  - [ ] Direct Trac P2P network connection
-  - [ ] Distributed consensus participation
-  - [ ] TAP Protocol transaction broadcasting
-  - [ ] Hypertoken portfolio synchronization
+- [ ] **HyperswarmConnector** ✅ **REPLACES TRADITIONAL NETWORKING**
+  - [ ] Direct Hyperswarm DHT peer discovery and connection
+  - [ ] Distributed P2P state consensus for game mechanics
+  - [ ] Real-time Bitcoin block and transaction broadcasting to peers
+  - [ ] TAP asset update propagation across the peer network
 
-- [ ] **TapWalletIntegration** ✅ **REPLACES TRADITIONAL AUTH**
-  - [ ] Tap Wallet Extension integration
-  - [ ] TAP Protocol transaction signing interface
-  - [ ] Token-based identity management
-  - [ ] P2P network authentication via cryptographic proofs
+- [ ] **TAPDaemonIntegration** ✅ **REPLACES TRADITIONAL AUTH**
+  - [ ] Direct TAP daemon connection for asset management
+  - [ ] Bitcoin transaction construction and broadcasting
+  - [ ] Cryptographic identity via Bitcoin address signatures
+  - [ ] TAP asset minting, transfers, and evolution mechanics
 
 ### Game Logic Components ✅ **FULLY DECENTRALIZED P2P**
 - [ ] **HypertokenStateManager** ✅ **REPLACES SERVER-SIDE STATE**

@@ -3,7 +3,7 @@ Excellent. I will now begin drafting a revised utility matrix that reimplements 
 I’ll let you know when the full implementation matrix is ready for your review.
 
 
-# Trac/TAP On-Chain Gameplay Mechanics (Enochian Governors RPG)
+# TAP Protocol On-Chain Gameplay Mechanics (Enochian Governors RPG)
 
 Under the new **Trac Systems** P2P architecture and **TAP Protocol** on Bitcoin, all core gameplay mechanics are implemented fully on-chain with deterministic, stateless logic. Below we reimagine each utility-driven mechanic from the original Alkanes/MetaShrew design in a narrative-plus-technical format, preserving their story role, on-chain implementation, contract/state behavior, and anti-grind features. All game data lives on Bitcoin L1 – dialogues, lore, and item art are stored as Ordinal inscriptions (immutable on-chain files), and game state is tracked via Trac’s peer-to-peer index (no servers or databases). This ensures a censorship-resistant RPG where **no off-chain triggers or hidden state** exist: every interaction and outcome is *strictly enforced by Bitcoin transactions and Trac consensus*. Below are the key mechanics and how they function under Trac/TAP:
 

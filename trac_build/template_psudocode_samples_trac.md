@@ -1,18 +1,18 @@
-# Enochian Governors – Trac Systems P2P Gaming Protocol Template Pack
+# Enochian Governors – TAP Protocol Gaming Template Pack
 
-## **TRAC SYSTEMS REVOLUTIONARY ARCHITECTURE** ✅
+## **TAP PROTOCOL REVOLUTIONARY ARCHITECTURE** ✅
 
-This comprehensive template pack provides production-ready pseudocode for implementing the world's first fully decentralized Bitcoin gaming protocol using Trac Systems. All game logic runs peer-to-peer, all assets are permanently inscribed on Bitcoin, and zero infrastructure is required.
+This comprehensive template pack provides production-ready pseudocode for implementing the world's first fully decentralized Bitcoin gaming protocol using TAP Protocol and Hyperswarm DHT. All game logic runs peer-to-peer, all assets are permanently inscribed on Bitcoin, and zero infrastructure is required.
 
-**TRAC SYSTEMS CORE COMPONENTS:**
-- **TAP Protocol Integration** - Advanced programmable tokens replace smart contracts
-- **Trac Peer Network** - Fully decentralized P2P state management (no servers!)
-- **Hypertoken System** - Dynamic token evolution and cross-token interactions  
-- **Tap Wallet Extension** - Identity, transactions, and key management
-- **Ordinal Inscriptions** - Permanent Bitcoin asset storage
-- **P2P Consensus** - Distributed game state via community peer network
-- **Offline-First PWA** - Full gameplay after P2P synchronization
-- **Zero Infrastructure** - No databases, servers, or ongoing operational costs
+**TAP PROTOCOL CORE COMPONENTS:**
+- **TAP Protocol Integration** - Advanced programmable Bitcoin tokens with gaming logic
+- **Hyperswarm DHT Network** - Fully decentralized P2P state management (no servers!)
+- **Hypertoken System** - Evolving TAP tokens with cross-token interactions  
+- **TAP Wallet Extensions** - Identity, transaction signing, and key management
+- **Bitcoin Ordinal Inscriptions** - Permanent on-chain asset and content storage
+- **P2P Consensus** - Distributed game state via community-run peer network
+- **Offline-First PWA** - Full gameplay functionality after initial P2P synchronization
+- **Zero Infrastructure** - No databases, servers, or ongoing operational costs ever
 
 **TEMPLATE COVERAGE:**
 - PWA Frontend with P2P integration
@@ -30,33 +30,47 @@ This comprehensive template pack provides production-ready pseudocode for implem
 The foundation is a **Progressive Web App** with zero-infrastructure architecture. The Tap Wallet Extension provides identity and transaction signing, while the Trac Peer Network enables real-time P2P state synchronization. TAP Protocol programmable tokens handle all game mechanics without smart contracts. WebGL renders visual effects, and offline-first design allows full gameplay after initial P2P sync.
 
 ```tsx
-// Trac Systems fully decentralized P2P initialization
+// TAP Protocol fully decentralized P2P initialization
 async function initializePWA() {
-  // Load P2P network configuration (no server endpoints!)
-  const p2pConfig = loadTracNetworkConfig();
-  
-  // Initialize Trac Peer Network for distributed state management
-  tracPeer = new TracPeerNetwork(p2pConfig);
-  await tracPeer.joinNetwork();  // Connect to community peer network
-  
-  // Setup P2P event subscriptions for real-time updates
-  tracPeer.onStateUpdate((update) => {
-    updateLocalGameState(update);  // Sync with P2P network consensus
+  // Initialize Hyperswarm DHT for peer discovery (no server endpoints!)
+  const swarm = hyperswarm({
+    bootstrap: ['enochian-governors-network'],
+    announceLocalAddress: true
   });
   
-  // Initialize Tap Wallet Extension for TAP Protocol integration
-  tapWallet = new TapWalletExtension();
+  // Join Enochian Governors P2P network topic
+  const topic = crypto.createHash('sha256').update('enochian-governors').digest();
+  swarm.join(topic, { lookup: true, announce: true });
+  
+  // Setup P2P event handlers for real-time game state updates
+  swarm.on('connection', (socket, info) => {
+    console.log('Connected to game peer:', info.publicKey.toString('hex'));
+    setupPeerCommunication(socket);
+  });
+  
+  // Initialize TAP Protocol client for Bitcoin asset management
+  tapClient = new TAPClient({
+    host: process.env.TAPD_HOST || 'localhost:10029',
+    cert: process.env.TAP_TLS_CERT,
+    macaroon: process.env.TAP_MACAROON
+  });
+  
+  // Setup TAP Wallet connection for player identity and transactions
+  tapWallet = new TAPWallet();
   tapWallet.onConnect(async (address) => {
     userAddress = address;
     
-    // Query initial game state via P2P network (no API calls!)
-    playerState = await tracPeer.queryPlayerState(address);
+    // Query player's TAP assets from Bitcoin network
+    playerAssets = await tapClient.listAssets({ address });
     
-    // Load player's TAP Protocol tokens (energy, reputation, artifacts)
-    playerTokens = await tapWallet.getTapTokens(address);
+    // Parse game tokens from TAP assets
+    gameTokens = parseGameTokens(playerAssets);
     
-    // Initialize hypertoken evolution system
-    hypetokenSystem = new HypertokenEvolution(tapWallet);
+    // Initialize hypertoken evolution system for dynamic tokens
+    hypertokenEvolution = new HypertokenEvolution(tapClient, swarm);
+    
+    // Sync player state with peer network
+    await syncPlayerStateWithPeers(address, gameTokens);
   });
   
   // Setup WebGL canvas for governor interaction visuals
@@ -65,38 +79,61 @@ async function initializePWA() {
   glContext = canvas.getContext("webgl2");
   await loadGovernorShaders(glContext);  // Elemental effects, sigils, etc.
   
-  // Service Worker for offline-first P2P caching
+  // Service Worker for offline-first caching of ordinal assets
   if ('serviceWorker' in navigator) {
     const registration = await navigator.serviceWorker.register('/sw.js');
-    console.log('Offline-first P2P gaming enabled');
+    console.log('Offline-first gaming with ordinal asset caching enabled');
   }
   
-  // Start P2P block listener for timing mechanics (energy regen, cooldowns)
-  tracPeer.onNewBlock((blockData) => {
+  // Bitcoin block height listener for timing mechanics (energy regen, cooldowns)
+  bitcoinClient.on('block', (blockData) => {
     globalGameState.blockHeight = blockData.height;
     updateTimingMechanics(blockData.timestamp);
+    broadcastBlockUpdate(swarm, blockData);
   });
 }
 ```
 
 ```tsx
-// Real-time updates via Trac P2P network (REPLACES: GraphQL subscriptions)
-function startP2PListener() {
-  tracPeer.subscribeToBlocks((newBlock) => {
-    console.log(`New block ${newBlock.height} received from peer network`);
-    // If any UI cooldown timers or energy regen depends on block height:
-    updateCooldownTimers(newBlock.height);
-    // Trigger re-sync with P2P network (automatic cache updates via peer network)
-    tracPeer.syncGameState();
+// Real-time updates via Hyperswarm P2P network (REPLACES: GraphQL subscriptions)
+function startP2PListener(swarm) {
+  // Listen for new Bitcoin blocks from peer network
+  swarm.on('message', (message, peer) => {
+    const data = JSON.parse(message.toString());
+    
+    if (data.type === 'BLOCK_UPDATE') {
+      console.log(`New block ${data.height} received from peer network`);
+      updateCooldownTimers(data.height);
+      updateEnergyRegeneration(data.height);
+    }
+    
+    if (data.type === 'TAP_ASSET_UPDATE') {
+      console.log(`TAP asset update: ${data.assetId}`);
+      updatePlayerAssets(data);
+    }
+    
+    if (data.type === 'HYPERTOKEN_EVOLUTION') {
+      console.log(`Hypertoken evolved: ${data.tokenId}`);
+      updateHypertokenDisplay(data);
+    }
   });
   
-  // Additional P2P event listeners for game state changes
-  tracPeer.on('playerStateUpdated', (playerUpdate) => {
-    updateLocalPlayerState(playerUpdate);
+  // Direct TAP Protocol event listeners for asset changes
+  tapClient.on('assetReceived', (asset) => {
+    updateLocalPlayerAssets(asset);
+    broadcastAssetUpdate(swarm, asset);
   });
   
-  tracPeer.on('governorInteraction', (interaction) => {
-    notifyInteractionComplete(interaction);
+  tapClient.on('assetTransferred', (transfer) => {
+    updateTransferHistory(transfer);
+    notifyTransactionComplete(transfer);
+  });
+  
+  // Bitcoin mempool monitoring for pending transactions
+  bitcoinClient.on('mempool', (tx) => {
+    if (isGameTransaction(tx)) {
+      showPendingTransaction(tx);
+    }
   });
 }
 ```
@@ -115,71 +152,111 @@ function startP2PListener() {
 - Hypertoken evolution = Advanced progression mechanics
 
 ```typescript
-// TAP Protocol identity and token management
-class TapProtocolIdentity {
-  private tapWallet: TapWalletExtension;
+// TAP Protocol identity and asset management
+class TAPProtocolIdentity {
+  private tapClient: TAPClient;
   private playerAddress: string | null = null;
-  private playerTokens: Map<string, TapToken> = new Map();
+  private playerAssets: Map<string, TAPAsset> = new Map();
 
-  async connectTapWallet(): Promise<string> {
-    // Connect to Tap Wallet Extension (handles all key management)
-    this.tapWallet = new TapWalletExtension();
-    this.playerAddress = await this.tapWallet.connect();
+  async connectTAPWallet(): Promise<string> {
+    // Connect to TAP daemon for asset management
+    this.tapClient = new TAPClient({
+      host: process.env.TAPD_HOST || 'localhost:10029',
+      cert: fs.readFileSync(process.env.TAP_TLS_CERT),
+      macaroon: fs.readFileSync(process.env.TAP_MACAROON)
+    });
     
-    // Load player's TAP Protocol tokens (replaces database queries)
-    await this.loadPlayerTokens();
+    // Get player's Bitcoin address for TAP assets
+    const addr = await this.tapClient.newAddr({
+      assetId: Buffer.from(''), // Empty for new address
+      amt: 0
+    });
+    this.playerAddress = addr.encoded;
+    
+    // Load player's existing TAP assets
+    await this.loadPlayerAssets();
     
     return this.playerAddress;
   }
 
-  async loadPlayerTokens(): Promise<void> {
-    // Query TAP Protocol tokens owned by player (replaces user database)
-    const tokens = await this.tapWallet.getTapTokens(this.playerAddress);
+  async loadPlayerAssets(): Promise<void> {
+    // Query TAP assets owned by player from Bitcoin network
+    const assets = await this.tapClient.listAssets({
+      withWitness: false,
+      includeSpent: false
+    });
     
-    // Organize tokens by game mechanics
-    tokens.forEach(token => {
-      switch (token.type) {
-        case 'ENERGY_TOKEN':
-          this.playerTokens.set('energy', token);
-          break;
-        case 'REPUTATION_TOKEN':
-          this.playerTokens.set(`reputation_${token.governorId}`, token);
-          break;
-        case 'ARTIFACT_NFT':
-          this.playerTokens.set(`artifact_${token.id}`, token);
-          break;
+    // Parse and organize game-specific assets
+    assets.assets.forEach(asset => {
+      const gameAsset = this.parseGameAsset(asset);
+      if (gameAsset) {
+        this.playerAssets.set(gameAsset.id, gameAsset);
       }
     });
   }
 
-  async createPlayerTokens(): Promise<void> {
-    // Create initial TAP Protocol tokens for new player (replaces user registration)
-    const energyToken = await this.tapWallet.createTapToken({
-      type: 'ENERGY_TOKEN',
-      initialValue: 100,
-      rules: {
-        regeneration: { rate: 1, perBlocks: 144 }, // 1 energy per day
-        maximum: 100,
-        transferable: false
-      }
-    });
+  parseGameAsset(asset: any): GameAsset | null {
+    // Parse TAP asset metadata to determine game asset type
+    const metadata = JSON.parse(asset.assetGenesis.metaData.toString());
     
-    this.playerTokens.set('energy', energyToken);
+    if (metadata.gameType) {
+      return {
+        id: asset.assetGenesis.assetId.toString('hex'),
+        type: metadata.gameType,
+        governorId: metadata.governorId,
+        value: parseInt(asset.amount),
+        attributes: metadata.attributes || {},
+        transferable: metadata.transferable !== false,
+        evolutionHistory: metadata.evolutionHistory || []
+      };
+    }
+    return null;
   }
 
-  // Replaces session management - just check if wallet is connected
+  async mintGameAsset(assetType: string, attributes: any): Promise<string> {
+    // Mint new TAP asset for game mechanics
+    const mintReq = {
+      asset: {
+        assetType: 0, // Normal asset
+        name: `EnochianGame_${assetType}`,
+        assetMeta: {
+          data: Buffer.from(JSON.stringify({
+            gameType: assetType,
+            ...attributes
+          })),
+          type: 0
+        },
+        amount: attributes.amount || 1,
+        newGroupedAsset: false
+      }
+    };
+    
+    const mintResp = await this.tapClient.mintAsset(mintReq);
+    return mintResp.pendingBatch.batchKey.toString('hex');
+  }
+
+  // Check wallet connection status
   isConnected(): boolean {
-    return !!this.playerAddress && this.tapWallet.isConnected();
+    return !!this.playerAddress && !!this.tapClient;
   }
 
-  // Get player state from TAP Protocol tokens (replaces database queries)
+  // Get current player state from TAP assets
   getPlayerState(): PlayerState {
+    const energyAsset = Array.from(this.playerAssets.values())
+      .find(asset => asset.type === 'ENERGY');
+    
+    const reputationAssets = Array.from(this.playerAssets.values())
+      .filter(asset => asset.type === 'REPUTATION');
+    
+    const artifactAssets = Array.from(this.playerAssets.values())
+      .filter(asset => asset.type === 'ARTIFACT');
+
     return {
       address: this.playerAddress,
-      energy: this.playerTokens.get('energy')?.value || 0,
-      reputation: this.getReputationMap(),
-      artifacts: this.getArtifactIds(),
-      lastInteraction: this.getLastInteractionMap()
+      energy: energyAsset?.value || 25,
+      reputation: this.buildReputationMap(reputationAssets),
+      artifacts: artifactAssets.map(a => a.id),
+      lastInteractionBlocks: this.getLastInteractionBlocks()
     };
   }
 }
