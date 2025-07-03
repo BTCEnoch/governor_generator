@@ -1,0 +1,67 @@
+{
+  "tradition_name": "classical_philosophy",
+  "display_name": "Classical Greek Philosophy",
+  "search_queries_used": [
+    "Classical Greek Philosophy wikipedia",
+    "Classical Greek Philosophy academic research",
+    "Classical Greek Philosophy scholarly articles",
+    "Classical Greek Philosophy encyclopedia britannica",
+    "Platonic Forms Theory wikipedia",
+    "Platonic Forms Theory academic wiki",
+    "Platonic Forms Theory scholarly source",
+    "Aristotelian Logic Golden Mean wikipedia",
+    "Aristotelian Logic Golden Mean academic wiki",
+    "Aristotelian Logic Golden Mean scholarly source",
+    "Pythagorean Mathematics Harmony wikipedia",
+    "Pythagorean Mathematics Harmony academic wiki",
+    "Pythagorean Mathematics Harmony scholarly source",
+    "Stoic Virtue Ethics wikipedia",
+    "Stoic Virtue Ethics academic wiki",
+    "Stoic Virtue Ethics scholarly source",
+    "Logos Divine Reason wikipedia",
+    "Logos Divine Reason academic wiki",
+    "Logos Divine Reason scholarly source",
+    "Socratic Method Questioning wikipedia"
+  ],
+  "all_sources": [
+    "SourceLink(url='https://wikipedia.org/search?q=Classical+Greek+Philosophy+wikipedia', title='Classical Greek Philosophy Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Classical Greek Philosophy wikipedia information from wikipedia.org', subcategory='philosophy_concepts')",
+    "SourceLink(url='https://wikimedia.org/search?q=Classical+Greek+Philosophy+academic+research', title='Classical Greek Philosophy Academic Research - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Classical Greek Philosophy academic research information from wikimedia.org', subcategory='philosophy_concepts')",
+    "SourceLink(url='https://wikimedia.org/search?q=Classical+Greek+Philosophy+scholarly+articles', title='Classical Greek Philosophy Scholarly Articles - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Classical Greek Philosophy scholarly articles information from wikimedia.org', subcategory='philosophy_concepts')",
+    "SourceLink(url='https://wikimedia.org/search?q=Classical+Greek+Philosophy+encyclopedia+britannica', title='Classical Greek Philosophy Encyclopedia Britannica - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Classical Greek Philosophy encyclopedia britannica information from wikimedia.org', subcategory='philosophy_concepts')",
+    "SourceLink(url='https://wikipedia.org/search?q=Platonic+Forms+Theory+wikipedia', title='Platonic Forms Theory Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Platonic Forms Theory wikipedia information from wikipedia.org', subcategory='philosophy_concepts')",
+    "SourceLink(url='https://wikimedia.org/search?q=Platonic+Forms+Theory+academic+wiki', title='Platonic Forms Theory Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Platonic Forms Theory academic wiki information from wikimedia.org', subcategory='philosophy_concepts')",
+    "SourceLink(url='https://wikimedia.org/search?q=Platonic+Forms+Theory+scholarly+source', title='Platonic Forms Theory Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Platonic Forms Theory scholarly source information from wikimedia.org', subcategory='philosophy_concepts')",
+    "SourceLink(url='https://wikipedia.org/search?q=Aristotelian+Logic+Golden+Mean+wikipedia', title='Aristotelian Logic Golden Mean Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Aristotelian Logic Golden Mean wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Aristotelian+Logic+Golden+Mean+academic+wiki', title='Aristotelian Logic Golden Mean Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Aristotelian Logic Golden Mean academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Aristotelian+Logic+Golden+Mean+scholarly+source', title='Aristotelian Logic Golden Mean Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Aristotelian Logic Golden Mean scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Classical+Greek+Philosophy+religious+studies&limit=10', title='Academic Research: Classical Greek Philosophy religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Classical Greek Philosophy religious studies', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Classical+Greek+Philosophy+comparative+religion&limit=10', title='Academic Research: Classical Greek Philosophy comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Classical Greek Philosophy comparative religion', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Classical+Greek+Philosophy+mysticism&limit=10', title='Academic Research: Classical Greek Philosophy mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Classical Greek Philosophy mysticism', subcategory='academic_research')"
+  ],
+  "categorized_sources": {
+    "wikipedia_excellent": [
+      "SourceLink(url='https://wikipedia.org/search?q=Classical+Greek+Philosophy+wikipedia', title='Classical Greek Philosophy Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Classical Greek Philosophy wikipedia information from wikipedia.org', subcategory='philosophy_concepts')",
+      "SourceLink(url='https://wikipedia.org/search?q=Platonic+Forms+Theory+wikipedia', title='Platonic Forms Theory Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Platonic Forms Theory wikipedia information from wikipedia.org', subcategory='philosophy_concepts')",
+      "SourceLink(url='https://wikipedia.org/search?q=Aristotelian+Logic+Golden+Mean+wikipedia', title='Aristotelian Logic Golden Mean Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Aristotelian Logic Golden Mean wikipedia information from wikipedia.org', subcategory='general_overview')"
+    ],
+    "wikipedia_good": [
+      "SourceLink(url='https://wikimedia.org/search?q=Classical+Greek+Philosophy+academic+research', title='Classical Greek Philosophy Academic Research - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Classical Greek Philosophy academic research information from wikimedia.org', subcategory='philosophy_concepts')",
+      "SourceLink(url='https://wikimedia.org/search?q=Classical+Greek+Philosophy+scholarly+articles', title='Classical Greek Philosophy Scholarly Articles - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Classical Greek Philosophy scholarly articles information from wikimedia.org', subcategory='philosophy_concepts')",
+      "SourceLink(url='https://wikimedia.org/search?q=Classical+Greek+Philosophy+encyclopedia+britannica', title='Classical Greek Philosophy Encyclopedia Britannica - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Classical Greek Philosophy encyclopedia britannica information from wikimedia.org', subcategory='philosophy_concepts')",
+      "SourceLink(url='https://wikimedia.org/search?q=Platonic+Forms+Theory+academic+wiki', title='Platonic Forms Theory Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Platonic Forms Theory academic wiki information from wikimedia.org', subcategory='philosophy_concepts')",
+      "SourceLink(url='https://wikimedia.org/search?q=Platonic+Forms+Theory+scholarly+source', title='Platonic Forms Theory Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Platonic Forms Theory scholarly source information from wikimedia.org', subcategory='philosophy_concepts')",
+      "SourceLink(url='https://wikimedia.org/search?q=Aristotelian+Logic+Golden+Mean+academic+wiki', title='Aristotelian Logic Golden Mean Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Aristotelian Logic Golden Mean academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Aristotelian+Logic+Golden+Mean+scholarly+source', title='Aristotelian Logic Golden Mean Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Aristotelian Logic Golden Mean scholarly source information from wikimedia.org', subcategory='general_overview')"
+    ],
+    "academic_excellent": [],
+    "academic_good": [],
+    "specialized_wikis": [],
+    "reference_sources": [
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Classical+Greek+Philosophy+religious+studies&limit=10', title='Academic Research: Classical Greek Philosophy religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Classical Greek Philosophy religious studies', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Classical+Greek+Philosophy+comparative+religion&limit=10', title='Academic Research: Classical Greek Philosophy comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Classical Greek Philosophy comparative religion', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Classical+Greek+Philosophy+mysticism&limit=10', title='Academic Research: Classical Greek Philosophy mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Classical Greek Philosophy mysticism', subcategory='academic_research')"
+    ]
+  },
+  "source_count": 13,
+  "research_quality": "GOOD"
+}

@@ -1,0 +1,120 @@
+{
+  "governor_knowledge_profile": {
+    "selections_processed": [
+      "hermetic_tradition",
+      "mystical_philosophy",
+      "transformation_mysteries",
+      "compassion_teachings"
+    ],
+    "knowledge_domains": [
+      "Hermetic Wisdom",
+      "Philosophical Mysticism",
+      "Sacred Transformation",
+      "Divine Love and Compassion"
+    ],
+    "total_word_count": 717,
+    "knowledge_type": "curated_mystical_content"
+  },
+  "mystical_knowledge": {
+    "hermetic_tradition": {
+      "domain": "Hermetic Wisdom",
+      "core_teachings": [
+        "The Emerald Tablet contains the fundamental principles of alchemical transformation",
+        "Mental transmutation - changing one's mental state changes reality",
+        "The Seven Hermetic Principles govern all planes of existence",
+        "Correspondence between inner and outer worlds enables magical working",
+        "The hermetic path seeks to reunite consciousness with divine source"
+      ],
+      "practices": [
+        "Study of hermetic texts and alchemical symbolism",
+        "Practical alchemy - both laboratory and spiritual work",
+        "Invocation and evocation of spiritual forces",
+        "Scrying and divination for higher guidance",
+        "Ritual magic for spiritual transformation"
+      ],
+      "wisdom_keys": [
+        "That which is below is like that which is above",
+        "Nothing rests; everything moves; everything vibrates",
+        "Every cause has its effect; every effect has its cause",
+        "As a man thinketh in his heart, so is he",
+        "The wise one rules the stars, the fool is ruled by them"
+      ],
+      "word_count": 198
+    },
+    "mystical_philosophy": {
+      "domain": "Philosophical Mysticism",
+      "core_teachings": [
+        "Philosophy seeks wisdom; mysticism seeks direct experience of truth",
+        "The One is both transcendent beyond all and immanent within all",
+        "Consciousness is the fundamental reality from which all emerges",
+        "The soul's journey is a return to its divine source",
+        "Contemplation of eternal truths transforms the philosopher"
+      ],
+      "practices": [
+        "Contemplative meditation on philosophical questions",
+        "Study of Platonic and Neoplatonic texts",
+        "Dialectical reasoning and logical inquiry",
+        "Contemplation of mathematical and geometric principles",
+        "Integration of philosophical understanding with spiritual practice"
+      ],
+      "wisdom_keys": [
+        "The unexamined life is not worth living",
+        "Wonder is the beginning of wisdom",
+        "All things are full of gods",
+        "The cave allegory - awakening from the shadows of illusion",
+        "Philosophy is preparation for death - release from material bondage"
+      ],
+      "word_count": 167
+    },
+    "transformation_mysteries": {
+      "domain": "Sacred Transformation",
+      "core_teachings": [
+        "True transformation occurs through death and rebirth of consciousness",
+        "The alchemical process mirrors the soul's journey of purification",
+        "Transformation requires facing and integrating the shadow self",
+        "Sacred initiation catalyzes profound spiritual metamorphosis",
+        "The phoenix principle - rising from destruction into new life"
+      ],
+      "practices": [
+        "Ritual death and rebirth ceremonies",
+        "Deep shadow work and psychological integration",
+        "Alchemical meditation on solve et coagula",
+        "Vision quests and spiritual retreats",
+        "Working with plant spirit medicines and sacred substances"
+      ],
+      "wisdom_keys": [
+        "What does not kill you makes you stronger",
+        "The darkest hour comes before the dawn",
+        "Transformation is the law of life",
+        "From the ashes of the old, the new is born",
+        "Change is the only constant in the universe"
+      ],
+      "word_count": 187
+    },
+    "compassion_teachings": {
+      "domain": "Divine Love and Compassion",
+      "core_teachings": [
+        "Compassion is the natural expression of awakened consciousness",
+        "True compassion includes both self-love and love for others",
+        "The heart chakra is the bridge between earthly and spiritual realms",
+        "Loving-kindness meditation cultivates universal compassion",
+        "Service to others is service to the divine within all beings"
+      ],
+      "practices": [
+        "Daily loving-kindness meditation practice",
+        "Acts of service and charity without expectation",
+        "Heart-centered breathing and energy work",
+        "Forgiveness practices for self and others",
+        "Compassionate communication and deep listening"
+      ],
+      "wisdom_keys": [
+        "Love is the bridge between two hearts",
+        "Compassion without wisdom is mere sentiment",
+        "The greatest teaching is a life lived in love",
+        "See the divine in every being you encounter",
+        "Love heals all wounds, given time and patience"
+      ],
+      "word_count": 165
+    }
+  }
+}

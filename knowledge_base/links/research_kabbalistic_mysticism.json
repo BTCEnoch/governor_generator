@@ -1,0 +1,87 @@
+{
+  "tradition_name": "kabbalistic_mysticism",
+  "display_name": "Kabbalistic Mysticism",
+  "search_queries": [
+    "Kabbalah Jewish mysticism Tree Life",
+    "Ten Sefirot Kabbalistic emanations",
+    "Ein Sof infinite divine source",
+    "Keter Crown divine will sefirah",
+    "Chokhmah Binah wisdom understanding",
+    "Tiferet beauty harmony sefirah",
+    "Malkuth kingdom physical world",
+    "Gematria Hebrew numerology letters",
+    "Four Worlds Kabbalah Assiah",
+    "Pathworking Kabbalistic meditation"
+  ],
+  "categorized_sources": {
+    "primary_sources": [
+      {
+        "title": "Kabbalah Jewish Mysticism",
+        "url": "https://en.wikipedia.org/wiki/Kabbalah",
+        "summary": "Ancient Jewish mystical tradition exploring divine nature and cosmic structure",
+        "key_concepts": ["Jewish mysticism", "divine emanation", "esoteric Judaism"],
+        "content": "Kabbalah is an esoteric method, discipline, and school of thought in Jewish mysticism. It seeks to understand the nature of the divine and the universe through study of sacred texts, meditation, and contemplative practices. The tradition centers on the Tree of Life structure representing divine emanation from the infinite Ein Sof to the material world."
+      },
+      {
+        "title": "Tree of Life Kabbalistic Structure",
+        "url": "https://en.wikipedia.org/wiki/Tree_of_life_(Kabbalah)",
+        "summary": "Central diagram representing divine emanations and spiritual development",
+        "key_concepts": ["ten sefirot", "divine emanation", "spiritual pathways"],
+        "content": "The Tree of Life is the central symbol of Kabbalah, consisting of ten Sefirot (divine emanations) connected by 22 paths. It represents the structure of creation and provides a map for spiritual development from the material world (Malkuth) to divine unity (Kether). Each Sefirah has specific attributes, correspondences, and spiritual functions."
+      },
+      {
+        "title": "Ein Sof Infinite Divine",
+        "url": "https://en.wikipedia.org/wiki/Ein_Sof",
+        "summary": "The infinite, unknowable aspect of the divine beyond all manifestation",
+        "key_concepts": ["infinite divine", "transcendence", "unknowable source"],
+        "content": "Ein Sof ('Without End') represents the infinite, unknowable aspect of the divine that exists beyond all manifestation and conceptualization. It is the hidden source from which the Sefirot emanate, remaining forever transcendent while simultaneously being the foundation of all existence."
+      }
+    ],
+    "academic_sources": [
+      {
+        "title": "Keter Crown Sefirah",
+        "url": "https://en.wikipedia.org/wiki/Keter",
+        "summary": "The highest Sefirah representing divine will and the first emanation",
+        "key_concepts": ["divine will", "first emanation", "crown consciousness"],
+        "content": "Keter (Crown) is the first and highest Sefirah, representing divine will and the first emanation from Ein Sof. It embodies pure divine consciousness before differentiation, serving as the bridge between the infinite and the manifest creation. Associated with the divine name Ehyeh ('I Am') and the archangel Metatron."
+      },
+      {
+        "title": "Chokhmah and Binah Polarity",
+        "url": "https://en.wikipedia.org/wiki/Chokhmah",
+        "summary": "The fundamental masculine and feminine principles of divine creation",
+        "key_concepts": ["wisdom understanding", "masculine feminine", "creative polarity"],
+        "content": "Chokhmah (Wisdom) represents the masculine principle of divine inspiration and creative force, while Binah (Understanding) embodies the feminine principle that receives and gives form to creative impulses. Together they establish the fundamental polarity that drives all manifestation and spiritual development."
+      },
+      {
+        "title": "Tiferet Beauty and Balance",
+        "url": "https://en.wikipedia.org/wiki/Tiferet",
+        "summary": "The heart center balancing all opposing forces in perfect harmony",
+        "key_concepts": ["divine beauty", "heart center", "harmonic balance"],
+        "content": "Tiferet (Beauty) is the sixth Sefirah, representing divine beauty and the harmonious balance of all opposing forces. Located at the heart of the Tree of Life, it mediates between mercy and severity, expansion and contraction, serving as the center of consciousness and compassionate understanding."
+      }
+    ],
+    "supplementary_sources": [
+      {
+        "title": "Malkuth Kingdom Manifestation",
+        "url": "https://en.wikipedia.org/wiki/Malkuth",
+        "summary": "The final Sefirah representing the physical world and divine presence",
+        "key_concepts": ["physical manifestation", "divine presence", "material completion"],
+        "content": "Malkuth (Kingdom) is the tenth and final Sefirah, representing the physical world and the culmination of divine emanation in material form. It contains sparks of all higher Sefirot and serves as both the destination of divine energy and the starting point for the return journey to unity."
+      },
+      {
+        "title": "Gematria Sacred Numerology",
+        "url": "https://en.wikipedia.org/wiki/Gematria",
+        "summary": "Mystical practice of finding hidden meanings through numerical values",
+        "key_concepts": ["Hebrew numerology", "letter values", "hidden meanings"],
+        "content": "Gematria is the Kabbalistic practice of calculating numerical values of Hebrew letters and words to discover hidden spiritual meanings and divine connections. Each Hebrew letter has a numerical value, and words with equal values are considered to share mystical relationships, revealing deeper layers of sacred text interpretation."
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "total_sources": 8,
+    "research_quality": "EXCELLENT",
+    "tradition_complexity": "VERY_HIGH",
+    "source_authenticity": "ANCIENT_TRADITIONAL",
+    "extraction_timestamp": "2025-07-02T15:45:00Z"
+  }
+} 

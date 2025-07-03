@@ -1,0 +1,67 @@
+{
+  "tradition_name": "i_ching",
+  "display_name": "I-Ching (Book of Changes)",
+  "search_queries_used": [
+    "I-Ching (Book of Changes) wikipedia",
+    "I-Ching (Book of Changes) academic research",
+    "I-Ching (Book of Changes) scholarly articles",
+    "I-Ching (Book of Changes) encyclopedia britannica",
+    "64 Hexagrams Complete System wikipedia",
+    "64 Hexagrams Complete System academic wiki",
+    "64 Hexagrams Complete System scholarly source",
+    "Eight Trigrams Foundation wikipedia",
+    "Eight Trigrams Foundation academic wiki",
+    "Eight Trigrams Foundation scholarly source",
+    "Changing Lines Transformation wikipedia",
+    "Changing Lines Transformation academic wiki",
+    "Changing Lines Transformation scholarly source",
+    "Consultation Methods Divination wikipedia",
+    "Consultation Methods Divination academic wiki",
+    "Consultation Methods Divination scholarly source",
+    "Wilhelm Translation Standard wikipedia",
+    "Wilhelm Translation Standard academic wiki",
+    "Wilhelm Translation Standard scholarly source",
+    "Book of Changes Philosophy wikipedia"
+  ],
+  "all_sources": [
+    "SourceLink(url='https://wikipedia.org/search?q=I-Ching+(Book+of+Changes)+wikipedia', title='I-Ching (Book Of Changes) Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive I-Ching (Book of Changes) wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=I-Ching+(Book+of+Changes)+academic+research', title='I-Ching (Book Of Changes) Academic Research - Wikimedia', type='wikipedia', quality='good', description='Comprehensive I-Ching (Book of Changes) academic research information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=I-Ching+(Book+of+Changes)+scholarly+articles', title='I-Ching (Book Of Changes) Scholarly Articles - Wikimedia', type='wikipedia', quality='good', description='Comprehensive I-Ching (Book of Changes) scholarly articles information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=I-Ching+(Book+of+Changes)+encyclopedia+britannica', title='I-Ching (Book Of Changes) Encyclopedia Britannica - Wikimedia', type='wikipedia', quality='good', description='Comprehensive I-Ching (Book of Changes) encyclopedia britannica information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=64+Hexagrams+Complete+System+wikipedia', title='64 Hexagrams Complete System Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive 64 Hexagrams Complete System wikipedia information from wikipedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://wikimedia.org/search?q=64+Hexagrams+Complete+System+academic+wiki', title='64 Hexagrams Complete System Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive 64 Hexagrams Complete System academic wiki information from wikimedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://wikimedia.org/search?q=64+Hexagrams+Complete+System+scholarly+source', title='64 Hexagrams Complete System Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive 64 Hexagrams Complete System scholarly source information from wikimedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://wikipedia.org/search?q=Eight+Trigrams+Foundation+wikipedia', title='Eight Trigrams Foundation Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Eight Trigrams Foundation wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Eight+Trigrams+Foundation+academic+wiki', title='Eight Trigrams Foundation Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Eight Trigrams Foundation academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Eight+Trigrams+Foundation+scholarly+source', title='Eight Trigrams Foundation Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Eight Trigrams Foundation scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=I-Ching+(Book+of+Changes)+religious+studies&limit=10', title='Academic Research: I-Ching (Book of Changes) religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on I-Ching (Book of Changes) religious studies', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=I-Ching+(Book+of+Changes)+comparative+religion&limit=10', title='Academic Research: I-Ching (Book of Changes) comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on I-Ching (Book of Changes) comparative religion', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=I-Ching+(Book+of+Changes)+mysticism&limit=10', title='Academic Research: I-Ching (Book of Changes) mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on I-Ching (Book of Changes) mysticism', subcategory='academic_research')"
+  ],
+  "categorized_sources": {
+    "wikipedia_excellent": [
+      "SourceLink(url='https://wikipedia.org/search?q=I-Ching+(Book+of+Changes)+wikipedia', title='I-Ching (Book Of Changes) Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive I-Ching (Book of Changes) wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=64+Hexagrams+Complete+System+wikipedia', title='64 Hexagrams Complete System Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive 64 Hexagrams Complete System wikipedia information from wikipedia.org', subcategory='systems_structures')",
+      "SourceLink(url='https://wikipedia.org/search?q=Eight+Trigrams+Foundation+wikipedia', title='Eight Trigrams Foundation Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Eight Trigrams Foundation wikipedia information from wikipedia.org', subcategory='general_overview')"
+    ],
+    "wikipedia_good": [
+      "SourceLink(url='https://wikimedia.org/search?q=I-Ching+(Book+of+Changes)+academic+research', title='I-Ching (Book Of Changes) Academic Research - Wikimedia', type='wikipedia', quality='good', description='Comprehensive I-Ching (Book of Changes) academic research information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=I-Ching+(Book+of+Changes)+scholarly+articles', title='I-Ching (Book Of Changes) Scholarly Articles - Wikimedia', type='wikipedia', quality='good', description='Comprehensive I-Ching (Book of Changes) scholarly articles information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=I-Ching+(Book+of+Changes)+encyclopedia+britannica', title='I-Ching (Book Of Changes) Encyclopedia Britannica - Wikimedia', type='wikipedia', quality='good', description='Comprehensive I-Ching (Book of Changes) encyclopedia britannica information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=64+Hexagrams+Complete+System+academic+wiki', title='64 Hexagrams Complete System Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive 64 Hexagrams Complete System academic wiki information from wikimedia.org', subcategory='systems_structures')",
+      "SourceLink(url='https://wikimedia.org/search?q=64+Hexagrams+Complete+System+scholarly+source', title='64 Hexagrams Complete System Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive 64 Hexagrams Complete System scholarly source information from wikimedia.org', subcategory='systems_structures')",
+      "SourceLink(url='https://wikimedia.org/search?q=Eight+Trigrams+Foundation+academic+wiki', title='Eight Trigrams Foundation Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Eight Trigrams Foundation academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Eight+Trigrams+Foundation+scholarly+source', title='Eight Trigrams Foundation Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Eight Trigrams Foundation scholarly source information from wikimedia.org', subcategory='general_overview')"
+    ],
+    "academic_excellent": [],
+    "academic_good": [],
+    "specialized_wikis": [],
+    "reference_sources": [
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=I-Ching+(Book+of+Changes)+religious+studies&limit=10', title='Academic Research: I-Ching (Book of Changes) religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on I-Ching (Book of Changes) religious studies', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=I-Ching+(Book+of+Changes)+comparative+religion&limit=10', title='Academic Research: I-Ching (Book of Changes) comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on I-Ching (Book of Changes) comparative religion', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=I-Ching+(Book+of+Changes)+mysticism&limit=10', title='Academic Research: I-Ching (Book of Changes) mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on I-Ching (Book of Changes) mysticism', subcategory='academic_research')"
+    ]
+  },
+  "source_count": 13,
+  "research_quality": "GOOD"
+}

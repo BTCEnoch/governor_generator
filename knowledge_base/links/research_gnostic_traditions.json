@@ -1,0 +1,67 @@
+{
+  "tradition_name": "gnostic_traditions",
+  "display_name": "Gnostic Traditions",
+  "search_queries_used": [
+    "Gnostic Traditions wikipedia",
+    "Gnostic Traditions academic research",
+    "Gnostic Traditions scholarly articles",
+    "Gnostic Traditions encyclopedia britannica",
+    "Divine Spark Pneuma wikipedia",
+    "Divine Spark Pneuma academic wiki",
+    "Divine Spark Pneuma scholarly source",
+    "Demiurge False Creator wikipedia",
+    "Demiurge False Creator academic wiki",
+    "Demiurge False Creator scholarly source",
+    "Gnosis Direct Knowledge wikipedia",
+    "Gnosis Direct Knowledge academic wiki",
+    "Gnosis Direct Knowledge scholarly source",
+    "Pleroma Divine Fullness wikipedia",
+    "Pleroma Divine Fullness academic wiki",
+    "Pleroma Divine Fullness scholarly source",
+    "Sophia Myth Wisdom Fall wikipedia",
+    "Sophia Myth Wisdom Fall academic wiki",
+    "Sophia Myth Wisdom Fall scholarly source",
+    "Aeons Divine Emanations wikipedia"
+  ],
+  "all_sources": [
+    "SourceLink(url='https://wikipedia.org/search?q=Gnostic+Traditions+wikipedia', title='Gnostic Traditions Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Gnostic Traditions wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Gnostic+Traditions+academic+research', title='Gnostic Traditions Academic Research - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Gnostic Traditions academic research information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Gnostic+Traditions+scholarly+articles', title='Gnostic Traditions Scholarly Articles - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Gnostic Traditions scholarly articles information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Gnostic+Traditions+encyclopedia+britannica', title='Gnostic Traditions Encyclopedia Britannica - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Gnostic Traditions encyclopedia britannica information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Divine+Spark+Pneuma+wikipedia', title='Divine Spark Pneuma Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Divine Spark Pneuma wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Divine+Spark+Pneuma+academic+wiki', title='Divine Spark Pneuma Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Divine Spark Pneuma academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Divine+Spark+Pneuma+scholarly+source', title='Divine Spark Pneuma Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Divine Spark Pneuma scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Demiurge+False+Creator+wikipedia', title='Demiurge False Creator Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Demiurge False Creator wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Demiurge+False+Creator+academic+wiki', title='Demiurge False Creator Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Demiurge False Creator academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Demiurge+False+Creator+scholarly+source', title='Demiurge False Creator Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Demiurge False Creator scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Gnostic+Traditions+religious+studies&limit=10', title='Academic Research: Gnostic Traditions religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Gnostic Traditions religious studies', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Gnostic+Traditions+comparative+religion&limit=10', title='Academic Research: Gnostic Traditions comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Gnostic Traditions comparative religion', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Gnostic+Traditions+mysticism&limit=10', title='Academic Research: Gnostic Traditions mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Gnostic Traditions mysticism', subcategory='academic_research')"
+  ],
+  "categorized_sources": {
+    "wikipedia_excellent": [
+      "SourceLink(url='https://wikipedia.org/search?q=Gnostic+Traditions+wikipedia', title='Gnostic Traditions Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Gnostic Traditions wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Gnostic+Traditions+academic+research', title='Gnostic Traditions Academic Research - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Gnostic Traditions academic research information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Gnostic+Traditions+scholarly+articles', title='Gnostic Traditions Scholarly Articles - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Gnostic Traditions scholarly articles information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Gnostic+Traditions+encyclopedia+britannica', title='Gnostic Traditions Encyclopedia Britannica - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Gnostic Traditions encyclopedia britannica information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Divine+Spark+Pneuma+wikipedia', title='Divine Spark Pneuma Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Divine Spark Pneuma wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Demiurge+False+Creator+wikipedia', title='Demiurge False Creator Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Demiurge False Creator wikipedia information from wikipedia.org', subcategory='general_overview')"
+    ],
+    "wikipedia_good": [
+      "SourceLink(url='https://wikimedia.org/search?q=Divine+Spark+Pneuma+academic+wiki', title='Divine Spark Pneuma Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Divine Spark Pneuma academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Divine+Spark+Pneuma+scholarly+source', title='Divine Spark Pneuma Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Divine Spark Pneuma scholarly source information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Demiurge+False+Creator+academic+wiki', title='Demiurge False Creator Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Demiurge False Creator academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Demiurge+False+Creator+scholarly+source', title='Demiurge False Creator Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Demiurge False Creator scholarly source information from wikimedia.org', subcategory='general_overview')"
+    ],
+    "academic_excellent": [],
+    "academic_good": [],
+    "specialized_wikis": [],
+    "reference_sources": [
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Gnostic+Traditions+religious+studies&limit=10', title='Academic Research: Gnostic Traditions religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Gnostic Traditions religious studies', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Gnostic+Traditions+comparative+religion&limit=10', title='Academic Research: Gnostic Traditions comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Gnostic Traditions comparative religion', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Gnostic+Traditions+mysticism&limit=10', title='Academic Research: Gnostic Traditions mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Gnostic Traditions mysticism', subcategory='academic_research')"
+    ]
+  },
+  "source_count": 13,
+  "research_quality": "GOOD"
+}

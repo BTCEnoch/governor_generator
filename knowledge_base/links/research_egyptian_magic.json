@@ -1,0 +1,67 @@
+{
+  "tradition_name": "egyptian_magic",
+  "display_name": "Ancient Egyptian Magic",
+  "search_queries_used": [
+    "Ancient Egyptian Magic wikipedia",
+    "Ancient Egyptian Magic academic research",
+    "Ancient Egyptian Magic scholarly articles",
+    "Ancient Egyptian Magic encyclopedia britannica",
+    "Ma'at Cosmic Order wikipedia",
+    "Ma'at Cosmic Order academic wiki",
+    "Ma'at Cosmic Order scholarly source",
+    "Neteru Divine Principles wikipedia",
+    "Neteru Divine Principles academic wiki",
+    "Neteru Divine Principles scholarly source",
+    "Heka Magical Force wikipedia",
+    "Heka Magical Force academic wiki",
+    "Heka Magical Force scholarly source",
+    "Ka Ba Akh Soul Complex wikipedia",
+    "Ka Ba Akh Soul Complex academic wiki",
+    "Ka Ba Akh Soul Complex scholarly source",
+    "Divine Pharaoh Concept wikipedia",
+    "Divine Pharaoh Concept academic wiki",
+    "Divine Pharaoh Concept scholarly source",
+    "Solar Worship Ra wikipedia"
+  ],
+  "all_sources": [
+    "SourceLink(url='https://wikipedia.org/search?q=Ancient+Egyptian+Magic+wikipedia', title='Ancient Egyptian Magic Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Ancient Egyptian Magic wikipedia information from wikipedia.org', subcategory='historical_context')",
+    "SourceLink(url='https://wikimedia.org/search?q=Ancient+Egyptian+Magic+academic+research', title='Ancient Egyptian Magic Academic Research - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Ancient Egyptian Magic academic research information from wikimedia.org', subcategory='historical_context')",
+    "SourceLink(url='https://wikimedia.org/search?q=Ancient+Egyptian+Magic+scholarly+articles', title='Ancient Egyptian Magic Scholarly Articles - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Ancient Egyptian Magic scholarly articles information from wikimedia.org', subcategory='historical_context')",
+    "SourceLink(url='https://wikimedia.org/search?q=Ancient+Egyptian+Magic+encyclopedia+britannica', title='Ancient Egyptian Magic Encyclopedia Britannica - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Ancient Egyptian Magic encyclopedia britannica information from wikimedia.org', subcategory='historical_context')",
+    "SourceLink(url='https://wikipedia.org/search?q=Ma'at+Cosmic+Order+wikipedia', title='Ma'At Cosmic Order Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Ma'at Cosmic Order wikipedia information from wikipedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://wikimedia.org/search?q=Ma'at+Cosmic+Order+academic+wiki', title='Ma'At Cosmic Order Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Ma'at Cosmic Order academic wiki information from wikimedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://wikimedia.org/search?q=Ma'at+Cosmic+Order+scholarly+source', title='Ma'At Cosmic Order Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Ma'at Cosmic Order scholarly source information from wikimedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://wikipedia.org/search?q=Neteru+Divine+Principles+wikipedia', title='Neteru Divine Principles Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Neteru Divine Principles wikipedia information from wikipedia.org', subcategory='philosophy_concepts')",
+    "SourceLink(url='https://wikimedia.org/search?q=Neteru+Divine+Principles+academic+wiki', title='Neteru Divine Principles Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Neteru Divine Principles academic wiki information from wikimedia.org', subcategory='philosophy_concepts')",
+    "SourceLink(url='https://wikimedia.org/search?q=Neteru+Divine+Principles+scholarly+source', title='Neteru Divine Principles Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Neteru Divine Principles scholarly source information from wikimedia.org', subcategory='philosophy_concepts')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Ancient+Egyptian+Magic+religious+studies&limit=10', title='Academic Research: Ancient Egyptian Magic religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Ancient Egyptian Magic religious studies', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Ancient+Egyptian+Magic+comparative+religion&limit=10', title='Academic Research: Ancient Egyptian Magic comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Ancient Egyptian Magic comparative religion', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Ancient+Egyptian+Magic+mysticism&limit=10', title='Academic Research: Ancient Egyptian Magic mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Ancient Egyptian Magic mysticism', subcategory='academic_research')"
+  ],
+  "categorized_sources": {
+    "wikipedia_excellent": [
+      "SourceLink(url='https://wikipedia.org/search?q=Ancient+Egyptian+Magic+wikipedia', title='Ancient Egyptian Magic Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Ancient Egyptian Magic wikipedia information from wikipedia.org', subcategory='historical_context')",
+      "SourceLink(url='https://wikipedia.org/search?q=Ma'at+Cosmic+Order+wikipedia', title='Ma'At Cosmic Order Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Ma'at Cosmic Order wikipedia information from wikipedia.org', subcategory='systems_structures')",
+      "SourceLink(url='https://wikipedia.org/search?q=Neteru+Divine+Principles+wikipedia', title='Neteru Divine Principles Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Neteru Divine Principles wikipedia information from wikipedia.org', subcategory='philosophy_concepts')"
+    ],
+    "wikipedia_good": [
+      "SourceLink(url='https://wikimedia.org/search?q=Ancient+Egyptian+Magic+academic+research', title='Ancient Egyptian Magic Academic Research - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Ancient Egyptian Magic academic research information from wikimedia.org', subcategory='historical_context')",
+      "SourceLink(url='https://wikimedia.org/search?q=Ancient+Egyptian+Magic+scholarly+articles', title='Ancient Egyptian Magic Scholarly Articles - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Ancient Egyptian Magic scholarly articles information from wikimedia.org', subcategory='historical_context')",
+      "SourceLink(url='https://wikimedia.org/search?q=Ancient+Egyptian+Magic+encyclopedia+britannica', title='Ancient Egyptian Magic Encyclopedia Britannica - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Ancient Egyptian Magic encyclopedia britannica information from wikimedia.org', subcategory='historical_context')",
+      "SourceLink(url='https://wikimedia.org/search?q=Ma'at+Cosmic+Order+academic+wiki', title='Ma'At Cosmic Order Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Ma'at Cosmic Order academic wiki information from wikimedia.org', subcategory='systems_structures')",
+      "SourceLink(url='https://wikimedia.org/search?q=Ma'at+Cosmic+Order+scholarly+source', title='Ma'At Cosmic Order Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Ma'at Cosmic Order scholarly source information from wikimedia.org', subcategory='systems_structures')",
+      "SourceLink(url='https://wikimedia.org/search?q=Neteru+Divine+Principles+academic+wiki', title='Neteru Divine Principles Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Neteru Divine Principles academic wiki information from wikimedia.org', subcategory='philosophy_concepts')",
+      "SourceLink(url='https://wikimedia.org/search?q=Neteru+Divine+Principles+scholarly+source', title='Neteru Divine Principles Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Neteru Divine Principles scholarly source information from wikimedia.org', subcategory='philosophy_concepts')"
+    ],
+    "academic_excellent": [],
+    "academic_good": [],
+    "specialized_wikis": [],
+    "reference_sources": [
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Ancient+Egyptian+Magic+religious+studies&limit=10', title='Academic Research: Ancient Egyptian Magic religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Ancient Egyptian Magic religious studies', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Ancient+Egyptian+Magic+comparative+religion&limit=10', title='Academic Research: Ancient Egyptian Magic comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Ancient Egyptian Magic comparative religion', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Ancient+Egyptian+Magic+mysticism&limit=10', title='Academic Research: Ancient Egyptian Magic mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Ancient Egyptian Magic mysticism', subcategory='academic_research')"
+    ]
+  },
+  "source_count": 13,
+  "research_quality": "GOOD"
+}

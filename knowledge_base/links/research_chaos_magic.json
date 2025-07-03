@@ -1,0 +1,67 @@
+{
+  "tradition_name": "chaos_magic",
+  "display_name": "Chaos Magic",
+  "search_queries_used": [
+    "Chaos Magic wikipedia",
+    "Chaos Magic academic research",
+    "Chaos Magic scholarly articles",
+    "Chaos Magic encyclopedia britannica",
+    "Paradigm Shifting Belief Tools wikipedia",
+    "Paradigm Shifting Belief Tools academic wiki",
+    "Paradigm Shifting Belief Tools scholarly source",
+    "Results Based Practice wikipedia",
+    "Results Based Practice academic wiki",
+    "Results Based Practice scholarly source",
+    "Gnosis States Altered Consciousness wikipedia",
+    "Gnosis States Altered Consciousness academic wiki",
+    "Gnosis States Altered Consciousness scholarly source",
+    "Reality Hacking Consensus wikipedia",
+    "Reality Hacking Consensus academic wiki",
+    "Reality Hacking Consensus scholarly source",
+    "Sigil Magic Austin Spare wikipedia",
+    "Sigil Magic Austin Spare academic wiki",
+    "Sigil Magic Austin Spare scholarly source",
+    "Servitor Creation Thoughtforms wikipedia"
+  ],
+  "all_sources": [
+    "SourceLink(url='https://wikipedia.org/search?q=Chaos+Magic+wikipedia', title='Chaos Magic Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Chaos Magic wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Chaos+Magic+academic+research', title='Chaos Magic Academic Research - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Chaos Magic academic research information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Chaos+Magic+scholarly+articles', title='Chaos Magic Scholarly Articles - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Chaos Magic scholarly articles information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Chaos+Magic+encyclopedia+britannica', title='Chaos Magic Encyclopedia Britannica - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Chaos Magic encyclopedia britannica information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Paradigm+Shifting+Belief+Tools+wikipedia', title='Paradigm Shifting Belief Tools Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Paradigm Shifting Belief Tools wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Paradigm+Shifting+Belief+Tools+academic+wiki', title='Paradigm Shifting Belief Tools Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Paradigm Shifting Belief Tools academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Paradigm+Shifting+Belief+Tools+scholarly+source', title='Paradigm Shifting Belief Tools Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Paradigm Shifting Belief Tools scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Results+Based+Practice+wikipedia', title='Results Based Practice Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Results Based Practice wikipedia information from wikipedia.org', subcategory='practices_rituals')",
+    "SourceLink(url='https://wikimedia.org/search?q=Results+Based+Practice+academic+wiki', title='Results Based Practice Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Results Based Practice academic wiki information from wikimedia.org', subcategory='practices_rituals')",
+    "SourceLink(url='https://wikimedia.org/search?q=Results+Based+Practice+scholarly+source', title='Results Based Practice Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Results Based Practice scholarly source information from wikimedia.org', subcategory='practices_rituals')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Chaos+Magic+religious+studies&limit=10', title='Academic Research: Chaos Magic religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Chaos Magic religious studies', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Chaos+Magic+comparative+religion&limit=10', title='Academic Research: Chaos Magic comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Chaos Magic comparative religion', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Chaos+Magic+mysticism&limit=10', title='Academic Research: Chaos Magic mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Chaos Magic mysticism', subcategory='academic_research')"
+  ],
+  "categorized_sources": {
+    "wikipedia_excellent": [
+      "SourceLink(url='https://wikipedia.org/search?q=Chaos+Magic+wikipedia', title='Chaos Magic Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Chaos Magic wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Chaos+Magic+academic+research', title='Chaos Magic Academic Research - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Chaos Magic academic research information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Chaos+Magic+scholarly+articles', title='Chaos Magic Scholarly Articles - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Chaos Magic scholarly articles information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Chaos+Magic+encyclopedia+britannica', title='Chaos Magic Encyclopedia Britannica - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Chaos Magic encyclopedia britannica information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Paradigm+Shifting+Belief+Tools+wikipedia', title='Paradigm Shifting Belief Tools Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Paradigm Shifting Belief Tools wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Results+Based+Practice+wikipedia', title='Results Based Practice Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Results Based Practice wikipedia information from wikipedia.org', subcategory='practices_rituals')"
+    ],
+    "wikipedia_good": [
+      "SourceLink(url='https://wikimedia.org/search?q=Paradigm+Shifting+Belief+Tools+academic+wiki', title='Paradigm Shifting Belief Tools Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Paradigm Shifting Belief Tools academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Paradigm+Shifting+Belief+Tools+scholarly+source', title='Paradigm Shifting Belief Tools Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Paradigm Shifting Belief Tools scholarly source information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Results+Based+Practice+academic+wiki', title='Results Based Practice Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Results Based Practice academic wiki information from wikimedia.org', subcategory='practices_rituals')",
+      "SourceLink(url='https://wikimedia.org/search?q=Results+Based+Practice+scholarly+source', title='Results Based Practice Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Results Based Practice scholarly source information from wikimedia.org', subcategory='practices_rituals')"
+    ],
+    "academic_excellent": [],
+    "academic_good": [],
+    "specialized_wikis": [],
+    "reference_sources": [
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Chaos+Magic+religious+studies&limit=10', title='Academic Research: Chaos Magic religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Chaos Magic religious studies', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Chaos+Magic+comparative+religion&limit=10', title='Academic Research: Chaos Magic comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Chaos Magic comparative religion', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Chaos+Magic+mysticism&limit=10', title='Academic Research: Chaos Magic mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Chaos Magic mysticism', subcategory='academic_research')"
+    ]
+  },
+  "source_count": 13,
+  "research_quality": "GOOD"
+}

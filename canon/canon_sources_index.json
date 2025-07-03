@@ -1,0 +1,367 @@
+{
+  "canon_sources_index": {
+    "description": "Clean JSON index of all canonical wisdom traditions for governor selection",
+    "version": "1.0",
+    "total_traditions": 15,
+    "traditions": {
+      "enochian_magic": {
+        "name": "Enochian Magic - Complete System",
+        "description": "The most complete system of angelic communication ever recorded. The angels taught that their language operates on vibrational frequencies that directly restructure reality through hierarchical cooperation with celestial intelligences.",
+        "core_principles": [
+          "Divine language as reality-manipulation tool",
+          "Hierarchical cooperation with angelic intelligences",
+          "Vibrational magic through sacred pronunciation",
+          "Geographic and spiritual governance through the 91 Governors"
+        ],
+        "key_systems": [
+          "48 Enochian Keys - Reality-altering invocations in angelic language",
+          "Great Table - 49x49 grid containing all magical correspondences",
+          "30 Aethyrs - Ascending levels of spiritual reality",
+          "Watchtowers - Elemental magical squares for each direction"
+        ],
+        "links": [
+          "https://archive.org/details/truefaithfulrel00deejgoog",
+          "https://hermetic.com/dee/liber-logaeth/",
+          "http://www.enochian.org/dictionary/",
+          "https://www.bl.uk/manuscripts/Viewer.aspx?ref=sloane_ms_3188_f001r",
+          "https://sacred-texts.com/eso/dee/index.htm"
+        ]
+      },
+      "hermetic_tradition": {
+        "name": "Hermetic Tradition - Complete Philosophy",
+        "description": "Hermeticism teaches that all existence operates through sympathetic connections between different levels of reality. The fundamental principle 'As Above, So Below' reveals that the microcosm perfectly reflects the macrocosm.",
+        "core_principles": [
+          "Correspondence - All levels of reality mirror each other",
+          "Mentalism - The universe is mental in nature, responsive to consciousness",
+          "Vibration - Everything vibrates at specific frequencies",
+          "Polarity - All truths are half-truths; all paradoxes may be reconciled",
+          "Rhythm - Everything flows in cycles and patterns",
+          "Causation - Every cause has an effect; every effect has a cause",
+          "Gender - Everything contains both masculine and feminine principles"
+        ],
+        "key_systems": [
+          "Planetary Magic - Working with the seven classical planets",
+          "Elemental Magic - Fire, Water, Air, Earth correspondences",
+          "Alchemical Transformation - Spiritual and material transmutation",
+          "Talismanic Magic - Creating charged objects through timing"
+        ],
+        "links": [
+          "https://sacred-texts.com/eso/hermet/",
+          "http://www.sacred-texts.com/alc/emerald.htm",
+          "https://hermetic.com/texts/",
+          "https://archive.org/details/threebbooksofoccultphilosophy",
+          "https://sacred-texts.com/alc/paracel1.htm"
+        ]
+      },
+      "golden_dawn": {
+        "name": "Golden Dawn System - Complete Magical Framework",
+        "description": "The Golden Dawn synthesized all major Western magical traditions into a coherent system of practical magic. They systematized correspondences between Kabbalah, Tarot, astrology, Enochian magic, and Egyptian mysteries.",
+        "core_principles": [
+          "Kabalistic Tree of Life as map of consciousness and cosmos",
+          "Tarot Correspondences - 78 cards mapped to Hebrew letters and paths",
+          "Elemental Magic - Complete pentagram and hexagram rituals",
+          "Enochian Watchtowers - Systematized angelic magic",
+          "Egyptian Godforms - Using deities for magical transformation"
+        ],
+        "key_systems": [
+          "LBRP - Lesser Banishing Ritual of the Pentagram",
+          "Middle Pillar - Energy cultivation and chakra work",
+          "Pathworking - Guided meditation through Tree of Life",
+          "Skrying - Vision questing in the spirit vision",
+          "Invocation and Evocation - Calling divine forces"
+        ],
+        "links": [
+          "https://archive.org/details/completegoldenda00rega",
+          "https://www.golden-dawn.com/eu/default.aspx",
+          "https://www.golden-dawn.com/eu/displaycontent.aspx?pageid=145-tree-of-life",
+          "https://hermetic.com/golden-dawn/",
+          "https://www.llewellyn.com/authors/chic-cicero"
+        ]
+      },
+      "thelema": {
+        "name": "Aleister Crowley & Thelema - Complete System",
+        "description": "Thelema proclaims 'Do what thou wilt shall be the whole of the Law.' This represents the discovery and execution of one's True Will - the deepest authentic purpose of existence.",
+        "core_principles": [
+          "True Will - Every individual has a unique cosmic purpose",
+          "Love Under Will - All actions should align with authentic nature",
+          "Class A Documents - Received texts that carry supreme authority",
+          "Aeon of Horus - Current magical age emphasizing individual sovereignty",
+          "Knowledge and Conversation - Union with Holy Guardian Angel"
+        ],
+        "key_systems": [
+          "Liber Resh - Daily solar adorations marking sun's journey",
+          "Star Ruby/Star Sapphire - Advanced banishing and invoking rituals",
+          "Gnostic Mass - Central religious ceremony of Thelema",
+          "Vision and the Voice - Enochian Aethyr exploration",
+          "Book of Thoth - Tarot system expressing Thelemic philosophy"
+        ],
+        "links": [
+          "https://hermetic.com/crowley/index",
+          "https://hermetic.com/crowley/",
+          "http://www.the-equinox.org/index.html",
+          "https://hermetic.com/crowley/libers/lib220",
+          "https://hermetic.com/crowley/aa/index"
+        ]
+      },
+      "kabbalah": {
+        "name": "Kabbalah & Tree of Life - Complete System",
+        "description": "Kabbalah teaches that the universe emanates from the divine source through ten sefirot arranged on the Tree of Life. Reality consists of four interconnected worlds connected by 22 pathways of consciousness.",
+        "core_principles": [
+          "Ein Sof - The infinite divine source beyond comprehension",
+          "Ten Sefirot - Divine attributes reflecting in consciousness",
+          "Four Worlds - Levels of reality from divine to physical",
+          "22 Paths - Connections between sefirot representing consciousness states",
+          "Gematria - Numerical analysis revealing hidden meanings"
+        ],
+        "key_systems": [
+          "Pathworking - Meditative journeys between sefirot",
+          "Gematria - Numerical analysis of Hebrew words",
+          "Divine Names - Sacred Hebrew formulas for each sefirah",
+          "Tetragrammaton - The four-letter name of God",
+          "Sefirot Meditation - Direct experience of divine attributes"
+        ],
+        "links": [
+          "https://www.sefaria.org/Zohar",
+          "https://sacred-texts.com/jud/yetzirah.htm",
+          "https://www.inner.org/sefirot/sefhome.htm",
+          "https://www.gematrix.org/",
+          "https://www.golden-dawn.com/eu/displaycontent.aspx?pageid=145-tree-of-life"
+        ]
+      },
+      "egyptian_magic": {
+        "name": "Ancient Egyptian Magic - Complete System",
+        "description": "Egyptian magic views the cosmos as a divine order (Ma'at) maintained through proper ritual and moral alignment. Magic works through correspondence with cosmic cycles and divine names.",
+        "core_principles": [
+          "Ma'at - Cosmic order, truth, and justice",
+          "Neteru - Divine principles manifesting as gods and goddesses",
+          "Heka - The divine force that powers magic",
+          "Ka - Vital life force, spiritual double",
+          "Ba - Personality, consciousness that survives death",
+          "Akh - Transfigured spirit, enlightened being"
+        ],
+        "key_systems": [
+          "Solar Worship - Daily adorations following Ra's journey",
+          "Mummification Rites - Preservation for spiritual immortality",
+          "Canopic Magic - Working with four sons of Horus",
+          "Amulet Creation - Sacred symbols for protection",
+          "Temple Rituals - Elaborate ceremonies maintaining cosmic order"
+        ],
+        "links": [
+          "https://sacred-texts.com/egy/ebod/",
+          "https://sacred-texts.com/egy/pyt/index.htm",
+          "https://www.britishmuseum.org/collection/term/BIOG15456",
+          "https://bookofthedead.book-lover.com/",
+          "https://www.egypt-museum.com/post/hieroglyphs"
+        ]
+      },
+      "gnostic_traditions": {
+        "name": "Gnostic Traditions - Complete Library",
+        "description": "Gnosticism teaches that humans contain a divine spark trapped in material existence. Salvation comes through gnosis (direct knowledge) of one's true divine nature and the cosmic structure keeping souls imprisoned.",
+        "core_principles": [
+          "Divine Spark - Each soul contains fragment of the Pleroma",
+          "Demiurge - False creator god who traps souls in matter",
+          "Gnosis - Direct experiential knowledge of divine truth",
+          "Pleroma - Fullness of divine realm beyond material world",
+          "Aeons - Divine emanations from the ultimate source",
+          "Sophia - Divine wisdom that fell into matter"
+        ],
+        "key_systems": [
+          "Contemplative Practice - Direct mystical experience",
+          "Sacred Texts Study - Hidden meanings in scripture",
+          "Ritual Awakening - Ceremonies to activate divine spark",
+          "Mythological Understanding - Cosmic drama of soul's journey",
+          "Ascension Practices - Methods for return to Pleroma"
+        ],
+        "links": [
+          "https://www.gnosis.org/naghamm/nhlintro.htm",
+          "https://sacred-texts.com/gno/index.htm",
+          "http://www.gnostic.org/",
+          "https://www.gospels.net/gnostic/",
+          "https://www.earlychristianwritings.com/gnostics.html"
+        ]
+      },
+      "chaos_magic": {
+        "name": "Chaos Magic - Reality Hacking System",
+        "description": "Chaos magic emphasizes results over belief systems. Practitioners adopt whatever paradigm or method produces the desired outcome, then discard it for the next working. Reality is seen as malleable and responsive to focused will.",
+        "core_principles": [
+          "Paradigm Shifting - Adopting belief systems as tools",
+          "Results-Based Practice - Focus on what works rather than theory",
+          "Gnosis States - Altered consciousness for magical working",
+          "Sigil Magic - Encoding desires into symbolic form",
+          "Servitor Creation - Building thoughtforms for specific tasks",
+          "Reality Hacking - Exploiting glitches in consensus reality"
+        ],
+        "key_systems": [
+          "Sigil Creation - Austin Osman Spare's method of desire encoding",
+          "Paradigm Adoption - Temporary belief system utilization",
+          "Gnosis Induction - Achieving altered states for magic",
+          "Servitor/Egregore Work - Creating artificial spirits",
+          "Discordian Techniques - Using humor and randomness"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Chaos_magic",
+          "https://www.chaosmatrix.org/",
+          "http://www.philhine.org.uk/",
+          "https://www.amazon.com/Condensed-Chaos-Phil-Hine/dp/1561840610",
+          "https://runesoup.com/"
+        ]
+      },
+      "norse_traditions": {
+        "name": "Norse & Runic Traditions - Complete System",
+        "description": "Norse spirituality centers on concepts of wyrd (fate), honor, and cyclical time. Runes serve as both alphabet and divination system, encoding cosmic principles and magical formulas. The Nine Worlds provide a complete cosmological framework.",
+        "core_principles": [
+          "Wyrd - Web of fate connecting all actions and consequences",
+          "Honor - Personal reputation and integrity as highest values",
+          "Ragnarok - Cyclical destruction and renewal of cosmos",
+          "Nine Worlds - Complete cosmological map via Yggdrasil",
+          "Galdr - Vocal magic through runic formulas",
+          "Seidr - Shamanic practices and spirit work"
+        ],
+        "key_systems": [
+          "Runic Divination - Using Elder Futhark for guidance",
+          "Galdr Practice - Chanting runic formulas for magic",
+          "Blót Rituals - Offering ceremonies to gods and spirits",
+          "Utiseta - Sitting out for vision and spirit contact",
+          "Wyrd Working - Understanding and influencing fate patterns"
+        ],
+        "links": [
+          "https://sacred-texts.com/neu/poe/index.htm",
+          "https://www.sacred-texts.com/neu/heim/index.htm",
+          "http://www.sunnyway.com/runes/",
+          "https://norse-mythology.org/",
+          "https://www.vikinganswerlady.com/"
+        ]
+      },
+      "tarot_system": {
+        "name": "Tarot - Complete Divination System",
+        "description": "Tarot represents the soul's journey from innocence (The Fool) through life's experiences to enlightenment (The World). The 78 cards map psychological states, spiritual principles, and cosmic forces.",
+        "core_principles": [
+          "Major Arcana - 22 cards representing major life themes",
+          "Minor Arcana - 56 cards for daily situations and elements",
+          "Fool's Journey - Progressive spiritual development path",
+          "Elemental Correspondences - Suits aligned with Fire/Water/Air/Earth",
+          "Astrological Associations - Cards linked to zodiac and planets",
+          "Kabbalistic Tree - Cards mapped to Hebrew letters and paths"
+        ],
+        "key_systems": [
+          "Celtic Cross Spread - Traditional 10-card reading method",
+          "Daily Card Draw - Single card for daily guidance",
+          "Pathworking - Meditative journeys with card imagery",
+          "Elemental Readings - Focusing on specific life areas",
+          "Court Card Psychology - Personality archetypes and development"
+        ],
+        "links": [
+          "https://www.biddytarot.com/tarot-card-meanings/",
+          "https://sacred-texts.com/tarot/pkt/index.htm",
+          "https://www.golden-dawn.com/eu/displaycontent.aspx?pageid=147-tarot-correspondences",
+          "https://hermetic.com/crowley/book-of-thoth/",
+          "https://www.tarotheritage.com/"
+        ]
+      },
+      "sufi_mysticism": {
+        "name": "Sufi Mysticism - Complete Path",
+        "description": "Sufism pursues fana (annihilation of the ego in divine love) through dhikr (remembrance), sama (spiritual music), and complete surrender to Allah. The path involves purifying the heart through guided stages.",
+        "core_principles": [
+          "Fana - Passing away of the ego in divine love",
+          "Baqa - Subsistence in God after fana",
+          "Dhikr - Remembrance of Allah through sacred repetition",
+          "Halal - Temporary spiritual state",
+          "Maqam - Permanent spiritual attainment",
+          "Tariqah - Sufi order or spiritual path"
+        ],
+        "key_systems": [
+          "Sohbet - Spiritual conversation and teaching",
+          "Sama - Sacred music and dance for spiritual ecstasy",
+          "Muraqaba - Meditation and contemplation",
+          "Breath Work - Sacred breathing techniques",
+          "Service - Serving others as worship of the divine"
+        ],
+        "links": [
+          "https://sacred-texts.com/isl/masnavi/index.htm",
+          "https://www.ibnarabisociety.org/",
+          "https://www.poetry-chaikhana.com/",
+          "https://sacred-texts.com/isl/ghaz/index.htm",
+          "https://www.sufiorder.org/"
+        ]
+      },
+      "celtic_druidic": {
+        "name": "Celtic & Druidic Traditions - Complete System",
+        "description": "Celtic spirituality emphasizes connection with the land, seasonal cycles, and the Otherworld. Druids served as priests, judges, and keepers of wisdom. Magic works through understanding the sacred in nature.",
+        "core_principles": [
+          "Awen - Divine inspiration, creative flow",
+          "Otherworld - Parallel realm of spirits and deities",
+          "Ley Lines - Sacred pathways of earth energy",
+          "Sacred Groves - Natural temples for worship and ritual",
+          "Seasonal Festivals - Eight celebrations marking wheel of year",
+          "Tree Wisdom - Each tree species holding specific knowledge"
+        ],
+        "key_systems": [
+          "Ogham Divination - Celtic tree alphabet for guidance",
+          "Seasonal Celebrations - Solstices, equinoxes, and cross-quarters",
+          "Land Working - Connecting with spirits of place",
+          "Bardic Arts - Poetry, music, and storytelling",
+          "Herb Craft - Plant medicine and earth healing"
+        ],
+        "links": [
+          "https://sacred-texts.com/neu/celt/index.htm",
+          "https://www.maryjones.us/ctexts/",
+          "https://sacred-texts.com/neu/mab/index.htm",
+          "https://www.ogham.co.uk/",
+          "https://www.sacred-texts.com/pag/celtic_tree_months.htm"
+        ]
+      },
+      "sacred_geometry": {
+        "name": "Sacred Geometry & Mathematics - Complete System",
+        "description": "Sacred geometry reveals mathematical principles underlying creation. Geometric forms like the Flower of Life, Platonic solids, and Golden Ratio appear throughout nature, suggesting divine mathematical order.",
+        "core_principles": [
+          "Golden Ratio - Divine proportion found throughout nature",
+          "Flower of Life - Overlapping circles generating all forms",
+          "Platonic Solids - Five perfect three-dimensional forms",
+          "Vesica Piscis - Sacred intersection representing unity/duality",
+          "Fibonacci Sequence - Spiral patterns in natural growth",
+          "Sacred Architecture - Buildings designed on geometric principles"
+        ],
+        "key_systems": [
+          "Temple Design - Sacred architecture using geometric proportions",
+          "Mandala Creation - Circular designs for meditation focus",
+          "Sigil Construction - Magical symbols based on geometry",
+          "Crystal Studies - Understanding geometric mineral structures",
+          "Crop Circle Analysis - Decoding geometric message patterns"
+        ],
+        "links": [
+          "https://www.sacred-geometry.es/en/",
+          "https://www.floweroflife.org/",
+          "https://mathworld.wolfram.com/PlatonicSolid.html",
+          "https://www.goldennumber.net/",
+          "https://www.ancient-symbols.com/sacred-geometry.html"
+        ]
+      },
+      "classical_philosophy": {
+        "name": "Classical Philosophy & Science - Complete Systems",
+        "description": "Greek philosophy established rational inquiry into reality, ethics, and human purpose. Provides frameworks through Platonic Forms, Aristotelian logic, Pythagorean mathematics, and Stoic virtue ethics.",
+        "core_principles": [
+          "Platonic Forms - Eternal perfect templates for material reality",
+          "Aristotelian Logic - Rational categories and golden mean",
+          "Pythagorean Mathematics - Number as basis of cosmic harmony",
+          "Stoic Virtue - Excellence as the only true good",
+          "Logos - Divine reason governing the cosmos",
+          "Nous - Divine mind or supreme intelligence"
+        ],
+        "key_systems": [
+          "Socratic Method - Questioning to discover truth",
+          "Platonic Dialectic - Reasoning toward eternal truths",
+          "Aristotelian Categories - Logical classification systems",
+          "Pythagorean Number Work - Mathematics as divine science",
+          "Stoic Practice - Daily virtue cultivation and acceptance"
+        ],
+        "links": [
+          "https://classics.mit.edu/Browse/browse-Plato.html",
+          "https://classics.mit.edu/Browse/browse-Aristotle.html",
+          "https://www.stoicfellowship.com/stoic-library/",
+          "https://sacred-texts.com/cla/app/index.htm",
+          "https://classics.mit.edu/Antoninus/meditations.html"
+        ]
+      }
+    }
+  }
+} 

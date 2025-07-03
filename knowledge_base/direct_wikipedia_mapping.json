@@ -1,0 +1,869 @@
+{
+  "mapping_metadata": {
+    "created_at": "2025-07-02T13:34:15.736918",
+    "method": "direct_wikipedia_extraction",
+    "cost": "$0.00",
+    "source": "wikipedia_direct_articles"
+  },
+  "traditions": {
+    "golden_dawn": {
+      "tradition_name": "golden_dawn",
+      "display_name": "Golden Dawn",
+      "content_summary": {
+        "articles_extracted": 2,
+        "successful_extractions": 2,
+        "total_words": 898,
+        "extraction_success_rate": 0.6666666666666666
+      },
+      "extracted_articles": [
+        {
+          "title": "Hermetic Order of the Golden Dawn",
+          "article_name": "Hermetic_Order_of_the_Golden_Dawn",
+          "url": "https://en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn",
+          "summary": "The Hermetic Order of the Golden Dawn (Latin: Ordo Hermeticus Aurorae Aureae), more commonly the Golden Dawn (Aurora Aurea), was a secret society devoted to the study and practice of occult Hermeticism and metaphysics  during the late 19th and early 20th centuries. Known as a magical order, the Hermetic Order of the Golden Dawn was active in Great Britain and focused its practices on theurgy and spiritual development. Many present-day concepts of ritual and magic that are at the centre of contemporary traditions, such as Wicca[1] and Thelema, were inspired by the Golden Dawn, which became one ...",
+          "full_content": "The Hermetic Order of the Golden Dawn (Latin: Ordo Hermeticus Aurorae Aureae), more commonly the Golden Dawn (Aurora Aurea), was a secret society devoted to the study and practice of occult Hermeticism and metaphysics  during the late 19th and early 20th centuries. Known as a magical order, the Hermetic Order of the Golden Dawn was active in Great Britain and focused its practices on theurgy and spiritual development. Many present-day concepts of ritual and magic that are at the centre of contemporary traditions, such as Wicca[1] and Thelema, were inspired by the Golden Dawn, which became one of the largest single influences on 20th-century Western occultism.[a][b]\n\nThe three founders, William Robert Woodman, William Wynn Westcott, and Samuel Liddell Mathers, were Freemasons and members of the Societas Rosicruciana in Anglia. Westcott appears to have been the initial driving force behind the establishment of the Golden Dawn. Hence the Golden Dawn system was based on hierarchy and initiation, similar to Masonic lodges.[2] While the grade structure was based on the SRIA, women were admitted on an equal basis with men.[3]\n\nThe \"Golden Dawn\" was the first of three Orders, although all three are often collectively referred to as the \"Golden Dawn\". The First Order taught esoteric philosophy based on the Hermetic Qabalah and personal development through study and awareness of the four classical elements, as well as the basics of astrology, tarot divination, and geomancy. The Second or Inner Order, the Rosae Rubeae et Aureae Crucis, taught magic, including scrying, astral travel, and alchemy. The Third Order was that of the Secret Chiefs, who were said to be highly skilled; they supposedly directed the activities of the lower two orders by spirit communication with the Chiefs of the Second Order.\n\nThe foundational documents of the original Order of the Golden Dawn, known as the Cipher Manuscripts, are written in English using the Trithemius cipher.  The manuscripts give the specific outlines of the Grade Rituals of the Order and prescribe a curriculum of graduated teachings that encompass the Hermetic Qabalah, astrology, occult tarot, geomancy, and alchemy.\n\nAccording to the records of the Order, the manuscripts passed from Kenneth R. H. Mackenzie, a Masonic scholar, to the Rev. A. F. A. Woodford, whom British occult writer Francis King describes as the fourth founder,[4] although Woodford died shortly after the Order was founded.[5] The documents did not excite Woodford, and in February 1886 he passed them on to Freemason William Wynn Westcott, who managed to decode them in 1887.[4]",
+          "sections": [
+            "History",
+            "Cipher Manuscripts",
+            "Founding of the First Temple",
+            "The Secret Chiefs",
+            "Golden Age",
+            "Revolt"
+          ],
+          "word_count": 414,
+          "extraction_successful": true
+        },
+        {
+          "title": "Elemental",
+          "article_name": "Elemental",
+          "url": "https://en.wikipedia.org/wiki/Elemental",
+          "summary": "An elemental is a mythic supernatural being that is described in occult and alchemical works from around the time of the European Renaissance, and particularly elaborated in the 16th century works of Paracelsus. According to Paracelsus and his subsequent followers, there are four categories of elementals, which are gnomes, undines, sylphs, and salamanders.[1] These correspond to the four Empedoclean elements of antiquity: earth, water, air, and fire, respectively. Terms employed for beings associated with alchemical elements vary by source and gloss.\n\nThe Paracelsian concept of elementals draw...",
+          "full_content": "An elemental is a mythic supernatural being that is described in occult and alchemical works from around the time of the European Renaissance, and particularly elaborated in the 16th century works of Paracelsus. According to Paracelsus and his subsequent followers, there are four categories of elementals, which are gnomes, undines, sylphs, and salamanders.[1] These correspond to the four Empedoclean elements of antiquity: earth, water, air, and fire, respectively. Terms employed for beings associated with alchemical elements vary by source and gloss.\n\nThe Paracelsian concept of elementals draws from several much older traditions in mythology and religion. Common threads can be found in folklore, animism, and anthropomorphism.  Examples of creatures such as the Pygmy were taken from Greek mythology.\n\nThe elements of earth, water, air, and fire, were classed as the fundamental building blocks of nature. This system prevailed in the Classical world and was highly influential in medieval natural philosophy. Although Paracelsus uses these foundations and the popular preexisting names of elemental creatures, he is doing so to present new ideas which expand on his own philosophical system.  The homunculus is another example of a Paracelsian idea with roots in earlier alchemical, scientific, and folklore traditions.\n\nIn his 16th-century work A Book on Nymphs, Sylphs, Pygmies, and Salamanders, and on the Other Spirits, Paracelsus identified mythological beings as belonging to one of the four elements. Part of the Philosophia Magna, this book was first printed in 1566 after Paracelsus' death.[2] He wrote the book to \"describe the creatures that are outside the cognizance of the light of nature, how they are to be understood, what marvellous works God has created\". He states that there is more bliss in describing these \"divine objects\" than in describing fencing, court etiquette, cavalry, and other worldly pursuits.[3] The following is his archetypal being for each of the four  elements:[4]\n\nThe concept of elementals seems to have been conceived by Paracelsus in the 16th century, though he did not in fact use the term \"elemental\" or a German equivalent.[5] He regarded them not so much as spirits but as beings between creatures and spirits, generally being invisible to mankind but having physical and commonly humanoid bodies, as well as eating, sleeping, and wearing clothes like humans. Paracelsus gave common names for the elemental types, as well as correct names, which he seems to have considered somewhat more proper, \"recht namen\". He also referred to them by purely German terms which are roughly equivalent to \"water people,\" \"mountain people,\" and so on, using all the different forms interchangeably. His fundamental classification scheme on the first page of Tractatus II of the Book on Nymphs is based on where the elementals live, and he gives the following names:\n\nOf the names he used, gnomus, undina, and sylph are all thought to have appeared first in Paracelsus' works, though undina is a fairly obvious Latin derivative from the word unda meaning \"wave.\"",
+          "sections": [
+            "History",
+            "Paracelsus",
+            "Other authors and beliefs",
+            "Twentieth century",
+            "Art and entertainment",
+            "See also"
+          ],
+          "word_count": 484,
+          "extraction_successful": true
+        }
+      ],
+      "knowledge_areas": [
+        "Art and entertainment",
+        "Cipher Manuscripts",
+        "Founding of the First Temple",
+        "Golden Age",
+        "History",
+        "Other authors and beliefs",
+        "Paracelsus",
+        "Revolt",
+        "The Secret Chiefs",
+        "Twentieth century"
+      ],
+      "key_concepts": [
+        "Elemental",
+        "Hermetic Order of the Golden Dawn",
+        "Practice",
+        "Ritual",
+        "Tradition"
+      ],
+      "wikipedia_articles": [
+        "Hermetic_Order_of_the_Golden_Dawn",
+        "Middle_Pillar_(Kabbalah)",
+        "Elemental"
+      ]
+    },
+    "hermetic_tradition": {
+      "tradition_name": "hermetic_tradition",
+      "display_name": "Hermetic Tradition",
+      "content_summary": {
+        "articles_extracted": 3,
+        "successful_extractions": 3,
+        "total_words": 1599,
+        "extraction_success_rate": 1.0
+      },
+      "extracted_articles": [
+        {
+          "title": "Hermeticism",
+          "article_name": "Hermeticism",
+          "url": "https://en.wikipedia.org/wiki/Hermeticism",
+          "summary": "Hermeticism, or Hermetism, is a philosophical and religious tradition rooted in the teachings attributed to Hermes Trismegistus, a syncretic figure combining elements of the Greek god Hermes and the Egyptian god Thoth.[a] This system encompasses a wide range of esoteric knowledge, including aspects of alchemy, astrology, and theurgy, and has significantly influenced various mystical and occult traditions throughout history. The writings attributed to Hermes Trismegistus, often referred to as the Hermetica, were produced over a period spanning many centuries (c. 300 BCE – 1200 CE) and may be ve...",
+          "full_content": "Hermeticism, or Hermetism, is a philosophical and religious tradition rooted in the teachings attributed to Hermes Trismegistus, a syncretic figure combining elements of the Greek god Hermes and the Egyptian god Thoth.[a] This system encompasses a wide range of esoteric knowledge, including aspects of alchemy, astrology, and theurgy, and has significantly influenced various mystical and occult traditions throughout history. The writings attributed to Hermes Trismegistus, often referred to as the Hermetica, were produced over a period spanning many centuries (c. 300 BCE – 1200 CE) and may be very different in content and scope.[b]\n\nOne particular form of Hermetic teaching is the religio-philosophical system found in a specific subgroup of Hermetic writings known as the 'religio-philosophical' Hermetica. The most famous of these are the Corpus Hermeticum, a collection of seventeen Greek treatises written between approximately 100 and 300 CE, and the Asclepius, a treatise from the same period, mainly surviving in a Latin translation.[c] This specific historical form of Hermetic philosophy is sometimes more narrowly referred to as Hermetism,[d] to distinguish it from other philosophies inspired by Hermetic writings of different periods and natures.\n\nThe broader term, Hermeticism, may refer to a wide variety of philosophical systems drawing on Hermetic writings or other subject matter associated with Hermes. Notably, alchemy often went by the name of \"the Hermetic art\" or \"the Hermetic philosophy\".[1] The most famous use of the term in this broader sense is in the concept of Renaissance Hermeticism, which refers to the early modern philosophies inspired by the translations of the Corpus Hermeticum by Marsilio Ficino (1433–1499) and Lodovico Lazzarelli (1447–1500), as well as by Paracelsus' (1494–1541) introduction of a new medical philosophy drawing upon the 'technical' Hermetica, such as the Emerald Tablet.[2]\n\nThroughout its history, Hermeticism was closely associated with the idea of a primeval, divine wisdom revealed only to the most ancient of sages, such as Hermes Trismegistus.[e] During the Renaissance, this evolved into the concept of prisca theologia or \"ancient theology\", which asserted that a single, true theology was given by God to the earliest humans and that traces of it could still be found in various ancient systems of thought.[3] This idea, popular among Renaissance thinkers like Giovanni Pico della Mirandola (1463–1494), eventually developed into the notion that divine truth could be found across different religious and philosophical traditions, a concept that came to be known as the perennial philosophy.[4] In this context, the term 'Hermetic' gradually lost its specificity, eventually becoming synonymous with the divine knowledge of the ancient Egyptians, particularly as related to alchemy and magic, a view that was later popularized by nineteenth- and twentieth-century occultists.[5]\n\nIn Late Antiquity, Hermetism[f] originated in the cultural and religious melting pot of Hellenistic Egypt, a period marked by the fusion of Greek, Egyptian, and other Near Eastern religious and philosophical traditions. The central figure of Hermes Trismegistus, who embodies both the Greek god Hermes and the Egyptian god Thoth, emerged as a symbol of this syncretism. Hermes Trismegistus was revered as a divine sage and is credited with a vast corpus of writings known as the Hermetica, which expound on various aspects of theology, cosmology, and spiritual practice.[6]",
+          "sections": [
+            "Origins and early development",
+            "Late Antiquity",
+            "Influence on Early Christianity and Gnosticism",
+            "Core texts",
+            "The Hermetica",
+            "Interpretation and transmission"
+          ],
+          "word_count": 525,
+          "extraction_successful": true
+        },
+        {
+          "title": "Emerald Tablet",
+          "article_name": "Emerald_Tablet",
+          "url": "https://en.wikipedia.org/wiki/Emerald_Tablet",
+          "summary": "The Emerald Tablet, also known as the Smaragdine Table or the Tabula Smaragdina,[a] is a compact and cryptic text traditionally attributed to the legendary Hellenistic figure Hermes Trismegistus.[2] The earliest known versions are four Arabic recensions preserved in mystical and alchemical treatises between the 8th and 10th centuries CE—chiefly the Secret of Creation (Arabic: سر الخليقة, romanized: Sirr al-Khalīqa) and the Secret of Secrets (سرّ الأسرار, Sirr al-Asrār).[3] It was often accompanied by a frame story about the discovery of an emerald tablet in Hermes' tomb.\n\nFrom the 12th century...",
+          "full_content": "The Emerald Tablet, also known as the Smaragdine Table or the Tabula Smaragdina,[a] is a compact and cryptic text traditionally attributed to the legendary Hellenistic figure Hermes Trismegistus.[2] The earliest known versions are four Arabic recensions preserved in mystical and alchemical treatises between the 8th and 10th centuries CE—chiefly the Secret of Creation (Arabic: سر الخليقة, romanized: Sirr al-Khalīqa) and the Secret of Secrets (سرّ الأسرار, Sirr al-Asrār).[3] It was often accompanied by a frame story about the discovery of an emerald tablet in Hermes' tomb.\n\nFrom the 12th century onward, Latin translations—most notably the widespread so-called vulgate[4]—introduced the text to Europe, where it attracted great scholarly interest. Medieval commentators such as Hortulanus interpreted it as a \"foundational text\" of alchemical instructions for producing the philosopher's stone and making gold.[5] During the Renaissance, interpreters increasingly read the text through Neoplatonic, allegorical, and Christian lenses;[6] and printers often paired it with an emblem that came to be regarded as a visual representation of the Tablet itself.[7]\n\nFollowing the 20th-century rediscovery of Arabic sources by Julius Ruska and Eric Holmyard,[8] modern scholars continue to debate its origins. They agree that the Secret of Creation, the Tablet's earliest source and its likely original context, was either wholly[9] or at least partly[10] compiled from earlier Greek or Syriac materials. The Tablet remains influential in esotericism and occultism, where the phrase as above, so below (a paraphrase of its second verse) has become a popular maxim. It has also been taken up by Jungian psychologists, artists, and figures of pop culture, cementing its status as one of the best-known Hermetica.[11]\n\nTis true without lying, certain and most true. That which is below is like that which is above and that which is above is like that which is below to do the miracle of one only thing. And as all things have been and arose from one by the mediation of one: so all things have their birth from this one thing by adaptation. The Sun is its father, the moon its mother, the wind hath carried it in its belly, the earth is its nurse. The father of all perfection in the whole world is here. Its force or power is entire if it be converted into earth. Separate thou the earth from the fire, the subtle from the gross sweetly with great industry. It ascends from the earth to the heaven and again it descends to the earth and receives the force of things superior and inferior. By this means you shall have the glory of the whole world and thereby all obscurity shall fly from you. Its force is above all force, for it vanquishes every subtle thing and penetrates every solid thing. So was the world created. From this are and do come admirable adaptations where of the means is here in this. Hence I am called Hermes Trismegist, having the three parts of the philosophy of the whole world. That which I have said of the operation of the Sun is accomplished and ended.\n\nBeginning from the first century BCE onwards,[b] Greek texts attributed to Hermes Trismegistus, a syncretic combination of the Greek god Hermes and the Egyptian god Thoth, appeared in Greco-Roman Egypt. These texts, known as the Hermetica, are a heterogeneous collection of works that in the modern day are commonly subdivided into two groups: the technical Hermetica, comprising astrological, medico-botanical, alchemical, and magical writings; and the religio-philosophical Hermetica, comprising mystical-philosophical writings.[14]\n\nThese Greek pseudepigraphal texts found receptions, translations, and imitations in Latin, Syriac, Coptic, Armenian, and Middle Persian prior to the emergence of Islam and the Arab conquests in the 630s. These conquests brought about various empires in which a new group of Arabic-speaking intellectuals emerged. These scholars received and translated the aforementioned wealth of texts and also began producing Hermetica of their own.[15] By the tenth century, some Arabic-speaking Muslims had come to identify Hermes with the prophet Idris, thereby elevating the Hermetica to the level of other Islamic prophetic revelations.[16] Until the early twentieth century, only Latin versions of the Emerald Tablet were known in the Western world, with the oldest dating back to the twelfth century.[17] The older Arabic versions were rediscovered by Eric John Holmyard and Julius Ruska.[18]",
+          "sections": [
+            "Background and early Arabic versions",
+            "Secret of Creation",
+            "Jabir ibn Hayyan",
+            "Secret of Secrets",
+            "Ibn Umayl",
+            "European medieval period"
+          ],
+          "word_count": 705,
+          "extraction_successful": true
+        },
+        {
+          "title": "Corpus Hermeticum",
+          "article_name": "Corpus_Hermeticum",
+          "url": "https://en.wikipedia.org/wiki/Corpus_Hermeticum",
+          "summary": "The Corpus Hermeticum is a collection of 17 Greek writings whose authorship is traditionally attributed to the legendary Hellenistic figure Hermes Trismegistus, a syncretic combination of the Greek god Hermes and the Egyptian god Thoth.[1] The treatises were originally written between c. 100 and c. 300 CE,[2] but the collection as known today was first compiled by medieval Byzantine editors. It was translated into Latin in the 15th century by the Italian humanist scholars Marsilio Ficino (1433–1499) and Lodovico Lazzarelli (1447–1500).[3]\n\nAlthough the Latin word corpus is usually reserved for...",
+          "full_content": "The Corpus Hermeticum is a collection of 17 Greek writings whose authorship is traditionally attributed to the legendary Hellenistic figure Hermes Trismegistus, a syncretic combination of the Greek god Hermes and the Egyptian god Thoth.[1] The treatises were originally written between c. 100 and c. 300 CE,[2] but the collection as known today was first compiled by medieval Byzantine editors. It was translated into Latin in the 15th century by the Italian humanist scholars Marsilio Ficino (1433–1499) and Lodovico Lazzarelli (1447–1500).[3]\n\nAlthough the Latin word corpus is usually reserved for the entire body of extant writings related to some author or subject, the Corpus Hermeticum contains only a very small selection of extant Hermetic texts (texts attributed to Hermes Trismegistus, commonly known as Hermetica). Its individual treatises were quoted by many authors from the second and third centuries on, but the compilation as such is first attested only in the writings of the Byzantine philosopher Michael Psellus (c. 1017–1078).[4]\n\nFollowing their translation into Latin by Ficino and Lazzarelli, the Corpus Hermeticum greatly influenced the Western esoteric tradition. It was especially considered to be important during the Renaissance and the Reformation, in which Hermeticism would often function as a type of intermediate position between Christianity and paganism.[5] Hermes' perceived antiquity ensured that any writing attributed to him would take an important place in Ficino's doctrine of the prisca theologia ('ancient theology'), which affirms that a single, true theology exists that is present in all religions and that was given by God to humankind in the distant, primeval past.[6]\n\nMost of the texts are presented in the form of a dialogue, a favorite form for didactic material in Classical antiquity. The most well known treatise in the Corpus Hermeticum is its opening treatise, which is called the Poimandres. However, at least until the 19th century, this name (under various forms, such as Pimander or Pymander) was also commonly used to designate the compilation as a whole.[7]\n\nThe 15th-century translation of the Corpus Hermeticum into Latin provided a seminal impetus in the development of Renaissance thought and culture, having a profound impact on philosophers such as Pico della Mirandola (1463–1494), Giordano Bruno (1548–1600), Francesco Patrizi (1529–1597), Robert Fludd (1574–1637), and many others.[8]",
+          "sections": [
+            "Background",
+            "Latin translation",
+            "Names of the treatises",
+            "See also",
+            "Notes",
+            "References"
+          ],
+          "word_count": 369,
+          "extraction_successful": true
+        }
+      ],
+      "knowledge_areas": [
+        "Background",
+        "Background and early Arabic versions",
+        "Core texts",
+        "European medieval period",
+        "Ibn Umayl",
+        "Influence on Early Christianity and Gnosticism",
+        "Interpretation and transmission",
+        "Jabir ibn Hayyan",
+        "Late Antiquity",
+        "Latin translation",
+        "Names of the treatises",
+        "Origins and early development"
+      ],
+      "key_concepts": [
+        "Corpus Hermeticum",
+        "Divine",
+        "Emerald Tablet",
+        "Hermeticism",
+        "Mystical",
+        "Philosophy",
+        "Tradition"
+      ],
+      "wikipedia_articles": [
+        "Hermeticism",
+        "Emerald_Tablet",
+        "Corpus_Hermeticum"
+      ]
+    },
+    "thelema": {
+      "tradition_name": "thelema",
+      "display_name": "Thelema",
+      "content_summary": {
+        "articles_extracted": 3,
+        "successful_extractions": 3,
+        "total_words": 843,
+        "extraction_success_rate": 1.0
+      },
+      "extracted_articles": [
+        {
+          "title": "Thelema",
+          "article_name": "Thelema",
+          "url": "https://en.wikipedia.org/wiki/Thelema",
+          "summary": "Thelema (/θəˈliːmə/) is a Western esoteric and occult social or spiritual philosophy[1] and a new religious movement founded in the early 1900s by Aleister Crowley (1875–1947), an English writer, mystic, occultist, and ceremonial magician.[2] Central to Thelema is the concept of discovering and following one's True Will, a divine and individual purpose that transcends ordinary desires. Crowley's system begins with The Book of the Law, a text he maintained was dictated to him by a non-corporeal entity named Aiwass. This work outlines key principles, including the axioms \"Do what thou wilt shall...",
+          "full_content": "Thelema (/θəˈliːmə/) is a Western esoteric and occult social or spiritual philosophy[1] and a new religious movement founded in the early 1900s by Aleister Crowley (1875–1947), an English writer, mystic, occultist, and ceremonial magician.[2] Central to Thelema is the concept of discovering and following one's True Will, a divine and individual purpose that transcends ordinary desires. Crowley's system begins with The Book of the Law, a text he maintained was dictated to him by a non-corporeal entity named Aiwass. This work outlines key principles, including the axioms \"Do what thou wilt shall be the whole of the Law\" and \"love is the law, love under will\", emphasizing personal freedom and the pursuit of one's true path.\n\nThe Thelemic cosmology features deities inspired by ancient Egyptian religion. The highest deity is Nuit, the night sky symbolized as a naked woman covered in stars, representing the ultimate source of possibilities. Hadit, the infinitely small point, symbolizes manifestation and motion. Ra-Hoor-Khuit, who is believed to be a form of Horus, represents the Sun and active energies of Thelemic magick. Crowley believed that discovering and following one's True Will is the path to self-realization and personal fulfillment, often referred to as the Great Work.\n\nMagick is a central practice in Thelema, involving various physical, mental, and spiritual exercises aimed at uncovering one's True Will and enacting change in alignment with it. Practices such as rituals, yoga, and meditation are used to explore consciousness and achieve self-mastery. The Gnostic Mass, a central ritual in Thelema, mirrors traditional religious services but conveys Thelemic principles. Thelemites also observe specific holy days, such as the Equinoxes and the Feast of the Three Days of the Writing of the Book of the Law, commemorating the writing of Thelema's foundational text.\n\nPost-Crowley figures like Jack Parsons, Kenneth Grant, James Lees, and Nema Andahadna have further developed Thelema, introducing new ideas, practices, and interpretations. Parsons conducted the Babalon Working to invoke the goddess Babalon, while Grant synthesized various traditions into his Typhonian Order. Lees created the English Qaballa, and Nema Andahadna developed Maat Magick.\n\nThe word θέλημα (thelēma) is rare in Classical Greek, where it \"signifies the appetitive will: desire, sometimes even sexual\",[3] but it is frequent in the Septuagint.[3] Early Christian writings occasionally use the word to refer to the human will,[4] and even the will of the Devil,[5] but it usually refers to the will of God.[6] In his 5th-century sermon, Catholic philosopher and theologian Augustine of Hippo gave a similar instruction:[7] \"Love, and what you will, do.\" (Dilige et quod vis fac).[8]",
+          "sections": [
+            "Historical precedents",
+            "Definitions",
+            "François Rabelais and the Abbey of Thélème",
+            "Francis Dashwood and the Hellfire Club",
+            "Beliefs",
+            "The Book of the Law"
+          ],
+          "word_count": 424,
+          "extraction_successful": true
+        },
+        {
+          "title": "Aleister Crowley",
+          "article_name": "Aleister_Crowley",
+          "url": "https://en.wikipedia.org/wiki/Aleister_Crowley",
+          "summary": "",
+          "full_content": "",
+          "sections": [],
+          "word_count": 0,
+          "extraction_successful": true
+        },
+        {
+          "title": "The Book of the Law",
+          "article_name": "The_Book_of_the_Law",
+          "url": "https://en.wikipedia.org/wiki/The_Book_of_the_Law",
+          "summary": "Liber AL vel Legis (Classical Latin: [ˈlɪbɛr aː.ɛɫ wɛl‿ˈleːgɪs]), commonly known as The Book of the Law, is the central sacred text of Thelema. The book is often referred to simply as Liber AL, Liber Legis or just AL, though technically the latter two refer only to the manuscript.[1]\n\nAleister Crowley wrote the Liber AL vel Legis in 1904, saying that the book was dictated to him by a beyond-human being, Aiwass, who he later referred to as his own Holy Guardian Angel. Following positive reception of the Book, Crowley proclaimed the arrival of a new stage in the spiritual evolution of humanity, ...",
+          "full_content": "Liber AL vel Legis (Classical Latin: [ˈlɪbɛr aː.ɛɫ wɛl‿ˈleːgɪs]), commonly known as The Book of the Law, is the central sacred text of Thelema. The book is often referred to simply as Liber AL, Liber Legis or just AL, though technically the latter two refer only to the manuscript.[1]\n\nAleister Crowley wrote the Liber AL vel Legis in 1904, saying that the book was dictated to him by a beyond-human being, Aiwass, who he later referred to as his own Holy Guardian Angel. Following positive reception of the Book, Crowley proclaimed the arrival of a new stage in the spiritual evolution of humanity, to be known as the \"Æon of Horus\".[2][a][b] The primary precept of this new aeon is the charge, \"Do what thou wilt shall be the whole of the Law.\"\n\nThe book contains three chapters, each of which Crowley said had been dictated and written down in one hour, beginning at noon, on 8 April, 9 April, and 10 April in Cairo, Egypt, in the year 1904.[3] The three chapters of the book are attributed to the deities Nuit, Hadit, and Ra-Hoor-Khuit. Rose Edith Kelly, Crowley's wife, corrected two phrases in the manuscript.\n\nCrowley later wrote that \"Certain very serious questions have arisen with regard to the method by which this Book was obtained. I do not refer to those doubts—real or pretended—which hostility engenders, for all such are dispelled by study of the text; no forger could have prepared so complex a set of numerical and literal puzzles[...]\"[3] Biographer Lawrence Sutin quotes private diaries that fit this story and writes that \"If ever Crowley uttered the truth of his relation to the Book,\" his public account accurately describes what he remembered on this point.[4]\n\nThe technical title of the book is Liber AL vel Legis, sub figura CCXX, as delivered by XCIII=418 to DCLXVI, although this title never occurs in the Book itself, which refers to itself as \"the Book of the Law\" and \"the threefold Book of Law\" (chapters 1:35, 3:75). CCXX is 220 in Roman figures, representing The Tree of Life (10 numbers times 22 paths), and is the number of verses of the Book in typescript. XCIII is 93, the enumeration of both \"The word of the law\" Thelema and Aiwass. DCLXVI is 666, the number of Crowley as Great Beast both as Adept and Magus. This is a way of saying that the book was delivered by Aiwass (whose number is both 93 and 418) to Crowley, who is The Beast 666.[1]",
+          "sections": [
+            "Structure and title",
+            "Creation",
+            "Summons",
+            "Speakers",
+            "Writing",
+            "Original manuscript"
+          ],
+          "word_count": 419,
+          "extraction_successful": true
+        }
+      ],
+      "knowledge_areas": [
+        "Beliefs",
+        "Creation",
+        "Definitions",
+        "Francis Dashwood and the Hellfire Club",
+        "François Rabelais and the Abbey of Thélème",
+        "Historical precedents",
+        "Original manuscript",
+        "Speakers",
+        "Structure and title",
+        "Summons",
+        "The Book of the Law",
+        "Writing"
+      ],
+      "key_concepts": [
+        "Aleister Crowley",
+        "Practice",
+        "Principle",
+        "Ritual",
+        "Spiritual",
+        "Symbol",
+        "The Book of the Law",
+        "Thelema",
+        "Tradition"
+      ],
+      "wikipedia_articles": [
+        "Thelema",
+        "Aleister_Crowley",
+        "The_Book_of_the_Law"
+      ]
+    },
+    "egyptian_magic": {
+      "tradition_name": "egyptian_magic",
+      "display_name": "Egyptian Magic",
+      "content_summary": {
+        "articles_extracted": 3,
+        "successful_extractions": 3,
+        "total_words": 11,
+        "extraction_success_rate": 1.0
+      },
+      "extracted_articles": [
+        {
+          "title": "Ancient Egyptian religion",
+          "article_name": "Ancient_Egyptian_religion",
+          "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_religion",
+          "summary": "B\n\nC\n\nD\n\nG\n\nH",
+          "full_content": "B\n\nC\n\nD\n\nG\n\nH",
+          "sections": [
+            "Beliefs",
+            "Deities",
+            "Cosmology",
+            "Kingship",
+            "Afterlife",
+            "Atenism"
+          ],
+          "word_count": 5,
+          "extraction_successful": true
+        },
+        {
+          "title": "Egyptian mythology",
+          "article_name": "Egyptian_mythology",
+          "url": "https://en.wikipedia.org/wiki/Egyptian_mythology",
+          "summary": "",
+          "full_content": "",
+          "sections": [],
+          "word_count": 0,
+          "extraction_successful": true
+        },
+        {
+          "title": "Heka (god)",
+          "article_name": "Heka_(god)",
+          "url": "https://en.wikipedia.org/wiki/Heka_(god)",
+          "summary": "B\n\nC\n\nD\n\nG\n\nH\n\nI",
+          "full_content": "B\n\nC\n\nD\n\nG\n\nH\n\nI",
+          "sections": [
+            "Name",
+            "Beliefs",
+            "Creation myths",
+            "General myths",
+            "Gallery",
+            "References"
+          ],
+          "word_count": 6,
+          "extraction_successful": true
+        }
+      ],
+      "knowledge_areas": [
+        "Afterlife",
+        "Atenism",
+        "Beliefs",
+        "Cosmology",
+        "Creation myths",
+        "Deities",
+        "Gallery",
+        "General myths",
+        "Kingship"
+      ],
+      "key_concepts": [
+        "Ancient Egyptian religion",
+        "Egyptian mythology",
+        "Heka (god)"
+      ],
+      "wikipedia_articles": [
+        "Ancient_Egyptian_religion",
+        "Egyptian_mythology",
+        "Heka_(god)"
+      ]
+    },
+    "kabbalah_tradition": {
+      "tradition_name": "kabbalah_tradition",
+      "display_name": "Kabbalah Tradition",
+      "content_summary": {
+        "articles_extracted": 3,
+        "successful_extractions": 3,
+        "total_words": 1323,
+        "extraction_success_rate": 1.0
+      },
+      "extracted_articles": [
+        {
+          "title": "Kabbalah",
+          "article_name": "Kabbalah",
+          "url": "https://en.wikipedia.org/wiki/Kabbalah",
+          "summary": "Kabbalah or Qabalah (/kəˈbɑːlə, ˈkæbələ/ kə-BAH-lə, KAB-ə-lə; Hebrew: קַבָּלָה‎, romanized: Qabbālā, pronounced [kabaˈla] ⓘ; lit. 'reception, tradition')[1][a] is an esoteric method, discipline and school of thought in Jewish mysticism.[2]  It forms the foundation of mystical religious interpretations within Judaism.[2][3] A traditional Kabbalist is called a Mekubbal (מְקֻובָּל‎, Məqubbāl, 'receiver').[2]\n\nJewish Kabbalists originally developed transmissions of the primary texts of Kabbalah within the realm of Jewish tradition[2][3] and often use classical Jewish scriptures to explain and demo...",
+          "full_content": "Kabbalah or Qabalah (/kəˈbɑːlə, ˈkæbələ/ kə-BAH-lə, KAB-ə-lə; Hebrew: קַבָּלָה‎, romanized: Qabbālā, pronounced [kabaˈla] ⓘ; lit. 'reception, tradition')[1][a] is an esoteric method, discipline and school of thought in Jewish mysticism.[2]  It forms the foundation of mystical religious interpretations within Judaism.[2][3] A traditional Kabbalist is called a Mekubbal (מְקֻובָּל‎, Məqubbāl, 'receiver').[2]\n\nJewish Kabbalists originally developed transmissions of the primary texts of Kabbalah within the realm of Jewish tradition[2][3] and often use classical Jewish scriptures to explain and demonstrate its mystical teachings. Kabbalists hold these teachings to define the inner meaning of both the Hebrew Bible and traditional rabbinic literature and their formerly concealed transmitted dimension, as well as to explain the significance of Jewish religious observances.[4]\n\nHistorically, Kabbalah emerged from earlier forms of Jewish mysticism, in 12th- to 13th-century Hakhmei Provence (re:Bahir), Rhineland school of Judah the Pious,[5] al-Andalus (re: Zohar)[2][3] and was reinterpreted during the Jewish mystical renaissance in 16th-century Ottoman Palestine.[2] The Zohar, the foundational text of Kabbalah, was authored in the late 13th century, likely by Moses de León. Isaac Luria (16th century) is considered the father of contemporary Kabbalah; Lurianic Kabbalah was popularised in the form of Hasidic Judaism from the 18th century onwards.[2] During the 20th century, academic interest in Kabbalistic texts led primarily by the Jewish historian Gershom Scholem has inspired the development of historical research on Kabbalah in the field of Judaic studies.[6][7]\n\nThough minor works contribute to an understanding of the Kabbalah as an evolving tradition, the primary texts are the Bahir, Zohar, Pardes Rimonim, and Etz Chayim ('Ein Sof').[8] The early Hekhalot literature is acknowledged as ancestral to the sensibilities of this later flowering of the Kabbalah[9] and more especially the Sefer Yetzirah is acknowledged as the antecedent from which all these books draw many of their formal inspirations. The document has striking similarities to a possible antecedent from the Lesser Hekhalot, the Alphabet of Rabbi Akiva, which in turn  seems to recall a style of responsa by students that arose in the classroom of Joshua ben-Levi in Tractate Shabbat.[10] The Sefer Yetzirah is a brief document of only a few pages that was written many centuries before the high and late medieval works (sometime between 200-600CE), detailing an alphanumeric vision of cosmology and may be understood as a kind of prelude to the major phase of Kabbalah.[8]\n\nThe history of Jewish mysticism encompasses various forms of esoteric and spiritual practices aimed at understanding the divine and the hidden aspects of existence.[11][b]  This mystical tradition has evolved significantly over millennia, influencing and being influenced by different historical, cultural, and religious contexts. Among the most prominent forms of Jewish mysticism is Kabbalah, which emerged in the 12th century and has since become a central component of Jewish mystical thought. Other notable early forms include prophetic and apocalyptic mysticism, which are evident in biblical and post-biblical texts.\n\nThe roots of Jewish mysticism can be traced back to the biblical era, with prophetic figures such as Elijah and Ezekiel experiencing divine visions and encounters.[12] This tradition continued into the apocalyptic period, where texts like 1 Enoch and the Book of Daniel introduced complex angelology and eschatological themes.[13] The Hekhalot and Merkabah literature, dating from the 2nd century to the early medieval period, further developed these mystical themes, focusing on visionary ascents to the heavenly palaces and the divine chariot.[14]",
+          "sections": [
+            "History of Jewish mysticism",
+            "Traditions",
+            "Jewish and non-Jewish Kabbalah",
+            "Concepts",
+            "Concealed and revealed God",
+            "Sephirot"
+          ],
+          "word_count": 553,
+          "extraction_successful": true
+        },
+        {
+          "title": "Sefirot",
+          "article_name": "Sefirot",
+          "url": "https://en.wikipedia.org/wiki/Sefirot",
+          "summary": "Sefirot (Hebrew: סְפִירוֹת, romanized: səp̄īrōṯ, plural of Koinē Greek: σφαῖρα, romanized: sphaîră, lit. 'sphere',[1] see σφαῖρα)[2] meaning emanations, are the 10 attributes/emanations in Kabbalah,[3] through which Ein Sof (\"infinite space\") reveals itself and continuously creates both the physical realm and the seder hishtalshelut (the chained descent of the metaphysical Four Worlds). The term is alternatively transliterated into English as sephirot/sephiroth, singular sefira/sephirah.\n\nAs revelations of the creator's will (רצון, rāṣon),[4] the sefirot should not be understood as ten gods, b...",
+          "full_content": "Sefirot (Hebrew: סְפִירוֹת, romanized: səp̄īrōṯ, plural of Koinē Greek: σφαῖρα, romanized: sphaîră, lit. 'sphere',[1] see σφαῖρα)[2] meaning emanations, are the 10 attributes/emanations in Kabbalah,[3] through which Ein Sof (\"infinite space\") reveals itself and continuously creates both the physical realm and the seder hishtalshelut (the chained descent of the metaphysical Four Worlds). The term is alternatively transliterated into English as sephirot/sephiroth, singular sefira/sephirah.\n\nAs revelations of the creator's will (רצון, rāṣon),[4] the sefirot should not be understood as ten gods, but rather as ten different channels through which the one God reveals His will. In later Jewish literature, the ten sefirot refer either to the ten manifestations of God; the ten powers or faculties of the soul; or the ten structural forces of nature.[5]\n\nAlternative configurations of the sefirot are interpreted by various schools in the historical evolution of Kabbalah, with each articulating differing spiritual aspects. The tradition of enumerating 10 is stated in the Sefer Yetzirah, \"Ten sefirot of nothingness, ten and not nine, ten and not eleven\".[6] As altogether 11 sefirot are listed across the various schemes, two (Keter and Da'at) are seen as unconscious and conscious manifestations of the same principle, conserving the 10 categories.[5] The sefirot are described as channels of divine creative life force or consciousness through which the unknowable divine essence is revealed to mankind.\n\nIn Hasidic philosophy, which has sought to internalise the experience of Jewish mysticism into daily inspiration (devekut), this inner life of the sefirot is explored, and the role they play in man's service of God in this world.\n\nThe Ein Sof (lit: without end) is an important concept in Jewish Kabbalah. Generally translated as \"infinity\" and \"endless\", the Ein Sof represents the formless state of the universe before the self-materialization of God. In other words, the Ein Sof is God before he decided to become God as we now know him.[7]\n\nThe sefirot are divine emanations that come from the Ein Sof in a manner often described as a flame. The sefirot emanate from above to below. As the first Sefira is closest to Ein Sof, it is the least comprehensible to the human mind, while in turn the last is the best understood because it is closest to the material world that humanity dwells on.[7]",
+          "sections": [
+            "Ein Sof",
+            "Ten sefirot",
+            "Names in Cordoveran Kabbalah",
+            "Man-metaphor in Kabbalah",
+            "Inner dimensions and the powers of the soul",
+            "The four worlds"
+          ],
+          "word_count": 376,
+          "extraction_successful": true
+        },
+        {
+          "title": "Tree of life (Kabbalah)",
+          "article_name": "Tree_of_life_(Kabbalah)",
+          "url": "https://en.wikipedia.org/wiki/Tree_of_life_(Kabbalah)",
+          "summary": "The tree of life (Hebrew: עֵץ חַיִּים, romanized: ʿēṣ ḥayyim or no: אִילָן‎, romanized: ʾilān, lit. 'tree') is a diagram used in Rabbinical Judaism in kabbalah and other mystical traditions derived from it.[1] It is usually referred to as the \"kabbalistic tree of life\" to distinguish it from the tree of life that appears alongside the tree of the knowledge of good and evil in the Genesis creation narrative as well as the archetypal tree of life found in many cultures.[2]\n\nSimo Parpola asserted that the concept of a tree of life with different spheres encompassing aspects of reality traces its ...",
+          "full_content": "The tree of life (Hebrew: עֵץ חַיִּים, romanized: ʿēṣ ḥayyim or no: אִילָן‎, romanized: ʾilān, lit. 'tree') is a diagram used in Rabbinical Judaism in kabbalah and other mystical traditions derived from it.[1] It is usually referred to as the \"kabbalistic tree of life\" to distinguish it from the tree of life that appears alongside the tree of the knowledge of good and evil in the Genesis creation narrative as well as the archetypal tree of life found in many cultures.[2]\n\nSimo Parpola asserted that the concept of a tree of life with different spheres encompassing aspects of reality traces its origins back to the Neo-Assyrian Empire in the ninth century BCE.[2] The Assyrians assigned moral values and specific numbers to Mesopotamian deities similar to those used in Kabbalah and claims that the state tied these to sacred tree images as a model of the king parallel to the idea of Adam Kadmon.[2] However, J. H. Chajes states that the ilan should be regarded as primarily indebted to the Porphyrian tree and maps of the celestial spheres rather than to any speculative ancient sources, Assyrian or otherwise.[3]\n\nKabbalah's beginnings date to the Middle Ages, originating in the Bahir[4] and the Zohar.[5] Although the earliest extant Hebrew kabbalistic manuscripts dating to the late 13th century contain diagrams, including one labelled \"Tree of Wisdom,\" the now-iconic tree of life emerged during the fourteenth century.[6]\n\nThe iconic representation first appeared in print on the cover of the Latin translation of Gates of Light in the year 1516.[7] Scholars have traced the origin of the art in the Porta Lucis cover to Johann Reuchlin.[8]\n\nThe tree of life usually consists of 10 or 11 nodes symbolizing different archetypes and 22 paths connecting the nodes. The nodes are often arranged into three columns to represent that they belong to a common category.[9]\n\nIn kabbalah, the nodes are called sefirot.[10] They are usually represented as circles and the paths (Hebrew: צִנּוֹר, romanized: ṣinnoroṯ) are usually represented as lines.[11] The nodes usually represent encompassing aspects of existence, God, or the human psyche.[12] The paths usually represent the relationship between the concepts ascribed to the spheres or a symbolic description of the requirements to go from one sphere to another.[12] The columns are usually symbolized as pillars.[13] These usually represent different kinds of moral values, electric charges, or types of ceremonial magic.[7]",
+          "sections": [
+            "Description",
+            "History",
+            "In Jewish Mysticism",
+            "See also",
+            "References",
+            "Citations"
+          ],
+          "word_count": 394,
+          "extraction_successful": true
+        }
+      ],
+      "knowledge_areas": [
+        "Citations",
+        "Concealed and revealed God",
+        "Concepts",
+        "Description",
+        "Ein Sof",
+        "History",
+        "History of Jewish mysticism",
+        "In Jewish Mysticism",
+        "Inner dimensions and the powers of the soul",
+        "Jewish and non-Jewish Kabbalah",
+        "Man-metaphor in Kabbalah",
+        "Names in Cordoveran Kabbalah"
+      ],
+      "key_concepts": [
+        "Divine",
+        "Kabbalah",
+        "Mystical",
+        "Sefirot",
+        "Symbol",
+        "Tradition",
+        "Tree of life (Kabbalah)"
+      ],
+      "wikipedia_articles": [
+        "Kabbalah",
+        "Sefirot",
+        "Tree_of_life_(Kabbalah)"
+      ]
+    },
+    "sacred_geometry": {
+      "tradition_name": "sacred_geometry",
+      "display_name": "Sacred Geometry",
+      "content_summary": {
+        "articles_extracted": 3,
+        "successful_extractions": 3,
+        "total_words": 922,
+        "extraction_success_rate": 1.0
+      },
+      "extracted_articles": [
+        {
+          "title": "Sacred geometry",
+          "article_name": "Sacred_geometry",
+          "url": "https://en.wikipedia.org/wiki/Sacred_geometry",
+          "summary": "Sacred geometry ascribes symbolic and sacred meanings to certain geometric shapes and certain geometric proportions.[1] It is associated with the belief of a divine creator of the universal geometer. The geometry used in the design and construction of religious structures such as churches, temples, mosques, religious monuments, altars, and tabernacles has sometimes been considered sacred. The concept applies also to sacred spaces such as temenoi, sacred groves, village greens, pagodas and holy wells, Mandala Gardens and the creation of religious and spiritual art.\n\nThe belief that a god create...",
+          "full_content": "Sacred geometry ascribes symbolic and sacred meanings to certain geometric shapes and certain geometric proportions.[1] It is associated with the belief of a divine creator of the universal geometer. The geometry used in the design and construction of religious structures such as churches, temples, mosques, religious monuments, altars, and tabernacles has sometimes been considered sacred. The concept applies also to sacred spaces such as temenoi, sacred groves, village greens, pagodas and holy wells, Mandala Gardens and the creation of religious and spiritual art.\n\nThe belief that a god created the universe according to a geometric plan has ancient origins. Plutarch attributed the belief to Plato, writing that \"Plato said God geometrizes continually\" (Convivialium disputationum, liber 8,2). In modern times, the mathematician Carl Friedrich Gauss adapted this quote, saying \"God arithmetizes\".[2]\n\nJohannes Kepler (1571–1630) believed in the geometric underpinnings of the cosmos.[3] Harvard mathematician Shing-Tung Yau expressed a belief in the centrality of geometry in 2010:\n\"Lest one conclude that geometry is little more than a well-calibrated ruler – and this is no knock against the ruler, which happens to be a technology I admire – geometry is one of the main avenues available to us for probing the universe. Physics and cosmology have been, almost by definition, absolutely crucial for making sense of the universe. Geometry's role in this may be less obvious, but is equally vital. I would go so far as to say that geometry not only deserves a place at the table alongside physics and cosmology, but in many ways, it is the table.\"[4]\n\nAccording to Stephen Skinner, the study of sacred geometry has its roots in the study of nature, and the mathematical principles at work therein.[5] Many forms observed in nature can be related to geometry; for example, the chambered nautilus grows at a constant rate and so its shell forms a logarithmic spiral to accommodate that growth without changing shape. Also, honeybees construct hexagonal cells to hold their honey.  These and other correspondences are sometimes interpreted in terms of sacred geometry and considered to be further proof of the natural significance of geometric forms.\n\nGeometric ratios, and geometric figures were often employed in the designs of ancient Egyptian, ancient Indian, Greek and Roman architecture. Medieval European cathedrals also incorporated symbolic geometry. Indian and Himalayan spiritual communities often constructed temples and fortifications on design plans of mandala and yantra. Mandala Vaatikas or Sacred Gardens were designed using the same principles.\n\nMany of the sacred geometry principles of the human body and of ancient architecture were compiled into the Vitruvian Man drawing by Leonardo da Vinci. The latter drawing was itself based on the much older writings of the Roman architect Vitruvius.",
+          "sections": [
+            "As worldview and cosmology",
+            "Natural forms",
+            "Representations in art and architecture",
+            "In Buddhism",
+            "In Chinese spiritual traditions",
+            "In Islam"
+          ],
+          "word_count": 446,
+          "extraction_successful": true
+        },
+        {
+          "title": "Platonic solid",
+          "article_name": "Platonic_solid",
+          "url": "https://en.wikipedia.org/wiki/Platonic_solid",
+          "summary": "In geometry, a Platonic solid is a convex, regular polyhedron in three-dimensional Euclidean space. Being a regular polyhedron means that the faces are congruent (identical in shape and size) regular polygons (all angles congruent and all edges congruent), and the same number of faces meet at each vertex. There are only five such polyhedra:\n\nGeometers have studied the Platonic solids for thousands of years.[1] They are named for the ancient Greek philosopher Plato, who hypothesized in one of his dialogues, the Timaeus, that the classical elements were made of these regular solids.[2]\n\nThe Plat...",
+          "full_content": "In geometry, a Platonic solid is a convex, regular polyhedron in three-dimensional Euclidean space. Being a regular polyhedron means that the faces are congruent (identical in shape and size) regular polygons (all angles congruent and all edges congruent), and the same number of faces meet at each vertex. There are only five such polyhedra:\n\nGeometers have studied the Platonic solids for thousands of years.[1] They are named for the ancient Greek philosopher Plato, who hypothesized in one of his dialogues, the Timaeus, that the classical elements were made of these regular solids.[2]\n\nThe Platonic solids have been known since antiquity. It has been suggested that certain carved stone balls created by the late Neolithic people of Scotland represent these shapes; however, these balls have rounded knobs rather than being polyhedral, the numbers of knobs frequently differed from the numbers of vertices of the Platonic solids, there is no ball whose knobs match the 20 vertices of the dodecahedron, and the arrangement of the knobs was not always symmetrical.[3]\n\nThe ancient Greeks studied the Platonic solids extensively. Some sources (such as Proclus) credit Pythagoras with their discovery. Other evidence suggests that he may have only been familiar with the tetrahedron, cube, and dodecahedron and that the discovery of the octahedron and icosahedron belong to Theaetetus, a contemporary of Plato. In any case, Theaetetus gave a mathematical description of all five and may have been responsible for the first known proof that no other convex regular polyhedra exist.\n\nThe Platonic solids are prominent in the philosophy of Plato, their namesake. Plato wrote about them in the dialogue Timaeus c. 360 B.C. in which he associated each of the four classical elements (earth, air, water, and fire) with a regular solid. Earth was associated with the cube, air with the octahedron, water with the icosahedron, and fire with the tetrahedron. Of the fifth Platonic solid, the dodecahedron, Plato obscurely remarked, \"...the god used [it] for arranging the constellations on the whole heaven\". Aristotle added a fifth element, aither (aether in Latin, \"ether\" in English) and postulated that the heavens were made of this element, but he had no interest in matching it with Plato's fifth solid.[4]\n\nEuclid completely mathematically described the Platonic solids in the Elements, the last book (Book XIII) of which is devoted to their properties. Propositions 13–17 in Book XIII describe the construction of the tetrahedron, octahedron, cube, icosahedron, and dodecahedron in that order. For each solid Euclid finds the ratio of the diameter of the circumscribed sphere to the edge length. In Proposition 18 he argues that there are no further convex regular polyhedra. Andreas Speiser has advocated the view that the construction of the five regular solids is the chief goal of the deductive system canonized in the Elements.[5] Much of the information in Book XIII is probably derived from the work of Theaetetus.",
+          "sections": [
+            "History",
+            "Cartesian coordinates",
+            "Combinatorial properties",
+            "As a configuration",
+            "Classification",
+            "Geometric proof"
+          ],
+          "word_count": 476,
+          "extraction_successful": true
+        },
+        {
+          "title": "Golden ratio",
+          "article_name": "Golden_ratio",
+          "url": "https://en.wikipedia.org/wiki/Golden_ratio",
+          "summary": "",
+          "full_content": "",
+          "sections": [],
+          "word_count": 0,
+          "extraction_successful": true
+        }
+      ],
+      "knowledge_areas": [
+        "As a configuration",
+        "As worldview and cosmology",
+        "Cartesian coordinates",
+        "Classification",
+        "Combinatorial properties",
+        "Geometric proof",
+        "History",
+        "In Buddhism",
+        "In Chinese spiritual traditions",
+        "In Islam",
+        "Natural forms",
+        "Representations in art and architecture"
+      ],
+      "key_concepts": [
+        "Golden ratio",
+        "Platonic solid",
+        "Principle",
+        "Ritual",
+        "Sacred",
+        "Sacred geometry",
+        "Spiritual",
+        "Symbol"
+      ],
+      "wikipedia_articles": [
+        "Sacred_geometry",
+        "Platonic_solid",
+        "Golden_ratio"
+      ]
+    },
+    "chaos_magic": {
+      "tradition_name": "chaos_magic",
+      "display_name": "Chaos Magic",
+      "content_summary": {
+        "articles_extracted": 3,
+        "successful_extractions": 3,
+        "total_words": 1240,
+        "extraction_success_rate": 1.0
+      },
+      "extracted_articles": [
+        {
+          "title": "Chaos magic",
+          "article_name": "Chaos_magic",
+          "url": "https://en.wikipedia.org/wiki/Chaos_magic",
+          "summary": "Chaos magic, also spelled chaos magick,[1][2] is a modern tradition of magic.[3] Emerging in England in the 1970s as part of the wider neo-pagan and esoteric subculture,[4] it drew heavily from the occult beliefs of artist Austin Osman Spare, expressed several decades earlier.[3] It has been characterised as an invented religion,[5] with some commentators drawing similarities between the movement and Discordianism.[6] Magical organizations within this tradition include the Illuminates of Thanateros and Thee Temple ov Psychick Youth.\n\nThe founding figures of chaos magic believed that other occu...",
+          "full_content": "Chaos magic, also spelled chaos magick,[1][2] is a modern tradition of magic.[3] Emerging in England in the 1970s as part of the wider neo-pagan and esoteric subculture,[4] it drew heavily from the occult beliefs of artist Austin Osman Spare, expressed several decades earlier.[3] It has been characterised as an invented religion,[5] with some commentators drawing similarities between the movement and Discordianism.[6] Magical organizations within this tradition include the Illuminates of Thanateros and Thee Temple ov Psychick Youth.\n\nThe founding figures of chaos magic believed that other occult traditions had become too religious in character.[7] They attempted to strip away the symbolic, ritualistic, theological, or otherwise ornamental aspects of these occult traditions, to leave behind a set of basic techniques that they believed to be the basis of magic.[8]\n\nChaos magic teaches that the essence of magic is that perceptions are conditioned by beliefs, and that the world as it is normally perceived can be changed by deliberately changing those beliefs.[9] Chaos magicians subsequently treat belief as a tool, often creating their own idiosyncratic magical systems and blending such different things as \"practical magic, quantum physics, chaos theory, and anarchism.\"[10]\n\nScholar Hugh Urban has described chaos magic as a union of traditional occult techniques and applied postmodernism[11] – particularly a postmodernist skepticism concerning the existence or knowability of objective truth, [12] positing that chaos magic rejects the existence of absolute truth, and views all occult systems as arbitrary symbol-systems that are only effective because of the belief of the practitioner.[12]\n\nAustin Osman Spare's work in the early to mid 1900s is largely the source of chaos magical theory and practice.[13] Specifically, Spare developed the use of sigils and the use of gnosis to empower them.[14][15] Although Spare died before chaos magic emerged, he has been described as the \"grandfather of chaos magic\".[16] Working during much the same period as Spare, Aleister Crowley's publications also provided a marginal yet early and ongoing influence, particularly for his syncretic approach to magic and his emphasis on experimentation and deconditioning.[17] Later, concurrent with the growth of religions such as Wicca in the 1950s and 1960s, different forms of magic became more common, some of which came in \"explicitly disorganized, radically individualized, and often quite 'chaotic' forms\".[18] In the 1960s and the decade that followed, Discordianism, the punk movement, postmodernism and the writings of Robert Anton Wilson emerged, and they were to become significant influences on the form that chaos magic would take.[19][20]",
+          "sections": [
+            "History",
+            "Origins and influences (1900–1982)",
+            "Development and spread (1982–1994)",
+            "Pop culture: (1994–2000s)",
+            "Post-chaos magic: 2010s",
+            "Beliefs, core concepts, and practices"
+          ],
+          "word_count": 407,
+          "extraction_successful": true
+        },
+        {
+          "title": "Austin Osman Spare",
+          "article_name": "Austin_Osman_Spare",
+          "url": "https://en.wikipedia.org/wiki/Austin_Osman_Spare",
+          "summary": "Austin Osman Spare (30 December 1886 – 15 May 1956) was an English artist and occultist[1] who worked as both a draughtsman and a painter. Influenced by symbolism and Art Nouveau, his art was known for its clear use of line,[a] and its depiction of monstrous and sexual imagery.[2] In an occult capacity, he developed magical techniques including automatic writing, automatic drawing and sigilization based on his theories of the relationship between the conscious and unconscious self.\n\nBorn into a working-class family in Snow Hill in London, Spare grew up in Smithfield and then Kennington, taking...",
+          "full_content": "Austin Osman Spare (30 December 1886 – 15 May 1956) was an English artist and occultist[1] who worked as both a draughtsman and a painter. Influenced by symbolism and Art Nouveau, his art was known for its clear use of line,[a] and its depiction of monstrous and sexual imagery.[2] In an occult capacity, he developed magical techniques including automatic writing, automatic drawing and sigilization based on his theories of the relationship between the conscious and unconscious self.\n\nBorn into a working-class family in Snow Hill in London, Spare grew up in Smithfield and then Kennington, taking an early interest in art. Gaining a scholarship to study at the Royal College of Art in South Kensington, he trained as a draughtsman, while also taking a personal interest in theosophy and Western esotericism, becoming briefly involved with Aleister Crowley and his A∴A∴. Developing his own personal occult philosophy, he wrote a series of occult grimoires, namely Earth Inferno (1905), The Book of Pleasure (1913) and The Focus of Life (1921). Alongside a string of personal exhibitions, he also achieved much press attention for being the youngest entrant at the 1904 Royal Academy summer exhibition.\n\nAfter publishing a short-lived art magazine, Form, during the First World War he was conscripted into the armed forces and worked as an official war artist. Spare attempted to revive Form after the war before shifting his efforts to The Golden Hind, in partnership with Clifford Bax. Moving to various working class areas of South London over the following decades, Spare lived in poverty, but continued exhibiting his work to varying degrees of success. With the arrival of surrealism onto the London art scene during the 1930s, critics and the press once more took an interest in his work, seeing it as an early precursor to surrealist imagery. Losing his home during the Blitz, he fell into relative obscurity following the Second World War, although he continued exhibiting until his death in 1956.\n\nSpare's spiritualist legacy was largely maintained by his friend, the Thelemite author Kenneth Grant, in the latter part of the 20th century, and his beliefs regarding sigils provided a key influence on the chaos magic movement and Thee Temple ov Psychick Youth. Spare's art once more began to receive attention in the 1970s, due to a renewed interest in Art Nouveau in Britain, with several retrospective exhibitions being held in London.\n\nAustin's father, Philip Newton Spare, was born in Yorkshire in 1857, and moved to London, where he gained employment with the City of London Police in 1878, being stationed at Snow Hill Police Station. Austin's mother, Eliza Osman, was born in Devon, the daughter of a Royal Marine, and married Philip Newton Spare at St Bride's Church in Fleet Street in December 1879. Their first child to survive was John Newton Spare, born in 1882, with William Herbert Spare following in 1883 and then Susan Ann Spare in 1885.[3]",
+          "sections": [
+            "Biography",
+            "Childhood: 1886–1900",
+            "Artistic training: 1900–1905",
+            "Early career: 1906–1910",
+            "Marriage and The Book of Pleasure: 1911–1916",
+            "World War I, The Focus of Life and The Anathema of Zos: 1917–1927"
+          ],
+          "word_count": 485,
+          "extraction_successful": true
+        },
+        {
+          "title": "Sigil",
+          "article_name": "Sigil",
+          "url": "https://en.wikipedia.org/wiki/Sigil",
+          "summary": "A sigil (/ˈsɪdʒɪl/)[1] is a type of symbol used in magic. The term usually refers to a pictorial signature of a spirit (such as an angel, demon, or deity). In modern usage, especially in the context of chaos magic, a sigil refers to a symbolic representation of the practitioner's desired outcome.\n\nThe term sigil derives from the Latin sigillum (pl. sigilla), meaning \"seal\".[2]  In medieval magic, the term sigil was commonly used to refer to occult signs which represented various angels and demons which the practitioner might summon.[2]\n\nMagical training books called grimoires often listed page...",
+          "full_content": "A sigil (/ˈsɪdʒɪl/)[1] is a type of symbol used in magic. The term usually refers to a pictorial signature of a spirit (such as an angel, demon, or deity). In modern usage, especially in the context of chaos magic, a sigil refers to a symbolic representation of the practitioner's desired outcome.\n\nThe term sigil derives from the Latin sigillum (pl. sigilla), meaning \"seal\".[2]  In medieval magic, the term sigil was commonly used to refer to occult signs which represented various angels and demons which the practitioner might summon.[2]\n\nMagical training books called grimoires often listed pages of such sigils. A particularly well-known list is in The Lesser Key of Solomon, in which the sigils of the 72 princes of the hierarchy of hell are given for the magician's use. Such sigils are considered by some to be the equivalent of the true name of the spirit and thus granted the magician a measure of control over the beings.[3]\n\nA common method of creating the sigils of certain spirits was to use kameas, a special use case of magic squares—the names of the spirits were converted to numbers, which were then located on the magic square. The locations were then connected by lines, forming an abstract figure.[4]\n\nThe word sigil [...] has a long history in Western magic. The members of the Golden Dawn were perfectly familiar with it (\"combining the letters, the colours, the attributions and their Synthesis, thou mayest build up a telesmatic Image of a Force. The Sigil shall then serve thee for the tracing of a Current which shall call into action a certain Elemental Force\") and it was used in the making of talismans. The sigil was like a signature or sign of an occult entity.[5]\n\nEnglish artist and occultist Austin Osman Spare (1886–1956) developed his own unique method of creating and using sigils, which has had a lasting effect on modern occultism. Spare did not agree with medieval practice of using these, arguing that such supernatural beings were simply complexes in the unconscious, and could be actively created through the process of sigilization.[6][5]",
+          "sections": [
+            "History",
+            "The Lesser Key of Solomon",
+            "Methods of construction",
+            "Austin Osman Spare",
+            "Chaos magic",
+            "See also"
+          ],
+          "word_count": 348,
+          "extraction_successful": true
+        }
+      ],
+      "knowledge_areas": [
+        "Artistic training: 1900–1905",
+        "Austin Osman Spare",
+        "Beliefs, core concepts, and practices",
+        "Biography",
+        "Chaos magic",
+        "Childhood: 1886–1900",
+        "Development and spread (1982–1994)",
+        "Early career: 1906–1910",
+        "History",
+        "Marriage and The Book of Pleasure: 1911–1916",
+        "Methods of construction",
+        "Origins and influences (1900–1982)"
+      ],
+      "key_concepts": [
+        "Austin Osman Spare",
+        "Chaos magic",
+        "Magical",
+        "Sigil",
+        "Symbol",
+        "Tradition"
+      ],
+      "wikipedia_articles": [
+        "Chaos_magic",
+        "Austin_Osman_Spare",
+        "Sigil"
+      ]
+    },
+    "norse_traditions": {
+      "tradition_name": "norse_traditions",
+      "display_name": "Norse Traditions",
+      "content_summary": {
+        "articles_extracted": 3,
+        "successful_extractions": 3,
+        "total_words": 1258,
+        "extraction_success_rate": 1.0
+      },
+      "extracted_articles": [
+        {
+          "title": "Norse mythology",
+          "article_name": "Norse_mythology",
+          "url": "https://en.wikipedia.org/wiki/Norse_mythology",
+          "summary": "Norse, Nordic, or Scandinavian mythology, is the body of myths belonging to the North Germanic peoples, stemming from Old Norse religion and continuing after the Christianization of Scandinavia as the Nordic folklore of the modern period. The northernmost extension of Germanic mythology and stemming from Proto-Germanic folklore, Norse mythology consists of tales of various deities, beings, and heroes derived from numerous sources from both before and after the pagan period, including medieval manuscripts, archaeological representations, and folk tradition. The source texts mention numerous god...",
+          "full_content": "Norse, Nordic, or Scandinavian mythology, is the body of myths belonging to the North Germanic peoples, stemming from Old Norse religion and continuing after the Christianization of Scandinavia as the Nordic folklore of the modern period. The northernmost extension of Germanic mythology and stemming from Proto-Germanic folklore, Norse mythology consists of tales of various deities, beings, and heroes derived from numerous sources from both before and after the pagan period, including medieval manuscripts, archaeological representations, and folk tradition. The source texts mention numerous gods such as the thunder-god Thor, the raven-flanked god Odin, the goddess Freyja, and numerous other deities.\n\nMost of the surviving mythology centers on the plights of the gods and their interaction with several other beings, such as humanity and the jötnar, beings who may be friends, lovers, foes, or family members of the gods. The cosmos in Norse mythology consists of Nine Worlds that flank a central sacred tree, Yggdrasil. Units of time and elements of the cosmology are personified as deities or beings. Various forms of a creation myth are recounted, where the world is created from the flesh of the primordial being Ymir, and the first two humans are Ask and Embla. These worlds are foretold to be reborn after the events of Ragnarök when an immense battle occurs between the gods and their enemies, and the world is enveloped in flames, only to be reborn anew. There the surviving gods will meet, and the land will be fertile and green, and two humans will repopulate the world.\n\nNorse mythology has been the subject of scholarly discourse since the 17th century when key texts attracted the attention of the intellectual circles of Europe. By way of comparative mythology and historical linguistics, scholars have identified elements of Germanic mythology reaching as far back as Proto-Indo-European mythology. During the modern period, the Romanticist Viking revival re-awoke an interest in the subject matter, and references to Norse mythology may now be found throughout modern popular culture. The myths have further been revived in a religious context among adherents of Germanic Neopaganism.\n\nThe historical religion of the Norse people is commonly referred to as Norse mythology. Other terms are Scandinavian mythology,[1][2][3] North Germanic mythology[4] or Nordic mythology.[5]\n\nNorse mythology is primarily attested in dialects of Old Norse, a North Germanic language spoken by the Scandinavian people during the European Middle Ages and the ancestor of modern Scandinavian languages. The majority of these Old Norse texts were created in Iceland, where the oral tradition stemming from the pre-Christian inhabitants of the island was collected and recorded in manuscripts. This occurred primarily in the 13th century. These texts include the Prose Edda, composed in the 13th century by the Icelandic scholar, lawspeaker, and historian Snorri Sturluson, and the Poetic Edda, a collection of poems from earlier traditional material anonymously compiled in the 13th century.[6]",
+          "sections": [
+            "Terminology",
+            "Sources",
+            "Mythology",
+            "Gods and other beings",
+            "Cosmology",
+            "Humanity"
+          ],
+          "word_count": 474,
+          "extraction_successful": true
+        },
+        {
+          "title": "Runic magic",
+          "article_name": "Runic_magic",
+          "url": "https://en.wikipedia.org/wiki/Runic_magic",
+          "summary": "There is some evidence[citation needed] that, in addition to being a writing system, runes historically served purposes of magic. This is the case from the earliest epigraphic evidence of the Roman to the Germanic Iron Age, with non-linguistic inscriptions and the alu word. An erilaz appears to have been a person versed in runes, including their magic applications.\n\nIn medieval sources, notably the Poetic Edda, the Sigrdrífumál mentions \"victory runes\" to be carved on a sword, \"some on the grasp and some on the inlay, and name Tyr twice.\"\n\nIn the early modern period and modern history, related...",
+          "full_content": "There is some evidence[citation needed] that, in addition to being a writing system, runes historically served purposes of magic. This is the case from the earliest epigraphic evidence of the Roman to the Germanic Iron Age, with non-linguistic inscriptions and the alu word. An erilaz appears to have been a person versed in runes, including their magic applications.\n\nIn medieval sources, notably the Poetic Edda, the Sigrdrífumál mentions \"victory runes\" to be carved on a sword, \"some on the grasp and some on the inlay, and name Tyr twice.\"\n\nIn the early modern period and modern history, related folklore and superstition is recorded in the form of the Icelandic magical staves. In the early 20th century, Germanic mysticism coined new forms of \"runic magic\", some of which were continued or developed further by contemporary adherents of Germanic Neopaganism. Modern systems of runic divination are based on Hermeticism, classical occultism, and the I Ching.\n\nHistorically it is known that the Germanic peoples used various forms of divination and means of reading omens. Tacitus (Germania 10) gives a detailed account (98AD):\n\nThey attach the highest importance to the taking of auspices and casting lots. Their usual procedure with the lot is simple. They cut off a branch from a nut-bearing tree and slice it into strips these they mark with different signs and throw them at random onto a white cloth. Then the state's priest, if it is an official consultation, or the father of the family, in a private one, offers prayer to the gods and looking up towards heaven picks up three strips, one at a time, and, according to which sign they have previously been marked with, makes his interpretation. If the lots forbid an undertaking, there is no deliberation that day about the matter in question. If they allow it, further confirmation is required by taking auspices.[1]\n\nIt is often debated whether \"signs\" refers specifically to runes or to other marks; both interpretations are plausible and Tacitus does not give enough detail for a definite decision to be made.[2]",
+          "sections": [
+            "Historical evidence",
+            "Tacitus",
+            "Epigraphy",
+            "Medieval sources",
+            "Modern systems",
+            "Ralph Blum"
+          ],
+          "word_count": 341,
+          "extraction_successful": true
+        },
+        {
+          "title": "Seiðr",
+          "article_name": "Seiðr",
+          "url": "https://en.wikipedia.org/wiki/Seiðr",
+          "summary": "In Old Norse, seiðr (sometimes anglicized as seidhr, seidh, seidr, seithr, seith, or seid) was a type of magic which was practiced in Norse society during the Late Scandinavian Iron Age.  The practice of seiðr is believed to be a form of magic which is related to both the telling and the shaping of the future. Connected to the Old Norse religion, its origins are largely unknown, and its practice gradually declined after the Christianization of Scandinavia. Accounts of seiðr later made it into sagas and other literary sources, while further evidence of it has been unearthed by archaeologists. V...",
+          "full_content": "In Old Norse, seiðr (sometimes anglicized as seidhr, seidh, seidr, seithr, seith, or seid) was a type of magic which was practiced in Norse society during the Late Scandinavian Iron Age.  The practice of seiðr is believed to be a form of magic which is related to both the telling and the shaping of the future. Connected to the Old Norse religion, its origins are largely unknown, and its practice gradually declined after the Christianization of Scandinavia. Accounts of seiðr later made it into sagas and other literary sources, while further evidence of it has been unearthed by archaeologists. Various scholars have debated the nature of seiðr, some of them have argued that it was shamanic in context, involving visionary journeys by its practitioners.\n\nSeiðr practitioners were of both sexes, with sorceresses being variously known as vǫlur, seiðkonur and vísendakona. There were also accounts of male practitioners, who were known as seiðmenn (or seiðmaðr in the singular). In many cases these magical practitioners would have had assistants to aid them in their rituals.\n\nIn pre-Christian Norse mythology, seiðr was associated with both the god Óðinn, a deity who was simultaneously responsible for war, poetry and sorcery, and the goddess Freyja, a member of the Vanir who was believed to have taught the practice to the Æsir.[1]\n\nIn the 20th century, adherents of various modern Pagan new religious movements adopted forms of magico-religious practice which include seiðr. The practices of these contemporary seiðr-workers have since been investigated by various academic researchers who are operating in the field of pagan studies.\n\nSeiðr is believed to come from Proto-Germanic *saiðaz, cognate with Lithuanian saitas, 'tie, tether' and Proto-Celtic *soito- 'sorcery' (giving Welsh hud, Breton hud 'magic'), all derived from Proto-Indo-European *soi-to- 'string, rope', ultimately from the Proto-Indo-European root *seH2i- 'to bind'.[2]\n\nRelated words in Old High German (see German Saite, used both in string instruments and in bows) and Old English refer to 'cord, string', or 'snare, cord, halter' and there is a line in verse 15 of the skaldic poem Ragnarsdrápa that uses seiðr in that sense.[3] However, it is not clear how this derivation relates to the practice of seiðr. It has been suggested that the use of a cord in attraction may be related to seiðr, where attraction is one element of the practice of seiðr magic described in Norse literature and with witchcraft in Scandinavian folklore.[3] However, if seiðr involved \"spinning charms\", that would explain the distaff, a tool used in spinning flax or sometimes wool, that appears to be associated with seiðr practice.[3] In any case, the string relates to the \"threads of fate\", that the Nornir spin, measure, and cut.",
+          "sections": [
+            "Terminology and etymology",
+            "Old Norse literature",
+            "Sagas",
+            "Folktales",
+            "Practices",
+            "Mythology"
+          ],
+          "word_count": 443,
+          "extraction_successful": true
+        }
+      ],
+      "knowledge_areas": [
+        "Cosmology",
+        "Epigraphy",
+        "Folktales",
+        "Gods and other beings",
+        "Historical evidence",
+        "Humanity",
+        "Medieval sources",
+        "Modern systems",
+        "Mythology",
+        "Old Norse literature",
+        "Practices",
+        "Ralph Blum"
+      ],
+      "key_concepts": [
+        "Norse mythology",
+        "Practice",
+        "Runic magic",
+        "Seiðr",
+        "Tradition"
+      ],
+      "wikipedia_articles": [
+        "Norse_mythology",
+        "Runic_magic",
+        "Seiðr"
+      ]
+    },
+    "sufi_mysticism": {
+      "tradition_name": "sufi_mysticism",
+      "display_name": "Sufi Mysticism",
+      "content_summary": {
+        "articles_extracted": 3,
+        "successful_extractions": 3,
+        "total_words": 718,
+        "extraction_success_rate": 1.0
+      },
+      "extracted_articles": [
+        {
+          "title": "Sufism",
+          "article_name": "Sufism",
+          "url": "https://en.wikipedia.org/wiki/Sufism",
+          "summary": "",
+          "full_content": "",
+          "sections": [],
+          "word_count": 0,
+          "extraction_successful": true
+        },
+        {
+          "title": "Fana (Sufism)",
+          "article_name": "Fana_(Sufism)",
+          "url": "https://en.wikipedia.org/wiki/Fana_(Sufism)",
+          "summary": "Others\n\nIn terms of Ihsan:\n\nFanaa (Arabic: فناء fanāʾ ) in Sufism is the \"passing away\" or \"annihilation\" (of the self).[1] Fana means \"to die before one dies\", a concept highlighted by famous notable Persian mystics such as Rumi.[2][3] There is controversy around what Fana exactly is, with some Sufis defining it as the absolute annihilation of the human ego before God, whereby the self becomes an instrument of God's plan in the world (Baqaa).[4]\n\nOther Sufis also interpret it as breaking down of the individual ego and a recognition of the fundamental unity of God, creation, and the individual...",
+          "full_content": "Others\n\nIn terms of Ihsan:\n\nFanaa (Arabic: فناء fanāʾ ) in Sufism is the \"passing away\" or \"annihilation\" (of the self).[1] Fana means \"to die before one dies\", a concept highlighted by famous notable Persian mystics such as Rumi.[2][3] There is controversy around what Fana exactly is, with some Sufis defining it as the absolute annihilation of the human ego before God, whereby the self becomes an instrument of God's plan in the world (Baqaa).[4]\n\nOther Sufis also interpret it as breaking down of the individual ego and a recognition of the fundamental unity of God, creation, and the individual self. However, persons having entered this enlightened state are said to obtain absolute awareness of an intrinsic unity (Tawhid) between God and all that exists, including the individual themselves. This second interpretation has sometimes been decried by religious and political authorities as heretical, famously in the execution of Mansur al-Hallaj.[1][4][5][6]\n\nSimilar to other Sufi doctrines, Fana is based on first-party Islamic teachings. Specifically, the Quran says:[4]\n\n\"All things in creation suffer annihilation and there remains the face of the Lord in its majesty and bounty.\"",
+          "sections": [
+            "Views",
+            "Fana as Vision",
+            "Fana as union",
+            "Similar concepts in eastern religions",
+            "See also",
+            "References"
+          ],
+          "word_count": 185,
+          "extraction_successful": true
+        },
+        {
+          "title": "Dhikr",
+          "article_name": "Dhikr",
+          "url": "https://en.wikipedia.org/wiki/Dhikr",
+          "summary": "Dhikr (Arabic: ذِكْر;[a] Arabic pronunciation: [ðikr]; lit. 'remembrance, reminder,[4] mention[5]') is a form of Islamic worship in which phrases or prayers are repeatedly recited for the purpose of remembering God.[4][6]  It plays a central role in Sufism,[7] and each Sufi order typically adopts a specific dhikr, accompanied by specific posture, breathing, and movement.[8] In Sufism, dhikr refers to both the act of this remembrance as well as the prayers used in these acts of remembrance.[4] Dhikr usually includes the names of God or supplication from the Quran or hadith. It may be counted wi...",
+          "full_content": "Dhikr (Arabic: ذِكْر;[a] Arabic pronunciation: [ðikr]; lit. 'remembrance, reminder,[4] mention[5]') is a form of Islamic worship in which phrases or prayers are repeatedly recited for the purpose of remembering God.[4][6]  It plays a central role in Sufism,[7] and each Sufi order typically adopts a specific dhikr, accompanied by specific posture, breathing, and movement.[8] In Sufism, dhikr refers to both the act of this remembrance as well as the prayers used in these acts of remembrance.[4] Dhikr usually includes the names of God or supplication from the Quran or hadith. It may be counted with either one's fingers or prayer beads,[4] and may be performed alone or with a collective group.[8] A person who recites dhikr is called a dhākir (ذَاكِر; [ðaːkɪr]; lit. 'rememberer').[5]\n\nThe Quran frequently refers to itself and other scriptures and prophetic messages as \"reminders\" (dhikrah, tadhkīrah), which is understood as a call to \"remember\" (dhikr) an innate knowledge of God humans already possess. The Quran uses the term dhikr to denote the reminder from God conveyed through the prophets and messengers, as well as the human response to that reminder, signifying a reciprocal interaction between the divine and human. Muslims believe the prophets deliver God's message as a reminder to humans, who, in turn, should remember and acknowledge it.[9]\n\nSeveral verses in the Quran emphasize the importance of remembering the will of God by saying phrases such as \"God willing\" \"God knows best,\" and \"If it is your will.' This is the basis for dhikr. Surah al-Kahf (18), Ayah 24 states a person who forgets to say, \"God willing\", should immediately remember God by saying, \"Maybe my Lord will guide me to [something] more akin to rectitude than this.\"[10] Other verses include Surah al-Ahzab (33), Ayah 41, \"O you who have faith! Remember Allah with frequent remembrance\",[11] and Surah ar-Ra'd (13), Ayah 28, \"those who have faith, and whose hearts find rest in the remembrance of Allah. Look! The hearts find rest in Allah's remembrance!\"[12]\n\nSufi dhikr most commonly involves the repetition of the Names of Allah. This practice is central to Sufi spiritual exercises and is intended to foster a deeper connection with the Divine. The Names of Allah, also known as Asma'ul Husna, represent various attributes of God, such as \"Ar-Rahman\" (The Most Merciful) and \"Al-Karim\" (The Generous). By invoking these names, practitioners aim to internalize the qualities they represent, cultivate a state of spiritual purity, and draw closer to God. The repetitive nature of dhikr helps to quiet the mind, focus the heart, and create a sense of inner peace and presence. To Sufis, dhikr is seen as a way to gain spiritual enlightenment and achieve annihilation of self (fana) to seek permanence in God.[13] All Muslim sects endorse individual rosaries as a method dhikr and meditation, the goal of which is to obtain a feeling of peace, separation from worldly values (dunya), and, in general, strengthen Iman (faith). The main purpose of dhikr is to fill the heart with spiritual meaning and not simply chant the invocations with an empty heart and absent mind. When performed with awareness, the heart then becomes receptive to the activity of the tongue and is aware of God's presence.[14]\n\n[15]",
+          "sections": [
+            "Importance",
+            "Common types",
+            "Phrases and expressions",
+            "Recitation of Quran",
+            "Quranic ayat and hadiths",
+            "Quranic ayat"
+          ],
+          "word_count": 533,
+          "extraction_successful": true
+        }
+      ],
+      "knowledge_areas": [
+        "Common types",
+        "Fana as Vision",
+        "Fana as union",
+        "Importance",
+        "Phrases and expressions",
+        "Quranic ayat",
+        "Quranic ayat and hadiths",
+        "Recitation of Quran",
+        "Similar concepts in eastern religions",
+        "Views"
+      ],
+      "key_concepts": [
+        "Dhikr",
+        "Divine",
+        "Fana (Sufism)",
+        "Ritual",
+        "Spiritual",
+        "Sufism"
+      ],
+      "wikipedia_articles": [
+        "Sufism",
+        "Fana_(Sufism)",
+        "Dhikr"
+      ]
+    },
+    "celtic_druidic": {
+      "tradition_name": "celtic_druidic",
+      "display_name": "Celtic Druidic",
+      "content_summary": {
+        "articles_extracted": 3,
+        "successful_extractions": 3,
+        "total_words": 996,
+        "extraction_success_rate": 1.0
+      },
+      "extracted_articles": [
+        {
+          "title": "Druidry (modern)",
+          "article_name": "Druidry_(modern)",
+          "url": "https://en.wikipedia.org/wiki/Druidry_(modern)",
+          "summary": "Druidry, sometimes termed Druidism, is a modern spiritual or religious movement that promotes the cultivation of honorable relationships with the physical landscapes, flora, fauna, and diverse peoples of the world, as well as with nature deities, and spirits of nature and place.[1] Theological beliefs among modern Druids are diverse; however, all modern Druids venerate the divine essence of nature.[2] While there are significant variations in the expression and practice of modern Druidry, a core set of spiritual and devotional practices may be observed, including: meditation; prayer/conversati...",
+          "full_content": "Druidry, sometimes termed Druidism, is a modern spiritual or religious movement that promotes the cultivation of honorable relationships with the physical landscapes, flora, fauna, and diverse peoples of the world, as well as with nature deities, and spirits of nature and place.[1] Theological beliefs among modern Druids are diverse; however, all modern Druids venerate the divine essence of nature.[2] While there are significant variations in the expression and practice of modern Druidry, a core set of spiritual and devotional practices may be observed, including: meditation; prayer/conversation with deities and spirits; the use of extra-sensory methods of seeking wisdom and guidance; the use of nature-based spiritual frameworks to structure devotional practices and rituals; and a regular practice of nature connection and environmental stewardship work.[3]\n\nNeo-Druidry emerged in 18th-century Britain as part of the Romantic movement, which idealized the perceived spiritual wisdom and natural harmony of ancient Celtic societies. Early neo-Druids sought to emulate the Iron Age priestly class known as the druids, despite the limited and often speculative historical knowledge available at the time. As such, modern Druidic traditions are not directly descended from ancient practices, but rather are modern reconstructions or reinterpretations inspired by Romantic ideals and later scholarly and folkloric sources.[4]\n\nIn the late 18th century, modern Druids developed fraternal organizations modeled on Freemasonry that employed the romantic figure of the British Druids and Bards as symbols of the indigenous spirituality of Prehistoric Britain. Some of these groups were purely fraternal and cultural, such as the oldest one that remains, the Ancient Order of Druids founded in 1781, creating traditions from the national imagination of Britain. Others, in the early 20th century, merged with contemporary movements such as the physical culture movement and naturism. Since the 1980s, some modern druid groups have adopted similar methodologies to those of Celtic Reconstructionist Paganism in an effort to create a more historically accurate practice. However, there is still controversy over how much resemblance modern Druidism may or may not have to the Iron Age druids.\n\nBy 2020, modern Druidry had spread to 34 nations, across 6 continents,[5] and had taken root in 17 diverse biomes.[6] The importance that modern Druids attributed to Celtic language and culture, circa 2020, varied depending upon the physical and cultural environments in which the individual Druid lived.[7] By 2020, roughly 92% of world Druids were living outside the British Isles.[8] While modern Druidry has spread rapidly across the globe, Druids do not proselytize,[9] and 74% of world Druids actively work to keep their spiritual practices private.[10]\n\nModern Druidry derives its name from the celtic magico-religious specialists of Iron Age Western Europe who were known as druids.[11] There is no real historical continuity between the druids of Iron Age Europe and modern Druids.[12] However, some Druids nevertheless regard modern Druidry as a genuine continuation of the practices of the Iron Age druids.[13]",
+          "sections": [
+            "Definition",
+            "Beliefs",
+            "Nature-centered spirituality",
+            "Theology",
+            "Ancestor veneration",
+            "Rites and practices"
+          ],
+          "word_count": 474,
+          "extraction_successful": true
+        },
+        {
+          "title": "Celtic mythology",
+          "article_name": "Celtic_mythology",
+          "url": "https://en.wikipedia.org/wiki/Celtic_mythology",
+          "summary": "Celtic mythology is the body of myths belonging to the Celtic peoples.[1] Like other Iron Age Europeans, Celtic peoples followed a polytheistic religion, having many gods and goddesses. The mythologies of continental Celtic peoples, such as the Gauls and Celtiberians, did not survive their conquest by the Roman Empire, the loss of their Celtic languages and their subsequent conversion to Christianity. Only remnants are found in Greco-Roman sources and archaeology. Most surviving Celtic mythology belongs to the Insular Celtic peoples (the Gaels of Ireland and Scotland; the Celtic Britons of wes...",
+          "full_content": "Celtic mythology is the body of myths belonging to the Celtic peoples.[1] Like other Iron Age Europeans, Celtic peoples followed a polytheistic religion, having many gods and goddesses. The mythologies of continental Celtic peoples, such as the Gauls and Celtiberians, did not survive their conquest by the Roman Empire, the loss of their Celtic languages and their subsequent conversion to Christianity. Only remnants are found in Greco-Roman sources and archaeology. Most surviving Celtic mythology belongs to the Insular Celtic peoples (the Gaels of Ireland and Scotland; the Celtic Britons of western Britain and Brittany). They preserved some of their myths in oral lore, which were eventually written down by Christian scribes in the Middle Ages. Irish mythology has the largest written body of myths, followed by Welsh mythology.\n\nThe supernatural race called the Tuatha Dé Danann is believed to be based on the main Celtic gods of Ireland, while many Welsh characters belong either to the Plant Dôn (\"Children of Dôn\") or the Plant Llŷr (\"Children of Llŷr\"). Some figures in Insular Celtic myth have ancient continental parallels: Irish Lugh and Welsh Lleu are cognate with Lugus, Goibniu and Gofannon with Gobannos, Macán and Mabon with Maponos, and so on. One common figure is the sovereignty goddess, who represents the land and bestows sovereignty on a king by marrying him. The Otherworld is also a common motif, a parallel realm of the supernatural races, which is visited by some mythical heroes. Celtic myth influenced later Arthurian legend.\n\nThough the Celtic world at its height covered much of western and central Europe, it was not politically unified, nor was there any substantial central source of cultural influence or homogeneity; as a result, there was a great deal of variation in local practices of Celtic religion (although certain motifs, for example, the god Lugh, appear to have diffused throughout the Celtic world). Inscriptions of more than three hundred deities, often equated with their Roman counterparts, have survived, but of these most appear to have been genii locorum, local or tribal gods, and few were widely worshiped. However, from what has survived of Celtic mythology, it is possible to discern commonalities that hint at a more unified pantheon than is often given credit.\n\nThe nature and functions of these ancient gods can be deduced from their names, the location of their inscriptions, their iconography, the Roman gods they are equated with, and similar figures from later bodies of Celtic mythology.",
+          "sections": [
+            "Overview",
+            "Historical sources",
+            "Irish mythology",
+            "Welsh mythology",
+            "Remnants of Gaulish and other mythology",
+            "Julius Caesar on Celtic gods and their significance"
+          ],
+          "word_count": 407,
+          "extraction_successful": true
+        },
+        {
+          "title": "Awen",
+          "article_name": "Awen",
+          "url": "https://en.wikipedia.org/wiki/Awen",
+          "summary": "Awen is a Welsh,[1] Cornish and Breton word for \"inspiration\" (and typically poetic inspiration).\n\nIn Welsh mythology, awen is the inspiration of the poets, or bards; its personification, Awen is the inspirational muse of creative artists in general. The inspired individual (often a poet or a soothsayer) is an awenydd.\n\nIn current usage, awen is sometimes ascribed to musicians and poets. Awen also occurs as a female given name.\n\nThe word appears in the third stanza of \"Hen Wlad fy Nhadau\", the national anthem of Wales.[2]\n\nAwen derives from the Indo-European root *-uel, meaning 'to blow', and ...",
+          "full_content": "Awen is a Welsh,[1] Cornish and Breton word for \"inspiration\" (and typically poetic inspiration).\n\nIn Welsh mythology, awen is the inspiration of the poets, or bards; its personification, Awen is the inspirational muse of creative artists in general. The inspired individual (often a poet or a soothsayer) is an awenydd.\n\nIn current usage, awen is sometimes ascribed to musicians and poets. Awen also occurs as a female given name.\n\nThe word appears in the third stanza of \"Hen Wlad fy Nhadau\", the national anthem of Wales.[2]\n\nAwen derives from the Indo-European root *-uel, meaning 'to blow', and has the same root as the word awel meaning 'breeze' in Welsh and 'wind' or 'gale' in Cornish.[3]",
+          "sections": [
+            "Etymology",
+            "Historical attestation",
+            "Modern Druidic symbol",
+            "See also",
+            "References",
+            "Bibliography"
+          ],
+          "word_count": 115,
+          "extraction_successful": true
+        }
+      ],
+      "knowledge_areas": [
+        "Ancestor veneration",
+        "Beliefs",
+        "Bibliography",
+        "Definition",
+        "Etymology",
+        "Historical attestation",
+        "Historical sources",
+        "Irish mythology",
+        "Julius Caesar on Celtic gods and their significance",
+        "Modern Druidic symbol",
+        "Nature-centered spirituality",
+        "Overview"
+      ],
+      "key_concepts": [
+        "Awen",
+        "Celtic mythology",
+        "Druidry (modern)",
+        "Practice",
+        "Ritual",
+        "Spiritual",
+        "Tradition",
+        "Wisdom"
+      ],
+      "wikipedia_articles": [
+        "Druidry_(modern)",
+        "Celtic_mythology",
+        "Awen"
+      ]
+    }
+  },
+  "summary": {
+    "total_traditions": 10,
+    "total_articles": 29,
+    "total_words": 9808,
+    "average_words_per_tradition": 980,
+    "overall_success_rate": 0.9666666666666667
+  }
+}

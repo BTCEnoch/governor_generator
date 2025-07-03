@@ -1,0 +1,408 @@
+{
+  "summary": {
+    "processed_traditions": 10,
+    "total_articles_attempted": 30,
+    "total_successful_extractions": 18,
+    "overall_success_rate": 0.6,
+    "extraction_method": "wikipedia_direct_conversion"
+  },
+  "traditions": {
+    "golden_dawn": {
+      "tradition_name": "golden_dawn",
+      "display_name": "Hermetic Order of the Golden Dawn",
+      "extracted_articles": [
+        {
+          "title": "Hermetic Order of the Golden Dawn",
+          "url": "https://en.wikipedia.org/wiki/Hermetic Order of the Golden Dawn",
+          "introduction": "The Hermetic Order of the Golden Dawn (Latin: Ordo Hermeticus Aurorae Aureae), more commonly the Golden Dawn (Aurora Aurea), was a secret society devoted to the study and practice of occult Hermeticism and metaphysics  during the late 19th and early 20th centuries. Known as a magical order, the Hermetic Order of the Golden Dawn was active in Great Britain and focused its practices on theurgy and spiritual development. Many present-day concepts of ritual and magic that are at the centre of contemporary traditions, such as Wicca[1] and Thelema, were inspired by the Golden Dawn, which became one of the largest single influences on 20th-century Western occultism.[a][b]\n\nThe three founders, William Robert Woodman, William Wynn Westcott, and Samuel Liddell Mathers, were Freemasons and members of...",
+          "full_content": "The Hermetic Order of the Golden Dawn (Latin: Ordo Hermeticus Aurorae Aureae), more commonly the Golden Dawn (Aurora Aurea), was a secret society devoted to the study and practice of occult Hermeticism and metaphysics  during the late 19th and early 20th centuries. Known as a magical order, the Hermetic Order of the Golden Dawn was active in Great Britain and focused its practices on theurgy and spiritual development. Many present-day concepts of ritual and magic that are at the centre of contemporary traditions, such as Wicca[1] and Thelema, were inspired by the Golden Dawn, which became one of the largest single influences on 20th-century Western occultism.[a][b]\n\nThe three founders, William Robert Woodman, William Wynn Westcott, and Samuel Liddell Mathers, were Freemasons and members of the Societas Rosicruciana in Anglia. Westcott appears to have been the initial driving force behind the establishment of the Golden Dawn. Hence the Golden Dawn system was based on hierarchy and initiation, similar to Masonic lodges.[2] While the grade structure was based on the SRIA, women were admitted on an equal basis with men.[3]\n\nThe \"Golden Dawn\" was the first of three Orders, although all three are often collectively referred to as the \"Golden Dawn\". The First Order taught esoteric philosophy based on the Hermetic Qabalah and personal development through study and awareness of the four classical elements, as well as the basics of astrology, tarot divination, and geomancy. The Second or Inner Order, the Rosae Rubeae et Aureae Crucis, taught magic, including scrying, astral travel, and alchemy. The Third Order was that of the Secret Chiefs, who were said to be highly skilled; they supposedly directed the activities of the lower two orders by spirit communication with the Chiefs of the Second Order.",
+          "sections": [
+            "History",
+            "Cipher Manuscripts",
+            "Founding of the First Temple",
+            "The Secret Chiefs",
+            "Golden Age",
+            "Revolt"
+          ],
+          "word_count": 288,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        },
+        {
+          "title": "Main Page",
+          "url": "https://en.wikipedia.org/wiki/",
+          "introduction": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response...",
+          "full_content": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response. Most found the sonata enjoyable, but there was criticism of a perceived simplistic and salon-like styling. (Full article...)\n\nJuly 2\n\nThe Boeing–Saab T-7 Red Hawk is an American–Swedish transonic advanced jet trainer produced by Boeing with Saab. In September 2018, the United States Air Force (USAF) selected it for the T-X program to replace the Northrop T-38 Talon as the service's advanced jet trainer. It is named the Red Hawk as a tribute to the Tuskegee Airmen, who painted their airplane's tails bright red, and to the Curtiss P-40 Warhawk, the first aircraft flown in combat by the 99th Fighter Squadron, the U.S. Army Air Force's first black fighter squadron. Its first flight took place in June 2023, and the first aircraft was delivered to the USAF in September 2023. This air-to-air photograph shows a T-7 Red Hawk on a test flight over Edwards Air Force Base in November 2023.\n\nPhotograph credit: Bryce Bennett",
+          "sections": [
+            "From today's featured article",
+            "Did you know ...",
+            "In the news",
+            "On this day",
+            "Today's featured picture",
+            "Other areas of Wikipedia"
+          ],
+          "word_count": 284,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        },
+        {
+          "title": "Main Page",
+          "url": "https://en.wikipedia.org/wiki/",
+          "introduction": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response...",
+          "full_content": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response. Most found the sonata enjoyable, but there was criticism of a perceived simplistic and salon-like styling. (Full article...)\n\nJuly 2\n\nThe Boeing–Saab T-7 Red Hawk is an American–Swedish transonic advanced jet trainer produced by Boeing with Saab. In September 2018, the United States Air Force (USAF) selected it for the T-X program to replace the Northrop T-38 Talon as the service's advanced jet trainer. It is named the Red Hawk as a tribute to the Tuskegee Airmen, who painted their airplane's tails bright red, and to the Curtiss P-40 Warhawk, the first aircraft flown in combat by the 99th Fighter Squadron, the U.S. Army Air Force's first black fighter squadron. Its first flight took place in June 2023, and the first aircraft was delivered to the USAF in September 2023. This air-to-air photograph shows a T-7 Red Hawk on a test flight over Edwards Air Force Base in November 2023.\n\nPhotograph credit: Bryce Bennett",
+          "sections": [
+            "From today's featured article",
+            "Did you know ...",
+            "In the news",
+            "On this day",
+            "Today's featured picture",
+            "Other areas of Wikipedia"
+          ],
+          "word_count": 284,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        }
+      ],
+      "success_count": 3,
+      "total_attempted": 3,
+      "success_rate": 1.0
+    },
+    "thelema": {
+      "tradition_name": "thelema",
+      "display_name": "Thelema",
+      "extracted_articles": [
+        {
+          "title": "Thelema",
+          "url": "https://en.wikipedia.org/wiki/Thelema",
+          "introduction": "Thelema (/θəˈliːmə/) is a Western esoteric and occult social or spiritual philosophy[1] and a new religious movement founded in the early 1900s by Aleister Crowley (1875–1947), an English writer, mystic, occultist, and ceremonial magician.[2] Central to Thelema is the concept of discovering and following one's True Will, a divine and individual purpose that transcends ordinary desires. Crowley's system begins with The Book of the Law, a text he maintained was dictated to him by a non-corporeal entity named Aiwass. This work outlines key principles, including the axioms \"Do what thou wilt shall be the whole of the Law\" and \"love is the law, love under will\", emphasizing personal freedom and the pursuit of one's true path.\n\nThe Thelemic cosmology features deities inspired by ancient Egyptian...",
+          "full_content": "Thelema (/θəˈliːmə/) is a Western esoteric and occult social or spiritual philosophy[1] and a new religious movement founded in the early 1900s by Aleister Crowley (1875–1947), an English writer, mystic, occultist, and ceremonial magician.[2] Central to Thelema is the concept of discovering and following one's True Will, a divine and individual purpose that transcends ordinary desires. Crowley's system begins with The Book of the Law, a text he maintained was dictated to him by a non-corporeal entity named Aiwass. This work outlines key principles, including the axioms \"Do what thou wilt shall be the whole of the Law\" and \"love is the law, love under will\", emphasizing personal freedom and the pursuit of one's true path.\n\nThe Thelemic cosmology features deities inspired by ancient Egyptian religion. The highest deity is Nuit, the night sky symbolized as a naked woman covered in stars, representing the ultimate source of possibilities. Hadit, the infinitely small point, symbolizes manifestation and motion. Ra-Hoor-Khuit, who is believed to be a form of Horus, represents the Sun and active energies of Thelemic magick. Crowley believed that discovering and following one's True Will is the path to self-realization and personal fulfillment, often referred to as the Great Work.\n\nMagick is a central practice in Thelema, involving various physical, mental, and spiritual exercises aimed at uncovering one's True Will and enacting change in alignment with it. Practices such as rituals, yoga, and meditation are used to explore consciousness and achieve self-mastery. The Gnostic Mass, a central ritual in Thelema, mirrors traditional religious services but conveys Thelemic principles. Thelemites also observe specific holy days, such as the Equinoxes and the Feast of the Three Days of the Writing of the Book of the Law, commemorating the writing of Thelema's foundational text.",
+          "sections": [
+            "Historical precedents",
+            "Definitions",
+            "François Rabelais and the Abbey of Thélème",
+            "Francis Dashwood and the Hellfire Club",
+            "Beliefs",
+            "The Book of the Law"
+          ],
+          "word_count": 291,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        }
+      ],
+      "success_count": 1,
+      "total_attempted": 3,
+      "success_rate": 0.3333333333333333
+    },
+    "egyptian_magic": {
+      "tradition_name": "egyptian_magic",
+      "display_name": "Ancient Egyptian Magic",
+      "extracted_articles": [
+        {
+          "title": "Main Page",
+          "url": "https://en.wikipedia.org/wiki/",
+          "introduction": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response...",
+          "full_content": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response. Most found the sonata enjoyable, but there was criticism of a perceived simplistic and salon-like styling. (Full article...)\n\nJuly 2\n\nThe Boeing–Saab T-7 Red Hawk is an American–Swedish transonic advanced jet trainer produced by Boeing with Saab. In September 2018, the United States Air Force (USAF) selected it for the T-X program to replace the Northrop T-38 Talon as the service's advanced jet trainer. It is named the Red Hawk as a tribute to the Tuskegee Airmen, who painted their airplane's tails bright red, and to the Curtiss P-40 Warhawk, the first aircraft flown in combat by the 99th Fighter Squadron, the U.S. Army Air Force's first black fighter squadron. Its first flight took place in June 2023, and the first aircraft was delivered to the USAF in September 2023. This air-to-air photograph shows a T-7 Red Hawk on a test flight over Edwards Air Force Base in November 2023.\n\nPhotograph credit: Bryce Bennett",
+          "sections": [
+            "From today's featured article",
+            "Did you know ...",
+            "In the news",
+            "On this day",
+            "Today's featured picture",
+            "Other areas of Wikipedia"
+          ],
+          "word_count": 284,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        },
+        {
+          "title": "Main Page",
+          "url": "https://en.wikipedia.org/wiki/",
+          "introduction": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response...",
+          "full_content": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response. Most found the sonata enjoyable, but there was criticism of a perceived simplistic and salon-like styling. (Full article...)\n\nJuly 2\n\nThe Boeing–Saab T-7 Red Hawk is an American–Swedish transonic advanced jet trainer produced by Boeing with Saab. In September 2018, the United States Air Force (USAF) selected it for the T-X program to replace the Northrop T-38 Talon as the service's advanced jet trainer. It is named the Red Hawk as a tribute to the Tuskegee Airmen, who painted their airplane's tails bright red, and to the Curtiss P-40 Warhawk, the first aircraft flown in combat by the 99th Fighter Squadron, the U.S. Army Air Force's first black fighter squadron. Its first flight took place in June 2023, and the first aircraft was delivered to the USAF in September 2023. This air-to-air photograph shows a T-7 Red Hawk on a test flight over Edwards Air Force Base in November 2023.\n\nPhotograph credit: Bryce Bennett",
+          "sections": [
+            "From today's featured article",
+            "Did you know ...",
+            "In the news",
+            "On this day",
+            "Today's featured picture",
+            "Other areas of Wikipedia"
+          ],
+          "word_count": 284,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        }
+      ],
+      "success_count": 2,
+      "total_attempted": 3,
+      "success_rate": 0.6666666666666666
+    },
+    "i_ching": {
+      "tradition_name": "i_ching",
+      "display_name": "I-Ching (Book of Changes)",
+      "extracted_articles": [
+        {
+          "title": "Main Page",
+          "url": "https://en.wikipedia.org/wiki/",
+          "introduction": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response...",
+          "full_content": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response. Most found the sonata enjoyable, but there was criticism of a perceived simplistic and salon-like styling. (Full article...)\n\nJuly 2\n\nThe Boeing–Saab T-7 Red Hawk is an American–Swedish transonic advanced jet trainer produced by Boeing with Saab. In September 2018, the United States Air Force (USAF) selected it for the T-X program to replace the Northrop T-38 Talon as the service's advanced jet trainer. It is named the Red Hawk as a tribute to the Tuskegee Airmen, who painted their airplane's tails bright red, and to the Curtiss P-40 Warhawk, the first aircraft flown in combat by the 99th Fighter Squadron, the U.S. Army Air Force's first black fighter squadron. Its first flight took place in June 2023, and the first aircraft was delivered to the USAF in September 2023. This air-to-air photograph shows a T-7 Red Hawk on a test flight over Edwards Air Force Base in November 2023.\n\nPhotograph credit: Bryce Bennett",
+          "sections": [
+            "From today's featured article",
+            "Did you know ...",
+            "In the news",
+            "On this day",
+            "Today's featured picture",
+            "Other areas of Wikipedia"
+          ],
+          "word_count": 284,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        },
+        {
+          "title": "Main Page",
+          "url": "https://en.wikipedia.org/wiki/",
+          "introduction": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response...",
+          "full_content": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response. Most found the sonata enjoyable, but there was criticism of a perceived simplistic and salon-like styling. (Full article...)\n\nJuly 2\n\nThe Boeing–Saab T-7 Red Hawk is an American–Swedish transonic advanced jet trainer produced by Boeing with Saab. In September 2018, the United States Air Force (USAF) selected it for the T-X program to replace the Northrop T-38 Talon as the service's advanced jet trainer. It is named the Red Hawk as a tribute to the Tuskegee Airmen, who painted their airplane's tails bright red, and to the Curtiss P-40 Warhawk, the first aircraft flown in combat by the 99th Fighter Squadron, the U.S. Army Air Force's first black fighter squadron. Its first flight took place in June 2023, and the first aircraft was delivered to the USAF in September 2023. This air-to-air photograph shows a T-7 Red Hawk on a test flight over Edwards Air Force Base in November 2023.\n\nPhotograph credit: Bryce Bennett",
+          "sections": [
+            "From today's featured article",
+            "Did you know ...",
+            "In the news",
+            "On this day",
+            "Today's featured picture",
+            "Other areas of Wikipedia"
+          ],
+          "word_count": 284,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        }
+      ],
+      "success_count": 2,
+      "total_attempted": 3,
+      "success_rate": 0.6666666666666666
+    },
+    "kuji_kiri": {
+      "tradition_name": "kuji_kiri",
+      "display_name": "Kuji-kiri (Nine Symbolic Cuts)",
+      "extracted_articles": [
+        {
+          "title": "Main Page",
+          "url": "https://en.wikipedia.org/wiki/",
+          "introduction": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response...",
+          "full_content": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response. Most found the sonata enjoyable, but there was criticism of a perceived simplistic and salon-like styling. (Full article...)\n\nJuly 2\n\nThe Boeing–Saab T-7 Red Hawk is an American–Swedish transonic advanced jet trainer produced by Boeing with Saab. In September 2018, the United States Air Force (USAF) selected it for the T-X program to replace the Northrop T-38 Talon as the service's advanced jet trainer. It is named the Red Hawk as a tribute to the Tuskegee Airmen, who painted their airplane's tails bright red, and to the Curtiss P-40 Warhawk, the first aircraft flown in combat by the 99th Fighter Squadron, the U.S. Army Air Force's first black fighter squadron. Its first flight took place in June 2023, and the first aircraft was delivered to the USAF in September 2023. This air-to-air photograph shows a T-7 Red Hawk on a test flight over Edwards Air Force Base in November 2023.\n\nPhotograph credit: Bryce Bennett",
+          "sections": [
+            "From today's featured article",
+            "Did you know ...",
+            "In the news",
+            "On this day",
+            "Today's featured picture",
+            "Other areas of Wikipedia"
+          ],
+          "word_count": 284,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        },
+        {
+          "title": "Main Page",
+          "url": "https://en.wikipedia.org/wiki/",
+          "introduction": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response...",
+          "full_content": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response. Most found the sonata enjoyable, but there was criticism of a perceived simplistic and salon-like styling. (Full article...)\n\nJuly 2\n\nThe Boeing–Saab T-7 Red Hawk is an American–Swedish transonic advanced jet trainer produced by Boeing with Saab. In September 2018, the United States Air Force (USAF) selected it for the T-X program to replace the Northrop T-38 Talon as the service's advanced jet trainer. It is named the Red Hawk as a tribute to the Tuskegee Airmen, who painted their airplane's tails bright red, and to the Curtiss P-40 Warhawk, the first aircraft flown in combat by the 99th Fighter Squadron, the U.S. Army Air Force's first black fighter squadron. Its first flight took place in June 2023, and the first aircraft was delivered to the USAF in September 2023. This air-to-air photograph shows a T-7 Red Hawk on a test flight over Edwards Air Force Base in November 2023.\n\nPhotograph credit: Bryce Bennett",
+          "sections": [
+            "From today's featured article",
+            "Did you know ...",
+            "In the news",
+            "On this day",
+            "Today's featured picture",
+            "Other areas of Wikipedia"
+          ],
+          "word_count": 284,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        }
+      ],
+      "success_count": 2,
+      "total_attempted": 3,
+      "success_rate": 0.6666666666666666
+    },
+    "classical_philosophy": {
+      "tradition_name": "classical_philosophy",
+      "display_name": "Classical Greek Philosophy",
+      "extracted_articles": [
+        {
+          "title": "Main Page",
+          "url": "https://en.wikipedia.org/wiki/",
+          "introduction": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response...",
+          "full_content": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response. Most found the sonata enjoyable, but there was criticism of a perceived simplistic and salon-like styling. (Full article...)\n\nJuly 2\n\nThe Boeing–Saab T-7 Red Hawk is an American–Swedish transonic advanced jet trainer produced by Boeing with Saab. In September 2018, the United States Air Force (USAF) selected it for the T-X program to replace the Northrop T-38 Talon as the service's advanced jet trainer. It is named the Red Hawk as a tribute to the Tuskegee Airmen, who painted their airplane's tails bright red, and to the Curtiss P-40 Warhawk, the first aircraft flown in combat by the 99th Fighter Squadron, the U.S. Army Air Force's first black fighter squadron. Its first flight took place in June 2023, and the first aircraft was delivered to the USAF in September 2023. This air-to-air photograph shows a T-7 Red Hawk on a test flight over Edwards Air Force Base in November 2023.\n\nPhotograph credit: Bryce Bennett",
+          "sections": [
+            "From today's featured article",
+            "Did you know ...",
+            "In the news",
+            "On this day",
+            "Today's featured picture",
+            "Other areas of Wikipedia"
+          ],
+          "word_count": 284,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        },
+        {
+          "title": "Main Page",
+          "url": "https://en.wikipedia.org/wiki/",
+          "introduction": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response...",
+          "full_content": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response. Most found the sonata enjoyable, but there was criticism of a perceived simplistic and salon-like styling. (Full article...)\n\nJuly 2\n\nThe Boeing–Saab T-7 Red Hawk is an American–Swedish transonic advanced jet trainer produced by Boeing with Saab. In September 2018, the United States Air Force (USAF) selected it for the T-X program to replace the Northrop T-38 Talon as the service's advanced jet trainer. It is named the Red Hawk as a tribute to the Tuskegee Airmen, who painted their airplane's tails bright red, and to the Curtiss P-40 Warhawk, the first aircraft flown in combat by the 99th Fighter Squadron, the U.S. Army Air Force's first black fighter squadron. Its first flight took place in June 2023, and the first aircraft was delivered to the USAF in September 2023. This air-to-air photograph shows a T-7 Red Hawk on a test flight over Edwards Air Force Base in November 2023.\n\nPhotograph credit: Bryce Bennett",
+          "sections": [
+            "From today's featured article",
+            "Did you know ...",
+            "In the news",
+            "On this day",
+            "Today's featured picture",
+            "Other areas of Wikipedia"
+          ],
+          "word_count": 284,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        }
+      ],
+      "success_count": 2,
+      "total_attempted": 3,
+      "success_rate": 0.6666666666666666
+    },
+    "tarot_knowledge": {
+      "tradition_name": "tarot_knowledge",
+      "display_name": "Tarot Divination System",
+      "extracted_articles": [
+        {
+          "title": "Main Page",
+          "url": "https://en.wikipedia.org/wiki/",
+          "introduction": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response...",
+          "full_content": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response. Most found the sonata enjoyable, but there was criticism of a perceived simplistic and salon-like styling. (Full article...)\n\nJuly 2\n\nThe Boeing–Saab T-7 Red Hawk is an American–Swedish transonic advanced jet trainer produced by Boeing with Saab. In September 2018, the United States Air Force (USAF) selected it for the T-X program to replace the Northrop T-38 Talon as the service's advanced jet trainer. It is named the Red Hawk as a tribute to the Tuskegee Airmen, who painted their airplane's tails bright red, and to the Curtiss P-40 Warhawk, the first aircraft flown in combat by the 99th Fighter Squadron, the U.S. Army Air Force's first black fighter squadron. Its first flight took place in June 2023, and the first aircraft was delivered to the USAF in September 2023. This air-to-air photograph shows a T-7 Red Hawk on a test flight over Edwards Air Force Base in November 2023.\n\nPhotograph credit: Bryce Bennett",
+          "sections": [
+            "From today's featured article",
+            "Did you know ...",
+            "In the news",
+            "On this day",
+            "Today's featured picture",
+            "Other areas of Wikipedia"
+          ],
+          "word_count": 284,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        },
+        {
+          "title": "Main Page",
+          "url": "https://en.wikipedia.org/wiki/",
+          "introduction": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response...",
+          "full_content": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response. Most found the sonata enjoyable, but there was criticism of a perceived simplistic and salon-like styling. (Full article...)\n\nJuly 2\n\nThe Boeing–Saab T-7 Red Hawk is an American–Swedish transonic advanced jet trainer produced by Boeing with Saab. In September 2018, the United States Air Force (USAF) selected it for the T-X program to replace the Northrop T-38 Talon as the service's advanced jet trainer. It is named the Red Hawk as a tribute to the Tuskegee Airmen, who painted their airplane's tails bright red, and to the Curtiss P-40 Warhawk, the first aircraft flown in combat by the 99th Fighter Squadron, the U.S. Army Air Force's first black fighter squadron. Its first flight took place in June 2023, and the first aircraft was delivered to the USAF in September 2023. This air-to-air photograph shows a T-7 Red Hawk on a test flight over Edwards Air Force Base in November 2023.\n\nPhotograph credit: Bryce Bennett",
+          "sections": [
+            "From today's featured article",
+            "Did you know ...",
+            "In the news",
+            "On this day",
+            "Today's featured picture",
+            "Other areas of Wikipedia"
+          ],
+          "word_count": 284,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        }
+      ],
+      "success_count": 2,
+      "total_attempted": 3,
+      "success_rate": 0.6666666666666666
+    },
+    "sacred_geometry": {
+      "tradition_name": "sacred_geometry",
+      "display_name": "Sacred Geometry",
+      "extracted_articles": [
+        {
+          "title": "Sacred geometry",
+          "url": "https://en.wikipedia.org/wiki/Sacred Geometry",
+          "introduction": "Sacred geometry ascribes symbolic and sacred meanings to certain geometric shapes and certain geometric proportions.[1] It is associated with the belief of a divine creator of the universal geometer. The geometry used in the design and construction of religious structures such as churches, temples, mosques, religious monuments, altars, and tabernacles has sometimes been considered sacred. The concept applies also to sacred spaces such as temenoi, sacred groves, village greens, pagodas and holy wells, Mandala Gardens and the creation of religious and spiritual art.\n\nThe belief that a god created the universe according to a geometric plan has ancient origins. Plutarch attributed the belief to Plato, writing that \"Plato said God geometrizes continually\" (Convivialium disputationum, liber 8,2)...",
+          "full_content": "Sacred geometry ascribes symbolic and sacred meanings to certain geometric shapes and certain geometric proportions.[1] It is associated with the belief of a divine creator of the universal geometer. The geometry used in the design and construction of religious structures such as churches, temples, mosques, religious monuments, altars, and tabernacles has sometimes been considered sacred. The concept applies also to sacred spaces such as temenoi, sacred groves, village greens, pagodas and holy wells, Mandala Gardens and the creation of religious and spiritual art.\n\nThe belief that a god created the universe according to a geometric plan has ancient origins. Plutarch attributed the belief to Plato, writing that \"Plato said God geometrizes continually\" (Convivialium disputationum, liber 8,2). In modern times, the mathematician Carl Friedrich Gauss adapted this quote, saying \"God arithmetizes\".[2]\n\nJohannes Kepler (1571–1630) believed in the geometric underpinnings of the cosmos.[3] Harvard mathematician Shing-Tung Yau expressed a belief in the centrality of geometry in 2010:\n\"Lest one conclude that geometry is little more than a well-calibrated ruler – and this is no knock against the ruler, which happens to be a technology I admire – geometry is one of the main avenues available to us for probing the universe. Physics and cosmology have been, almost by definition, absolutely crucial for making sense of the universe. Geometry's role in this may be less obvious, but is equally vital. I would go so far as to say that geometry not only deserves a place at the table alongside physics and cosmology, but in many ways, it is the table.\"[4]\n\nAccording to Stephen Skinner, the study of sacred geometry has its roots in the study of nature, and the mathematical principles at work therein.[5] Many forms observed in nature can be related to geometry; for example, the chambered nautilus grows at a constant rate and so its shell forms a logarithmic spiral to accommodate that growth without changing shape. Also, honeybees construct hexagonal cells to hold their honey.  These and other correspondences are sometimes interpreted in terms of sacred geometry and considered to be further proof of the natural significance of geometric forms.",
+          "sections": [
+            "As worldview and cosmology",
+            "Natural forms",
+            "Representations in art and architecture",
+            "In Buddhism",
+            "In Chinese spiritual traditions",
+            "In Islam"
+          ],
+          "word_count": 350,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        }
+      ],
+      "success_count": 1,
+      "total_attempted": 3,
+      "success_rate": 0.3333333333333333
+    },
+    "chaos_magic": {
+      "tradition_name": "chaos_magic",
+      "display_name": "Chaos Magic",
+      "extracted_articles": [
+        {
+          "title": "Chaos magic",
+          "url": "https://en.wikipedia.org/wiki/Chaos Magic",
+          "introduction": "Chaos magic, also spelled chaos magick,[1][2] is a modern tradition of magic.[3] Emerging in England in the 1970s as part of the wider neo-pagan and esoteric subculture,[4] it drew heavily from the occult beliefs of artist Austin Osman Spare, expressed several decades earlier.[3] It has been characterised as an invented religion,[5] with some commentators drawing similarities between the movement and Discordianism.[6] Magical organizations within this tradition include the Illuminates of Thanateros and Thee Temple ov Psychick Youth.\n\nThe founding figures of chaos magic believed that other occult traditions had become too religious in character.[7] They attempted to strip away the symbolic, ritualistic, theological, or otherwise ornamental aspects of these occult traditions, to leave behind...",
+          "full_content": "Chaos magic, also spelled chaos magick,[1][2] is a modern tradition of magic.[3] Emerging in England in the 1970s as part of the wider neo-pagan and esoteric subculture,[4] it drew heavily from the occult beliefs of artist Austin Osman Spare, expressed several decades earlier.[3] It has been characterised as an invented religion,[5] with some commentators drawing similarities between the movement and Discordianism.[6] Magical organizations within this tradition include the Illuminates of Thanateros and Thee Temple ov Psychick Youth.\n\nThe founding figures of chaos magic believed that other occult traditions had become too religious in character.[7] They attempted to strip away the symbolic, ritualistic, theological, or otherwise ornamental aspects of these occult traditions, to leave behind a set of basic techniques that they believed to be the basis of magic.[8]\n\nChaos magic teaches that the essence of magic is that perceptions are conditioned by beliefs, and that the world as it is normally perceived can be changed by deliberately changing those beliefs.[9] Chaos magicians subsequently treat belief as a tool, often creating their own idiosyncratic magical systems and blending such different things as \"practical magic, quantum physics, chaos theory, and anarchism.\"[10]",
+          "sections": [
+            "History",
+            "Origins and influences (1900–1982)",
+            "Development and spread (1982–1994)",
+            "Pop culture: (1994–2000s)",
+            "Post-chaos magic: 2010s",
+            "Beliefs, core concepts, and practices"
+          ],
+          "word_count": 189,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        }
+      ],
+      "success_count": 1,
+      "total_attempted": 3,
+      "success_rate": 0.3333333333333333
+    },
+    "celtic_druidic": {
+      "tradition_name": "celtic_druidic",
+      "display_name": "Celtic Druidic Traditions",
+      "extracted_articles": [
+        {
+          "title": "Main Page",
+          "url": "https://en.wikipedia.org/wiki/",
+          "introduction": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response...",
+          "full_content": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response. Most found the sonata enjoyable, but there was criticism of a perceived simplistic and salon-like styling. (Full article...)\n\nJuly 2\n\nThe Boeing–Saab T-7 Red Hawk is an American–Swedish transonic advanced jet trainer produced by Boeing with Saab. In September 2018, the United States Air Force (USAF) selected it for the T-X program to replace the Northrop T-38 Talon as the service's advanced jet trainer. It is named the Red Hawk as a tribute to the Tuskegee Airmen, who painted their airplane's tails bright red, and to the Curtiss P-40 Warhawk, the first aircraft flown in combat by the 99th Fighter Squadron, the U.S. Army Air Force's first black fighter squadron. Its first flight took place in June 2023, and the first aircraft was delivered to the USAF in September 2023. This air-to-air photograph shows a T-7 Red Hawk on a test flight over Edwards Air Force Base in November 2023.\n\nPhotograph credit: Bryce Bennett",
+          "sections": [
+            "From today's featured article",
+            "Did you know ...",
+            "In the news",
+            "On this day",
+            "Today's featured picture",
+            "Other areas of Wikipedia"
+          ],
+          "word_count": 284,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        },
+        {
+          "title": "Main Page",
+          "url": "https://en.wikipedia.org/wiki/",
+          "introduction": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response...",
+          "full_content": "The Sonata for E♭ Alto Saxophone and Piano, Op. 19, was composed by Paul Creston (pictured) in 1939. The sonata was commissioned by Creston's frequent collaborator, the American saxophonist Cecil Leeson. Creston began composition by June; it was completed by the end of August and slated for publication in 1940, although this was postponed to 1945 due to World War II. The sonata is in three movements and takes around thirteen minutes to perform. Its form follows a traditional, Classical-era structure. The sonata as a whole is of considerable difficulty for both players. Creston and Leeson premiered the sonata at the Carnegie Chamber Hall on February 15, 1940. No critics were present at the premiere, but the sonata's 1955 debut recording by Vincent Abato and Creston received a mixed response. Most found the sonata enjoyable, but there was criticism of a perceived simplistic and salon-like styling. (Full article...)\n\nJuly 2\n\nThe Boeing–Saab T-7 Red Hawk is an American–Swedish transonic advanced jet trainer produced by Boeing with Saab. In September 2018, the United States Air Force (USAF) selected it for the T-X program to replace the Northrop T-38 Talon as the service's advanced jet trainer. It is named the Red Hawk as a tribute to the Tuskegee Airmen, who painted their airplane's tails bright red, and to the Curtiss P-40 Warhawk, the first aircraft flown in combat by the 99th Fighter Squadron, the U.S. Army Air Force's first black fighter squadron. Its first flight took place in June 2023, and the first aircraft was delivered to the USAF in September 2023. This air-to-air photograph shows a T-7 Red Hawk on a test flight over Edwards Air Force Base in November 2023.\n\nPhotograph credit: Bryce Bennett",
+          "sections": [
+            "From today's featured article",
+            "Did you know ...",
+            "In the news",
+            "On this day",
+            "Today's featured picture",
+            "Other areas of Wikipedia"
+          ],
+          "word_count": 284,
+          "source_type": "wikipedia",
+          "extraction_success": true
+        }
+      ],
+      "success_count": 2,
+      "total_attempted": 3,
+      "success_rate": 0.6666666666666666
+    }
+  },
+  "processing_timestamp": 1751489688.6066232
+}

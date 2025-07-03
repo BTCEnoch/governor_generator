@@ -1,0 +1,58 @@
+{
+  "selections_processed": [
+    "hermetic_tradition",
+    "mystical_philosophy",
+    "wisdom_traditions",
+    "transformation_mysteries",
+    "ancient_wisdom",
+    "compassion_teachings"
+  ],
+  "traditions_accessed": [],
+  "content_by_tradition": {},
+  "content_by_selection": {
+    "hermetic_tradition": {
+      "mapped_traditions": [
+        "golden_dawn",
+        "classical_philosophy"
+      ],
+      "articles": []
+    },
+    "mystical_philosophy": {
+      "mapped_traditions": [
+        "classical_philosophy",
+        "gnostic_traditions"
+      ],
+      "articles": []
+    },
+    "wisdom_traditions": {
+      "mapped_traditions": [
+        "taoism",
+        "sufi_mysticism"
+      ],
+      "articles": []
+    },
+    "transformation_mysteries": {
+      "mapped_traditions": [
+        "thelema",
+        "gnostic_traditions"
+      ],
+      "articles": []
+    },
+    "ancient_wisdom": {
+      "mapped_traditions": [
+        "egyptian_magic",
+        "classical_philosophy"
+      ],
+      "articles": []
+    },
+    "compassion_teachings": {
+      "mapped_traditions": [
+        "sufi_mysticism",
+        "taoism"
+      ],
+      "articles": []
+    }
+  },
+  "total_articles": 0,
+  "total_word_count": 0
+}

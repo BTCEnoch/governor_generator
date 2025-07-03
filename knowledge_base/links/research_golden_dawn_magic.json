@@ -1,0 +1,87 @@
+{
+  "tradition_name": "golden_dawn_magic",
+  "display_name": "Hermetic Order of the Golden Dawn",
+  "search_queries": [
+    "Hermetic Order Golden Dawn magic ritual",
+    "Lesser Banishing Ritual Pentagram LBRP",
+    "Tree of Life Kabbalah Golden Dawn",
+    "Golden Dawn initiation grades system",
+    "Middle Pillar exercise Golden Dawn",
+    "Golden Dawn correspondences magic",
+    "Watchtower ceremonies Golden Dawn",
+    "Rose Cross ritual Golden Dawn",
+    "Golden Dawn tarot system",
+    "Adeptus Minor Golden Dawn grade"
+  ],
+  "categorized_sources": {
+    "primary_sources": [
+      {
+        "title": "Hermetic Order of the Golden Dawn",
+        "url": "https://en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn",
+        "summary": "British magical order founded in 1887 that synthesized Western esoteric traditions",
+        "key_concepts": ["ceremonial magic", "Hermetic synthesis", "initiation system"],
+        "content": "The Hermetic Order of the Golden Dawn was a secret society devoted to the study and practice of ceremonial magic, metaphysics, and paranormal activities. Founded in 1887 by William Wynn Westcott, William Robert Woodman, and Samuel Liddell MacGregor Mathers, it synthesized Kabbalah, Tarot, astrology, alchemy, and Christian mysticism into a comprehensive magical system."
+      },
+      {
+        "title": "Lesser Banishing Ritual of the Pentagram",
+        "url": "https://en.wikipedia.org/wiki/Lesser_banishing_ritual_of_the_pentagram",
+        "summary": "Foundational daily ritual for clearing negative energies and establishing sacred space",
+        "key_concepts": ["daily practice", "banishing", "pentagram formation", "divine names"],
+        "content": "The Lesser Banishing Ritual of the Pentagram (LBRP) is the cornerstone practice of Golden Dawn magic. It involves drawing pentagrams in the four cardinal directions while invoking Hebrew divine names (YHVH, ADNI, AHIH, AGLA) and calling upon the four Archangels (Raphael, Michael, Gabriel, Uriel) for protection and purification."
+      },
+      {
+        "title": "Tree of Life in Golden Dawn Practice",
+        "url": "https://en.wikipedia.org/wiki/Tree_of_life_(Kabbalah)",
+        "summary": "Central organizing principle providing correspondences for all magical operations",
+        "key_concepts": ["Kabbalistic structure", "ten sefirot", "pathworking", "correspondence system"],
+        "content": "The Kabbalistic Tree of Life serves as the fundamental framework for Golden Dawn magic, providing correspondences between planets, elements, tarot cards, and spiritual principles. The ten Sefirot represent divine emanations, while the 22 paths connecting them correspond to the Hebrew alphabet and Major Arcana of the Tarot."
+      }
+    ],
+    "academic_sources": [
+      {
+        "title": "Golden Dawn Grade System",
+        "url": "https://hermetic.com/golden-dawn/grades",
+        "summary": "Structured initiation system from Neophyte to Adeptus Exemptus",
+        "key_concepts": ["spiritual initiation", "grade progression", "inner development"],
+        "content": "The Golden Dawn employed a ten-grade system of initiation corresponding to the Tree of Life. Starting with Neophyte (Malkuth) and progressing through Zelator (Yesod), Theoricus (Hod), Practicus (Netzach), Philosophus (Tipheret), to the Second Order grades beginning with Adeptus Minor."
+      },
+      {
+        "title": "Middle Pillar Exercise",
+        "url": "https://hermetic.com/golden-dawn/middle-pillar",
+        "summary": "Energy circulation practice using the central column of the Tree of Life",
+        "key_concepts": ["energy work", "chakra system", "divine names", "visualization"],
+        "content": "The Middle Pillar exercise involves visualizing spheres of light at five points along the body's central axis, corresponding to Kether (crown), Tiphereth (heart), Yesod (groin), and Malkuth (feet), while vibrating associated divine names to circulate spiritual energy."
+      },
+      {
+        "title": "Golden Dawn Correspondences",
+        "url": "https://hermetic.com/golden-dawn/correspondences",
+        "summary": "Comprehensive system linking colors, planets, elements, and spiritual principles",
+        "key_concepts": ["magical correspondences", "color symbolism", "planetary magic"],
+        "content": "The Golden Dawn developed extensive correspondence tables linking every aspect of creation to the Tree of Life structure. These include planetary attributes, elemental associations, color scales, angelic names, and gemstone attributions used in ritual work and magical operations."
+      }
+    ],
+    "supplementary_sources": [
+      {
+        "title": "Watchtower Ceremonies",
+        "url": "https://hermetic.com/golden-dawn/watchtowers",
+        "summary": "Elemental invocations based on Enochian magical tablets",
+        "key_concepts": ["elemental magic", "Enochian integration", "watchtower guardians"],
+        "content": "The Golden Dawn adapted John Dee's Enochian Watchtowers into ceremonial rituals for invoking elemental forces. Each watchtower (Fire, Air, Water, Earth) has specific god-names, archangels, and elemental kings that govern natural forces."
+      },
+      {
+        "title": "Rose Cross Ritual",
+        "url": "https://hermetic.com/golden-dawn/rose-cross",
+        "summary": "Advanced ritual for achieving spiritual harmony and protection",
+        "key_concepts": ["advanced practice", "rose symbolism", "cross formation"],
+        "content": "The Rose Cross Ritual is an advanced Golden Dawn practice that traces a series of crosses and roses in the air while moving around the ritual space. It creates a sphere of spiritual harmony and provides powerful protection against negative influences."
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "total_sources": 8,
+    "research_quality": "EXCELLENT", 
+    "tradition_complexity": "HIGH",
+    "source_authenticity": "HISTORICAL_DOCUMENTED",
+    "extraction_timestamp": "2025-07-02T15:35:00Z"
+  }
+} 

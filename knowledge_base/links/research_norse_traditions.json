@@ -1,0 +1,67 @@
+{
+  "tradition_name": "norse_traditions",
+  "display_name": "Norse/Germanic Traditions",
+  "search_queries_used": [
+    "Norse/Germanic Traditions wikipedia",
+    "Norse/Germanic Traditions academic research",
+    "Norse/Germanic Traditions scholarly articles",
+    "Norse/Germanic Traditions encyclopedia britannica",
+    "Wyrd Web of Fate wikipedia",
+    "Wyrd Web of Fate academic wiki",
+    "Wyrd Web of Fate scholarly source",
+    "Honor Personal Integrity wikipedia",
+    "Honor Personal Integrity academic wiki",
+    "Honor Personal Integrity scholarly source",
+    "Ragnarok Cyclical Renewal wikipedia",
+    "Ragnarok Cyclical Renewal academic wiki",
+    "Ragnarok Cyclical Renewal scholarly source",
+    "Nine Worlds Yggdrasil wikipedia",
+    "Nine Worlds Yggdrasil academic wiki",
+    "Nine Worlds Yggdrasil scholarly source",
+    "Ancestor Veneration wikipedia",
+    "Ancestor Veneration academic wiki",
+    "Ancestor Veneration scholarly source",
+    "Runic Divination Elder Futhark wikipedia"
+  ],
+  "all_sources": [
+    "SourceLink(url='https://wikipedia.org/search?q=Norse/Germanic+Traditions+wikipedia', title='Norse/Germanic Traditions Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Norse/Germanic Traditions wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Norse/Germanic+Traditions+academic+research', title='Norse/Germanic Traditions Academic Research - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Norse/Germanic Traditions academic research information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Norse/Germanic+Traditions+scholarly+articles', title='Norse/Germanic Traditions Scholarly Articles - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Norse/Germanic Traditions scholarly articles information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Norse/Germanic+Traditions+encyclopedia+britannica', title='Norse/Germanic Traditions Encyclopedia Britannica - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Norse/Germanic Traditions encyclopedia britannica information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Wyrd+Web+of+Fate+wikipedia', title='Wyrd Web Of Fate Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Wyrd Web of Fate wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Wyrd+Web+of+Fate+academic+wiki', title='Wyrd Web Of Fate Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Wyrd Web of Fate academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Wyrd+Web+of+Fate+scholarly+source', title='Wyrd Web Of Fate Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Wyrd Web of Fate scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Honor+Personal+Integrity+wikipedia', title='Honor Personal Integrity Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Honor Personal Integrity wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Honor+Personal+Integrity+academic+wiki', title='Honor Personal Integrity Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Honor Personal Integrity academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Honor+Personal+Integrity+scholarly+source', title='Honor Personal Integrity Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Honor Personal Integrity scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Norse/Germanic+Traditions+religious+studies&limit=10', title='Academic Research: Norse/Germanic Traditions religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Norse/Germanic Traditions religious studies', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Norse/Germanic+Traditions+comparative+religion&limit=10', title='Academic Research: Norse/Germanic Traditions comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Norse/Germanic Traditions comparative religion', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Norse/Germanic+Traditions+mysticism&limit=10', title='Academic Research: Norse/Germanic Traditions mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Norse/Germanic Traditions mysticism', subcategory='academic_research')"
+  ],
+  "categorized_sources": {
+    "wikipedia_excellent": [
+      "SourceLink(url='https://wikipedia.org/search?q=Norse/Germanic+Traditions+wikipedia', title='Norse/Germanic Traditions Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Norse/Germanic Traditions wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Norse/Germanic+Traditions+academic+research', title='Norse/Germanic Traditions Academic Research - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Norse/Germanic Traditions academic research information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Norse/Germanic+Traditions+scholarly+articles', title='Norse/Germanic Traditions Scholarly Articles - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Norse/Germanic Traditions scholarly articles information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Norse/Germanic+Traditions+encyclopedia+britannica', title='Norse/Germanic Traditions Encyclopedia Britannica - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Norse/Germanic Traditions encyclopedia britannica information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Wyrd+Web+of+Fate+wikipedia', title='Wyrd Web Of Fate Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Wyrd Web of Fate wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Honor+Personal+Integrity+wikipedia', title='Honor Personal Integrity Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Honor Personal Integrity wikipedia information from wikipedia.org', subcategory='general_overview')"
+    ],
+    "wikipedia_good": [
+      "SourceLink(url='https://wikimedia.org/search?q=Wyrd+Web+of+Fate+academic+wiki', title='Wyrd Web Of Fate Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Wyrd Web of Fate academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Wyrd+Web+of+Fate+scholarly+source', title='Wyrd Web Of Fate Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Wyrd Web of Fate scholarly source information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Honor+Personal+Integrity+academic+wiki', title='Honor Personal Integrity Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Honor Personal Integrity academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Honor+Personal+Integrity+scholarly+source', title='Honor Personal Integrity Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Honor Personal Integrity scholarly source information from wikimedia.org', subcategory='general_overview')"
+    ],
+    "academic_excellent": [],
+    "academic_good": [],
+    "specialized_wikis": [],
+    "reference_sources": [
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Norse/Germanic+Traditions+religious+studies&limit=10', title='Academic Research: Norse/Germanic Traditions religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Norse/Germanic Traditions religious studies', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Norse/Germanic+Traditions+comparative+religion&limit=10', title='Academic Research: Norse/Germanic Traditions comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Norse/Germanic Traditions comparative religion', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Norse/Germanic+Traditions+mysticism&limit=10', title='Academic Research: Norse/Germanic Traditions mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Norse/Germanic Traditions mysticism', subcategory='academic_research')"
+    ]
+  },
+  "source_count": 13,
+  "research_quality": "GOOD"
+}

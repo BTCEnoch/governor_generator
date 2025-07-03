@@ -1,0 +1,7 @@
+[
+    { "name": "Ally",         "definition": "Cooperates in joint rituals or goals." },
+    { "name": "Rival",        "definition": "Opposes in ideology or domain." },
+    { "name": "Protege",      "definition": "One you nurture and mentor." },
+    { "name": "Mortal Order", "definition": "Group of humans devoted to you." }
+  ]
+  

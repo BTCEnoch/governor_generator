@@ -1,0 +1,78 @@
+{
+  "tradition_name": "thelema",
+  "display_name": "Thelema",
+  "search_queries_used": [
+    "Thelema wikipedia",
+    "Thelema academic research",
+    "Thelema scholarly articles",
+    "Thelema encyclopedia britannica",
+    "True Will Philosophy wikipedia",
+    "True Will Philosophy academic wiki",
+    "True Will Philosophy scholarly source",
+    "Love Under Will Ethics wikipedia",
+    "Love Under Will Ethics academic wiki",
+    "Love Under Will Ethics scholarly source",
+    "Knowledge and Conversation HGA wikipedia",
+    "Knowledge and Conversation HGA academic wiki",
+    "Knowledge and Conversation HGA scholarly source",
+    "Aeon of Horus wikipedia",
+    "Aeon of Horus academic wiki",
+    "Aeon of Horus scholarly source",
+    "Liber Resh Solar Adorations wikipedia",
+    "Liber Resh Solar Adorations academic wiki",
+    "Liber Resh Solar Adorations scholarly source",
+    "Star Ruby Ritual wikipedia"
+  ],
+  "all_sources": [
+    "SourceLink(url='https://wikipedia.org/search?q=Thelema+wikipedia', title='Thelema Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Thelema wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Thelema+academic+research', title='Thelema Academic Research - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Thelema academic research information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Thelema+academic+research', title='Thelema Academic Research - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Thelema academic research information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://britannica.com/search?q=Thelema+academic+research', title='Thelema Academic Research - Britannica', type='academic', quality='excellent', description='Comprehensive Thelema academic research information from britannica.com', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Thelema+scholarly+articles', title='Thelema Scholarly Articles - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Thelema scholarly articles information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Thelema+scholarly+articles', title='Thelema Scholarly Articles - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Thelema scholarly articles information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://britannica.com/search?q=Thelema+scholarly+articles', title='Thelema Scholarly Articles - Britannica', type='academic', quality='excellent', description='Comprehensive Thelema scholarly articles information from britannica.com', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Thelema+encyclopedia+britannica', title='Thelema Encyclopedia Britannica - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Thelema encyclopedia britannica information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Thelema+encyclopedia+britannica', title='Thelema Encyclopedia Britannica - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Thelema encyclopedia britannica information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=True+Will+Philosophy+wikipedia', title='True Will Philosophy Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive True Will Philosophy wikipedia information from wikipedia.org', subcategory='philosophy_concepts')",
+    "SourceLink(url='https://wikimedia.org/search?q=True+Will+Philosophy+academic+wiki', title='True Will Philosophy Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive True Will Philosophy academic wiki information from wikimedia.org', subcategory='philosophy_concepts')",
+    "SourceLink(url='https://wikimedia.org/search?q=True+Will+Philosophy+scholarly+source', title='True Will Philosophy Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive True Will Philosophy scholarly source information from wikimedia.org', subcategory='philosophy_concepts')",
+    "SourceLink(url='https://wikipedia.org/search?q=Love+Under+Will+Ethics+wikipedia', title='Love Under Will Ethics Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Love Under Will Ethics wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Love+Under+Will+Ethics+academic+wiki', title='Love Under Will Ethics Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Love Under Will Ethics academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Love+Under+Will+Ethics+scholarly+source', title='Love Under Will Ethics Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Love Under Will Ethics scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Thelema+religious+studies&limit=10', title='Academic Research: Thelema religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Thelema religious studies', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Thelema+comparative+religion&limit=10', title='Academic Research: Thelema comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Thelema comparative religion', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Thelema+mysticism&limit=10', title='Academic Research: Thelema mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Thelema mysticism', subcategory='academic_research')"
+  ],
+  "categorized_sources": {
+    "wikipedia_excellent": [
+      "SourceLink(url='https://wikipedia.org/search?q=Thelema+wikipedia', title='Thelema Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Thelema wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Thelema+academic+research', title='Thelema Academic Research - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Thelema academic research information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Thelema+scholarly+articles', title='Thelema Scholarly Articles - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Thelema scholarly articles information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Thelema+encyclopedia+britannica', title='Thelema Encyclopedia Britannica - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Thelema encyclopedia britannica information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=True+Will+Philosophy+wikipedia', title='True Will Philosophy Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive True Will Philosophy wikipedia information from wikipedia.org', subcategory='philosophy_concepts')",
+      "SourceLink(url='https://wikipedia.org/search?q=Love+Under+Will+Ethics+wikipedia', title='Love Under Will Ethics Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Love Under Will Ethics wikipedia information from wikipedia.org', subcategory='general_overview')"
+    ],
+    "wikipedia_good": [
+      "SourceLink(url='https://wikimedia.org/search?q=Thelema+academic+research', title='Thelema Academic Research - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Thelema academic research information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Thelema+scholarly+articles', title='Thelema Scholarly Articles - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Thelema scholarly articles information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Thelema+encyclopedia+britannica', title='Thelema Encyclopedia Britannica - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Thelema encyclopedia britannica information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=True+Will+Philosophy+academic+wiki', title='True Will Philosophy Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive True Will Philosophy academic wiki information from wikimedia.org', subcategory='philosophy_concepts')",
+      "SourceLink(url='https://wikimedia.org/search?q=True+Will+Philosophy+scholarly+source', title='True Will Philosophy Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive True Will Philosophy scholarly source information from wikimedia.org', subcategory='philosophy_concepts')",
+      "SourceLink(url='https://wikimedia.org/search?q=Love+Under+Will+Ethics+academic+wiki', title='Love Under Will Ethics Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Love Under Will Ethics academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Love+Under+Will+Ethics+scholarly+source', title='Love Under Will Ethics Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Love Under Will Ethics scholarly source information from wikimedia.org', subcategory='general_overview')"
+    ],
+    "academic_excellent": [
+      "SourceLink(url='https://britannica.com/search?q=Thelema+academic+research', title='Thelema Academic Research - Britannica', type='academic', quality='excellent', description='Comprehensive Thelema academic research information from britannica.com', subcategory='general_overview')",
+      "SourceLink(url='https://britannica.com/search?q=Thelema+scholarly+articles', title='Thelema Scholarly Articles - Britannica', type='academic', quality='excellent', description='Comprehensive Thelema scholarly articles information from britannica.com', subcategory='general_overview')"
+    ],
+    "academic_good": [],
+    "specialized_wikis": [],
+    "reference_sources": [
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Thelema+religious+studies&limit=10', title='Academic Research: Thelema religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Thelema religious studies', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Thelema+comparative+religion&limit=10', title='Academic Research: Thelema comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Thelema comparative religion', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Thelema+mysticism&limit=10', title='Academic Research: Thelema mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Thelema mysticism', subcategory='academic_research')"
+    ]
+  },
+  "source_count": 18,
+  "research_quality": "EXCELLENT"
+}

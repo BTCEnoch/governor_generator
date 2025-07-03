@@ -1,0 +1,113 @@
+[
+    {
+      "aethyr_number": 1,
+      "aethyr_name": "LIL",
+      "correspondence": "The Universe (Saturn)",
+      "governors": [
+        {
+          "name": "Occodon",
+          "region": "Egypt",
+          "canonical_traits": {
+            "personality": ["wise", "authoritative", "spiritual"],
+            "domain": "Spiritual Ascension",
+            "visual_motif": "Golden sage with radiant sigil",
+            "letter_influence": ["Transformation", "Intuition", "Love"]
+          }
+        },
+        {
+          "name": "Pascomb",
+          "region": "Syria",
+          "canonical_traits": {
+            "personality": ["structured", "disciplined", "organized"],
+            "domain": "Cosmic Order",
+            "visual_motif": "Silver architect with geometric grids",
+            "letter_influence": ["Harmony", "Beginnings", "Hope"]
+          }
+        },
+        {
+          "name": "Valgars",
+          "region": "Northern Iraq",
+          "canonical_traits": {
+            "personality": ["protective", "cautious", "resolute"],
+            "domain": "Boundary Setting",
+            "visual_motif": "Shielded warrior with glowing aura",
+            "letter_influence": ["Vitality", "Beginnings", "Wisdom"]
+          }
+        }
+      ]
+    },
+    {
+      "aethyr_number": 2,
+      "aethyr_name": "ARN",
+      "correspondence": "The Moon (Pisces)",
+      "governors": [
+        {
+          "name": "Doagnis",
+          "region": "Cappadocia",
+          "canonical_traits": {
+            "personality": ["intuitive", "mysterious", "emotional"],
+            "domain": "Psychic Insight",
+            "visual_motif": "Veiled seer with moonlit glow",
+            "letter_influence": ["Love", "Transformation", "Beginnings"]
+          }
+        },
+        {
+          "name": "Pacasna",
+          "region": "Tuscia",
+          "canonical_traits": {
+            "personality": ["empathetic", "dreamy", "imaginative"],
+            "domain": "Emotional Healing",
+            "visual_motif": "Flowing robes with soft light",
+            "letter_influence": ["Harmony", "Beginnings", "Intuition"]
+          }
+        },
+        {
+          "name": "Dialiva",
+          "region": "Asia Minor",
+          "canonical_traits": {
+            "personality": ["illusory", "transformative", "enigmatic"],
+            "domain": "Subconscious Exploration",
+            "visual_motif": "Shifting mist with starry sigils",
+            "letter_influence": ["Love", "Courage", "Beginnings"]
+          }
+        }
+      ]
+    },
+    {
+      "aethyr_number": 3,
+      "aethyr_name": "ZOM",
+      "correspondence": "The Emperor (Aries)",
+      "governors": [
+        {
+          "name": "Samapha",
+          "region": "Hyrcania",
+          "canonical_traits": {
+            "personality": ["bold", "assertive", "dynamic"],
+            "domain": "Leadership",
+            "visual_motif": "Fiery commander with blazing sigil",
+            "letter_influence": ["Hope", "Beginnings", "Balance"]
+          }
+        },
+        {
+          "name": "Virooli",
+          "region": "Thracia",
+          "canonical_traits": {
+            "personality": ["courageous", "strategic", "inspiring"],
+            "domain": "Tactical Guidance",
+            "visual_motif": "Armored knight with radiant sword",
+            "letter_influence": ["Vitality", "Courage", "Destruction"]
+          }
+        },
+        {
+          "name": "Andispi",
+          "region": "Gosmam",
+          "canonical_traits": {
+            "personality": ["energetic", "pioneering", "visionary"],
+            "domain": "Initiative",
+            "visual_motif": "Flaming torch with dynamic sparks",
+            "letter_influence": ["Beginnings", "Surrender", "Love"]
+          }
+        }
+      ]
+    }
+] 

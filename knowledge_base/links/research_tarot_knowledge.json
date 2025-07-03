@@ -1,0 +1,67 @@
+{
+  "tradition_name": "tarot_knowledge",
+  "display_name": "Tarot Divination System",
+  "search_queries_used": [
+    "Tarot Divination System wikipedia",
+    "Tarot Divination System academic research",
+    "Tarot Divination System scholarly articles",
+    "Tarot Divination System encyclopedia britannica",
+    "Major Arcana 22 Cards wikipedia",
+    "Major Arcana 22 Cards academic wiki",
+    "Major Arcana 22 Cards scholarly source",
+    "Minor Arcana 56 Cards wikipedia",
+    "Minor Arcana 56 Cards academic wiki",
+    "Minor Arcana 56 Cards scholarly source",
+    "Fool's Journey Path wikipedia",
+    "Fool's Journey Path academic wiki",
+    "Fool's Journey Path scholarly source",
+    "Court Card Psychology wikipedia",
+    "Court Card Psychology academic wiki",
+    "Court Card Psychology scholarly source",
+    "Elemental Correspondences wikipedia",
+    "Elemental Correspondences academic wiki",
+    "Elemental Correspondences scholarly source",
+    "Celtic Cross Spread wikipedia"
+  ],
+  "all_sources": [
+    "SourceLink(url='https://wikipedia.org/search?q=Tarot+Divination+System+wikipedia', title='Tarot Divination System Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Tarot Divination System wikipedia information from wikipedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://wikimedia.org/search?q=Tarot+Divination+System+academic+research', title='Tarot Divination System Academic Research - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Tarot Divination System academic research information from wikimedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://wikimedia.org/search?q=Tarot+Divination+System+scholarly+articles', title='Tarot Divination System Scholarly Articles - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Tarot Divination System scholarly articles information from wikimedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://wikimedia.org/search?q=Tarot+Divination+System+encyclopedia+britannica', title='Tarot Divination System Encyclopedia Britannica - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Tarot Divination System encyclopedia britannica information from wikimedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://wikipedia.org/search?q=Major+Arcana+22+Cards+wikipedia', title='Major Arcana 22 Cards Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Major Arcana 22 Cards wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Major+Arcana+22+Cards+academic+wiki', title='Major Arcana 22 Cards Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Major Arcana 22 Cards academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Major+Arcana+22+Cards+scholarly+source', title='Major Arcana 22 Cards Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Major Arcana 22 Cards scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Minor+Arcana+56+Cards+wikipedia', title='Minor Arcana 56 Cards Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Minor Arcana 56 Cards wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Minor+Arcana+56+Cards+academic+wiki', title='Minor Arcana 56 Cards Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Minor Arcana 56 Cards academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Minor+Arcana+56+Cards+scholarly+source', title='Minor Arcana 56 Cards Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Minor Arcana 56 Cards scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Tarot+Divination+System+religious+studies&limit=10', title='Academic Research: Tarot Divination System religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Tarot Divination System religious studies', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Tarot+Divination+System+comparative+religion&limit=10', title='Academic Research: Tarot Divination System comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Tarot Divination System comparative religion', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Tarot+Divination+System+mysticism&limit=10', title='Academic Research: Tarot Divination System mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Tarot Divination System mysticism', subcategory='academic_research')"
+  ],
+  "categorized_sources": {
+    "wikipedia_excellent": [
+      "SourceLink(url='https://wikipedia.org/search?q=Tarot+Divination+System+wikipedia', title='Tarot Divination System Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Tarot Divination System wikipedia information from wikipedia.org', subcategory='systems_structures')",
+      "SourceLink(url='https://wikipedia.org/search?q=Major+Arcana+22+Cards+wikipedia', title='Major Arcana 22 Cards Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Major Arcana 22 Cards wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Minor+Arcana+56+Cards+wikipedia', title='Minor Arcana 56 Cards Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Minor Arcana 56 Cards wikipedia information from wikipedia.org', subcategory='general_overview')"
+    ],
+    "wikipedia_good": [
+      "SourceLink(url='https://wikimedia.org/search?q=Tarot+Divination+System+academic+research', title='Tarot Divination System Academic Research - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Tarot Divination System academic research information from wikimedia.org', subcategory='systems_structures')",
+      "SourceLink(url='https://wikimedia.org/search?q=Tarot+Divination+System+scholarly+articles', title='Tarot Divination System Scholarly Articles - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Tarot Divination System scholarly articles information from wikimedia.org', subcategory='systems_structures')",
+      "SourceLink(url='https://wikimedia.org/search?q=Tarot+Divination+System+encyclopedia+britannica', title='Tarot Divination System Encyclopedia Britannica - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Tarot Divination System encyclopedia britannica information from wikimedia.org', subcategory='systems_structures')",
+      "SourceLink(url='https://wikimedia.org/search?q=Major+Arcana+22+Cards+academic+wiki', title='Major Arcana 22 Cards Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Major Arcana 22 Cards academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Major+Arcana+22+Cards+scholarly+source', title='Major Arcana 22 Cards Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Major Arcana 22 Cards scholarly source information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Minor+Arcana+56+Cards+academic+wiki', title='Minor Arcana 56 Cards Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Minor Arcana 56 Cards academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Minor+Arcana+56+Cards+scholarly+source', title='Minor Arcana 56 Cards Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Minor Arcana 56 Cards scholarly source information from wikimedia.org', subcategory='general_overview')"
+    ],
+    "academic_excellent": [],
+    "academic_good": [],
+    "specialized_wikis": [],
+    "reference_sources": [
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Tarot+Divination+System+religious+studies&limit=10', title='Academic Research: Tarot Divination System religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Tarot Divination System religious studies', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Tarot+Divination+System+comparative+religion&limit=10', title='Academic Research: Tarot Divination System comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Tarot Divination System comparative religion', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Tarot+Divination+System+mysticism&limit=10', title='Academic Research: Tarot Divination System mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Tarot Divination System mysticism', subcategory='academic_research')"
+    ]
+  },
+  "source_count": 13,
+  "research_quality": "GOOD"
+}

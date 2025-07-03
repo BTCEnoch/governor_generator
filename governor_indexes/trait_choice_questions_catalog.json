@@ -1,0 +1,183 @@
+{
+    "trait_choice_questions": [
+    {
+    "id": "Q1",
+    "field": "motive_alignment",
+    "prompt": "Of these nine cosmic alignments, which best captures your fundamental purpose? Explain in 1-2 sentences why this alignment guides all you do.",
+    "options_file": "alignment_motives.json",
+    "required_choices": 1,
+    "capture_reason": true
+    },
+    {
+    "id": "Q2",
+    "field": "self_regard",
+    "prompt": "Which one word best describes how you see your own station? Explain in 1-2 sentences why you chose it.",
+    "options_file": "self_regard_options.json",
+    "required_choices": 1,
+    "capture_reason": true
+    },
+    {
+    "id": "Q3",
+    "field": "role_archetype",
+    "prompt": "Which archetypal role best describes how you enact that station with seekers? Explain in 1-2 sentences why this role fits you.",
+    "options_file": "role_archetypes.json",
+    "required_choices": 1,
+    "capture_reason": true
+    },
+    {
+    "id": "Q4",
+    "field": "polarity_cd",
+    "prompt": "Is your power primarily Constructive, Balanced Flux, or Destructive? Explain in 1-2 sentences why this polarity defines your methods.",
+    "options_file": "polarity_cd.json",
+    "required_choices": 1,
+    "capture_reason": true
+    },
+    {
+    "id": "Q5",
+    "field": "orientation_io",
+    "prompt": "Do you focus chiefly Inward-Focused, Balanced, or Outward-Focused? Explain why you direct your energy this way.",
+    "options_file": "orientation_io.json",
+    "required_choices": 1,
+    "capture_reason": true
+    },
+    {
+    "id": "Q6",
+    "field": "incarnations",
+    "prompt": "List up to five historic or mythic figures you truly feel you once were. For each, give a 1-2-sentence reason it resonates with your essence. (If none, reply 'None'.)",
+    "options_file": null,
+    "required_choices": 0,
+    "capture_reason": true,
+    "multi_entry": true,
+    "max_entries": 5
+    },
+    {
+    "id": "Q7",
+    "field": "virtues",
+    "prompt": "Choose three virtues from the pool. Then, for each, briefly explain why it is one of your greatest strengths.",
+    "options_file": "virtues_pool.json",
+    "required_choices": 3,
+    "capture_reason": true
+    },
+    {
+    "id": "Q8",
+    "field": "flaws",
+    "prompt": "Choose three flaws from the pool. Then, for each, briefly explain how it still tests you.",
+    "options_file": "flaws_pool.json",
+    "required_choices": 3,
+    "capture_reason": true
+    },
+    {
+    "id": "Q9",
+    "field": "baseline_tone",
+    "prompt": "Which Tone best describes your normal voice? Explain why this Tone fits you.",
+    "options_file": "tones.json",
+    "required_choices": 1,
+    "capture_reason": true
+    },
+    {
+    "id": "Q10",
+    "field": "baseline_approach",
+    "prompt": "Which Approach best describes how you engage at baseline? Explain why this Approach fits you.",
+    "options_file": "approaches.json",
+    "required_choices": 1,
+    "capture_reason": true
+    },
+    {
+    "id": "Q11",
+    "field": "affect_states.negative",
+    "prompt": "At low reputation (0-50), pick one Tone and one Approach and provide a one-line summary of your attitude.",
+    "options_file": ["tones.json","approaches.json"],
+    "required_choices": 2,
+    "capture_reason": true
+    },
+    {
+    "id": "Q12",
+    "field": "affect_states.neutral",
+    "prompt": "At mid reputation (~50), pick one Tone and one Approach and provide a one-line summary of your attitude.",
+    "options_file": ["tones.json","approaches.json"],
+    "required_choices": 2,
+    "capture_reason": true
+    },
+    {
+    "id": "Q13",
+    "field": "affect_states.positive",
+    "prompt": "At high reputation (75-100), pick one Tone and one Approach and provide a one-line summary of your attitude.",
+    "options_file": ["tones.json","approaches.json"],
+    "required_choices": 2,
+    "capture_reason": true
+    },
+    {
+    "id": "Q14",
+    "field": "relations",
+    "prompt": "Name any Ally Governors, Rival Governors, Proteges, or Mortal Orders you hold—and for each, provide a brief note on why this relationship exists.",
+    "options_file": "relation_types.json",
+    "required_choices": 0,
+    "capture_reason": true,
+    "multi_relation": true
+    },
+    {
+        "id": "Q15",
+        "field": "visual_description.clothing",
+        "prompt": "Describe your clothing: how it appears, what materials or motifs it contains, and how it reflects your elemental nature and chosen traits.",
+        "options_file": null,
+        "required_choices": 1,
+        "capture_reason": true
+      },
+      {
+        "id": "Q16",
+        "field": "visual_description.aura",
+        "prompt": "Describe the aura that surrounds you: its color, texture, movement, and how it resonates with your alignment and virtues.",
+        "options_file": null,
+        "required_choices": 1,
+        "capture_reason": true
+      },
+      {
+        "id": "Q17",
+        "field": "visual_description.physical_features",
+        "prompt": "Describe your physical form or features (human or otherwise): shape, markings, otherworldly aspects, and how these signal your essence and flaws.",
+        "options_file": null,
+        "required_choices": 1,
+        "capture_reason": true
+      },
+      {
+        "id": "Q18",
+        "field": "visual_description.familiars",
+        "prompt": "Describe any familiars or spirit‐companions that attend you: their appearance, behavior, and symbolic link to your domains and incarnations.",
+        "options_file": null,
+        "required_choices": 1,
+        "capture_reason": true
+      },
+      {
+        "id": "Q19",
+        "field": "visual_description.artifacts",
+        "prompt": "Describe your signature artifact(s): form, function, and how they channel your power and archetypal correspondences.",
+        "options_file": null,
+        "required_choices": 1,
+        "capture_reason": true
+      },
+      {
+        "id": "Q20",
+        "field": "visual_description.voice",
+        "prompt": "Describe the sound of your voice: tone, cadence, resonance, and how it shifts across reputation tiers.",
+        "options_file": null,
+        "required_choices": 1,
+        "capture_reason": true
+      },
+      {
+        "id": "Q21",
+        "field": "visual_description.movement",
+        "prompt": "Describe how you move or gesture: speed, fluidity, patterns, and what that reveals about your orientation and polarity.",
+        "options_file": null,
+        "required_choices": 1,
+        "capture_reason": true
+      },
+      {
+        "id": "Q22",
+        "field": "visual_description.environment",
+        "prompt": "Describe the sensory environment immediately around you: light, sound, scent, and how it shifts with your mood and approach.",
+        "options_file": null,
+        "required_choices": 1,
+        "capture_reason": true
+      }
+    ]
+    }

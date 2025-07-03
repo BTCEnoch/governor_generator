@@ -1,0 +1,67 @@
+{
+  "tradition_name": "taoism",
+  "display_name": "Taoism (Daoism)",
+  "search_queries_used": [
+    "Taoism (Daoism) wikipedia",
+    "Taoism (Daoism) academic research",
+    "Taoism (Daoism) scholarly articles",
+    "Taoism (Daoism) encyclopedia britannica",
+    "Tao The Way Principle wikipedia",
+    "Tao The Way Principle academic wiki",
+    "Tao The Way Principle scholarly source",
+    "Wu Wei Effortless Action wikipedia",
+    "Wu Wei Effortless Action academic wiki",
+    "Wu Wei Effortless Action scholarly source",
+    "Yin Yang Complementary Opposites wikipedia",
+    "Yin Yang Complementary Opposites academic wiki",
+    "Yin Yang Complementary Opposites scholarly source",
+    "Te Virtue Natural Power wikipedia",
+    "Te Virtue Natural Power academic wiki",
+    "Te Virtue Natural Power scholarly source",
+    "Ziran Naturalness Spontaneity wikipedia",
+    "Ziran Naturalness Spontaneity academic wiki",
+    "Ziran Naturalness Spontaneity scholarly source",
+    "Qigong Energy Cultivation wikipedia"
+  ],
+  "all_sources": [
+    "SourceLink(url='https://wikipedia.org/search?q=Taoism+(Daoism)+wikipedia', title='Taoism (Daoism) Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Taoism (Daoism) wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Taoism+(Daoism)+academic+research', title='Taoism (Daoism) Academic Research - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Taoism (Daoism) academic research information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Taoism+(Daoism)+scholarly+articles', title='Taoism (Daoism) Scholarly Articles - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Taoism (Daoism) scholarly articles information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Taoism+(Daoism)+encyclopedia+britannica', title='Taoism (Daoism) Encyclopedia Britannica - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Taoism (Daoism) encyclopedia britannica information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Tao+The+Way+Principle+wikipedia', title='Tao The Way Principle Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Tao The Way Principle wikipedia information from wikipedia.org', subcategory='philosophy_concepts')",
+    "SourceLink(url='https://wikimedia.org/search?q=Tao+The+Way+Principle+academic+wiki', title='Tao The Way Principle Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Tao The Way Principle academic wiki information from wikimedia.org', subcategory='philosophy_concepts')",
+    "SourceLink(url='https://wikimedia.org/search?q=Tao+The+Way+Principle+scholarly+source', title='Tao The Way Principle Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Tao The Way Principle scholarly source information from wikimedia.org', subcategory='philosophy_concepts')",
+    "SourceLink(url='https://wikipedia.org/search?q=Wu+Wei+Effortless+Action+wikipedia', title='Wu Wei Effortless Action Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Wu Wei Effortless Action wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Wu+Wei+Effortless+Action+academic+wiki', title='Wu Wei Effortless Action Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Wu Wei Effortless Action academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Wu+Wei+Effortless+Action+scholarly+source', title='Wu Wei Effortless Action Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Wu Wei Effortless Action scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Taoism+(Daoism)+religious+studies&limit=10', title='Academic Research: Taoism (Daoism) religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Taoism (Daoism) religious studies', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Taoism+(Daoism)+comparative+religion&limit=10', title='Academic Research: Taoism (Daoism) comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Taoism (Daoism) comparative religion', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Taoism+(Daoism)+mysticism&limit=10', title='Academic Research: Taoism (Daoism) mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Taoism (Daoism) mysticism', subcategory='academic_research')"
+  ],
+  "categorized_sources": {
+    "wikipedia_excellent": [
+      "SourceLink(url='https://wikipedia.org/search?q=Taoism+(Daoism)+wikipedia', title='Taoism (Daoism) Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Taoism (Daoism) wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Taoism+(Daoism)+academic+research', title='Taoism (Daoism) Academic Research - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Taoism (Daoism) academic research information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Taoism+(Daoism)+scholarly+articles', title='Taoism (Daoism) Scholarly Articles - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Taoism (Daoism) scholarly articles information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Taoism+(Daoism)+encyclopedia+britannica', title='Taoism (Daoism) Encyclopedia Britannica - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Taoism (Daoism) encyclopedia britannica information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Tao+The+Way+Principle+wikipedia', title='Tao The Way Principle Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Tao The Way Principle wikipedia information from wikipedia.org', subcategory='philosophy_concepts')",
+      "SourceLink(url='https://wikipedia.org/search?q=Wu+Wei+Effortless+Action+wikipedia', title='Wu Wei Effortless Action Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Wu Wei Effortless Action wikipedia information from wikipedia.org', subcategory='general_overview')"
+    ],
+    "wikipedia_good": [
+      "SourceLink(url='https://wikimedia.org/search?q=Tao+The+Way+Principle+academic+wiki', title='Tao The Way Principle Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Tao The Way Principle academic wiki information from wikimedia.org', subcategory='philosophy_concepts')",
+      "SourceLink(url='https://wikimedia.org/search?q=Tao+The+Way+Principle+scholarly+source', title='Tao The Way Principle Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Tao The Way Principle scholarly source information from wikimedia.org', subcategory='philosophy_concepts')",
+      "SourceLink(url='https://wikimedia.org/search?q=Wu+Wei+Effortless+Action+academic+wiki', title='Wu Wei Effortless Action Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Wu Wei Effortless Action academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Wu+Wei+Effortless+Action+scholarly+source', title='Wu Wei Effortless Action Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Wu Wei Effortless Action scholarly source information from wikimedia.org', subcategory='general_overview')"
+    ],
+    "academic_excellent": [],
+    "academic_good": [],
+    "specialized_wikis": [],
+    "reference_sources": [
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Taoism+(Daoism)+religious+studies&limit=10', title='Academic Research: Taoism (Daoism) religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Taoism (Daoism) religious studies', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Taoism+(Daoism)+comparative+religion&limit=10', title='Academic Research: Taoism (Daoism) comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Taoism (Daoism) comparative religion', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Taoism+(Daoism)+mysticism&limit=10', title='Academic Research: Taoism (Daoism) mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Taoism (Daoism) mysticism', subcategory='academic_research')"
+    ]
+  },
+  "source_count": 13,
+  "research_quality": "GOOD"
+}

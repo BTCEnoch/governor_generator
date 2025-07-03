@@ -1,0 +1,67 @@
+{
+  "tradition_name": "sufi_mysticism",
+  "display_name": "Sufi Mysticism",
+  "search_queries_used": [
+    "Sufi Mysticism wikipedia",
+    "Sufi Mysticism academic research",
+    "Sufi Mysticism scholarly articles",
+    "Sufi Mysticism encyclopedia britannica",
+    "Fana Passing Away Ego wikipedia",
+    "Fana Passing Away Ego academic wiki",
+    "Fana Passing Away Ego scholarly source",
+    "Baqa Subsistence God wikipedia",
+    "Baqa Subsistence God academic wiki",
+    "Baqa Subsistence God scholarly source",
+    "Dhikr Remembrance Allah wikipedia",
+    "Dhikr Remembrance Allah academic wiki",
+    "Dhikr Remembrance Allah scholarly source",
+    "Tariqah Sufi Order Path wikipedia",
+    "Tariqah Sufi Order Path academic wiki",
+    "Tariqah Sufi Order Path scholarly source",
+    "Hal vs Maqam States wikipedia",
+    "Hal vs Maqam States academic wiki",
+    "Hal vs Maqam States scholarly source",
+    "Sohbet Spiritual Conversation wikipedia"
+  ],
+  "all_sources": [
+    "SourceLink(url='https://wikipedia.org/search?q=Sufi+Mysticism+wikipedia', title='Sufi Mysticism Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Sufi Mysticism wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Sufi+Mysticism+academic+research', title='Sufi Mysticism Academic Research - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Sufi Mysticism academic research information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Sufi+Mysticism+scholarly+articles', title='Sufi Mysticism Scholarly Articles - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Sufi Mysticism scholarly articles information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Sufi+Mysticism+encyclopedia+britannica', title='Sufi Mysticism Encyclopedia Britannica - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Sufi Mysticism encyclopedia britannica information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Fana+Passing+Away+Ego+wikipedia', title='Fana Passing Away Ego Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Fana Passing Away Ego wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Fana+Passing+Away+Ego+academic+wiki', title='Fana Passing Away Ego Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Fana Passing Away Ego academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Fana+Passing+Away+Ego+scholarly+source', title='Fana Passing Away Ego Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Fana Passing Away Ego scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Baqa+Subsistence+God+wikipedia', title='Baqa Subsistence God Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Baqa Subsistence God wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Baqa+Subsistence+God+academic+wiki', title='Baqa Subsistence God Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Baqa Subsistence God academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Baqa+Subsistence+God+scholarly+source', title='Baqa Subsistence God Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Baqa Subsistence God scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Sufi+Mysticism+religious+studies&limit=10', title='Academic Research: Sufi Mysticism religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Sufi Mysticism religious studies', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Sufi+Mysticism+comparative+religion&limit=10', title='Academic Research: Sufi Mysticism comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Sufi Mysticism comparative religion', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Sufi+Mysticism+mysticism&limit=10', title='Academic Research: Sufi Mysticism mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Sufi Mysticism mysticism', subcategory='academic_research')"
+  ],
+  "categorized_sources": {
+    "wikipedia_excellent": [
+      "SourceLink(url='https://wikipedia.org/search?q=Sufi+Mysticism+wikipedia', title='Sufi Mysticism Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Sufi Mysticism wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Sufi+Mysticism+academic+research', title='Sufi Mysticism Academic Research - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Sufi Mysticism academic research information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Sufi+Mysticism+scholarly+articles', title='Sufi Mysticism Scholarly Articles - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Sufi Mysticism scholarly articles information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Sufi+Mysticism+encyclopedia+britannica', title='Sufi Mysticism Encyclopedia Britannica - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Sufi Mysticism encyclopedia britannica information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Fana+Passing+Away+Ego+wikipedia', title='Fana Passing Away Ego Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Fana Passing Away Ego wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Baqa+Subsistence+God+wikipedia', title='Baqa Subsistence God Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Baqa Subsistence God wikipedia information from wikipedia.org', subcategory='general_overview')"
+    ],
+    "wikipedia_good": [
+      "SourceLink(url='https://wikimedia.org/search?q=Fana+Passing+Away+Ego+academic+wiki', title='Fana Passing Away Ego Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Fana Passing Away Ego academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Fana+Passing+Away+Ego+scholarly+source', title='Fana Passing Away Ego Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Fana Passing Away Ego scholarly source information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Baqa+Subsistence+God+academic+wiki', title='Baqa Subsistence God Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Baqa Subsistence God academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Baqa+Subsistence+God+scholarly+source', title='Baqa Subsistence God Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Baqa Subsistence God scholarly source information from wikimedia.org', subcategory='general_overview')"
+    ],
+    "academic_excellent": [],
+    "academic_good": [],
+    "specialized_wikis": [],
+    "reference_sources": [
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Sufi+Mysticism+religious+studies&limit=10', title='Academic Research: Sufi Mysticism religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Sufi Mysticism religious studies', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Sufi+Mysticism+comparative+religion&limit=10', title='Academic Research: Sufi Mysticism comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Sufi Mysticism comparative religion', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Sufi+Mysticism+mysticism&limit=10', title='Academic Research: Sufi Mysticism mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Sufi Mysticism mysticism', subcategory='academic_research')"
+    ]
+  },
+  "source_count": 13,
+  "research_quality": "GOOD"
+}

@@ -1,0 +1,67 @@
+{
+  "tradition_name": "sacred_geometry",
+  "display_name": "Sacred Geometry",
+  "search_queries_used": [
+    "Sacred Geometry wikipedia",
+    "Sacred Geometry academic research",
+    "Sacred Geometry scholarly articles",
+    "Sacred Geometry encyclopedia britannica",
+    "Golden Ratio Phi wikipedia",
+    "Golden Ratio Phi academic wiki",
+    "Golden Ratio Phi scholarly source",
+    "Flower of Life Pattern wikipedia",
+    "Flower of Life Pattern academic wiki",
+    "Flower of Life Pattern scholarly source",
+    "Platonic Solids Five Elements wikipedia",
+    "Platonic Solids Five Elements academic wiki",
+    "Platonic Solids Five Elements scholarly source",
+    "Vesica Piscis Sacred Intersection wikipedia",
+    "Vesica Piscis Sacred Intersection academic wiki",
+    "Vesica Piscis Sacred Intersection scholarly source",
+    "Fibonacci Sequence Nature Spirals wikipedia",
+    "Fibonacci Sequence Nature Spirals academic wiki",
+    "Fibonacci Sequence Nature Spirals scholarly source",
+    "Sacred Architecture Proportions wikipedia"
+  ],
+  "all_sources": [
+    "SourceLink(url='https://wikipedia.org/search?q=Sacred+Geometry+wikipedia', title='Sacred Geometry Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Sacred Geometry wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Sacred+Geometry+academic+research', title='Sacred Geometry Academic Research - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Sacred Geometry academic research information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Sacred+Geometry+scholarly+articles', title='Sacred Geometry Scholarly Articles - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Sacred Geometry scholarly articles information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Sacred+Geometry+encyclopedia+britannica', title='Sacred Geometry Encyclopedia Britannica - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Sacred Geometry encyclopedia britannica information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Golden+Ratio+Phi+wikipedia', title='Golden Ratio Phi Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Golden Ratio Phi wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Golden+Ratio+Phi+academic+wiki', title='Golden Ratio Phi Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Golden Ratio Phi academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Golden+Ratio+Phi+scholarly+source', title='Golden Ratio Phi Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Golden Ratio Phi scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Flower+of+Life+Pattern+wikipedia', title='Flower Of Life Pattern Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Flower of Life Pattern wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Flower+of+Life+Pattern+academic+wiki', title='Flower Of Life Pattern Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Flower of Life Pattern academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Flower+of+Life+Pattern+scholarly+source', title='Flower Of Life Pattern Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Flower of Life Pattern scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Sacred+Geometry+religious+studies&limit=10', title='Academic Research: Sacred Geometry religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Sacred Geometry religious studies', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Sacred+Geometry+comparative+religion&limit=10', title='Academic Research: Sacred Geometry comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Sacred Geometry comparative religion', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Sacred+Geometry+mysticism&limit=10', title='Academic Research: Sacred Geometry mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Sacred Geometry mysticism', subcategory='academic_research')"
+  ],
+  "categorized_sources": {
+    "wikipedia_excellent": [
+      "SourceLink(url='https://wikipedia.org/search?q=Sacred+Geometry+wikipedia', title='Sacred Geometry Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Sacred Geometry wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Sacred+Geometry+academic+research', title='Sacred Geometry Academic Research - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Sacred Geometry academic research information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Sacred+Geometry+scholarly+articles', title='Sacred Geometry Scholarly Articles - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Sacred Geometry scholarly articles information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Sacred+Geometry+encyclopedia+britannica', title='Sacred Geometry Encyclopedia Britannica - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Sacred Geometry encyclopedia britannica information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Golden+Ratio+Phi+wikipedia', title='Golden Ratio Phi Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Golden Ratio Phi wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Flower+of+Life+Pattern+wikipedia', title='Flower Of Life Pattern Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Flower of Life Pattern wikipedia information from wikipedia.org', subcategory='general_overview')"
+    ],
+    "wikipedia_good": [
+      "SourceLink(url='https://wikimedia.org/search?q=Golden+Ratio+Phi+academic+wiki', title='Golden Ratio Phi Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Golden Ratio Phi academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Golden+Ratio+Phi+scholarly+source', title='Golden Ratio Phi Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Golden Ratio Phi scholarly source information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Flower+of+Life+Pattern+academic+wiki', title='Flower Of Life Pattern Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Flower of Life Pattern academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Flower+of+Life+Pattern+scholarly+source', title='Flower Of Life Pattern Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Flower of Life Pattern scholarly source information from wikimedia.org', subcategory='general_overview')"
+    ],
+    "academic_excellent": [],
+    "academic_good": [],
+    "specialized_wikis": [],
+    "reference_sources": [
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Sacred+Geometry+religious+studies&limit=10', title='Academic Research: Sacred Geometry religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Sacred Geometry religious studies', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Sacred+Geometry+comparative+religion&limit=10', title='Academic Research: Sacred Geometry comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Sacred Geometry comparative religion', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Sacred+Geometry+mysticism&limit=10', title='Academic Research: Sacred Geometry mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Sacred Geometry mysticism', subcategory='academic_research')"
+    ]
+  },
+  "source_count": 13,
+  "research_quality": "GOOD"
+}

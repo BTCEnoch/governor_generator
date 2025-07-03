@@ -1,0 +1,246 @@
+{
+  "mapping_metadata": {
+    "created_at": "2025-07-02T13:32:51.249516",
+    "total_traditions": 8,
+    "processing_method": "free_web_scraping",
+    "api_cost": "$0.00",
+    "content_sources": "wikipedia_direct_scraping"
+  },
+  "tradition_categories": {
+    "foundational_systems": [
+      "golden_dawn"
+    ],
+    "historical_traditions": [
+      "egyptian_magic",
+      "norse_traditions",
+      "celtic_druidic"
+    ],
+    "practical_arts": [
+      "sacred_geometry"
+    ],
+    "modern_experimental": [
+      "thelema",
+      "chaos_magic"
+    ],
+    "mystical_traditions": [
+      "sufi_mysticism"
+    ]
+  },
+  "traditions": {
+    "golden_dawn": {
+      "tradition_info": {
+        "name": "golden_dawn",
+        "display_name": "Hermetic Order of the Golden Dawn",
+        "category": "foundational_systems",
+        "source_count": 12,
+        "wikipedia_sources": 3
+      },
+      "content_summary": {
+        "articles_scraped": 0,
+        "successful_scrapes": 0,
+        "total_words": 0,
+        "scraping_success_rate": 0.0
+      },
+      "scraped_content": [],
+      "source_urls": [
+        "https://wikipedia.org/search?q=Hermetic+Order+of+the+Golden+Dawn+wikipedia",
+        "https://wikipedia.org/search?q=\"Middle+Pillar+Technique\"+wikipedia",
+        "https://wikipedia.org/search?q=\"Elemental+Magic+System\"+wikipedia"
+      ],
+      "knowledge_areas": [],
+      "key_concepts": []
+    },
+    "thelema": {
+      "tradition_info": {
+        "name": "thelema",
+        "display_name": "Thelema",
+        "category": "modern_experimental",
+        "source_count": 18,
+        "wikipedia_sources": 6
+      },
+      "content_summary": {
+        "articles_scraped": 0,
+        "successful_scrapes": 0,
+        "total_words": 0,
+        "scraping_success_rate": 0.0
+      },
+      "scraped_content": [],
+      "source_urls": [
+        "https://wikipedia.org/search?q=Thelema+wikipedia",
+        "https://wikipedia.org/search?q=Thelema+academic+research",
+        "https://wikipedia.org/search?q=Thelema+scholarly+articles",
+        "https://wikipedia.org/search?q=Thelema+encyclopedia+britannica",
+        "https://wikipedia.org/search?q=\"True+Will+Philosophy\"+wikipedia",
+        "https://wikipedia.org/search?q=\"Love+Under+Will+Ethics\"+wikipedia"
+      ],
+      "knowledge_areas": [],
+      "key_concepts": []
+    },
+    "egyptian_magic": {
+      "tradition_info": {
+        "name": "egyptian_magic",
+        "display_name": "Ancient Egyptian Magic",
+        "category": "historical_traditions",
+        "source_count": 13,
+        "wikipedia_sources": 3
+      },
+      "content_summary": {
+        "articles_scraped": 0,
+        "successful_scrapes": 0,
+        "total_words": 0,
+        "scraping_success_rate": 0.0
+      },
+      "scraped_content": [],
+      "source_urls": [
+        "https://wikipedia.org/search?q=Ancient+Egyptian+Magic+wikipedia",
+        "https://wikipedia.org/search?q=\"Ma\\",
+        "https://wikipedia.org/search?q=\"Neteru+Divine+Principles\"+wikipedia"
+      ],
+      "knowledge_areas": [],
+      "key_concepts": []
+    },
+    "sacred_geometry": {
+      "tradition_info": {
+        "name": "sacred_geometry",
+        "display_name": "Sacred Geometry",
+        "category": "practical_arts",
+        "source_count": 13,
+        "wikipedia_sources": 6
+      },
+      "content_summary": {
+        "articles_scraped": 0,
+        "successful_scrapes": 0,
+        "total_words": 0,
+        "scraping_success_rate": 0.0
+      },
+      "scraped_content": [],
+      "source_urls": [
+        "https://wikipedia.org/search?q=Sacred+Geometry+wikipedia",
+        "https://wikipedia.org/search?q=Sacred+Geometry+academic+research",
+        "https://wikipedia.org/search?q=Sacred+Geometry+scholarly+articles",
+        "https://wikipedia.org/search?q=Sacred+Geometry+encyclopedia+britannica",
+        "https://wikipedia.org/search?q=\"Golden+Ratio+Phi\"+wikipedia",
+        "https://wikipedia.org/search?q=\"Flower+of+Life+Pattern\"+wikipedia"
+      ],
+      "knowledge_areas": [],
+      "key_concepts": []
+    },
+    "chaos_magic": {
+      "tradition_info": {
+        "name": "chaos_magic",
+        "display_name": "Chaos Magic",
+        "category": "modern_experimental",
+        "source_count": 13,
+        "wikipedia_sources": 6
+      },
+      "content_summary": {
+        "articles_scraped": 0,
+        "successful_scrapes": 0,
+        "total_words": 0,
+        "scraping_success_rate": 0.0
+      },
+      "scraped_content": [],
+      "source_urls": [
+        "https://wikipedia.org/search?q=Chaos+Magic+wikipedia",
+        "https://wikipedia.org/search?q=Chaos+Magic+academic+research",
+        "https://wikipedia.org/search?q=Chaos+Magic+scholarly+articles",
+        "https://wikipedia.org/search?q=Chaos+Magic+encyclopedia+britannica",
+        "https://wikipedia.org/search?q=\"Paradigm+Shifting+Belief+Tools\"+wikipedia",
+        "https://wikipedia.org/search?q=\"Results+Based+Practice\"+wikipedia"
+      ],
+      "knowledge_areas": [],
+      "key_concepts": []
+    },
+    "norse_traditions": {
+      "tradition_info": {
+        "name": "norse_traditions",
+        "display_name": "Norse/Germanic Traditions",
+        "category": "historical_traditions",
+        "source_count": 13,
+        "wikipedia_sources": 6
+      },
+      "content_summary": {
+        "articles_scraped": 0,
+        "successful_scrapes": 0,
+        "total_words": 0,
+        "scraping_success_rate": 0.0
+      },
+      "scraped_content": [],
+      "source_urls": [
+        "https://wikipedia.org/search?q=Norse/Germanic+Traditions+wikipedia",
+        "https://wikipedia.org/search?q=Norse/Germanic+Traditions+academic+research",
+        "https://wikipedia.org/search?q=Norse/Germanic+Traditions+scholarly+articles",
+        "https://wikipedia.org/search?q=Norse/Germanic+Traditions+encyclopedia+britannica",
+        "https://wikipedia.org/search?q=\"Wyrd+Web+of+Fate\"+wikipedia",
+        "https://wikipedia.org/search?q=\"Honor+Personal+Integrity\"+wikipedia"
+      ],
+      "knowledge_areas": [],
+      "key_concepts": []
+    },
+    "sufi_mysticism": {
+      "tradition_info": {
+        "name": "sufi_mysticism",
+        "display_name": "Sufi Mysticism",
+        "category": "mystical_traditions",
+        "source_count": 13,
+        "wikipedia_sources": 6
+      },
+      "content_summary": {
+        "articles_scraped": 0,
+        "successful_scrapes": 0,
+        "total_words": 0,
+        "scraping_success_rate": 0.0
+      },
+      "scraped_content": [],
+      "source_urls": [
+        "https://wikipedia.org/search?q=Sufi+Mysticism+wikipedia",
+        "https://wikipedia.org/search?q=Sufi+Mysticism+academic+research",
+        "https://wikipedia.org/search?q=Sufi+Mysticism+scholarly+articles",
+        "https://wikipedia.org/search?q=Sufi+Mysticism+encyclopedia+britannica",
+        "https://wikipedia.org/search?q=\"Fana+Passing+Away+Ego\"+wikipedia",
+        "https://wikipedia.org/search?q=\"Baqa+Subsistence+God\"+wikipedia"
+      ],
+      "knowledge_areas": [],
+      "key_concepts": []
+    },
+    "celtic_druidic": {
+      "tradition_info": {
+        "name": "celtic_druidic",
+        "display_name": "Celtic Druidic Traditions",
+        "category": "historical_traditions",
+        "source_count": 13,
+        "wikipedia_sources": 3
+      },
+      "content_summary": {
+        "articles_scraped": 0,
+        "successful_scrapes": 0,
+        "total_words": 0,
+        "scraping_success_rate": 0.0
+      },
+      "scraped_content": [],
+      "source_urls": [
+        "https://wikipedia.org/search?q=Celtic+Druidic+Traditions+wikipedia",
+        "https://wikipedia.org/search?q=\"Awen+Divine+Inspiration\"+wikipedia",
+        "https://wikipedia.org/search?q=\"Otherworld+Parallel+Realm\"+wikipedia"
+      ],
+      "knowledge_areas": [],
+      "key_concepts": []
+    }
+  },
+  "cross_references": {
+    "golden_dawn": [],
+    "thelema": [],
+    "egyptian_magic": [],
+    "sacred_geometry": [],
+    "chaos_magic": [],
+    "norse_traditions": [],
+    "sufi_mysticism": [],
+    "celtic_druidic": []
+  },
+  "content_summary": {
+    "total_articles_scraped": 0,
+    "total_word_count": 0,
+    "average_words_per_tradition": 0,
+    "scraping_success_rate": 0.0
+  }
+}

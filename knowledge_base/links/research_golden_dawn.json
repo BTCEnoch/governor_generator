@@ -1,0 +1,65 @@
+{
+  "tradition_name": "golden_dawn",
+  "display_name": "Hermetic Order of the Golden Dawn",
+  "search_queries_used": [
+    "Hermetic Order of the Golden Dawn wikipedia",
+    "Hermetic Order of the Golden Dawn academic research",
+    "Hermetic Order of the Golden Dawn scholarly articles",
+    "Hermetic Order of the Golden Dawn encyclopedia britannica",
+    "Middle Pillar Technique wikipedia",
+    "Middle Pillar Technique academic wiki",
+    "Middle Pillar Technique scholarly source",
+    "Elemental Magic System wikipedia",
+    "Elemental Magic System academic wiki",
+    "Elemental Magic System scholarly source",
+    "Pathworking Practice wikipedia",
+    "Pathworking Practice academic wiki",
+    "Pathworking Practice scholarly source",
+    "Watchtower Magic wikipedia",
+    "Watchtower Magic academic wiki",
+    "Watchtower Magic scholarly source",
+    "Egyptian Godforms wikipedia",
+    "Egyptian Godforms academic wiki",
+    "Egyptian Godforms scholarly source",
+    "Skrying and Vision Work wikipedia"
+  ],
+  "all_sources": [
+    "SourceLink(url='https://wikipedia.org/search?q=Hermetic+Order+of+the+Golden+Dawn+wikipedia', title='Hermetic Order Of The Golden Dawn Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Hermetic Order of the Golden Dawn wikipedia information from wikipedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://wikimedia.org/search?q=Hermetic+Order+of+the+Golden+Dawn+academic+research', title='Hermetic Order Of The Golden Dawn Academic Research - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Hermetic Order of the Golden Dawn academic research information from wikimedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://wikimedia.org/search?q=Hermetic+Order+of+the+Golden+Dawn+scholarly+articles', title='Hermetic Order Of The Golden Dawn Scholarly Articles - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Hermetic Order of the Golden Dawn scholarly articles information from wikimedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://wikimedia.org/search?q=Hermetic+Order+of+the+Golden+Dawn+encyclopedia+britannica', title='Hermetic Order Of The Golden Dawn Encyclopedia Britannica - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Hermetic Order of the Golden Dawn encyclopedia britannica information from wikimedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://wikipedia.org/search?q=Middle+Pillar+Technique+wikipedia', title='Middle Pillar Technique Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Middle Pillar Technique wikipedia information from wikipedia.org', subcategory='practices_rituals')",
+    "SourceLink(url='https://wikimedia.org/search?q=Middle+Pillar+Technique+academic+wiki', title='Middle Pillar Technique Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Middle Pillar Technique academic wiki information from wikimedia.org', subcategory='practices_rituals')",
+    "SourceLink(url='https://wikimedia.org/search?q=Middle+Pillar+Technique+scholarly+source', title='Middle Pillar Technique Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Middle Pillar Technique scholarly source information from wikimedia.org', subcategory='practices_rituals')",
+    "SourceLink(url='https://wikipedia.org/search?q=Elemental+Magic+System+wikipedia', title='Elemental Magic System Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Elemental Magic System wikipedia information from wikipedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://wikimedia.org/search?q=Elemental+Magic+System+academic+wiki', title='Elemental Magic System Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Elemental Magic System academic wiki information from wikimedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://wikimedia.org/search?q=Elemental+Magic+System+scholarly+source', title='Elemental Magic System Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Elemental Magic System scholarly source information from wikimedia.org', subcategory='systems_structures')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Hermetic+Order+of+the+Golden+Dawn+religious+studies&limit=10', title='Academic Research: Hermetic Order of the Golden Dawn religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Hermetic Order of the Golden Dawn religious studies', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Hermetic+Order+of+the+Golden+Dawn+comparative+religion&limit=10', title='Academic Research: Hermetic Order of the Golden Dawn comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Hermetic Order of the Golden Dawn comparative religion', subcategory='academic_research')"
+  ],
+  "categorized_sources": {
+    "wikipedia_excellent": [
+      "SourceLink(url='https://wikipedia.org/search?q=Hermetic+Order+of+the+Golden+Dawn+wikipedia', title='Hermetic Order Of The Golden Dawn Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Hermetic Order of the Golden Dawn wikipedia information from wikipedia.org', subcategory='systems_structures')",
+      "SourceLink(url='https://wikipedia.org/search?q=Middle+Pillar+Technique+wikipedia', title='Middle Pillar Technique Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Middle Pillar Technique wikipedia information from wikipedia.org', subcategory='practices_rituals')",
+      "SourceLink(url='https://wikipedia.org/search?q=Elemental+Magic+System+wikipedia', title='Elemental Magic System Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Elemental Magic System wikipedia information from wikipedia.org', subcategory='systems_structures')"
+    ],
+    "wikipedia_good": [
+      "SourceLink(url='https://wikimedia.org/search?q=Hermetic+Order+of+the+Golden+Dawn+academic+research', title='Hermetic Order Of The Golden Dawn Academic Research - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Hermetic Order of the Golden Dawn academic research information from wikimedia.org', subcategory='systems_structures')",
+      "SourceLink(url='https://wikimedia.org/search?q=Hermetic+Order+of+the+Golden+Dawn+scholarly+articles', title='Hermetic Order Of The Golden Dawn Scholarly Articles - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Hermetic Order of the Golden Dawn scholarly articles information from wikimedia.org', subcategory='systems_structures')",
+      "SourceLink(url='https://wikimedia.org/search?q=Hermetic+Order+of+the+Golden+Dawn+encyclopedia+britannica', title='Hermetic Order Of The Golden Dawn Encyclopedia Britannica - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Hermetic Order of the Golden Dawn encyclopedia britannica information from wikimedia.org', subcategory='systems_structures')",
+      "SourceLink(url='https://wikimedia.org/search?q=Middle+Pillar+Technique+academic+wiki', title='Middle Pillar Technique Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Middle Pillar Technique academic wiki information from wikimedia.org', subcategory='practices_rituals')",
+      "SourceLink(url='https://wikimedia.org/search?q=Middle+Pillar+Technique+scholarly+source', title='Middle Pillar Technique Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Middle Pillar Technique scholarly source information from wikimedia.org', subcategory='practices_rituals')",
+      "SourceLink(url='https://wikimedia.org/search?q=Elemental+Magic+System+academic+wiki', title='Elemental Magic System Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Elemental Magic System academic wiki information from wikimedia.org', subcategory='systems_structures')",
+      "SourceLink(url='https://wikimedia.org/search?q=Elemental+Magic+System+scholarly+source', title='Elemental Magic System Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Elemental Magic System scholarly source information from wikimedia.org', subcategory='systems_structures')"
+    ],
+    "academic_excellent": [],
+    "academic_good": [],
+    "specialized_wikis": [],
+    "reference_sources": [
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Hermetic+Order+of+the+Golden+Dawn+religious+studies&limit=10', title='Academic Research: Hermetic Order of the Golden Dawn religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Hermetic Order of the Golden Dawn religious studies', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Hermetic+Order+of+the+Golden+Dawn+comparative+religion&limit=10', title='Academic Research: Hermetic Order of the Golden Dawn comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Hermetic Order of the Golden Dawn comparative religion', subcategory='academic_research')"
+    ]
+  },
+  "source_count": 12,
+  "research_quality": "GOOD"
+}

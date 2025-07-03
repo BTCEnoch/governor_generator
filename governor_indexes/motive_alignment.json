@@ -1,0 +1,12 @@
+[
+    { "name": "Lawful Good",    "definition": "Upholds cosmic laws to foster benevolence and justice." },
+    { "name": "Neutral Good",   "definition": "Acts with compassion, unbound by strict rules or chaos." },
+    { "name": "Chaotic Good",   "definition": "Breaks unjust structures to liberate the innocent." },
+    { "name": "Lawful Neutral", "definition": "Enforces balance and order above mercy or malice." },
+    { "name": "True Neutral",   "definition": "Maintains equilibrium, interfering only when essential." },
+    { "name": "Chaotic Neutral","definition": "Embraces change and unpredictability as the highest law." },
+    { "name": "Lawful Evil",    "definition": "Bends rules and systems to serve a strict personal agenda." },
+    { "name": "Neutral Evil",   "definition": "Pursues self-interest pragmatically, indifferent to order or chaos." },
+    { "name": "Chaotic Evil",   "definition": "Sows anarchy and destruction purely for the thrill of upheaval." }
+  ]
+  

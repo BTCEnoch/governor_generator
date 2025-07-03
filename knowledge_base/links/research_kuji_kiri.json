@@ -1,0 +1,67 @@
+{
+  "tradition_name": "kuji_kiri",
+  "display_name": "Kuji-kiri (Nine Symbolic Cuts)",
+  "search_queries_used": [
+    "Kuji-kiri (Nine Symbolic Cuts) wikipedia",
+    "Kuji-kiri (Nine Symbolic Cuts) academic research",
+    "Kuji-kiri (Nine Symbolic Cuts) scholarly articles",
+    "Kuji-kiri (Nine Symbolic Cuts) encyclopedia britannica",
+    "Nine Symbolic Cuts Foundation wikipedia",
+    "Nine Symbolic Cuts Foundation academic wiki",
+    "Nine Symbolic Cuts Foundation scholarly source",
+    "Mudra Power Hand Gestures wikipedia",
+    "Mudra Power Hand Gestures academic wiki",
+    "Mudra Power Hand Gestures scholarly source",
+    "Energy Direction Ki Chi wikipedia",
+    "Energy Direction Ki Chi academic wiki",
+    "Energy Direction Ki Chi scholarly source",
+    "Protection Magic Methods wikipedia",
+    "Protection Magic Methods academic wiki",
+    "Protection Magic Methods scholarly source",
+    "Rin Strength Mudra wikipedia",
+    "Rin Strength Mudra academic wiki",
+    "Rin Strength Mudra scholarly source",
+    "Pyo Energy Direction wikipedia"
+  ],
+  "all_sources": [
+    "SourceLink(url='https://wikipedia.org/search?q=Kuji-kiri+(Nine+Symbolic+Cuts)+wikipedia', title='Kuji-Kiri (Nine Symbolic Cuts) Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Kuji-kiri (Nine Symbolic Cuts) wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Kuji-kiri+(Nine+Symbolic+Cuts)+academic+research', title='Kuji-Kiri (Nine Symbolic Cuts) Academic Research - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Kuji-kiri (Nine Symbolic Cuts) academic research information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Kuji-kiri+(Nine+Symbolic+Cuts)+scholarly+articles', title='Kuji-Kiri (Nine Symbolic Cuts) Scholarly Articles - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Kuji-kiri (Nine Symbolic Cuts) scholarly articles information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Kuji-kiri+(Nine+Symbolic+Cuts)+encyclopedia+britannica', title='Kuji-Kiri (Nine Symbolic Cuts) Encyclopedia Britannica - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Kuji-kiri (Nine Symbolic Cuts) encyclopedia britannica information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Nine+Symbolic+Cuts+Foundation+wikipedia', title='Nine Symbolic Cuts Foundation Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Nine Symbolic Cuts Foundation wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Nine+Symbolic+Cuts+Foundation+academic+wiki', title='Nine Symbolic Cuts Foundation Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Nine Symbolic Cuts Foundation academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Nine+Symbolic+Cuts+Foundation+scholarly+source', title='Nine Symbolic Cuts Foundation Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Nine Symbolic Cuts Foundation scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Mudra+Power+Hand+Gestures+wikipedia', title='Mudra Power Hand Gestures Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Mudra Power Hand Gestures wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Mudra+Power+Hand+Gestures+academic+wiki', title='Mudra Power Hand Gestures Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Mudra Power Hand Gestures academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Mudra+Power+Hand+Gestures+scholarly+source', title='Mudra Power Hand Gestures Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Mudra Power Hand Gestures scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Kuji-kiri+(Nine+Symbolic+Cuts)+religious+studies&limit=10', title='Academic Research: Kuji-kiri (Nine Symbolic Cuts) religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Kuji-kiri (Nine Symbolic Cuts) religious studies', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Kuji-kiri+(Nine+Symbolic+Cuts)+comparative+religion&limit=10', title='Academic Research: Kuji-kiri (Nine Symbolic Cuts) comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Kuji-kiri (Nine Symbolic Cuts) comparative religion', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Kuji-kiri+(Nine+Symbolic+Cuts)+mysticism&limit=10', title='Academic Research: Kuji-kiri (Nine Symbolic Cuts) mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Kuji-kiri (Nine Symbolic Cuts) mysticism', subcategory='academic_research')"
+  ],
+  "categorized_sources": {
+    "wikipedia_excellent": [
+      "SourceLink(url='https://wikipedia.org/search?q=Kuji-kiri+(Nine+Symbolic+Cuts)+wikipedia', title='Kuji-Kiri (Nine Symbolic Cuts) Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Kuji-kiri (Nine Symbolic Cuts) wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Nine+Symbolic+Cuts+Foundation+wikipedia', title='Nine Symbolic Cuts Foundation Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Nine Symbolic Cuts Foundation wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Mudra+Power+Hand+Gestures+wikipedia', title='Mudra Power Hand Gestures Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Mudra Power Hand Gestures wikipedia information from wikipedia.org', subcategory='general_overview')"
+    ],
+    "wikipedia_good": [
+      "SourceLink(url='https://wikimedia.org/search?q=Kuji-kiri+(Nine+Symbolic+Cuts)+academic+research', title='Kuji-Kiri (Nine Symbolic Cuts) Academic Research - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Kuji-kiri (Nine Symbolic Cuts) academic research information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Kuji-kiri+(Nine+Symbolic+Cuts)+scholarly+articles', title='Kuji-Kiri (Nine Symbolic Cuts) Scholarly Articles - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Kuji-kiri (Nine Symbolic Cuts) scholarly articles information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Kuji-kiri+(Nine+Symbolic+Cuts)+encyclopedia+britannica', title='Kuji-Kiri (Nine Symbolic Cuts) Encyclopedia Britannica - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Kuji-kiri (Nine Symbolic Cuts) encyclopedia britannica information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Nine+Symbolic+Cuts+Foundation+academic+wiki', title='Nine Symbolic Cuts Foundation Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Nine Symbolic Cuts Foundation academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Nine+Symbolic+Cuts+Foundation+scholarly+source', title='Nine Symbolic Cuts Foundation Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Nine Symbolic Cuts Foundation scholarly source information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Mudra+Power+Hand+Gestures+academic+wiki', title='Mudra Power Hand Gestures Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Mudra Power Hand Gestures academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Mudra+Power+Hand+Gestures+scholarly+source', title='Mudra Power Hand Gestures Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Mudra Power Hand Gestures scholarly source information from wikimedia.org', subcategory='general_overview')"
+    ],
+    "academic_excellent": [],
+    "academic_good": [],
+    "specialized_wikis": [],
+    "reference_sources": [
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Kuji-kiri+(Nine+Symbolic+Cuts)+religious+studies&limit=10', title='Academic Research: Kuji-kiri (Nine Symbolic Cuts) religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Kuji-kiri (Nine Symbolic Cuts) religious studies', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Kuji-kiri+(Nine+Symbolic+Cuts)+comparative+religion&limit=10', title='Academic Research: Kuji-kiri (Nine Symbolic Cuts) comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Kuji-kiri (Nine Symbolic Cuts) comparative religion', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Kuji-kiri+(Nine+Symbolic+Cuts)+mysticism&limit=10', title='Academic Research: Kuji-kiri (Nine Symbolic Cuts) mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Kuji-kiri (Nine Symbolic Cuts) mysticism', subcategory='academic_research')"
+    ]
+  },
+  "source_count": 13,
+  "research_quality": "GOOD"
+}

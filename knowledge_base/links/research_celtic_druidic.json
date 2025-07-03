@@ -1,0 +1,67 @@
+{
+  "tradition_name": "celtic_druidic",
+  "display_name": "Celtic Druidic Traditions",
+  "search_queries_used": [
+    "Celtic Druidic Traditions wikipedia",
+    "Celtic Druidic Traditions academic research",
+    "Celtic Druidic Traditions scholarly articles",
+    "Celtic Druidic Traditions encyclopedia britannica",
+    "Awen Divine Inspiration wikipedia",
+    "Awen Divine Inspiration academic wiki",
+    "Awen Divine Inspiration scholarly source",
+    "Otherworld Parallel Realm wikipedia",
+    "Otherworld Parallel Realm academic wiki",
+    "Otherworld Parallel Realm scholarly source",
+    "Land Connection Sacred wikipedia",
+    "Land Connection Sacred academic wiki",
+    "Land Connection Sacred scholarly source",
+    "Seasonal Cycles Eight Festivals wikipedia",
+    "Seasonal Cycles Eight Festivals academic wiki",
+    "Seasonal Cycles Eight Festivals scholarly source",
+    "Tree Wisdom Species Knowledge wikipedia",
+    "Tree Wisdom Species Knowledge academic wiki",
+    "Tree Wisdom Species Knowledge scholarly source",
+    "Ogham Tree Alphabet wikipedia"
+  ],
+  "all_sources": [
+    "SourceLink(url='https://wikipedia.org/search?q=Celtic+Druidic+Traditions+wikipedia', title='Celtic Druidic Traditions Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Celtic Druidic Traditions wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Celtic+Druidic+Traditions+academic+research', title='Celtic Druidic Traditions Academic Research - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Celtic Druidic Traditions academic research information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Celtic+Druidic+Traditions+scholarly+articles', title='Celtic Druidic Traditions Scholarly Articles - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Celtic Druidic Traditions scholarly articles information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Celtic+Druidic+Traditions+encyclopedia+britannica', title='Celtic Druidic Traditions Encyclopedia Britannica - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Celtic Druidic Traditions encyclopedia britannica information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Awen+Divine+Inspiration+wikipedia', title='Awen Divine Inspiration Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Awen Divine Inspiration wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Awen+Divine+Inspiration+academic+wiki', title='Awen Divine Inspiration Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Awen Divine Inspiration academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Awen+Divine+Inspiration+scholarly+source', title='Awen Divine Inspiration Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Awen Divine Inspiration scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikipedia.org/search?q=Otherworld+Parallel+Realm+wikipedia', title='Otherworld Parallel Realm Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Otherworld Parallel Realm wikipedia information from wikipedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Otherworld+Parallel+Realm+academic+wiki', title='Otherworld Parallel Realm Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Otherworld Parallel Realm academic wiki information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://wikimedia.org/search?q=Otherworld+Parallel+Realm+scholarly+source', title='Otherworld Parallel Realm Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Otherworld Parallel Realm scholarly source information from wikimedia.org', subcategory='general_overview')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Celtic+Druidic+Traditions+religious+studies&limit=10', title='Academic Research: Celtic Druidic Traditions religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Celtic Druidic Traditions religious studies', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Celtic+Druidic+Traditions+comparative+religion&limit=10', title='Academic Research: Celtic Druidic Traditions comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Celtic Druidic Traditions comparative religion', subcategory='academic_research')",
+    "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Celtic+Druidic+Traditions+mysticism&limit=10', title='Academic Research: Celtic Druidic Traditions mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Celtic Druidic Traditions mysticism', subcategory='academic_research')"
+  ],
+  "categorized_sources": {
+    "wikipedia_excellent": [
+      "SourceLink(url='https://wikipedia.org/search?q=Celtic+Druidic+Traditions+wikipedia', title='Celtic Druidic Traditions Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Celtic Druidic Traditions wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Awen+Divine+Inspiration+wikipedia', title='Awen Divine Inspiration Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Awen Divine Inspiration wikipedia information from wikipedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikipedia.org/search?q=Otherworld+Parallel+Realm+wikipedia', title='Otherworld Parallel Realm Wikipedia - Wikipedia', type='wikipedia', quality='excellent', description='Comprehensive Otherworld Parallel Realm wikipedia information from wikipedia.org', subcategory='general_overview')"
+    ],
+    "wikipedia_good": [
+      "SourceLink(url='https://wikimedia.org/search?q=Celtic+Druidic+Traditions+academic+research', title='Celtic Druidic Traditions Academic Research - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Celtic Druidic Traditions academic research information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Celtic+Druidic+Traditions+scholarly+articles', title='Celtic Druidic Traditions Scholarly Articles - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Celtic Druidic Traditions scholarly articles information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Celtic+Druidic+Traditions+encyclopedia+britannica', title='Celtic Druidic Traditions Encyclopedia Britannica - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Celtic Druidic Traditions encyclopedia britannica information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Awen+Divine+Inspiration+academic+wiki', title='Awen Divine Inspiration Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Awen Divine Inspiration academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Awen+Divine+Inspiration+scholarly+source', title='Awen Divine Inspiration Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Awen Divine Inspiration scholarly source information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Otherworld+Parallel+Realm+academic+wiki', title='Otherworld Parallel Realm Academic Wiki - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Otherworld Parallel Realm academic wiki information from wikimedia.org', subcategory='general_overview')",
+      "SourceLink(url='https://wikimedia.org/search?q=Otherworld+Parallel+Realm+scholarly+source', title='Otherworld Parallel Realm Scholarly Source - Wikimedia', type='wikipedia', quality='good', description='Comprehensive Otherworld Parallel Realm scholarly source information from wikimedia.org', subcategory='general_overview')"
+    ],
+    "academic_excellent": [],
+    "academic_good": [],
+    "specialized_wikis": [],
+    "reference_sources": [
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Celtic+Druidic+Traditions+religious+studies&limit=10', title='Academic Research: Celtic Druidic Traditions religious studies', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Celtic Druidic Traditions religious studies', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Celtic+Druidic+Traditions+comparative+religion&limit=10', title='Academic Research: Celtic Druidic Traditions comparative religion', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Celtic Druidic Traditions comparative religion', subcategory='academic_research')",
+      "SourceLink(url='https://api.semanticscholar.org/graph/v1/paper/search?query=Celtic+Druidic+Traditions+mysticism&limit=10', title='Academic Research: Celtic Druidic Traditions mysticism', type='academic_paper', quality='excellent', description='Semantic Scholar academic papers on Celtic Druidic Traditions mysticism', subcategory='academic_research')"
+    ]
+  },
+  "source_count": 13,
+  "research_quality": "GOOD"
+}
