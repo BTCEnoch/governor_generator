@@ -1,5 +1,5 @@
 {
-  "tradition": "I-Ching (Book of Changes)",
+  "tradition": "i_ching",
   "overview": "I-Ching (Book of Changes) is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
   "traits": [
     "pattern-aware",
@@ -8,6 +8,18 @@
     "oracular"
   ],
   "interaction_patterns": [],
-  "key_concepts": [],
-  "wisdom_elements": []
+  "key_concepts": [
+    "yin_yang_polarity",
+    "hexagram_wisdom",
+    "change_cycles",
+    "trigram_forces",
+    "divination_guidance"
+  ],
+  "wisdom_elements": [
+    "Dynamic balance of opposing forces",
+    "Structured wisdom through 64 situations",
+    "Natural cycles of transformation",
+    "Eight fundamental energetic patterns",
+    "Guidance through symbolic interpretation"
+  ]
 }

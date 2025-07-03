@@ -1,5 +1,5 @@
 {
-  "tradition": "Sufi Mysticism",
+  "tradition": "sufi_mysticism",
   "overview": "Sufi Mysticism is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
   "traits": [
     "unity-seeking",
@@ -12,6 +12,18 @@
     "uses poetic language",
     "emphasizes love and unity"
   ],
-  "key_concepts": [],
-  "wisdom_elements": []
+  "key_concepts": [
+    "dhikr_remembrance",
+    "fana_extinction",
+    "tariqa_path",
+    "qalb_heart",
+    "baqa_subsistence"
+  ],
+  "wisdom_elements": [
+    "Constant remembrance of divine presence",
+    "Ego dissolution in divine unity",
+    "Guided path through spiritual stages",
+    "Heart as center of spiritual perception",
+    "Eternal subsistence in divine consciousness"
+  ]
 }

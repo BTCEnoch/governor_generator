@@ -11,6 +11,7 @@ from typing import Dict, List, Optional, Any
 from dataclasses import dataclass
 
 from canonical_trait_registry import CanonicalTraitRegistry, GovernorCanonical
+from semantic_knowledge_integrator import SemanticKnowledgeIntegrator
 
 logger = logging.getLogger(__name__)
 
@@ -42,6 +43,7 @@ class GovernorEngine:
         self.base_path = base_path
         self.canonical_registry = CanonicalTraitRegistry(base_path)
         self.governor_output_path = base_path / "governor_output"
+        self.semantic_integrator = SemanticKnowledgeIntegrator(base_path / "knowledge_base")
         
     def create_archetypal_governor(self, governor_name: str) -> Optional[ArchetypalGovernor]:
         """Create complete archetypal governor by combining all data sources"""
@@ -89,10 +91,48 @@ class GovernorEngine:
         return archetypal_governor
     
     def _get_knowledge_selections(self, canonical: GovernorCanonical) -> List[str]:
-        """Get knowledge base selections based on canonical traits"""
-        # This will eventually connect to the Knowledge Engine (Lighthouse)
-        # For now, map canonical traits to knowledge areas
-        
+        """Get knowledge base selections using semantic knowledge retrieval"""
+        try:
+            # Convert canonical data to dictionary format for semantic integrator
+            canonical_data = {
+                "name": canonical.name,
+                "aethyr_name": canonical.aethyr_name,
+                "correspondence": canonical.correspondence,
+                "canonical_traits": {
+                    "domain": canonical.canonical_traits.domain,
+                    "personality": canonical.canonical_traits.personality,
+                    "visual_motif": canonical.canonical_traits.visual_motif,
+                    "letter_influence": canonical.canonical_traits.letter_influence
+                }
+            }
+            
+            # Generate semantic knowledge profile
+            knowledge_profile = self.semantic_integrator.get_semantic_knowledge_profile(canonical_data)
+            
+            # Extract knowledge selections from semantic matches
+            selections = []
+            
+            # Add primary traditions
+            selections.extend(knowledge_profile.primary_traditions)
+            
+            # Add top knowledge concepts (limited to prevent overwhelm)
+            selections.extend(knowledge_profile.knowledge_concepts[:5])
+            
+            # Add wisdom elements
+            selections.extend(knowledge_profile.wisdom_elements[:3])
+            
+            # Remove duplicates and return
+            return list(set(selections))
+            
+        except Exception as e:
+            logger.warning(f"Semantic knowledge retrieval failed for {canonical.name}: {e}")
+            logger.info("Falling back to simple mapping")
+            
+                         # Fallback to simple mapping if semantic retrieval fails
+            return self._get_knowledge_selections_fallback(canonical)
+    
+    def _get_knowledge_selections_fallback(self, canonical: GovernorCanonical) -> List[str]:
+        """Fallback knowledge selection using simple mapping"""
         selections = []
         domain = canonical.canonical_traits.domain.lower()
         personality = [p.lower() for p in canonical.canonical_traits.personality]
@@ -109,19 +149,19 @@ class GovernorEngine:
             selections.extend(["kabbalah", "sacred_mathematics"])
         
         # Map personality traits to knowledge
-        if "wise" in personality:
+        if any("wise" in p for p in personality):
             selections.append("wisdom_traditions")
-        if "mysterious" in personality:
+        if any("mysterious" in p for p in personality):
             selections.append("esoteric_knowledge")
-        if "protective" in personality:
+        if any("protective" in p for p in personality):
             selections.append("guardian_wisdom")
         
         # Map letter influences to knowledge
-        if "transformation" in letters:
+        if any("transformation" in l for l in letters):
             selections.append("transformation_mysteries")
-        if "wisdom" in letters:
+        if any("wisdom" in l for l in letters):
             selections.append("ancient_wisdom")
-        if "love" in letters:
+        if any("love" in l for l in letters):
             selections.append("compassion_teachings")
             
         return list(set(selections))  # Remove duplicates

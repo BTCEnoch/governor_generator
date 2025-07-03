@@ -19,21 +19,33 @@
         "title": "Hermes Trismegistus and Hermetic Tradition",
         "url": "https://en.wikipedia.org/wiki/Hermes_Trismegistus",
         "summary": "Legendary figure attributed with founding Hermetic philosophy and alchemy",
-        "key_concepts": ["Hermes Trismegistus", "ancient wisdom", "philosophical foundation"],
+        "key_concepts": [
+          "Hermes Trismegistus",
+          "ancient wisdom",
+          "philosophical foundation"
+        ],
         "content": "Hermes Trismegistus ('Thrice-Greatest Hermes') is the legendary author of the Hermetic Corpus, a collection of philosophical and religious texts that form the foundation of Hermeticism. These writings synthesize Greek philosophy, Egyptian religion, and Platonic thought into a unified system of spiritual understanding."
       },
       {
         "title": "The Emerald Tablet",
         "url": "https://en.wikipedia.org/wiki/Emerald_Tablet",
         "summary": "Foundational alchemical text containing core Hermetic principles",
-        "key_concepts": ["as above so below", "alchemical transformation", "universal principles"],
+        "key_concepts": [
+          "as above so below",
+          "alchemical transformation",
+          "universal principles"
+        ],
         "content": "The Emerald Tablet is the most famous Hermetic text, containing the fundamental principles of alchemy and spiritual transformation. Its central axiom 'As above, so below' expresses the correspondence between macrocosm and microcosm, establishing the foundation for analogical thinking in Western esotericism."
       },
       {
         "title": "Seven Hermetic Principles",
         "url": "https://en.wikipedia.org/wiki/The_Kybalion",
         "summary": "Core philosophical laws governing reality according to Hermetic teaching",
-        "key_concepts": ["universal laws", "philosophical principles", "reality structure"],
+        "key_concepts": [
+          "universal laws",
+          "philosophical principles",
+          "reality structure"
+        ],
         "content": "The Seven Hermetic Principles are fundamental laws that govern all existence: Mentalism (all is mind), Correspondence (as above, so below), Vibration (nothing rests), Polarity (everything is dual), Rhythm (everything flows), Cause and Effect (every effect has a cause), and Gender (everything has masculine and feminine principles)."
       }
     ],
@@ -42,21 +54,33 @@
         "title": "Principle of Mentalism",
         "url": "https://hermetic.com/kybalion/chapter-4",
         "summary": "The universe is mental in nature, existing as thoughts in the Universal Mind",
-        "key_concepts": ["universal mind", "mental creation", "consciousness primary"],
+        "key_concepts": [
+          "universal mind",
+          "mental creation",
+          "consciousness primary"
+        ],
         "content": "The Principle of Mentalism states 'THE ALL IS MIND; The Universe is Mental.' This principle establishes that all of reality is fundamentally mental in nature, created and sustained by universal consciousness. Individual minds are finite expressions of the infinite Universal Mind."
       },
       {
         "title": "Principle of Correspondence",
         "url": "https://hermetic.com/kybalion/chapter-5",
         "summary": "Harmony between different planes of existence enables understanding",
-        "key_concepts": ["macrocosm microcosm", "three planes", "analogical thinking"],
+        "key_concepts": [
+          "macrocosm microcosm",
+          "three planes",
+          "analogical thinking"
+        ],
         "content": "The Principle of Correspondence reveals the harmony between the Mental, Astral, and Physical planes of existence. By understanding patterns on one plane, we can comprehend similar patterns on other planes, making this principle essential for magical practice and philosophical understanding."
       },
       {
         "title": "Principle of Vibration",
         "url": "https://hermetic.com/kybalion/chapter-6",
         "summary": "Everything is in constant motion and vibrational activity",
-        "key_concepts": ["universal motion", "vibrational frequencies", "energy states"],
+        "key_concepts": [
+          "universal motion",
+          "vibrational frequencies",
+          "energy states"
+        ],
         "content": "The Principle of Vibration states that nothing rests and everything moves and vibrates. Different manifestations of matter, energy, mind, and spirit are simply varying rates of vibration. Understanding this principle enables mental transmutation and conscious transformation."
       }
     ],
@@ -65,14 +89,22 @@
         "title": "Principle of Polarity",
         "url": "https://hermetic.com/kybalion/chapter-7",
         "summary": "Opposites are identical in nature but different in degree",
-        "key_concepts": ["duality", "opposite extremes", "mental transmutation"],
+        "key_concepts": [
+          "duality",
+          "opposite extremes",
+          "mental transmutation"
+        ],
         "content": "The Principle of Polarity reveals that apparent opposites are actually two extremes of the same thing. Hot and cold are both degrees of temperature, love and hate are degrees of feeling. This understanding enables the transmutation of unwanted mental states."
       },
       {
         "title": "Hermetic Alchemy and Transformation",
         "url": "https://en.wikipedia.org/wiki/Alchemy#Hermetic_alchemy",
         "summary": "Spiritual and material transformation through Hermetic principles",
-        "key_concepts": ["spiritual alchemy", "inner transformation", "Great Work"],
+        "key_concepts": [
+          "spiritual alchemy",
+          "inner transformation",
+          "Great Work"
+        ],
         "content": "Hermetic alchemy applies the Seven Principles to achieve both spiritual and material transformation. The Great Work involves purifying consciousness and achieving union with the divine, while also understanding the laws governing physical transformation and manifestation."
       }
     ]
@@ -83,5 +115,19 @@
     "tradition_complexity": "HIGH",
     "source_authenticity": "CLASSICAL_PHILOSOPHICAL",
     "extraction_timestamp": "2025-07-02T15:40:00Z"
-  }
-} 
+  },
+  "academic_excellent": [
+    "https://scholar.google.com/scholar?q=hermetic+philosophy+corpus+hermeticum",
+    "https://www.jstor.org/stable/1451789"
+  ],
+  "academic_good": [
+    "https://www.cambridge.org/core/journals/religious-studies",
+    "https://brill.com/view/journals/vchr/vchr-overview.xml"
+  ],
+  "specialized_wikis": [
+    "https://en.wikipedia.org/wiki/Hermeticism",
+    "https://en.wikipedia.org/wiki/Corpus_Hermeticum",
+    "https://en.wikipedia.org/wiki/Emerald_Tablet",
+    "https://hermetic.com/hermetic-philosophy"
+  ]
+}

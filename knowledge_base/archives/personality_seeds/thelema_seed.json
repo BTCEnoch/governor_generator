@@ -1,5 +1,5 @@
 {
-  "tradition": "Thelema",
+  "tradition": "thelema",
   "overview": "Thelema is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
   "traits": [
     "magical",
@@ -8,6 +8,18 @@
     "will-focused"
   ],
   "interaction_patterns": [],
-  "key_concepts": [],
-  "wisdom_elements": []
+  "key_concepts": [
+    "true_will",
+    "aeon_of_horus",
+    "liber_al",
+    "holy_guardian_angel",
+    "magick_practice"
+  ],
+  "wisdom_elements": [
+    "Individual purpose as divine mandate",
+    "New spiritual age of individual sovereignty",
+    "Revealed text as spiritual foundation",
+    "Personal divine connection and guidance",
+    "Ceremonial practice for spiritual attainment"
+  ]
 }

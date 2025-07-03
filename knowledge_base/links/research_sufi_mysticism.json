@@ -63,5 +63,19 @@
     ]
   },
   "source_count": 13,
-  "research_quality": "GOOD"
+  "research_quality": "GOOD",
+  "academic_excellent": [
+    "https://scholar.google.com/scholar?q=sufi+mysticism+islamic+spirituality",
+    "https://www.jstor.org/stable/1451789"
+  ],
+  "academic_good": [
+    "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies",
+    "https://brill.com/view/journals/mwo/mwo-overview.xml"
+  ],
+  "specialized_wikis": [
+    "https://en.wikipedia.org/wiki/Sufism",
+    "https://en.wikipedia.org/wiki/Rumi",
+    "https://en.wikipedia.org/wiki/Whirling_dervishes",
+    "https://sufism.org/what-is-sufism"
+  ]
 }

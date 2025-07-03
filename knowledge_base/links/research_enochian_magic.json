@@ -19,21 +19,34 @@
         "title": "John Dee and Edward Kelley Angelic Conversations",
         "url": "https://en.wikipedia.org/wiki/John_Dee",
         "summary": "Historical foundation of Enochian magic through scrying sessions from 1582-1589",
-        "key_concepts": ["angelic communication", "scrying", "divine revelation"],
+        "key_concepts": [
+          "angelic communication",
+          "scrying",
+          "divine revelation"
+        ],
         "content": "John Dee (1527-1608) was an English mathematician, astronomer, and advisor to Queen Elizabeth I who, together with medium Edward Kelley, received the Enochian magical system through angelic communications. The system includes a complete magical language, complex ritual practices, and a cosmological framework based on 30 spiritual realms called Aethyrs."
       },
       {
         "title": "Enochian Angels and Hierarchy",
         "url": "https://en.wikipedia.org/wiki/Enochian_magic",
         "summary": "The four primary Archangels governing elemental forces and spiritual watchtowers",
-        "key_concepts": ["Uriel fire", "Gabriel water", "Michael protection", "Raphael air healing"],
+        "key_concepts": [
+          "Uriel fire",
+          "Gabriel water",
+          "Michael protection",
+          "Raphael air healing"
+        ],
         "content": "The Enochian system recognizes four primary Archangels: Uriel (Fire/South), Gabriel (Water/West), Michael (Air/East), and Raphael (Air/East). Each governs an elemental watchtower and provides specific spiritual functions including purification, healing, protection, and divine communication."
       },
       {
         "title": "The 19 Enochian Keys",
         "url": "https://sacred-texts.com/eso/dee/",
         "summary": "Sacred invocations in the Enochian language for opening divine communication",
-        "key_concepts": ["divine invocation", "angelic language", "ritual opening"],
+        "key_concepts": [
+          "divine invocation",
+          "angelic language",
+          "ritual opening"
+        ],
         "content": "The Enochian Keys are 19 sacred invocations written in the Enochian language that serve as gateways to angelic communication. The First Key opens divine channels, while subsequent keys access specific spiritual realms and angelic orders."
       }
     ],
@@ -42,21 +55,33 @@
         "title": "30 Aethyrs Spiritual Realms",
         "url": "https://en.wikipedia.org/wiki/Enochian_magic#Aethyrs",
         "summary": "Hierarchical spiritual realms from material to divine, each governed by three angels",
-        "key_concepts": ["spiritual hierarchy", "91 governors", "aethyr exploration"],
+        "key_concepts": [
+          "spiritual hierarchy",
+          "91 governors",
+          "aethyr exploration"
+        ],
         "content": "The 30 Aethyrs represent ascending spiritual realms from the material world (30th Aethyr LIL) to the highest divine spheres (1st Aethyr LIL). Each Aethyr is governed by three angels, totaling 91 Governors who serve as guides and teachers for spiritual development."
       },
       {
         "title": "Enochian Great Table",
         "url": "https://hermetic.com/dee/",
         "summary": "Central tablet containing elemental watchtowers and angelic names",
-        "key_concepts": ["elemental magic", "watchtowers", "angelic names"],
+        "key_concepts": [
+          "elemental magic",
+          "watchtowers",
+          "angelic names"
+        ],
         "content": "The Great Table is a 12x13 grid containing four elemental watchtowers (Fire, Air, Water, Earth) plus a central Tablet of Union. Each square contains letters forming angelic names with specific magical functions and elemental correspondences."
       },
       {
         "title": "Enochian Language System",
         "url": "https://en.wikipedia.org/wiki/Enochian",
         "summary": "Sacred angelic language received through divine revelation",
-        "key_concepts": ["angelic communication", "sacred language", "divine vibration"],
+        "key_concepts": [
+          "angelic communication",
+          "sacred language",
+          "divine vibration"
+        ],
         "content": "The Enochian language consists of 21 letters and follows unique grammatical rules. Each word carries specific vibrational frequencies that resonate with angelic consciousness and facilitate divine communication when properly pronounced."
       }
     ],
@@ -65,14 +90,22 @@
         "title": "Sigillum Dei Aemeth Sacred Geometry",
         "url": "https://hermetic.com/dee/sigillum-dei-aemeth",
         "summary": "Sacred seal representing the divine name and cosmic structure",
-        "key_concepts": ["sacred geometry", "divine names", "cosmic structure"],
+        "key_concepts": [
+          "sacred geometry",
+          "divine names",
+          "cosmic structure"
+        ],
         "content": "The Sigillum Dei Aemeth is a complex geometric seal containing divine names, planetary correspondences, and angelic hierarchies. It serves as a protective talisman and cosmic map for Enochian workings."
       },
       {
         "title": "91 Governors of the Aethyrs",
         "url": "https://enochian.fandom.com/wiki/Governors",
         "summary": "Individual angelic governors with unique personalities and domains",
-        "key_concepts": ["governor personalities", "spiritual guidance", "individual relationships"],
+        "key_concepts": [
+          "governor personalities",
+          "spiritual guidance",
+          "individual relationships"
+        ],
         "content": "Each of the 91 Governors has distinct personality traits, specializations, and domains of influence. They serve as personal guides for practitioners and offer unique perspectives on spiritual development based on their aethyric positions."
       }
     ]
@@ -83,5 +116,19 @@
     "tradition_complexity": "VERY_HIGH",
     "source_authenticity": "PRIMARY_HISTORICAL",
     "extraction_timestamp": "2025-07-02T15:30:00Z"
-  }
-} 
+  },
+  "academic_excellent": [
+    "https://scholar.google.com/scholar?q=enochian+magic+john+dee",
+    "https://www.jstor.org/stable/1451456"
+  ],
+  "academic_good": [
+    "https://www.cambridge.org/core/journals/annals-of-science",
+    "https://link.springer.com/journal/10698"
+  ],
+  "specialized_wikis": [
+    "https://en.wikipedia.org/wiki/Enochian_magic",
+    "https://en.wikipedia.org/wiki/John_Dee",
+    "https://en.wikipedia.org/wiki/Edward_Kelley",
+    "https://enochian.org/introduction-to-enochian-magic"
+  ]
+}

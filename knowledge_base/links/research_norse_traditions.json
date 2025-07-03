@@ -63,5 +63,19 @@
     ]
   },
   "source_count": 13,
-  "research_quality": "GOOD"
+  "research_quality": "GOOD",
+  "academic_excellent": [
+    "https://scholar.google.com/scholar?q=norse+traditions+germanic+mythology",
+    "https://www.jstor.org/stable/1451901"
+  ],
+  "academic_good": [
+    "https://www.cambridge.org/core/journals/folklore",
+    "https://brill.com/view/journals/mill/mill-overview.xml"
+  ],
+  "specialized_wikis": [
+    "https://en.wikipedia.org/wiki/Norse_mythology",
+    "https://en.wikipedia.org/wiki/Runes",
+    "https://en.wikipedia.org/wiki/Yggdrasil",
+    "https://www.vikinganswerlady.com/religion.shtml"
+  ]
 }

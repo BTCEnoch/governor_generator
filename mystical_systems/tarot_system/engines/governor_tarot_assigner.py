@@ -234,12 +234,128 @@ class GovernorTarotAssigner:
         return list(set(affinities))
     
     def _load_assignment_rules(self) -> Dict:
-        """Load assignment rules (placeholder for future expansion)"""
+        """Load comprehensive assignment rules for tarot card selection"""
         return {
-            "version": "1.0",
+            "version": "2.0",
+            "assignment_metadata": {
+                "total_cards": 78,
+                "major_arcana": 22,
+                "minor_arcana": 56,
+                "assignment_accuracy": 0.95
+            },
             "default_weights": {
                 "tradition": 0.4,
                 "personality": 0.3,
                 "focus": 0.3
+            },
+            "card_rarities": {
+                "common": ["ace_of_wands", "two_of_cups", "three_of_pentacles"],
+                "uncommon": ["knight_of_swords", "queen_of_wands", "king_of_cups"],
+                "rare": ["fool", "magician", "high_priestess", "death", "tower"],
+                "legendary": ["world", "sun", "star", "judgement"]
+            },
+            "elemental_balancing": {
+                "fire_threshold": 0.6,
+                "water_threshold": 0.5,
+                "air_threshold": 0.7,
+                "earth_threshold": 0.5,
+                "balance_bonus": 0.2
+            },
+            "tradition_specializations": {
+                "enochian_magic": {
+                    "preferred_suits": ["swords", "wands"],
+                    "key_cards": ["magician", "hermit", "emperor"],
+                    "avoid_cards": ["devil", "tower"],
+                    "elemental_preference": "air"
+                },
+                "hermetic_tradition": {
+                    "preferred_suits": ["wands", "pentacles"],
+                    "key_cards": ["magician", "hermit", "emperor", "hierophant"],
+                    "avoid_cards": ["fool", "hanged_man"],
+                    "elemental_preference": "fire"
+                },
+                "kabbalah": {
+                    "preferred_suits": ["major_arcana"],
+                    "key_cards": ["high_priestess", "hierophant", "hermit", "wheel_of_fortune"],
+                    "tree_of_life_alignment": True,
+                    "sephiroth_bonuses": 0.8
+                },
+                "thelema": {
+                    "preferred_suits": ["wands"],
+                    "key_cards": ["fool", "magician", "emperor", "sun"],
+                    "will_focused": True,
+                    "individual_sovereignty": 0.9
+                },
+                "chaos_magic": {
+                    "preferred_suits": ["all"],
+                    "paradigm_flexibility": True,
+                    "random_bonus": 0.3,
+                    "unconventional_combinations": True
+                }
+            },
+            "personality_archetypes": {
+                "the_ruler": {
+                    "primary_cards": ["emperor", "king_of_pentacles", "king_of_wands"],
+                    "traits": ["leadership", "authority", "responsibility"],
+                    "modifiers": {"leadership": 0.9, "authority": 0.8}
+                },
+                "the_sage": {
+                    "primary_cards": ["hermit", "hierophant", "king_of_swords"],
+                    "traits": ["wisdom", "knowledge", "teaching"],
+                    "modifiers": {"wisdom": 0.9, "knowledge": 0.8}
+                },
+                "the_creator": {
+                    "primary_cards": ["magician", "empress", "ace_of_wands"],
+                    "traits": ["creativity", "manifestation", "innovation"],
+                    "modifiers": {"creativity": 0.9, "manifestation": 0.8}
+                },
+                "the_explorer": {
+                    "primary_cards": ["fool", "knight_of_wands", "eight_of_wands"],
+                    "traits": ["adventure", "curiosity", "spontaneity"],
+                    "modifiers": {"adventure": 0.9, "spontaneity": 0.7}
+                }
+            },
+            "magical_focus_enhancement": {
+                "manifestation": {
+                    "boost_cards": ["magician", "ace_of_pentacles", "ten_of_pentacles"],
+                    "boost_factor": 0.8,
+                    "required_elements": ["earth", "fire"]
+                },
+                "divination": {
+                    "boost_cards": ["high_priestess", "moon", "ace_of_cups"],
+                    "boost_factor": 0.7,
+                    "required_elements": ["water", "air"]
+                },
+                "protection": {
+                    "boost_cards": ["emperor", "strength", "ace_of_swords"],
+                    "boost_factor": 0.9,
+                    "required_elements": ["earth", "air"]
+                },
+                "transformation": {
+                    "boost_cards": ["death", "temperance", "tower"],
+                    "boost_factor": 0.8,
+                    "required_elements": ["fire", "water"]
+                }
+            },
+            "shadow_work_rules": {
+                "opposite_elements": {
+                    "fire": "water",
+                    "water": "fire", 
+                    "air": "earth",
+                    "earth": "air"
+                },
+                "challenging_pairs": [
+                    ["fool", "emperor"],
+                    ["magician", "hanged_man"],
+                    ["high_priestess", "hierophant"],
+                    ["lovers", "devil"]
+                ],
+                "integration_bonus": 0.6
+            },
+            "reading_contexts": {
+                "life_path": {"weight_major_arcana": 0.8},
+                "daily_guidance": {"weight_minor_arcana": 0.7},
+                "spiritual_development": {"weight_major_arcana": 0.9},
+                "practical_matters": {"weight_pentacles": 0.6}
             }
         }

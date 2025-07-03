@@ -1,5 +1,5 @@
-from game.tarot_game_engine import TarotGameEngine
-from schemas.tarot_schemas import TarotReading
+from game_mechanics.divination_systems.tarot_game_engine import TarotGameEngine
+from mystical_systems.tarot_system.schemas.tarot_schemas import TarotReading
 
 class TarotGameInterface:
     def __init__(self):

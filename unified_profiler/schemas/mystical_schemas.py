@@ -3,7 +3,7 @@ from typing import List, Dict, Optional, Tuple
 from enum import Enum
 
 # Import existing tarot schemas
-from .tarot_schemas import TarotCard, TarotSuit, CardPosition, TarotReading, GovernorTarotProfile
+from mystical_systems.tarot_system.schemas.tarot_schemas import TarotCard, TarotSuit, CardPosition, TarotReading, GovernorTarotProfile
 
 # =============================================================================
 # KABBALAH & TREE OF LIFE SYSTEM

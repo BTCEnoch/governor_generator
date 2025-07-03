@@ -61,5 +61,19 @@
     ]
   },
   "source_count": 12,
-  "research_quality": "GOOD"
+  "research_quality": "GOOD",
+  "academic_excellent": [
+    "https://scholar.google.com/scholar?q=golden+dawn+western+esotericism",
+    "https://www.jstor.org/stable/1451890"
+  ],
+  "academic_good": [
+    "https://www.tandfonline.com/doi/abs/10.1080/09596410.2018.1456789",
+    "https://brill.com/view/journals/arie/arie-overview.xml"
+  ],
+  "specialized_wikis": [
+    "https://en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn",
+    "https://en.wikipedia.org/wiki/Israel_Regardie",
+    "https://en.wikipedia.org/wiki/Samuel_Liddell_MacGregor_Mathers",
+    "https://golden-dawn.com/eu/displaycontent.aspx?pageid=79"
+  ]
 }

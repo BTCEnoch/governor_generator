@@ -4,7 +4,7 @@ Simple Numerology Database - Life Path Numbers 1-9
 Based on Pythagorean numerology system
 """
 
-from schemas.mystical_schemas import NumerologyProfile, NumerologySystem
+from unified_profiler.schemas.mystical_schemas import NumerologyProfile, NumerologySystem
 
 # Life Path Numbers 1-9 Database
 LIFE_PATH_NUMBERS = [

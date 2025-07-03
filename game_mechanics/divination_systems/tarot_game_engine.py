@@ -1,8 +1,8 @@
 import random
 from typing import List, Tuple, Optional
 from datetime import datetime
-from schemas.tarot_schemas import TarotCard, CardPosition, TarotReading
-from utils.tarot_utils import TarotDatabase
+from mystical_systems.tarot_system.schemas.tarot_schemas import TarotCard, CardPosition, TarotReading
+from mystical_systems.tarot_system.utils.tarot_utils import TarotDatabase
 
 class TarotGameEngine:
     def __init__(self):

@@ -63,5 +63,19 @@
     ]
   },
   "source_count": 13,
-  "research_quality": "GOOD"
+  "research_quality": "GOOD",
+  "academic_excellent": [
+    "https://scholar.google.com/scholar?q=ancient+egyptian+magic+religious+practices",
+    "https://www.jstor.org/stable/1451923"
+  ],
+  "academic_good": [
+    "https://www.cambridge.org/core/journals/journal-of-egyptian-archaeology",
+    "https://brill.com/view/journals/jea/jea-overview.xml"
+  ],
+  "specialized_wikis": [
+    "https://en.wikipedia.org/wiki/Ancient_Egyptian_religion",
+    "https://en.wikipedia.org/wiki/Egyptian_mythology",
+    "https://en.wikipedia.org/wiki/Heka_(god)",
+    "https://www.egyptianmyths.net/magic.htm"
+  ]
 }

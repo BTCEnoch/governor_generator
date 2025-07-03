@@ -1,5 +1,5 @@
 {
-  "tradition": "Chaos Magic",
+  "tradition": "chaos_magic",
   "overview": "Chaos Magic is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
   "traits": [
     "experimental",
@@ -12,6 +12,18 @@
     "focuses on practical results",
     "challenges assumptions"
   ],
-  "key_concepts": [],
-  "wisdom_elements": []
+  "key_concepts": [
+    "paradigm_shifting",
+    "gnosis_techniques",
+    "sigil_magic",
+    "belief_flexibility",
+    "practical_sorcery"
+  ],
+  "wisdom_elements": [
+    "Adaptability through paradigm experimentation",
+    "Direct experience over rigid doctrine",
+    "Personal effectiveness through flexible beliefs",
+    "Creative synthesis of magical systems",
+    "Pragmatic approach to consciousness alteration"
+  ]
 }

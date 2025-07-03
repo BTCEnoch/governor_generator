@@ -4,7 +4,7 @@ Simple Western Zodiac Database - 12 Zodiac Signs
 Traditional Western astrology with basic traits and correspondences
 """
 
-from schemas.mystical_schemas import ZodiacSign, ZodiacElement, ZodiacModality
+from unified_profiler.schemas.mystical_schemas import ZodiacSign, ZodiacElement, ZodiacModality
 
 # Zodiac Signs Database Part 1 (Aries - Virgo)
 ZODIAC_SIGNS_PART1 = [

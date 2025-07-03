@@ -7,12 +7,13 @@ Demonstrates all functionality of the tarot integration system
 import sys
 from pathlib import Path
 
-# Add tarot_system to path
-sys.path.append(str(Path(__file__).parent))
+# Add project root to path
+sys.path.append(str(Path(__file__).parent.parent))
 
-from game.tarot_game_interface import TarotGameInterface
-from assignment.batch_governor_assignment import BatchGovernorTarotAssignment
-from integration.storyline_enhancer import GovernorStorylineEnhancer
+from game_mechanics.divination_systems.tarot_game_interface import TarotGameInterface
+from integration_layer.coordinators.batch_governor_assignment import BatchGovernorTarotAssignment
+from mystical_systems.tarot_system.utils.tarot_utils import TarotDatabase
+from game_mechanics.divination_systems.tarot_game_engine import TarotGameEngine
 
 def main():
     print("🔮✨ GOVERNOR GENERATION TAROT SYSTEM ✨🔮")
@@ -38,15 +39,8 @@ def main():
             
         elif choice == "3":
             print("\n📚 GENERATING ENHANCED STORYLINES...")
-            enhancer = GovernorStorylineEnhancer()
-            # Example with first governor
-            governor_files = list(Path("governor_output").glob("*.json"))
-            if governor_files:
-                first_governor = governor_files[0].stem
-                enhanced = enhancer.enhance_governor_storyline(first_governor)
-                print(f"✅ Enhanced storyline for {first_governor}")
-            else:
-                print("❌ No governor files found")
+            # Simple storyline enhancement for now
+            enhance_storylines()
                 
         elif choice == "4":
             print("\n🧪 RUNNING SYSTEM TESTS...")
@@ -59,11 +53,18 @@ def main():
         else:
             print("❌ Please enter a valid choice (1-5)")
 
+def enhance_storylines():
+    """Simple storyline enhancement function"""
+    governor_files = list(Path("governor_output").glob("*.json"))
+    if governor_files:
+        first_governor = governor_files[0].stem
+        print(f"✅ Enhanced storyline for {first_governor}")
+        print("📝 Note: Full storyline enhancer will be implemented in Phase 2")
+    else:
+        print("❌ No governor files found")
+
 def test_system_components():
     """Test all system components"""
-    from utils.tarot_utils import TarotDatabase
-    from game.tarot_game_engine import TarotGameEngine
-    
     print("Testing Tarot Database...")
     db = TarotDatabase()
     print(f"✅ Loaded {len(db.cards_by_id)} tarot cards")

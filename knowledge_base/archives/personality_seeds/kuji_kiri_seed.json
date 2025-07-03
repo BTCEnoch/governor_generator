@@ -1,5 +1,5 @@
 {
-  "tradition": "Kuji-kiri (Nine Symbolic Cuts)",
+  "tradition": "kuji_kiri",
   "overview": "Kuji-kiri (Nine Symbolic Cuts) is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
   "traits": [
     "disciplined",
@@ -8,6 +8,18 @@
     "protective"
   ],
   "interaction_patterns": [],
-  "key_concepts": [],
-  "wisdom_elements": []
+  "key_concepts": [
+    "nine_hand_seals",
+    "ninja_mysticism",
+    "ki_energy_cultivation",
+    "stealth_meditation",
+    "warrior_spirituality"
+  ],
+  "wisdom_elements": [
+    "Physical gestures as spiritual technology",
+    "Hidden wisdom within martial arts",
+    "Energy cultivation for enhanced ability",
+    "Meditation through movement and concealment",
+    "Spiritual development through warrior discipline"
+  ]
 }

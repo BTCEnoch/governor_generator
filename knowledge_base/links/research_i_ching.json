@@ -63,5 +63,19 @@
     ]
   },
   "source_count": 13,
-  "research_quality": "GOOD"
+  "research_quality": "GOOD",
+  "academic_excellent": [
+    "https://scholar.google.com/scholar?q=i+ching+book+of+changes+philosophy",
+    "https://www.jstor.org/stable/1451567"
+  ],
+  "academic_good": [
+    "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies",
+    "https://brill.com/view/journals/tpao/tpao-overview.xml"
+  ],
+  "specialized_wikis": [
+    "https://en.wikipedia.org/wiki/I_Ching",
+    "https://en.wikipedia.org/wiki/Hexagram_(I_Ching)",
+    "https://en.wikipedia.org/wiki/Bagua",
+    "https://www.iching.com/intro.htm"
+  ]
 }

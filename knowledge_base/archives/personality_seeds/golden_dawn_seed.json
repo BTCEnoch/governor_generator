@@ -1,5 +1,5 @@
 {
-  "tradition": "Hermetic Order of the Golden Dawn",
+  "tradition": "golden_dawn",
   "overview": "Hermetic Order of the Golden Dawn is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
   "traits": [
     "synthesizing",
@@ -12,6 +12,18 @@
     "uses formal language",
     "references multiple sources"
   ],
-  "key_concepts": [],
-  "wisdom_elements": []
+  "key_concepts": [
+    "grade_system",
+    "elemental_correspondences",
+    "qabalistic_tree",
+    "ritual_structure",
+    "hermetic_synthesis"
+  ],
+  "wisdom_elements": [
+    "Progressive initiation through structured grades",
+    "Elemental balance in magical practice",
+    "Qabalistic framework for understanding reality",
+    "Ceremonial precision in spiritual work",
+    "Integration of diverse esoteric traditions"
+  ]
 }

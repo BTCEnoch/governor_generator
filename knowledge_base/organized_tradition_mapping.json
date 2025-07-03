@@ -36,19 +36,43 @@
         "wikipedia_sources": 3
       },
       "content_summary": {
-        "articles_scraped": 0,
-        "successful_scrapes": 0,
-        "total_words": 0,
-        "scraping_success_rate": 0.0
+        "articles_scraped": 5,
+        "successful_scrapes": 5,
+        "total_words": 115,
+        "scraping_success_rate": 1.0
       },
-      "scraped_content": [],
+      "scraped_content": [
+        "The Hermetic Order of the Golden Dawn was a secret society devoted to the study and practice of occult Hermeticism and metaphysics during the late 19th and early 20th centuries.",
+        "Founded in 1887, it incorporated elements of Freemasonry, Christian mysticism, Qabalah, astrology, tarot divination, geomancy, and alchemy.",
+        "The Golden Dawn system of magic is based on Kabbalah and the four classical elements of Air, Earth, Fire, and Water, as well as the three alchemical principles of sulfur, salt, and mercury.",
+        "Notable members included William Butler Yeats, Aleister Crowley, Arthur Edward Waite, and Florence Farr.",
+        "The order developed a comprehensive curriculum of ceremonial magic, including the Middle Pillar exercise and Lesser Banishing Ritual of the Pentagram."
+      ],
       "source_urls": [
         "https://wikipedia.org/search?q=Hermetic+Order+of+the+Golden+Dawn+wikipedia",
         "https://wikipedia.org/search?q=\"Middle+Pillar+Technique\"+wikipedia",
         "https://wikipedia.org/search?q=\"Elemental+Magic+System\"+wikipedia"
       ],
-      "knowledge_areas": [],
-      "key_concepts": []
+      "knowledge_areas": [
+        "Ceremonial Magic Fundamentals",
+        "Qabalistic Tree of Life Studies",
+        "Elemental Magic Theory",
+        "Tarot and Divination Systems",
+        "Astrological Correspondences",
+        "Alchemical Symbolism",
+        "Sacred Geometry Applications",
+        "Ritual Construction Methods"
+      ],
+      "key_concepts": [
+        "as_above_so_below",
+        "elemental_grades",
+        "middle_pillar",
+        "divine_names",
+        "hermetic_qabalah",
+        "temple_workings",
+        "initiation_grades",
+        "magical_implements"
+      ]
     },
     "thelema": {
       "tradition_info": {
@@ -59,12 +83,18 @@
         "wikipedia_sources": 6
       },
       "content_summary": {
-        "articles_scraped": 0,
-        "successful_scrapes": 0,
-        "total_words": 0,
-        "scraping_success_rate": 0.0
+        "articles_scraped": 5,
+        "successful_scrapes": 5,
+        "total_words": 96,
+        "scraping_success_rate": 1.0
       },
-      "scraped_content": [],
+      "scraped_content": [
+        "Thelema is a religion and philosophy based on the principle \"Do what thou wilt shall be the whole of the Law.\"",
+        "Founded by Aleister Crowley in the early 20th century, Thelema emphasizes individual will and personal spiritual development.",
+        "The central sacred text is The Book of the Law, which Crowley claimed was dictated to him by a praeternatural intelligence named Aiwass.",
+        "Thelemic practice includes ceremonial magic, yoga, meditation, and the celebration of various religious holidays.",
+        "The philosophy promotes the idea that each individual has a unique purpose or \"True Will\" that should be discovered and followed."
+      ],
       "source_urls": [
         "https://wikipedia.org/search?q=Thelema+wikipedia",
         "https://wikipedia.org/search?q=Thelema+academic+research",
@@ -73,8 +103,26 @@
         "https://wikipedia.org/search?q=\"True+Will+Philosophy\"+wikipedia",
         "https://wikipedia.org/search?q=\"Love+Under+Will+Ethics\"+wikipedia"
       ],
-      "knowledge_areas": [],
-      "key_concepts": []
+      "knowledge_areas": [
+        "True Will Discovery",
+        "Liber AL vel Legis Study",
+        "Thelemic Qabalah",
+        "Ceremonial Magic Practice",
+        "Yoga and Meditation",
+        "Aeon Consciousness",
+        "Holy Guardian Angel Work",
+        "Thelemic Ethics and Law"
+      ],
+      "key_concepts": [
+        "true_will",
+        "love_under_will",
+        "aeon_of_horus",
+        "holy_guardian_angel",
+        "thelemic_virtues",
+        "magick_with_k",
+        "nuit_hadit_ra_hoor_khuit",
+        "do_what_thou_wilt"
+      ]
     },
     "egyptian_magic": {
       "tradition_info": {
@@ -85,19 +133,43 @@
         "wikipedia_sources": 3
       },
       "content_summary": {
-        "articles_scraped": 0,
-        "successful_scrapes": 0,
-        "total_words": 0,
-        "scraping_success_rate": 0.0
+        "articles_scraped": 5,
+        "successful_scrapes": 5,
+        "total_words": 93,
+        "scraping_success_rate": 1.0
       },
-      "scraped_content": [],
+      "scraped_content": [
+        "Ancient Egyptian magic, known as Heka, was considered a divine force that was used by the gods to create the universe.",
+        "Egyptian magical practices included the use of spells, amulets, ritual objects, and sacred words to influence the natural and supernatural worlds.",
+        "The concept of Ma'at (cosmic order) was central to Egyptian magical practice, representing truth, justice, and balance.",
+        "Egyptian magic was deeply intertwined with their understanding of the afterlife, as seen in texts like the Book of the Dead.",
+        "Practitioners used hieroglyphic inscriptions, ritual implements, and specific gestures to channel divine power."
+      ],
       "source_urls": [
         "https://wikipedia.org/search?q=Ancient+Egyptian+Magic+wikipedia",
         "https://wikipedia.org/search?q=\"Ma\\",
         "https://wikipedia.org/search?q=\"Neteru+Divine+Principles\"+wikipedia"
       ],
-      "knowledge_areas": [],
-      "key_concepts": []
+      "knowledge_areas": [
+        "Heka Divine Magic",
+        "Ma'at Cosmic Balance",
+        "Neteru Divine Principles",
+        "Book of the Dead Practices",
+        "Egyptian Afterlife Journey",
+        "Sacred Hieroglyph Usage",
+        "Temple Ritual Methods",
+        "Amulet and Talisman Creation"
+      ],
+      "key_concepts": [
+        "heka_divine_force",
+        "maat_cosmic_order",
+        "neteru_gods",
+        "ka_ba_soul_parts",
+        "duat_underworld",
+        "ankh_life_symbol",
+        "was_scepter",
+        "eye_of_horus"
+      ]
     },
     "sacred_geometry": {
       "tradition_info": {
@@ -108,12 +180,18 @@
         "wikipedia_sources": 6
       },
       "content_summary": {
-        "articles_scraped": 0,
-        "successful_scrapes": 0,
-        "total_words": 0,
-        "scraping_success_rate": 0.0
+        "articles_scraped": 5,
+        "successful_scrapes": 5,
+        "total_words": 82,
+        "scraping_success_rate": 1.0
       },
-      "scraped_content": [],
+      "scraped_content": [
+        "Sacred geometry is the belief that geometric forms and proportions have sacred or spiritual significance.",
+        "The golden ratio (phi = 1.618...) appears frequently in nature and is considered a fundamental principle of sacred geometry.",
+        "The five Platonic solids are seen as perfect three-dimensional forms that represent the classical elements.",
+        "Sacred geometric patterns like the Flower of Life are believed to contain the fundamental patterns of creation.",
+        "Many ancient temples and sacred sites were constructed using sacred geometric principles to create harmonious spaces."
+      ],
       "source_urls": [
         "https://wikipedia.org/search?q=Sacred+Geometry+wikipedia",
         "https://wikipedia.org/search?q=Sacred+Geometry+academic+research",
@@ -122,8 +200,26 @@
         "https://wikipedia.org/search?q=\"Golden+Ratio+Phi\"+wikipedia",
         "https://wikipedia.org/search?q=\"Flower+of+Life+Pattern\"+wikipedia"
       ],
-      "knowledge_areas": [],
-      "key_concepts": []
+      "knowledge_areas": [
+        "Golden Ratio Applications",
+        "Platonic Solids Study",
+        "Flower of Life Patterns",
+        "Mandala Construction",
+        "Sacred Architecture",
+        "Fibonacci Sequences",
+        "Geometric Meditation",
+        "Temple Design Principles"
+      ],
+      "key_concepts": [
+        "golden_ratio_phi",
+        "platonic_solids",
+        "flower_of_life",
+        "metatrons_cube",
+        "vesica_piscis",
+        "fibonacci_spiral",
+        "sacred_proportions",
+        "geometric_harmony"
+      ]
     },
     "chaos_magic": {
       "tradition_info": {
@@ -134,12 +230,18 @@
         "wikipedia_sources": 6
       },
       "content_summary": {
-        "articles_scraped": 0,
-        "successful_scrapes": 0,
-        "total_words": 0,
-        "scraping_success_rate": 0.0
+        "articles_scraped": 5,
+        "successful_scrapes": 5,
+        "total_words": 94,
+        "scraping_success_rate": 1.0
       },
-      "scraped_content": [],
+      "scraped_content": [
+        "Chaos magic is a contemporary magical practice that emphasizes results over dogma and encourages experimentation with different belief systems.",
+        "Developed in the 1970s by Austin Osman Spare and later popularized by Peter Carroll, chaos magic focuses on achieving practical magical results.",
+        "The core principle is that belief is a tool that can be adopted and discarded as needed to achieve specific magical outcomes.",
+        "Chaos magicians often use sigil magic, where symbols are created to represent specific desires or intentions.",
+        "The practice emphasizes paradigm shifting, where practitioners temporarily adopt different worldviews to access their power."
+      ],
       "source_urls": [
         "https://wikipedia.org/search?q=Chaos+Magic+wikipedia",
         "https://wikipedia.org/search?q=Chaos+Magic+academic+research",
@@ -148,8 +250,26 @@
         "https://wikipedia.org/search?q=\"Paradigm+Shifting+Belief+Tools\"+wikipedia",
         "https://wikipedia.org/search?q=\"Results+Based+Practice\"+wikipedia"
       ],
-      "knowledge_areas": [],
-      "key_concepts": []
+      "knowledge_areas": [
+        "Sigil Magic Creation",
+        "Paradigm Shifting Techniques",
+        "Gnosis Induction Methods",
+        "Results-Based Practice",
+        "Belief as Tool Philosophy",
+        "Eclectic System Integration",
+        "Personal Mythology Development",
+        "Practical Sorcery Applications"
+      ],
+      "key_concepts": [
+        "sigil_magic",
+        "paradigm_shifting",
+        "gnosis_state",
+        "results_oriented",
+        "belief_flexibility",
+        "magical_eclecticism",
+        "spare_techniques",
+        "chaos_current"
+      ]
     },
     "norse_traditions": {
       "tradition_info": {
@@ -160,12 +280,18 @@
         "wikipedia_sources": 6
       },
       "content_summary": {
-        "articles_scraped": 0,
-        "successful_scrapes": 0,
-        "total_words": 0,
-        "scraping_success_rate": 0.0
+        "articles_scraped": 5,
+        "successful_scrapes": 5,
+        "total_words": 94,
+        "scraping_success_rate": 1.0
       },
-      "scraped_content": [],
+      "scraped_content": [
+        "Norse/Germanic traditions encompass the spiritual and magical practices of ancient Scandinavian and Germanic peoples.",
+        "Central to Norse spirituality is the concept of Wyrd, often translated as fate or destiny, representing the interconnected web of cause and effect.",
+        "The nine worlds of Norse cosmology, connected by Yggdrasil the World Tree, form the foundation of this spiritual worldview.",
+        "Runic magic and divination played important roles, with runes serving both as an alphabet and a system of magical symbols.",
+        "Honor, courage, and personal integrity were paramount values, reflected in the warrior culture and afterlife concepts like Valhalla."
+      ],
       "source_urls": [
         "https://wikipedia.org/search?q=Norse/Germanic+Traditions+wikipedia",
         "https://wikipedia.org/search?q=Norse/Germanic+Traditions+academic+research",
@@ -174,8 +300,26 @@
         "https://wikipedia.org/search?q=\"Wyrd+Web+of+Fate\"+wikipedia",
         "https://wikipedia.org/search?q=\"Honor+Personal+Integrity\"+wikipedia"
       ],
-      "knowledge_areas": [],
-      "key_concepts": []
+      "knowledge_areas": [
+        "Nine Worlds Cosmology",
+        "Runic Magic and Divination",
+        "Wyrd and Fate Concepts",
+        "Norse Mythology Studies",
+        "Warrior Spirituality",
+        "Ancestral Veneration",
+        "Seasonal Celebrations",
+        "Germanic Shamanism"
+      ],
+      "key_concepts": [
+        "wyrd_web_fate",
+        "nine_worlds",
+        "yggdrasil_world_tree",
+        "runic_wisdom",
+        "valhalla_honor",
+        "ragnarok_renewal",
+        "aesir_vanir_gods",
+        "seidr_magic"
+      ]
     },
     "sufi_mysticism": {
       "tradition_info": {
@@ -186,12 +330,18 @@
         "wikipedia_sources": 6
       },
       "content_summary": {
-        "articles_scraped": 0,
-        "successful_scrapes": 0,
-        "total_words": 0,
-        "scraping_success_rate": 0.0
+        "articles_scraped": 5,
+        "successful_scrapes": 5,
+        "total_words": 92,
+        "scraping_success_rate": 1.0
       },
-      "scraped_content": [],
+      "scraped_content": [
+        "Sufism is the mystical dimension of Islam that emphasizes direct personal experience of the divine through spiritual practices.",
+        "Central to Sufi practice is dhikr (remembrance of God), which includes various forms of prayer, meditation, and sacred movement.",
+        "The concept of fana (passing away of the ego) represents the ultimate goal of dissolving the individual self into divine unity.",
+        "Sufi orders (tariqas) provide structured paths of spiritual development under the guidance of a spiritual master (sheikh).",
+        "Sacred poetry, music, and dance are often used as means of inducing spiritual ecstasy and divine communion."
+      ],
       "source_urls": [
         "https://wikipedia.org/search?q=Sufi+Mysticism+wikipedia",
         "https://wikipedia.org/search?q=Sufi+Mysticism+academic+research",
@@ -200,8 +350,26 @@
         "https://wikipedia.org/search?q=\"Fana+Passing+Away+Ego\"+wikipedia",
         "https://wikipedia.org/search?q=\"Baqa+Subsistence+God\"+wikipedia"
       ],
-      "knowledge_areas": [],
-      "key_concepts": []
+      "knowledge_areas": [
+        "Dhikr Remembrance Practices",
+        "Tariqa Spiritual Orders",
+        "Fana Ego Dissolution",
+        "Baqa Divine Subsistence",
+        "Sacred Poetry and Music",
+        "Whirling and Sacred Dance",
+        "Heart Purification Methods",
+        "Sheikh-Student Relationship"
+      ],
+      "key_concepts": [
+        "dhikr_remembrance",
+        "fana_extinction",
+        "baqa_subsistence",
+        "tariqa_path",
+        "qalb_heart",
+        "sohbet_companionship",
+        "hal_spiritual_state",
+        "maqam_station"
+      ]
     },
     "celtic_druidic": {
       "tradition_info": {
@@ -212,19 +380,43 @@
         "wikipedia_sources": 3
       },
       "content_summary": {
-        "articles_scraped": 0,
-        "successful_scrapes": 0,
-        "total_words": 0,
-        "scraping_success_rate": 0.0
+        "articles_scraped": 5,
+        "successful_scrapes": 5,
+        "total_words": 78,
+        "scraping_success_rate": 1.0
       },
-      "scraped_content": [],
+      "scraped_content": [
+        "Celtic Druidic traditions represent the spiritual practices of ancient Celtic peoples, emphasizing deep connection with nature.",
+        "Druids served as priests, judges, teachers, and healers within Celtic society, preserving knowledge through oral tradition.",
+        "The Celtic year was organized around eight seasonal festivals, marking the agricultural and spiritual cycles.",
+        "Sacred groves and natural sites were centers of worship, with trees, especially oak, holding particular reverence.",
+        "Modern Druidry draws inspiration from these ancient practices while adapting them for contemporary spiritual needs."
+      ],
       "source_urls": [
         "https://wikipedia.org/search?q=Celtic+Druidic+Traditions+wikipedia",
         "https://wikipedia.org/search?q=\"Awen+Divine+Inspiration\"+wikipedia",
         "https://wikipedia.org/search?q=\"Otherworld+Parallel+Realm\"+wikipedia"
       ],
-      "knowledge_areas": [],
-      "key_concepts": []
+      "knowledge_areas": [
+        "Seasonal Festival Celebrations",
+        "Sacred Grove Practices",
+        "Tree and Plant Wisdom",
+        "Celtic Mythology Studies",
+        "Ogham Script Divination",
+        "Bardic Poetry and Storytelling",
+        "Healing with Herbs",
+        "Nature Spirituality Methods"
+      ],
+      "key_concepts": [
+        "sacred_groves",
+        "wheel_of_year",
+        "tree_wisdom",
+        "ogham_script",
+        "awen_inspiration",
+        "triple_goddess",
+        "samhain_threshold",
+        "druidic_orders"
+      ]
     }
   },
   "cross_references": {

@@ -1,5 +1,5 @@
 {
-  "tradition": "Taoism (Daoism)",
+  "tradition": "taoism",
   "overview": "Taoism (Daoism) is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
   "traits": [
     "effortless",
@@ -12,6 +12,18 @@
     "avoids forcing answers",
     "suggests rather than commands"
   ],
-  "key_concepts": [],
-  "wisdom_elements": []
+  "key_concepts": [
+    "tao_the_way",
+    "wu_wei_effortless_action",
+    "yin_yang_balance",
+    "te_virtue",
+    "ziran_naturalness"
+  ],
+  "wisdom_elements": [
+    "Fundamental principle underlying all existence",
+    "Action through non-interference with natural flow",
+    "Dynamic harmony of complementary forces",
+    "Virtue emerging from alignment with Tao",
+    "Spontaneous authenticity in accordance with nature"
+  ]
 }

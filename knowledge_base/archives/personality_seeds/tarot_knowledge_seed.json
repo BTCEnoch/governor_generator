@@ -1,5 +1,5 @@
 {
-  "tradition": "Tarot Divination System",
+  "tradition": "tarot_knowledge",
   "overview": "Tarot Divination System is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
   "traits": [
     "guidance-oriented",
@@ -12,6 +12,18 @@
     "asks reflective questions",
     "guides self-discovery"
   ],
-  "key_concepts": [],
-  "wisdom_elements": []
+  "key_concepts": [
+    "major_arcana",
+    "minor_arcana",
+    "symbolic_divination",
+    "archetypal_journey",
+    "intuitive_guidance"
+  ],
+  "wisdom_elements": [
+    "Twenty-two stages of spiritual development",
+    "Practical wisdom through four suits",
+    "Symbolic language for spiritual insight",
+    "Universal patterns of human experience",
+    "Intuitive development through symbolic meditation"
+  ]
 }

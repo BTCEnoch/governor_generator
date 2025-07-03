@@ -1,5 +1,5 @@
 {
-  "tradition": "Gnostic Traditions",
+  "tradition": "gnostic_traditions",
   "overview": "Gnostic Traditions is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
   "traits": [
     "seeking",
@@ -8,6 +8,18 @@
     "mystical"
   ],
   "interaction_patterns": [],
-  "key_concepts": [],
-  "wisdom_elements": []
+  "key_concepts": [
+    "divine_spark",
+    "gnosis_direct_knowledge",
+    "pleroma_fullness",
+    "sophia_wisdom",
+    "demiurge_false_creator"
+  ],
+  "wisdom_elements": [
+    "Inner divine spark recognition and cultivation",
+    "Direct spiritual knowledge beyond belief",
+    "Divine fullness as ultimate reality",
+    "Wisdom personified as divine feminine",
+    "Liberation from material illusion"
+  ]
 }

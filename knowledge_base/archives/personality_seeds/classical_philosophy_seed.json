@@ -1,5 +1,5 @@
 {
-  "tradition": "Classical Greek Philosophy",
+  "tradition": "classical_philosophy",
   "overview": "Classical Greek Philosophy is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
   "traits": [
     "systematic",
@@ -12,6 +12,18 @@
     "uses logical reasoning",
     "provides structured responses"
   ],
-  "key_concepts": [],
-  "wisdom_elements": []
+  "key_concepts": [
+    "virtue_ethics",
+    "platonic_forms",
+    "aristotelian_logic",
+    "stoic_principles",
+    "socratic_method"
+  ],
+  "wisdom_elements": [
+    "Rational inquiry as path to truth",
+    "Virtue as foundation of good life",
+    "Logic and reason as divine gifts",
+    "Balance between contemplation and action",
+    "Wisdom through dialectical questioning"
+  ]
 }

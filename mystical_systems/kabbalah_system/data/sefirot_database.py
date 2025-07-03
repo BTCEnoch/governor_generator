@@ -4,7 +4,7 @@ Complete Sefirot Database - The Ten Emanations of the Kabbalistic Tree of Life
 Each Sefirah represents a different aspect of divine energy and human consciousness
 """
 
-from schemas.mystical_schemas import Sefirah, SefirotPosition
+from unified_profiler.schemas.mystical_schemas import Sefirah, SefirotPosition
 
 # The Ten Sefirot - Complete Database
 ALL_SEFIROT = [

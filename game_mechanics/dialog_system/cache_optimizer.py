@@ -15,6 +15,10 @@ import time
 import logging
 import threading
 import hashlib
+import pickle
+import gzip
+import re
+from pathlib import Path
 from typing import Dict, Any, Optional, List, Tuple, Callable
 from dataclasses import dataclass, field
 from collections import OrderedDict
@@ -50,6 +54,141 @@ class CacheEntry:
         self.last_access = time.time()
 
 
+class L3StorageManager:
+    """
+    Persistent storage manager for L3 cache level.
+    
+    Provides disk-based caching with compression and integrity verification.
+    """
+    
+    def __init__(self, storage_dir: str = "cache_storage"):
+        """Initialize L3 storage manager"""
+        self.storage_dir = Path(storage_dir)
+        self.storage_dir.mkdir(exist_ok=True)
+        self.compression_level = 6  # Balanced compression
+        logger.info(f"L3StorageManager initialized: {self.storage_dir}")
+    
+    def save_to_persistent_cache(self, key: str, data: Any) -> bool:
+        """
+        Save data to persistent storage.
+        
+        Args:
+            key: Cache key
+            data: Data to save
+            
+        Returns:
+            True if saved successfully
+        """
+        try:
+            # Create safe filename from key
+            safe_filename = self._create_safe_filename(key)
+            file_path = self.storage_dir / f"{safe_filename}.cache"
+            
+            # Serialize and compress data
+            serialized_data = pickle.dumps(data)
+            compressed_data = gzip.compress(serialized_data, self.compression_level)
+            
+            # Write to file with metadata
+            cache_data = {
+                'key': key,
+                'data': compressed_data,
+                'timestamp': time.time(),
+                'checksum': hashlib.md5(compressed_data).hexdigest()
+            }
+            
+            with open(file_path, 'wb') as f:
+                pickle.dump(cache_data, f)
+            
+            logger.debug(f"Saved to L3 cache: {key} -> {file_path}")
+            return True
+        
+        except Exception as e:
+            logger.error(f"Failed to save to L3 cache: {key}, error: {e}")
+            return False
+    
+    def load_from_persistent_cache(self, key: str) -> Optional[Any]:
+        """
+        Load data from persistent storage.
+        
+        Args:
+            key: Cache key to load
+            
+        Returns:
+            Cached data if found and valid, None otherwise
+        """
+        try:
+            safe_filename = self._create_safe_filename(key)
+            file_path = self.storage_dir / f"{safe_filename}.cache"
+            
+            if not file_path.exists():
+                return None
+            
+            # Load cache data
+            with open(file_path, 'rb') as f:
+                cache_data = pickle.load(f)
+            
+            # Verify integrity
+            if not self._verify_cache_integrity(cache_data):
+                logger.warning(f"L3 cache corruption detected for key: {key}")
+                file_path.unlink()  # Remove corrupted file
+                return None
+            
+            # Check if expired (24 hours for L3)
+            if time.time() - cache_data['timestamp'] > 86400:
+                logger.debug(f"L3 cache expired for key: {key}")
+                file_path.unlink()  # Remove expired file
+                return None
+            
+            # Decompress and deserialize
+            compressed_data = cache_data['data']
+            serialized_data = gzip.decompress(compressed_data)
+            data = pickle.loads(serialized_data)
+            
+            logger.debug(f"Loaded from L3 cache: {key}")
+            return data
+        
+        except Exception as e:
+            logger.error(f"Failed to load from L3 cache: {key}, error: {e}")
+            return None
+    
+    def clear_persistent_cache(self) -> bool:
+        """Clear all persistent cache files"""
+        try:
+            for cache_file in self.storage_dir.glob("*.cache"):
+                cache_file.unlink()
+            logger.info("L3 persistent cache cleared")
+            return True
+        except Exception as e:
+            logger.error(f"Failed to clear L3 cache: {e}")
+            return False
+    
+    def get_cache_size(self) -> int:
+        """Get total size of persistent cache in bytes"""
+        total_size = 0
+        try:
+            for cache_file in self.storage_dir.glob("*.cache"):
+                total_size += cache_file.stat().st_size
+        except Exception as e:
+            logger.error(f"Error calculating cache size: {e}")
+        return total_size
+    
+    def _create_safe_filename(self, key: str) -> str:
+        """Create filesystem-safe filename from cache key"""
+        # Hash key to ensure safe filename
+        key_hash = hashlib.md5(key.encode()).hexdigest()
+        # Keep first part of key for debugging, add hash for uniqueness
+        safe_key = re.sub(r'[^\w\-_\.]', '_', key[:20])
+        return f"{safe_key}_{key_hash}"
+    
+    def _verify_cache_integrity(self, cache_data: Dict[str, Any]) -> bool:
+        """Verify cache data integrity using checksum"""
+        if 'checksum' not in cache_data or 'data' not in cache_data:
+            return False
+        
+        computed_checksum = hashlib.md5(cache_data['data']).hexdigest()
+        return computed_checksum == cache_data['checksum']
+
+
 class AdvancedCache:
     """
     Multi-level caching system with intelligent eviction policies.
@@ -80,6 +219,9 @@ class AdvancedCache:
         
         # Thread safety
         self._lock = threading.RLock()
+        
+        # L3 persistent storage manager
+        self._l3_storage_manager = L3StorageManager()
         
         logger.info("AdvancedCache initialized with multi-level storage")
     
@@ -257,15 +399,16 @@ class AdvancedCache:
         # Get LRU item from L2
         lru_key, lru_entry = self.l2_cache.popitem(last=False)
         
-        # Could implement L3 persistent storage here
-        # For now, just discard
-        logger.debug(f"Evicted {lru_key} from L2 (discarded)")
+        # Save to L3 persistent storage
+        if self._l3_storage_manager.save_to_persistent_cache(lru_key, lru_entry.data):
+            self.l3_cache[lru_key] = "persistent"  # Mark as stored in L3
+            logger.debug(f"Evicted {lru_key} from L2 to L3 persistent storage")
+        else:
+            logger.debug(f"Failed to save {lru_key} to L3, discarded")
     
     def _load_from_l3(self, key: str) -> Optional[Any]:
         """Load data from L3 persistent storage"""
-        # Placeholder for L3 implementation
-        # In production, this would load from disk/database
-        return None
+        return self._l3_storage_manager.load_from_persistent_cache(key)
     
     def _calculate_memory_efficiency(self) -> float:
         """Calculate memory efficiency metric"""

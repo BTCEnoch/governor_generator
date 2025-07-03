@@ -195,9 +195,8 @@ class CompressionUtils:
         elif compression_type == CompressionType.GZIP:
             return gzip.compress(content_bytes, compresslevel=9)
         elif compression_type == CompressionType.CUSTOM:
-            # Placeholder for custom compression algorithm
-            # Could implement dictionary-based compression for dialog-specific patterns
-            return gzip.compress(content_bytes, compresslevel=9)
+            # Dialog-specific compression using pattern dictionary
+            return CompressionUtils._compress_dialog_patterns(content_bytes)
         else:
             raise ValueError(f"Unsupported compression type: {compression_type}")
     
@@ -219,9 +218,8 @@ class CompressionUtils:
             decompressed = gzip.decompress(compressed_data)
             return decompressed.decode('utf-8')
         elif compression_type == CompressionType.CUSTOM:
-            # Placeholder for custom decompression
-            decompressed = gzip.decompress(compressed_data)
-            return decompressed.decode('utf-8')
+            # Dialog-specific decompression using pattern dictionary
+            return CompressionUtils._decompress_dialog_patterns(compressed_data)
         else:
             raise ValueError(f"Unsupported compression type: {compression_type}")
     
@@ -256,6 +254,141 @@ class CompressionUtils:
         compressed_data = base64.b64decode(encoded_data.encode('ascii'))
         json_str = CompressionUtils.decompress_content(compressed_data, compression_type)
         return json.loads(json_str)
+    
+    @staticmethod
+    def _compress_dialog_patterns(content_bytes: bytes) -> bytes:
+        """
+        Custom compression algorithm optimized for dialog content patterns.
+        
+        Uses a dictionary-based approach to compress common dialog patterns,
+        mystical terminology, and governor-specific vocabulary.
+        """
+        # Dialog-specific pattern dictionary
+        dialog_patterns = {
+            b'"governor_id"': b'\x01',
+            b'"content"': b'\x02', 
+            b'"transitions"': b'\x03',
+            b'"requirements"': b'\x04',
+            b'"metadata"': b'\x05',
+            b'"dialog_nodes"': b'\x06',
+            b'"response_variants"': b'\x07',
+            b'"version"': b'\x08',
+            b'"mystical_influence"': b'\x09',
+            b'"wisdom_tradition"': b'\x0A',
+            b'"personality_traits"': b'\x0B',
+            b'"magical_focus"': b'\x0C',
+            b'"storyline_themes"': b'\x0D',
+            b'"enochian_magic"': b'\x0E',
+            b'"hermetic_tradition"': b'\x0F',
+            b'"kabbalah"': b'\x10',
+            b'"thelema"': b'\x11',
+            b'"chaos_magic"': b'\x12',
+            b'"norse_traditions"': b'\x13',
+            b'"celtic_druidic"': b'\x14',
+            b'"egyptian_magic"': b'\x15',
+            b'"sacred_geometry"': b'\x16',
+            b'"gnostic_traditions"': b'\x17',
+            b'"classical_philosophy"': b'\x18',
+            b'"sufi_mysticism"': b'\x19',
+            b'"tarot_system"': b'\x1A',
+            b'"golden_dawn"': b'\x1B',
+            b'"leadership"': b'\x1C',
+            b'"wisdom"': b'\x1D',
+            b'"creativity"': b'\x1E',
+            b'"innovation"': b'\x1F',
+            b'"manifestation"': b'\x20',
+            b'"divination"': b'\x21',
+            b'"protection"': b'\x22',
+            b'"transformation"': b'\x23',
+            b'"healing"': b'\x24',
+            b'"general"': b'\x25',
+            b'true': b'\x26',
+            b'false': b'\x27',
+            b'null': b'\x28',
+            b'{}': b'\x29',
+            b'[]': b'\x2A',
+            b'","': b'\x2B',
+            b'":"': b'\x2C',
+            b'","': b'\x2D',
+            b'"}': b'\x2E',
+            b'{"': b'\x2F'
+        }
+        
+        # Apply pattern replacement
+        compressed = content_bytes
+        for pattern, replacement in dialog_patterns.items():
+            compressed = compressed.replace(pattern, replacement)
+        
+        # Apply final gzip compression on the pattern-compressed data
+        return gzip.compress(compressed, compresslevel=9)
+    
+    @staticmethod
+    def _decompress_dialog_patterns(compressed_data: bytes) -> str:
+        """
+        Custom decompression algorithm for dialog content patterns.
+        
+        Reverses the pattern dictionary compression and returns original content.
+        """
+        # First decompress with gzip
+        pattern_compressed = gzip.decompress(compressed_data)
+        
+        # Dialog-specific pattern dictionary (reversed)
+        dialog_patterns_reverse = {
+            b'\x01': b'"governor_id"',
+            b'\x02': b'"content"',
+            b'\x03': b'"transitions"',
+            b'\x04': b'"requirements"',
+            b'\x05': b'"metadata"',
+            b'\x06': b'"dialog_nodes"',
+            b'\x07': b'"response_variants"',
+            b'\x08': b'"version"',
+            b'\x09': b'"mystical_influence"',
+            b'\x0A': b'"wisdom_tradition"',
+            b'\x0B': b'"personality_traits"',
+            b'\x0C': b'"magical_focus"',
+            b'\x0D': b'"storyline_themes"',
+            b'\x0E': b'"enochian_magic"',
+            b'\x0F': b'"hermetic_tradition"',
+            b'\x10': b'"kabbalah"',
+            b'\x11': b'"thelema"',
+            b'\x12': b'"chaos_magic"',
+            b'\x13': b'"norse_traditions"',
+            b'\x14': b'"celtic_druidic"',
+            b'\x15': b'"egyptian_magic"',
+            b'\x16': b'"sacred_geometry"',
+            b'\x17': b'"gnostic_traditions"',
+            b'\x18': b'"classical_philosophy"',
+            b'\x19': b'"sufi_mysticism"',
+            b'\x1A': b'"tarot_system"',
+            b'\x1B': b'"golden_dawn"',
+            b'\x1C': b'"leadership"',
+            b'\x1D': b'"wisdom"',
+            b'\x1E': b'"creativity"',
+            b'\x1F': b'"innovation"',
+            b'\x20': b'"manifestation"',
+            b'\x21': b'"divination"',
+            b'\x22': b'"protection"',
+            b'\x23': b'"transformation"',
+            b'\x24': b'"healing"',
+            b'\x25': b'"general"',
+            b'\x26': b'true',
+            b'\x27': b'false',
+            b'\x28': b'null',
+            b'\x29': b'{}',
+            b'\x2A': b'[]',
+            b'\x2B': b'","',
+            b'\x2C': b'":"',
+            b'\x2D': b'","',
+            b'\x2E': b'"}',
+            b'\x2F': b'{"'
+        }
+        
+        # Apply reverse pattern replacement
+        decompressed = pattern_compressed
+        for replacement, pattern in dialog_patterns_reverse.items():
+            decompressed = decompressed.replace(replacement, pattern)
+        
+        return decompressed.decode('utf-8')
 
 
 class StorageManager:

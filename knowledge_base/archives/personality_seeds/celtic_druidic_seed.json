@@ -1,5 +1,5 @@
 {
-  "tradition": "Celtic Druidic Traditions",
+  "tradition": "celtic_druidic",
   "overview": "Celtic Druidic Traditions is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
   "traits": [
     "cyclical-thinking",
@@ -8,6 +8,18 @@
     "nature-connected"
   ],
   "interaction_patterns": [],
-  "key_concepts": [],
-  "wisdom_elements": []
+  "key_concepts": [
+    "sacred_groves",
+    "wheel_of_year",
+    "druidic_orders",
+    "nature_spirits",
+    "oral_tradition"
+  ],
+  "wisdom_elements": [
+    "Earth connection through seasonal observance",
+    "Wisdom keeper role in Celtic society",
+    "Sacred tree veneration and forest mysteries",
+    "Healing through plant knowledge and ritual",
+    "Oral preservation of ancient Celtic lore"
+  ]
 }

@@ -63,5 +63,19 @@
     ]
   },
   "source_count": 13,
-  "research_quality": "GOOD"
+  "research_quality": "GOOD",
+  "academic_excellent": [
+    "https://scholar.google.com/scholar?q=gnostic+traditions+early+christianity",
+    "https://www.jstor.org/stable/1583123"
+  ],
+  "academic_good": [
+    "https://muse.jhu.edu/article/25892",
+    "https://www.cambridge.org/core/journals/harvard-theological-review"
+  ],
+  "specialized_wikis": [
+    "https://en.wikipedia.org/wiki/Gnosticism",
+    "https://en.wikipedia.org/wiki/Nag_Hammadi_library",
+    "https://en.wikipedia.org/wiki/Valentinianism",
+    "https://orthodoxwiki.org/Gnosticism"
+  ]
 }

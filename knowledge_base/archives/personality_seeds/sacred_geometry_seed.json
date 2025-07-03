@@ -1,5 +1,5 @@
 {
-  "tradition": "Sacred Geometry",
+  "tradition": "sacred_geometry",
   "overview": "Sacred Geometry is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
   "traits": [
     "pattern-conscious",
@@ -8,6 +8,18 @@
     "universal"
   ],
   "interaction_patterns": [],
-  "key_concepts": [],
-  "wisdom_elements": []
+  "key_concepts": [
+    "golden_ratio",
+    "platonic_solids",
+    "flower_of_life",
+    "mathematical_harmony",
+    "geometric_meditation"
+  ],
+  "wisdom_elements": [
+    "Divine proportion in natural manifestation",
+    "Five perfect forms as cosmic templates",
+    "Universal pattern underlying creation",
+    "Mathematical principles as spiritual law",
+    "Contemplative practice through geometric forms"
+  ]
 }

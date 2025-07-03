@@ -1,5 +1,5 @@
 from typing import Dict, List
-from schemas.tarot_schemas import TarotCard, CardPosition
+from mystical_systems.tarot_system.schemas.tarot_schemas import TarotCard, CardPosition
 
 class TarotCardRenderer:
     def __init__(self):
@@ -78,32 +78,62 @@ class TarotCardRenderer:
         return layout
 
     def _render_celtic_cross_layout(self, cards: List[tuple]) -> str:
-        """Render Celtic Cross spread layout"""
+        """Render enhanced Celtic Cross spread layout"""
         if len(cards) < 10:
             return "Incomplete Celtic Cross - need 10 cards"
             
         position_names = [
-            "Present", "Challenge", "Past", "Recent",
-            "Outcome", "Future", "Approach", "External", 
-            "Hopes/Fears", "Final"
+            "Present Situation", "Challenge/Cross", "Distant Past/Foundation", "Recent Past",
+            "Possible Outcome", "Immediate Future", "Your Approach", "External Influences", 
+            "Inner Hopes/Fears", "Final Outcome"
+        ]
+        
+        position_meanings = [
+            "The heart of the matter", "What challenges or assists you", "Foundation of the situation",
+            "Recent events affecting you", "What may come to pass", "What will happen next",
+            "Your approach to the situation", "External factors at play",
+            "Your inner state", "The final outcome"
         ]
         
         layout = """
     🔮 CELTIC CROSS SPREAD 🔮
     
-            [3]
+    ✨ TRADITIONAL LAYOUT ✨
+    
+            [3] Recent Past
              |
     [7] - [1] + [0] - [4]
+     Ext    Cross  Present  Future
              |
-            [2]    [8]
-                   [9]
-                   [5]
-                   [6]
+            [2] Foundation    [8] Hopes/Fears
+                              [9] Final Outcome  
+                              [5] Next Step
+                              [6] Your Approach
     
-    Card Positions:
+    📋 DETAILED CARD INTERPRETATIONS:
         """
         
         for i, (card, position) in enumerate(cards):
-            layout += f"\n    {i}: {position_names[i]} - {card.name} ({position.value})"
+            symbol = self._get_card_symbol(card)
+            pos_indicator = "⬆️" if position.value == "upright" else "⬇️"
+            
+            layout += f"""
+    
+    {i+1}. {position_names[i]} {symbol} {pos_indicator}
+       Card: {card.name} ({position.value.title()})
+       Meaning: {position_meanings[i]}
+       Keywords: {', '.join(card.upright_keywords[:3]) if position.value == "upright" else ', '.join(card.reversed_keywords[:3])}
+       ────────────────────────────────────────────────────────────────────
+    """
+        
+        layout += """
+    
+    🎯 READING SUMMARY:
+    • Core Issue: Position 1 (Present) crossed by Position 2 (Challenge)
+    • Timeline: Past (3,2) → Present (0,1) → Future (4,5) → Outcome (9)
+    • Your Role: Approach (6) influenced by Inner State (8)
+    • External Factors: Position 7 shows what's beyond your control
+    • Final Guidance: Position 9 reveals the ultimate resolution
+        """
         
         return layout

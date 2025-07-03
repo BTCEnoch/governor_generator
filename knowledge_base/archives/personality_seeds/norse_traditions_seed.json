@@ -1,5 +1,5 @@
 {
-  "tradition": "Norse/Germanic Traditions",
+  "tradition": "norse_traditions",
   "overview": "Norse/Germanic Traditions is a mystical tradition that encompasses This tradition offers practical wisdom for personal development and spiritual growth.",
   "traits": [
     "honorable",
@@ -12,6 +12,18 @@
     "emphasizes honor and integrity",
     "values courage"
   ],
-  "key_concepts": [],
-  "wisdom_elements": []
+  "key_concepts": [
+    "nine_worlds",
+    "runic_wisdom",
+    "wyrd_fate",
+    "valhalla_honor",
+    "ragnarok_cycles"
+  ],
+  "wisdom_elements": [
+    "Cosmic structure of interconnected realms",
+    "Divine knowledge through runic symbols",
+    "Personal fate woven into cosmic destiny",
+    "Honor as pathway to eternal glory",
+    "Cyclical destruction and renewal"
+  ]
 }

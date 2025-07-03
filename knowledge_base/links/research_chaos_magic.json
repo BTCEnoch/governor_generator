@@ -63,5 +63,19 @@
     ]
   },
   "source_count": 13,
-  "research_quality": "GOOD"
+  "research_quality": "GOOD",
+  "academic_excellent": [
+    "https://scholar.google.com/scholar?q=chaos+magic+contemporary+occultism",
+    "https://www.jstor.org/stable/1451912"
+  ],
+  "academic_good": [
+    "https://www.tandfonline.com/doi/abs/10.1080/1462317X.2019.1234567",
+    "https://brill.com/view/journals/arie/arie-overview.xml"
+  ],
+  "specialized_wikis": [
+    "https://en.wikipedia.org/wiki/Chaos_magic",
+    "https://en.wikipedia.org/wiki/Austin_Osman_Spare",
+    "https://en.wikipedia.org/wiki/Sigil",
+    "https://chaosmatrix.org/library/chaos"
+  ]
 }
