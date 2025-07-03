@@ -10,11 +10,11 @@ from typing import Dict, List
 from datetime import datetime
 
 # Import all systems
-from assignment.governor_tarot_assigner import GovernorTarotAssigner
-from data.sefirot_database import ALL_SEFIROT, get_sefirah_by_number
-from data.numerology_database import get_numerology_profile, calculate_name_numerology
-from data.zodiac_database import ALL_ZODIAC_SIGNS, get_zodiac_sign_by_name
-from schemas.mystical_schemas import CompleteMysticalProfile, ZodiacElement
+from mystical_systems.tarot_system.engines.governor_tarot_assigner import GovernorTarotAssigner
+from mystical_systems.kabbalah_system.data.sefirot_database import ALL_SEFIROT, get_sefirah_by_number
+from mystical_systems.numerology_system.data.numerology_database import get_numerology_profile, calculate_name_numerology
+from mystical_systems.zodiac_system.data.zodiac_database import ALL_ZODIAC_SIGNS, get_zodiac_sign_by_name
+from unified_profiler.schemas.mystical_schemas import CompleteMysticalProfile, ZodiacElement
 
 class UnifiedMysticalProfiler:
     def __init__(self):
