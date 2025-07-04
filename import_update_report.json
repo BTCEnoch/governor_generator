@@ -1,0 +1,492 @@
+{
+  "timestamp": "2025-07-04T13:35:47.057765",
+  "summary": {
+    "files_scanned": 210,
+    "imports_found": 663,
+    "imports_updated": 46,
+    "sys_path_removed": 30,
+    "errors": 0
+  },
+  "details": {
+    "files_scanned": 210,
+    "imports_found": 663,
+    "imports_to_update": [
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\core\\governors\\profiler\\unified_profiler\\core\\mystical_profiler.py",
+        "line": 13,
+        "old_module": "mystical_systems.tarot_system.engines.governor_tarot_assigner",
+        "new_module": "engines.mystical_systems.tarot_system.engines.governor_tarot_assigner",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\core\\governors\\profiler\\unified_profiler\\core\\mystical_profiler.py",
+        "line": 14,
+        "old_module": "mystical_systems.kabbalah_system.data.sefirot_database",
+        "new_module": "engines.mystical_systems.kabbalah_system.data.sefirot_database",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\core\\governors\\profiler\\unified_profiler\\core\\mystical_profiler.py",
+        "line": 15,
+        "old_module": "mystical_systems.numerology_system.data.numerology_database",
+        "new_module": "engines.mystical_systems.numerology_system.data.numerology_database",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\core\\governors\\profiler\\unified_profiler\\core\\mystical_profiler.py",
+        "line": 16,
+        "old_module": "mystical_systems.zodiac_system.data.zodiac_database",
+        "new_module": "engines.mystical_systems.zodiac_system.data.zodiac_database",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\core\\governors\\profiler\\unified_profiler\\core\\mystical_profiler.py",
+        "line": 17,
+        "old_module": "unified_profiler.schemas.mystical_schemas",
+        "new_module": "core.governors.profiler.schemas.mystical_schemas",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\core\\governors\\profiler\\unified_profiler\\schemas\\mystical_schemas.py",
+        "line": 6,
+        "old_module": "mystical_systems.tarot_system.schemas.tarot_schemas",
+        "new_module": "engines.mystical_systems.tarot_system.schemas.tarot_schemas",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\batch_processing\\integration_layer\\coordinators\\batch_governor_assignment.py",
+        "line": 10,
+        "old_module": "mystical_systems.tarot_system.engines.governor_tarot_assigner",
+        "new_module": "engines.mystical_systems.tarot_system.engines.governor_tarot_assigner",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\batch_processing\\integration_layer\\coordinators\\batch_governor_assignment.py",
+        "line": 11,
+        "old_module": "mystical_systems.tarot_system.schemas.tarot_schemas",
+        "new_module": "engines.mystical_systems.tarot_system.schemas.tarot_schemas",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\mystical_systems\\mystical_systems\\kabbalah_system\\data\\sefirot_database.py",
+        "line": 7,
+        "old_module": "unified_profiler.schemas.mystical_schemas",
+        "new_module": "core.governors.profiler.schemas.mystical_schemas",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\mystical_systems\\mystical_systems\\numerology_system\\data\\numerology_database.py",
+        "line": 7,
+        "old_module": "unified_profiler.schemas.mystical_schemas",
+        "new_module": "core.governors.profiler.schemas.mystical_schemas",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\mystical_systems\\mystical_systems\\tarot_system\\tarot_system.py",
+        "line": 5,
+        "old_module": "unified_profiler.interfaces.base_system",
+        "new_module": "core.governors.profiler.interfaces.base_system",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\mystical_systems\\mystical_systems\\tarot_system\\tarot_system.py",
+        "line": 18,
+        "old_module": "mystical_systems.tarot_system.engines.governor_tarot_assigner",
+        "new_module": "engines.mystical_systems.tarot_system.engines.governor_tarot_assigner",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\mystical_systems\\mystical_systems\\tarot_system\\test_tarot.py",
+        "line": 5,
+        "old_module": "mystical_systems.tarot_system.tarot_system",
+        "new_module": "engines.mystical_systems.tarot_system.tarot_system",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\mystical_systems\\mystical_systems\\tarot_system\\data\\tarot_cards_database.py",
+        "line": 2,
+        "old_module": "mystical_systems.tarot_system.schemas.tarot_schemas",
+        "new_module": "engines.mystical_systems.tarot_system.schemas.tarot_schemas",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\mystical_systems\\mystical_systems\\tarot_system\\engines\\governor_tarot_assigner.py",
+        "line": 4,
+        "old_module": "mystical_systems.tarot_system.utils.tarot_utils",
+        "new_module": "engines.mystical_systems.tarot_system.utils.tarot_utils",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\mystical_systems\\mystical_systems\\tarot_system\\engines\\governor_tarot_assigner.py",
+        "line": 5,
+        "old_module": "mystical_systems.tarot_system.schemas.tarot_schemas",
+        "new_module": "engines.mystical_systems.tarot_system.schemas.tarot_schemas",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\mystical_systems\\mystical_systems\\tarot_system\\ui\\card_render.py",
+        "line": 2,
+        "old_module": "mystical_systems.tarot_system.schemas.tarot_schemas",
+        "new_module": "engines.mystical_systems.tarot_system.schemas.tarot_schemas",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\mystical_systems\\mystical_systems\\tarot_system\\utils\\tarot_utils.py",
+        "line": 2,
+        "old_module": "mystical_systems.tarot_system.data.tarot_cards_database",
+        "new_module": "engines.mystical_systems.tarot_system.data.tarot_cards_database",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\mystical_systems\\mystical_systems\\tarot_system\\utils\\tarot_utils.py",
+        "line": 3,
+        "old_module": "mystical_systems.tarot_system.schemas.tarot_schemas",
+        "new_module": "engines.mystical_systems.tarot_system.schemas.tarot_schemas",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\mystical_systems\\mystical_systems\\zodiac_system\\data\\zodiac_database.py",
+        "line": 7,
+        "old_module": "unified_profiler.schemas.mystical_schemas",
+        "new_module": "core.governors.profiler.schemas.mystical_schemas",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\storyline_generation\\storyline_engine\\semantic_knowledge_integrator.py",
+        "line": 23,
+        "old_module": "knowledge_base.traditions.unified_knowledge_retriever",
+        "new_module": "core.lighthouse.traditions.unified_knowledge_retriever",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\storyline_generation\\storyline_engine\\semantic_knowledge_integrator.py",
+        "line": 23,
+        "old_module": "knowledge_base.traditions.unified_knowledge_retriever",
+        "new_module": "core.lighthouse.traditions.unified_knowledge_retriever",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\storyline_generation\\storyline_engine\\semantic_knowledge_integrator.py",
+        "line": 24,
+        "old_module": "knowledge_base.retrievers.focused_mystical_retriever",
+        "new_module": "core.lighthouse.retrievers.focused_mystical_retriever",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\storyline_generation\\storyline_engine\\semantic_knowledge_integrator.py",
+        "line": 24,
+        "old_module": "knowledge_base.retrievers.focused_mystical_retriever",
+        "new_module": "core.lighthouse.retrievers.focused_mystical_retriever",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\knowledge_base\\complete_system_test.py",
+        "line": 18,
+        "old_module": "storyline_engine.canonical_trait_registry",
+        "new_module": "engines.storyline_generation.canonical_trait_registry",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\knowledge_base\\complete_system_test.py",
+        "line": 19,
+        "old_module": "storyline_engine.governor_engine",
+        "new_module": "engines.storyline_generation.governor_engine",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\knowledge_base\\utils\\simple_index_updater.py",
+        "line": 22,
+        "old_module": "knowledge_base.data.curated_sources",
+        "new_module": "data.knowledge.data.curated_sources",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\knowledge_base\\utils\\simple_index_updater.py",
+        "line": 22,
+        "old_module": "knowledge_base.data.curated_sources",
+        "new_module": "core.lighthouse.data.curated_sources",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\cli\\cli\\mystical_cli.py",
+        "line": 13,
+        "old_module": "game_mechanics.divination_systems.tarot_game_interface",
+        "new_module": "tools.game_mechanics.divination_systems.tarot_game_interface",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\cli\\cli\\mystical_cli.py",
+        "line": 14,
+        "old_module": "integration_layer.coordinators.batch_governor_assignment",
+        "new_module": "engines.batch_processing.coordinators.batch_governor_assignment",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\cli\\cli\\mystical_cli.py",
+        "line": 15,
+        "old_module": "mystical_systems.tarot_system.utils.tarot_utils",
+        "new_module": "engines.mystical_systems.tarot_system.utils.tarot_utils",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\cli\\cli\\mystical_cli.py",
+        "line": 16,
+        "old_module": "game_mechanics.divination_systems.tarot_game_engine",
+        "new_module": "tools.game_mechanics.divination_systems.tarot_game_engine",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\game_mechanics\\game_mechanics\\divination_systems\\tarot_game_engine.py",
+        "line": 4,
+        "old_module": "mystical_systems.tarot_system.schemas.tarot_schemas",
+        "new_module": "engines.mystical_systems.tarot_system.schemas.tarot_schemas",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\game_mechanics\\game_mechanics\\divination_systems\\tarot_game_engine.py",
+        "line": 5,
+        "old_module": "mystical_systems.tarot_system.utils.tarot_utils",
+        "new_module": "engines.mystical_systems.tarot_system.utils.tarot_utils",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\game_mechanics\\game_mechanics\\divination_systems\\tarot_game_interface.py",
+        "line": 1,
+        "old_module": "game_mechanics.divination_systems.tarot_game_engine",
+        "new_module": "tools.game_mechanics.divination_systems.tarot_game_engine",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\game_mechanics\\game_mechanics\\divination_systems\\tarot_game_interface.py",
+        "line": 2,
+        "old_module": "mystical_systems.tarot_system.schemas.tarot_schemas",
+        "new_module": "engines.mystical_systems.tarot_system.schemas.tarot_schemas",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\utilities\\scripts\\governor_review_runner.py",
+        "line": 37,
+        "old_module": "knowledge_base.archives.governor_review_template",
+        "new_module": "core.lighthouse.archives.governor_review_template",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\utilities\\scripts\\test_trait_validation.py",
+        "line": 27,
+        "old_module": "game_mechanics.dialog_system",
+        "new_module": "tools.game_mechanics.dialog_system",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\utilities\\scripts\\test_trait_validation.py",
+        "line": 49,
+        "old_module": "game_mechanics.dialog_system",
+        "new_module": "tools.game_mechanics.dialog_system",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\utilities\\scripts\\test_trait_validation.py",
+        "line": 80,
+        "old_module": "game_mechanics.dialog_system",
+        "new_module": "tools.game_mechanics.dialog_system",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\utilities\\scripts\\test_trait_validation.py",
+        "line": 137,
+        "old_module": "game_mechanics.dialog_system",
+        "new_module": "tools.game_mechanics.dialog_system",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\utilities\\scripts\\test_trait_validation.py",
+        "line": 159,
+        "old_module": "game_mechanics.dialog_system",
+        "new_module": "tools.game_mechanics.dialog_system",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\utilities\\scripts\\test_trait_validation.py",
+        "line": 177,
+        "old_module": "scripts.trait_validation_runner",
+        "new_module": "tools.utilities.trait_validation_runner",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\utilities\\scripts\\trait_validation_runner.py",
+        "line": 28,
+        "old_module": "game_mechanics.dialog_system",
+        "new_module": "tools.game_mechanics.dialog_system",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\validation\\tests\\performance_benchmark.py",
+        "line": 20,
+        "old_module": "game_mechanics.dialog_system",
+        "new_module": "tools.game_mechanics.dialog_system",
+        "type": "from_import"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\validation\\tests\\test_governor_preferences.py",
+        "line": 21,
+        "old_module": "game_mechanics.dialog_system",
+        "new_module": "tools.game_mechanics.dialog_system",
+        "type": "from_import"
+      }
+    ],
+    "sys_path_manipulations": [
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\core\\lighthouse\\traditions\\traditions\\enochian_knowledge_database.py",
+        "line": 11,
+        "content": "sys.path.append(os.path.join(os.path.dirname(__file__), '..'))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\core\\lighthouse\\traditions\\traditions\\golden_dawn_knowledge_database.py",
+        "line": 11,
+        "content": "sys.path.append(os.path.join(os.path.dirname(__file__), '..'))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\core\\lighthouse\\traditions\\traditions\\hermetic_knowledge_database.py",
+        "line": 11,
+        "content": "sys.path.append(os.path.join(os.path.dirname(__file__), '..'))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\core\\lighthouse\\traditions\\traditions\\kabbalah_knowledge_database.py",
+        "line": 11,
+        "content": "sys.path.append(os.path.join(os.path.dirname(__file__), '..'))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\core\\lighthouse\\traditions\\traditions\\unified_knowledge_retriever.py",
+        "line": 10,
+        "content": "sys.path.append(os.path.join(os.path.dirname(__file__), '..'))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\dev_tools_archive\\storyline_engine\\dev_tools\\direct_validation.py",
+        "line": 9,
+        "content": "sys.path.append(str(Path(__file__).parent))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\dev_tools_archive\\storyline_engine\\dev_tools\\enhanced_generator_v2.py",
+        "line": 13,
+        "content": "sys.path.append(str(Path(__file__).parent))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\dev_tools_archive\\storyline_engine\\dev_tools\\final_validation.py",
+        "line": 10,
+        "content": "sys.path.append(str(Path(__file__).parent))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\batch_processing\\integration_layer\\coordinators\\batch_governor_assignment.py",
+        "line": 7,
+        "content": "sys.path.append(os.path.join(os.path.dirname(__file__), '../..'))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\mystical_systems\\mystical_systems\\tarot_system\\tarot_system.py",
+        "line": 3,
+        "content": "sys.path.append(os.path.join(os.path.dirname(__file__), '../..'))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\mystical_systems\\mystical_systems\\tarot_system\\test_tarot.py",
+        "line": 3,
+        "content": "sys.path.append(os.path.join(os.path.dirname(__file__), '../..'))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\storyline_generation\\storyline_engine\\semantic_knowledge_integrator.py",
+        "line": 18,
+        "content": "sys.path.append(str(Path(__file__).parent.parent / \"knowledge_base\"))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\engines\\storyline_generation\\storyline_engine\\semantic_knowledge_integrator.py",
+        "line": 22,
+        "content": "sys.path.append(str(Path(__file__).parent.parent))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\knowledge_base\\complete_system_test.py",
+        "line": 10,
+        "content": "sys.path.append('..')  # Add parent directory to path"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\knowledge_base\\complete_system_test.py",
+        "line": 11,
+        "content": "sys.path.append('../storyline_engine')  # Add storyline_engine to path"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\knowledge_base\\free_content_consolidator.py",
+        "line": 15,
+        "content": "sys.path.append(os.path.join(os.path.dirname(__file__), 'traditions'))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\knowledge_base\\free_content_consolidator.py",
+        "line": 16,
+        "content": "sys.path.append(os.path.join(os.path.dirname(__file__), 'schemas'))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\knowledge_base\\archives\\batch_processor.py",
+        "line": 14,
+        "content": "sys.path.append(str(Path(__file__).parent.parent))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\knowledge_base\\archives\\complete_remaining.py",
+        "line": 11,
+        "content": "sys.path.append(str(Path(__file__).parent.parent))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\knowledge_base\\utils\\simple_index_updater.py",
+        "line": 17,
+        "content": "sys.path.append(str(project_root))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\scripts\\update_imports.py",
+        "line": 146,
+        "content": "if 'sys.path' in line and ('append' in line or 'insert' in line):"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\cli\\cli\\mystical_cli.py",
+        "line": 11,
+        "content": "sys.path.append(str(Path(__file__).parent.parent))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\utilities\\scripts\\ai_governor_review_system.py",
+        "line": 32,
+        "content": "sys.path.append(str(Path(__file__).parent.parent))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\utilities\\scripts\\batch_governor_review.py",
+        "line": 24,
+        "content": "sys.path.append(str(Path(__file__).parent.parent))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\utilities\\scripts\\governor_review_runner.py",
+        "line": 33,
+        "content": "sys.path.append(str(Path(__file__).parent.parent))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\utilities\\scripts\\production_readiness_assessment.py",
+        "line": 26,
+        "content": "sys.path.append(str(Path(__file__).parent.parent))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\utilities\\scripts\\test_trait_validation.py",
+        "line": 16,
+        "content": "sys.path.append(str(Path(__file__).parent.parent))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\utilities\\scripts\\trait_validation_runner.py",
+        "line": 26,
+        "content": "sys.path.append(str(Path(__file__).parent.parent))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\validation\\tests\\performance_benchmark.py",
+        "line": 18,
+        "content": "sys.path.append(str(Path(__file__).parent.parent))"
+      },
+      {
+        "file": "D:\\Enochian Cyphers\\Governor Generation\\governor_generator\\tools\\validation\\tests\\test_governor_preferences.py",
+        "line": 19,
+        "content": "sys.path.append(str(Path(__file__).parent.parent))"
+      }
+    ],
+    "circular_imports": [],
+    "errors": []
+  }
+}
