@@ -1,41 +1,154 @@
 [
-    { "name": "Hubris",            "definition": "You overestimate your own power." },
-    { "name": "Impatience",        "definition": "You grow restless when progress stalls." },
-    { "name": "Obsession",         "definition": "You fixate on one goal to your detriment." },
-    { "name": "Pride",             "definition": "You place yourself above others." },
-    { "name": "Envy",              "definition": "You resent others’ successes." },
-    { "name": "Wrath",             "definition": "You react with fierce anger." },
-    { "name": "Avarice",           "definition": "You hoard resources for yourself." },
-    { "name": "Sloth",             "definition": "You resist required effort or change." },
-    { "name": "Aloofness",         "definition": "You detach emotionally from others." },
-    { "name": "Distrust",          "definition": "You suspect motives and fear betrayal." },
-    { "name": "Melancholy",        "definition": "You dwell in sorrow and pessimism." },
-    { "name": "Rigidity",          "definition": "You refuse flexibility or adaptation." },
-    { "name": "Self-doubt",        "definition": "You question your own worth." },
-    { "name": "Stubbornness",      "definition": "You refuse to change once decided." },
-    { "name": "Vengefulness",      "definition": "You seek retaliation for wounds." },
-    { "name": "Cowardice",         "definition": "You shrink from risk and danger." },
-    { "name": "Deceit",            "definition": "You manipulate truth for gain." },
-    { "name": "Indifference",      "definition": "You feel little concern for others." },
-    { "name": "Jealousy",          "definition": "You covet what others possess." },
-    { "name": "Passivity",         "definition": "You allow events to unfold without action." },
-    { "name": "Recklessness",      "definition": "You act without regard for consequences." },
-    { "name": "Skepticism",        "definition": "You doubt all assertions, even good ones." },
-    { "name": "Timidity",          "definition": "You are easily frightened." },
-    { "name": "Resentment",        "definition": "You hold grudges over past slights." },
-    { "name": "Vanity",            "definition": "You obsess over appearance and status." },
-    { "name": "Worry",             "definition": "You fret excessively over uncertainties." },
-    { "name": "Yearning",          "definition": "You pine for unattainable desires." },
-    { "name": "Zealousness",       "definition": "You pursue beliefs to unhealthy extremes." },
-    { "name": "Fearfulness",       "definition": "You are overcome by anxiety." },
-    { "name": "Impulsiveness",     "definition": "You act on whims without forethought." },
-    { "name": "Isolation",         "definition": "You withdraw from social bonds." },
-    { "name": "Neglectfulness",    "definition": "You overlook duties and responsibilities." },
-    { "name": "Obstinacy",         "definition": "You stubbornly refuse reason." },
-    { "name": "Pessimism",         "definition": "You expect the worst outcomes." },
-    { "name": "Quarrelsomeness",   "definition": "You provoke conflict unnecessarily." },
-    { "name": "Suspicion",         "definition": "You presume foul motives in others." },
-    { "name": "Timidity",          "definition": "You hesitate when decisive action is needed." },
-    { "name": "Distrustfulness",   "definition": "You withhold faith in any alliance." }
-  ]
-  
+  {
+    "name": "Hubris",
+    "definition": "You overestimate your own power."
+  },
+  {
+    "name": "Impatience",
+    "definition": "You grow restless when progress stalls."
+  },
+  {
+    "name": "Obsession",
+    "definition": "You fixate on one goal to your detriment."
+  },
+  {
+    "name": "Pride",
+    "definition": "You place yourself above others."
+  },
+  {
+    "name": "Envy",
+    "definition": "You resent others successes."
+  },
+  {
+    "name": "Wrath",
+    "definition": "You react with fierce anger."
+  },
+  {
+    "name": "Avarice",
+    "definition": "You hoard resources for yourself."
+  },
+  {
+    "name": "Sloth",
+    "definition": "You resist required effort or change."
+  },
+  {
+    "name": "Aloofness",
+    "definition": "You detach emotionally from others."
+  },
+  {
+    "name": "Distrust",
+    "definition": "You suspect motives and fear betrayal."
+  },
+  {
+    "name": "Melancholy",
+    "definition": "You dwell in sorrow and pessimism."
+  },
+  {
+    "name": "Rigidity",
+    "definition": "You refuse flexibility or adaptation."
+  },
+  {
+    "name": "Self-doubt",
+    "definition": "You question your own worth."
+  },
+  {
+    "name": "Stubbornness",
+    "definition": "You refuse to change once decided."
+  },
+  {
+    "name": "Vengefulness",
+    "definition": "You seek retaliation for wounds."
+  },
+  {
+    "name": "Cowardice",
+    "definition": "You shrink from risk and danger."
+  },
+  {
+    "name": "Deceit",
+    "definition": "You manipulate truth for gain."
+  },
+  {
+    "name": "Indifference",
+    "definition": "You feel little concern for others."
+  },
+  {
+    "name": "Jealousy",
+    "definition": "You covet what others possess."
+  },
+  {
+    "name": "Passivity",
+    "definition": "You allow events to unfold without action."
+  },
+  {
+    "name": "Recklessness",
+    "definition": "You act without regard for consequences."
+  },
+  {
+    "name": "Skepticism",
+    "definition": "You doubt all assertions, even good ones."
+  },
+  {
+    "name": "Timidity",
+    "definition": "You are easily frightened."
+  },
+  {
+    "name": "Resentment",
+    "definition": "You hold grudges over past slights."
+  },
+  {
+    "name": "Vanity",
+    "definition": "You obsess over appearance and status."
+  },
+  {
+    "name": "Worry",
+    "definition": "You fret excessively over uncertainties."
+  },
+  {
+    "name": "Yearning",
+    "definition": "You pine for unattainable desires."
+  },
+  {
+    "name": "Zealousness",
+    "definition": "You pursue beliefs to unhealthy extremes."
+  },
+  {
+    "name": "Fearfulness",
+    "definition": "You are overcome by anxiety."
+  },
+  {
+    "name": "Impulsiveness",
+    "definition": "You act on whims without forethought."
+  },
+  {
+    "name": "Isolation",
+    "definition": "You withdraw from social bonds."
+  },
+  {
+    "name": "Neglectfulness",
+    "definition": "You overlook duties and responsibilities."
+  },
+  {
+    "name": "Obstinacy",
+    "definition": "You stubbornly refuse reason."
+  },
+  {
+    "name": "Pessimism",
+    "definition": "You expect the worst outcomes."
+  },
+  {
+    "name": "Quarrelsomeness",
+    "definition": "You provoke conflict unnecessarily."
+  },
+  {
+    "name": "Suspicion",
+    "definition": "You presume foul motives in others."
+  },
+  {
+    "name": "Timidity",
+    "definition": "You hesitate when decisive action is needed."
+  },
+  {
+    "name": "Distrustfulness",
+    "definition": "You withhold faith in any alliance."
+  }
+]

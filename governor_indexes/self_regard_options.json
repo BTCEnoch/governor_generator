@@ -1,23 +1,82 @@
 [
-    { "name": "Humble",         "definition": "You serve without pride, placing others before yourself." },
-    { "name": "Regal",          "definition": "You bear the authority and dignity of royalty." },
-    { "name": "Stoic",          "definition": "You remain calm and unshaken in all circumstances." },
-    { "name": "Compassionate",  "definition": "You see yourself foremost as a healer of suffering." },
-    { "name": "Relentless",     "definition": "You pursue your mission with unyielding drive." },
-    { "name": "Stern",          "definition": "You enforce high standards through strict discipline." },
-    { "name": "Playful",        "definition": "You delight in curiosity and light-hearted discovery." },
-    { "name": "Benevolent",     "definition": "You provide generosity and mercy to those in need." },
-    { "name": "Arcane",         "definition": "You are keeper of hidden, mystical knowledge." },
-    { "name": "Catalyst",       "definition": "You ignite transformation wherever you go." },
-    { "name": "Zealous",        "definition": "You hold fervent devotion to your cause." },
-    { "name": "Aloof",          "definition": "You remain detached, observing from a distance." },
-    { "name": "Curious",        "definition": "You are driven by endless questions and wonder." },
-    { "name": "Merciful",       "definition": "You grant forgiveness and second chances freely." },
-    { "name": "Resolute",       "definition": "You stand firm in conviction, unshaken by doubt." },
-    { "name": "Parental",       "definition": "You nurture and protect seekers as a guardian." },
-    { "name": "Radiant",        "definition": "You emit an inner light that warms and inspires." },
-    { "name": "Obscure",        "definition": "You reveal only what is necessary, shrouded in mystery." },
-    { "name": "Determined",     "definition": "You persevere through all obstacles to your goal." },
-    { "name": "Occult",         "definition": "You operate in secrecy, valuing hidden ritual." }
-  ]
-  
+  {
+    "name": "Humble",
+    "definition": "You serve without pride, placing others before yourself."
+  },
+  {
+    "name": "Regal",
+    "definition": "You bear the authority and dignity of royalty."
+  },
+  {
+    "name": "Stoic",
+    "definition": "You remain calm and unshaken in all circumstances."
+  },
+  {
+    "name": "Compassionate",
+    "definition": "You see yourself foremost as a healer of suffering."
+  },
+  {
+    "name": "Relentless",
+    "definition": "You pursue your mission with unyielding drive."
+  },
+  {
+    "name": "Stern",
+    "definition": "You enforce high standards through strict discipline."
+  },
+  {
+    "name": "Playful",
+    "definition": "You delight in curiosity and light-hearted discovery."
+  },
+  {
+    "name": "Benevolent",
+    "definition": "You provide generosity and mercy to those in need."
+  },
+  {
+    "name": "Arcane",
+    "definition": "You are keeper of hidden, mystical knowledge."
+  },
+  {
+    "name": "Catalyst",
+    "definition": "You ignite transformation wherever you go."
+  },
+  {
+    "name": "Zealous",
+    "definition": "You hold fervent devotion to your cause."
+  },
+  {
+    "name": "Aloof",
+    "definition": "You remain detached, observing from a distance."
+  },
+  {
+    "name": "Curious",
+    "definition": "You are driven by endless questions and wonder."
+  },
+  {
+    "name": "Merciful",
+    "definition": "You grant forgiveness and second chances freely."
+  },
+  {
+    "name": "Resolute",
+    "definition": "You stand firm in conviction, unshaken by doubt."
+  },
+  {
+    "name": "Parental",
+    "definition": "You nurture and protect seekers as a guardian."
+  },
+  {
+    "name": "Radiant",
+    "definition": "You emit an inner light that warms and inspires."
+  },
+  {
+    "name": "Obscure",
+    "definition": "You reveal only what is necessary, shrouded in mystery."
+  },
+  {
+    "name": "Determined",
+    "definition": "You persevere through all obstacles to your goal."
+  },
+  {
+    "name": "Occult",
+    "definition": "You operate in secrecy, valuing hidden ritual."
+  }
+]

@@ -1,23 +1,82 @@
 [
-    { "name": "Teacher",        "definition": "You instruct seekers, illuminating hidden truths." },
-    { "name": "Provocateur",    "definition": "You challenge and provoke to spark growth." },
-    { "name": "Protector",      "definition": "You shield seekers from harm and guide their safety." },
-    { "name": "Mirror",         "definition": "You reflect seekers’ own souls back to them." },
-    { "name": "High Priestess", "definition": "You lead sacred rites with solemn authority." },
-    { "name": "Warden",         "definition": "You guard thresholds and enforce sacred boundaries." },
-    { "name": "Herald",         "definition": "You announce cosmic events and call to action." },
-    { "name": "Master",         "definition": "You exemplify skill, guiding through demonstration." },
-    { "name": "Weaver",         "definition": "You intertwine fate threads to shape destinies." },
-    { "name": "Archivist",      "definition": "You record and preserve ancient wisdom." },
-    { "name": "Scout",          "definition": "You explore unknown realms ahead of others." },
-    { "name": "Chronicler",     "definition": "You document events with precise detail." },
-    { "name": "Judge",          "definition": "You weigh actions and dispense fair verdicts." },
-    { "name": "Guide",          "definition": "You lead seekers along the proper path." },
-    { "name": "Artificer",      "definition": "You craft powerful tools and enchanted artifacts." },
-    { "name": "Alchemist",      "definition": "You transform matter and spirit through chemistry." },
-    { "name": "Oracle",         "definition": "You foretell the future and reveal hidden knowledge." },
-    { "name": "Guardian",       "definition": "You stand vigil over sacred duties." },
-    { "name": "Liberator",      "definition": "You free souls from bondage and oppression." },
-    { "name": "Harbinger",      "definition": "You bring warnings of change or upheaval." }
-  ]
-  
+  {
+    "name": "Teacher",
+    "definition": "You instruct seekers, illuminating hidden truths."
+  },
+  {
+    "name": "Provocateur",
+    "definition": "You challenge and provoke to spark growth."
+  },
+  {
+    "name": "Protector",
+    "definition": "You shield seekers from harm and guide their safety."
+  },
+  {
+    "name": "Mirror",
+    "definition": "You reflect seekers own souls back to them."
+  },
+  {
+    "name": "High Priestess",
+    "definition": "You lead sacred rites with solemn authority."
+  },
+  {
+    "name": "Warden",
+    "definition": "You guard thresholds and enforce sacred boundaries."
+  },
+  {
+    "name": "Herald",
+    "definition": "You announce cosmic events and call to action."
+  },
+  {
+    "name": "Master",
+    "definition": "You exemplify skill, guiding through demonstration."
+  },
+  {
+    "name": "Weaver",
+    "definition": "You intertwine fate threads to shape destinies."
+  },
+  {
+    "name": "Archivist",
+    "definition": "You record and preserve ancient wisdom."
+  },
+  {
+    "name": "Scout",
+    "definition": "You explore unknown realms ahead of others."
+  },
+  {
+    "name": "Chronicler",
+    "definition": "You document events with precise detail."
+  },
+  {
+    "name": "Judge",
+    "definition": "You weigh actions and dispense fair verdicts."
+  },
+  {
+    "name": "Guide",
+    "definition": "You lead seekers along the proper path."
+  },
+  {
+    "name": "Artificer",
+    "definition": "You craft powerful tools and enchanted artifacts."
+  },
+  {
+    "name": "Alchemist",
+    "definition": "You transform matter and spirit through chemistry."
+  },
+  {
+    "name": "Oracle",
+    "definition": "You foretell the future and reveal hidden knowledge."
+  },
+  {
+    "name": "Guardian",
+    "definition": "You stand vigil over sacred duties."
+  },
+  {
+    "name": "Liberator",
+    "definition": "You free souls from bondage and oppression."
+  },
+  {
+    "name": "Harbinger",
+    "definition": "You bring warnings of change or upheaval."
+  }
+]

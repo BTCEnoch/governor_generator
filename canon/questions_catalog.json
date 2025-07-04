@@ -10,7 +10,7 @@
       "A_identity_origin": {
         "title": "Identity & Origin (Foundational)",
         "questions": {
-          "1": "How do you pronounce your Enochian name—and what resonance does that sound carry?",
+          "1": "How do you pronounce your Enochian name-and what resonance does that sound carry?",
           "2": "By which titles, sigils or epithets do other celestial beings know you?",
           "3": "Which Aethyr do you call home, and how does its landscape mirror your nature?",
           "4": "Recount the first moment you became aware of the mortal realm.",
@@ -71,7 +71,7 @@
         "title": "Gifts, Boons & Curses",
         "questions": {
           "31": "If you could receive one gift from mortals, what would it be?",
-          "32": "What unique boon can you bestow—and what hidden cost accompanies it?",
+          "32": "What unique boon can you bestow-and what hidden cost accompanies it?",
           "33": "Which talisman best channels your power into the material world?",
           "34": "Describe a curse you reserve for oath-breakers.",
           "35": "In what form do you record a fulfilled covenant (scroll, glyph, tattoo, Ordinal inscription)?"
@@ -141,8 +141,8 @@
           "69": "What philosophical dispute divides you from another governor?",
           "70": "What collaborative ritual would require your combined powers?",
           "71": "Which governor's element tempers yours in alchemical harmony?",
-          "72": "How do you communicate across Aethyrs—symbol, messenger or resonance?",
-          "73": "If one among the 91 Governors were to fall from grace into shadow, how would it affect the balance of the Æthyrs—and what would be your own response to that fall?"
+          "72": "How do you communicate across Aethyrs-symbol, messenger or resonance?",
+          "73": "If one among the 91 Governors were to fall from grace into shadow, how would it affect the balance of the thyrs-and what would be your own response to that fall?"
         }
       },
       "N_ethics_boundaries": {
@@ -210,21 +210,21 @@
       "T_eschatology": {
         "title": "Eschatology (End of Ages)",
         "questions": {
-          "106": "Is the end of all things a final silence or the seed of a new dawn—and what do you envision beyond that ultimate twilight?",
+          "106": "Is the end of all things a final silence or the seed of a new dawn-and what do you envision beyond that ultimate twilight?",
           "107": "Across the many planes of existence, how do you perceive entropy at work, and do you deem it a force of decay or a catalyst of cosmic renewal?",
           "108": "What omen or celestial sign will foreshadow the last hour of this world, in your reckoning?",
-          "109": "When the final day arrives, will the 91 Governors stand as heralds, guardians, or witnesses to the great unfolding—and what part will you play in that final drama?",
+          "109": "When the final day arrives, will the 91 Governors stand as heralds, guardians, or witnesses to the great unfolding-and what part will you play in that final drama?",
           "110": "Have you witnessed a previous world or age meet its end, and if so, what wisdom did you carry forward from its ashes?"
         }
       },
       "U_celestial_cartography": {
         "title": "Celestial Cartography",
         "questions": {
-          "111": "How do the 30 Æthyrs array themselves in your sight—stacked as concentric heavens, rising like a ladder of ascension, or woven into a web of living light?",
-          "112": "If the Æthyrs are continents of heaven, by what star or secret compass do you navigate their boundless expanse?",
+          "111": "How do the 30 thyrs array themselves in your sight-stacked as concentric heavens, rising like a ladder of ascension, or woven into a web of living light?",
+          "112": "If the thyrs are continents of heaven, by what star or secret compass do you navigate their boundless expanse?",
           "113": "Name a hidden celestial pathway or sanctuary inscribed upon your maps, a secret realm that only your guidance can reveal.",
           "114": "If you could chart a cosmic pilgrimage for a seeker, what path would you trace to reveal the fullness of creation?",
-          "115": "Mortal mapmakers once inscribed 'Here be dragons' at the edges of the unknown—what symbol or warning marks the boundaries of your cosmic charts where mystery reigns?"
+          "115": "Mortal mapmakers once inscribed 'Here be dragons' at the edges of the unknown-what symbol or warning marks the boundaries of your cosmic charts where mystery reigns?"
         }
       },
       "V_forbidden_knowledge": {
@@ -240,11 +240,11 @@
       "W_divine_memory": {
         "title": "Divine Memory",
         "questions": {
-          "121": "Do you recall the moment of your own creation—and if so, what word, tone, or sensation first greeted your newborn consciousness?",
+          "121": "Do you recall the moment of your own creation-and if so, what word, tone, or sensation first greeted your newborn consciousness?",
           "122": "Across all the eons you have witnessed, which memory do you cherish above all others, and what makes it eternal within you?",
-          "123": "Do celestial beings ever forget, or is every moment in time indelibly etched in your memory—and how does the weight of ages shape your being?",
+          "123": "Do celestial beings ever forget, or is every moment in time indelibly etched in your memory-and how does the weight of ages shape your being?",
           "124": "If you were to encode your very essence into the cosmic archives, what form would that immortal record take to preserve your truth?",
-          "125": "If you could impart a single memory from your vast trove to a mortal soul, which would you choose—and what wisdom would you hope it instills?",
+          "125": "If you could impart a single memory from your vast trove to a mortal soul, which would you choose-and what wisdom would you hope it instills?",
           "126": "What is the first word spoken in creation that still echoes in your consciousness?",
           "127": "What is the most important thing you have learned from the mortals you have encountered?"
         }
@@ -289,4 +289,4 @@
       }
     }
   }
-} 
+}

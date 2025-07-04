@@ -1,1122 +1,1850 @@
 [
-    {
-      "number": 1,
-      "name": "LIL",
-      "correspondence": "The Universe (Saturn)",
-      "governors": [
-        {
-          "name": "Occodon",
-          "region": "Egypt",
-          "traits": {
-            "personality": ["wise", "authoritative", "spiritual"],
-            "domain": "Spiritual Ascension",
-            "visual_motif": "Golden sage with radiant sigil",
-            "letter_influence": ["Transformation", "Intuition", "Love"]
-          }
-        },
-        {
-          "name": "Pascomb",
-          "region": "Syria",
-          "traits": {
-            "personality": ["structured", "disciplined", "organized"],
-            "domain": "Cosmic Order",
-            "visual_motif": "Silver architect with geometric grids",
-            "letter_influence": ["Harmony", "Beginnings", "Hope"]
-          }
-        },
-        {
-          "name": "Valgars",
-          "region": "Northern Iraq",
-          "traits": {
-            "personality": ["protective", "cautious", "resolute"],
-            "domain": "Boundary Setting",
-            "visual_motif": "Shielded warrior with glowing aura",
-            "letter_influence": ["Vitality", "Beginnings", "Wisdom"]
-          }
+  {
+    "number": 1,
+    "name": "LIL",
+    "correspondence": "The Universe (Saturn)",
+    "governors": [
+      {
+        "name": "Occodon",
+        "region": "Egypt",
+        "traits": {
+          "personality": [
+            "wise",
+            "authoritative",
+            "spiritual"
+          ],
+          "domain": "Spiritual Ascension",
+          "visual_motif": "Golden sage with radiant sigil",
+          "letter_influence": [
+            "Transformation",
+            "Intuition",
+            "Love"
+          ]
         }
-      ]
-    },
-    {
-      "number": 2,
-      "name": "ARN",
-      "correspondence": "The Moon (Pisces)",
-      "governors": [
-        {
-          "name": "Doagnis",
-          "region": "Cappadocia",
-          "traits": {
-            "personality": ["intuitive", "mysterious", "emotional"],
-            "domain": "Psychic Insight",
-            "visual_motif": "Veiled seer with moonlit glow",
-            "letter_influence": ["Love", "Transformation", "Beginnings"]
-          }
-        },
-        {
-          "name": "Pacasna",
-          "region": "Tuscia",
-          "traits": {
-            "personality": ["empathetic", "dreamy", "imaginative"],
-            "domain": "Emotional Healing",
-            "visual_motif": "Flowing robes with soft light",
-            "letter_influence": ["Harmony", "Beginnings", "Intuition"]
-          }
-        },
-        {
-          "name": "Dialiva",
-          "region": "Asia Minor",
-          "traits": {
-            "personality": ["illusory", "transformative", "enigmatic"],
-            "domain": "Subconscious Exploration",
-            "visual_motif": "Shifting mist with starry sigils",
-            "letter_influence": ["Love", "Courage", "Beginnings"]
-          }
+      },
+      {
+        "name": "Pascomb",
+        "region": "Syria",
+        "traits": {
+          "personality": [
+            "structured",
+            "disciplined",
+            "organized"
+          ],
+          "domain": "Cosmic Order",
+          "visual_motif": "Silver architect with geometric grids",
+          "letter_influence": [
+            "Harmony",
+            "Beginnings",
+            "Hope"
+          ]
         }
-      ]
-    },
-    {
-      "number": 3,
-      "name": "ZOM",
-      "correspondence": "The Emperor (Aries)",
-      "governors": [
-        {
-          "name": "Samapha",
-          "region": "Hyrcania",
-          "traits": {
-            "personality": ["bold", "assertive", "dynamic"],
-            "domain": "Leadership",
-            "visual_motif": "Fiery commander with blazing sigil",
-            "letter_influence": ["Hope", "Beginnings", "Balance"]
-          }
-        },
-        {
-          "name": "Virooli",
-          "region": "Thracia",
-          "traits": {
-            "personality": ["courageous", "strategic", "inspiring"],
-            "domain": "Tactical Guidance",
-            "visual_motif": "Armored knight with radiant sword",
-            "letter_influence": ["Vitality", "Courage", "Destruction"]
-          }
-        },
-        {
-          "name": "Andispi",
-          "region": "Gosmam",
-          "traits": {
-            "personality": ["energetic", "pioneering", "visionary"],
-            "domain": "Initiative",
-            "visual_motif": "Flaming torch with dynamic sparks",
-            "letter_influence": ["Beginnings", "Surrender", "Love"]
-          }
+      },
+      {
+        "name": "Valgars",
+        "region": "Northern Iraq",
+        "traits": {
+          "personality": [
+            "protective",
+            "cautious",
+            "resolute"
+          ],
+          "domain": "Boundary Setting",
+          "visual_motif": "Shielded warrior with glowing aura",
+          "letter_influence": [
+            "Vitality",
+            "Beginnings",
+            "Wisdom"
+          ]
         }
-      ]
-    },
-    {
-      "number": 4,
-      "name": "PAZ",
-      "correspondence": "The Lovers (Gemini)",
-      "governors": [
-        {
-          "name": "Thotanp",
-          "region": "Armenia",
-          "traits": {
-            "personality": ["harmonious", "communicative", "adaptable"],
-            "domain": "Relationships",
-            "visual_motif": "Twin figures with glowing orbs",
-            "letter_influence": ["Illusion", "Protection", "Transformation"]
-          }
-        },
-        {
-          "name": "Axziarg",
-          "region": "Persia",
-          "traits": {
-            "personality": ["intellectual", "diplomatic", "versatile"],
-            "domain": "Mediation",
-            "visual_motif": "Silver scroll with flowing script",
-            "letter_influence": ["Surrender", "Beginnings", "Purification"]
-          }
-        },
-        {
-          "name": "Pothnir",
-          "region": "Babylon",
-          "traits": {
-            "personality": ["balanced", "eloquent", "unifying"],
-            "domain": "Connection",
-            "visual_motif": "Golden bridge with ethereal light",
-            "letter_influence": ["Harmony", "Transformation", "Illusion"]
-          }
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "name": "ARN",
+    "correspondence": "The Moon (Pisces)",
+    "governors": [
+      {
+        "name": "Doagnis",
+        "region": "Cappadocia",
+        "traits": {
+          "personality": [
+            "intuitive",
+            "mysterious",
+            "emotional"
+          ],
+          "domain": "Psychic Insight",
+          "visual_motif": "Veiled seer with moonlit glow",
+          "letter_influence": [
+            "Love",
+            "Transformation",
+            "Beginnings"
+          ]
         }
-      ]
-    },
-    {
-      "number": 5,
-      "name": "LIT",
-      "correspondence": "The Hierophant (Taurus)",
-      "governors": [
-        {
-          "name": "Cucarb",
-          "region": "Arabia",
-          "traits": {
-            "personality": ["traditional", "stable", "guiding"],
-            "domain": "Spiritual Tradition",
-            "visual_motif": "Ancient priest with glowing staff",
-            "letter_influence": ["Wisdom", "Beginnings", "Vitality"]
-          }
-        },
-        {
-          "name": "Lauacon",
-          "region": "Idumea",
-          "traits": {
-            "personality": ["grounded", "reliable", "nurturing"],
-            "domain": "Material Stability",
-            "visual_motif": "Earthy sage with rooted sigils",
-            "letter_influence": ["Wisdom", "Beginnings", "Completion"]
-          }
-        },
-        {
-          "name": "Sochial",
-          "region": "Caria",
-          "traits": {
-            "personality": ["devoted", "steadfast", "wise"],
-            "domain": "Sacred Knowledge",
-            "visual_motif": "Golden book with radiant pages",
-            "letter_influence": ["Hope", "Transformation", "Purification"]
-          }
+      },
+      {
+        "name": "Pacasna",
+        "region": "Tuscia",
+        "traits": {
+          "personality": [
+            "empathetic",
+            "dreamy",
+            "imaginative"
+          ],
+          "domain": "Emotional Healing",
+          "visual_motif": "Flowing robes with soft light",
+          "letter_influence": [
+            "Harmony",
+            "Beginnings",
+            "Intuition"
+          ]
         }
-      ]
-    },
-    {
-      "number": 6,
-      "name": "MAZ",
-      "correspondence": "The Hermit (Virgo)",
-      "governors": [
-        {
-          "name": "Anugel",
-          "region": "Mesopotamia",
-          "traits": {
-            "personality": ["introspective", "analytical", "solitary"],
-            "domain": "Inner Wisdom",
-            "visual_motif": "Cloaked hermit with glowing lantern",
-            "letter_influence": ["Surrender", "Transformation", "Intuition"]
-          }
-        },
-        {
-          "name": "Rocle",
-          "region": "Cilicia",
-          "traits": {
-            "personality": ["discerning", "methodical", "reflective"],
-            "domain": "Self-Discovery",
-            "visual_motif": "Silver mirror with soft light",
-            "letter_influence": ["Destruction", "Transformation", "Surrender"]
-          }
-        },
-        {
-          "name": "Labnixp",
-          "region": "Phrygia",
-          "traits": {
-            "personality": ["precise", "observant", "contemplative"],
-            "domain": "Detailed Insight",
-            "visual_motif": "Crystal orb with intricate patterns",
-            "letter_influence": ["Wisdom", "Beginnings", "Completion"]
-          }
+      },
+      {
+        "name": "Dialiva",
+        "region": "Asia Minor",
+        "traits": {
+          "personality": [
+            "illusory",
+            "transformative",
+            "enigmatic"
+          ],
+          "domain": "Subconscious Exploration",
+          "visual_motif": "Shifting mist with starry sigils",
+          "letter_influence": [
+            "Love",
+            "Courage",
+            "Beginnings"
+          ]
         }
-      ]
-    },
-    {
-      "number": 7,
-      "name": "DEO",
-      "correspondence": "The Chariot (Cancer)",
-      "governors": [
-        {
-          "name": "Ocanm",
-          "region": "Lycia",
-          "traits": {
-            "personality": ["driven", "protective", "emotional"],
-            "domain": "Emotional Control",
-            "visual_motif": "Charioteer with glowing reins",
-            "letter_influence": ["Transformation", "Beginnings", "Surrender"]
-          }
-        },
-        {
-          "name": "Ziracah",
-          "region": "Pamphylia",
-          "traits": {
-            "personality": ["nurturing", "resilient", "determined"],
-            "domain": "Inner Strength",
-            "visual_motif": "Silver crab with radiant shell",
-            "letter_influence": ["Completion", "Beginnings", "Balance"]
-          }
-        },
-        {
-          "name": "Mirzind",
-          "region": "Paphlagonia",
-          "traits": {
-            "personality": ["intuitive", "tenacious", "caring"],
-            "domain": "Emotional Guidance",
-            "visual_motif": "Moonlit waves with glowing sigils",
-            "letter_influence": ["Balance", "Courage", "Destruction"]
-          }
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "name": "ZOM",
+    "correspondence": "The Emperor (Aries)",
+    "governors": [
+      {
+        "name": "Samapha",
+        "region": "Hyrcania",
+        "traits": {
+          "personality": [
+            "bold",
+            "assertive",
+            "dynamic"
+          ],
+          "domain": "Leadership",
+          "visual_motif": "Fiery commander with blazing sigil",
+          "letter_influence": [
+            "Hope",
+            "Beginnings",
+            "Balance"
+          ]
         }
-      ]
-    },
-    {
-      "number": 8,
-      "name": "ZID",
-      "correspondence": "Strength (Leo)",
-      "governors": [
-        {
-          "name": "Cadaamp",
-          "region": "Bithynia",
-          "traits": {
-            "personality": ["courageous", "radiant", "confident"],
-            "domain": "Inner Power",
-            "visual_motif": "Lion with fiery mane",
-            "letter_influence": ["Intuition", "Vitality", "Surrender"]
-          }
-        },
-        {
-          "name": "Zarzilg",
-          "region": "Pontus",
-          "traits": {
-            "personality": ["bold", "charismatic", "inspiring"],
-            "domain": "Leadership",
-            "visual_motif": "Golden crown with radiant light",
-            "letter_influence": ["Vitality", "Beginnings", "Vitality"]
-          }
-        },
-        {
-          "name": "Lavavoth",
-          "region": "Galatia",
-          "traits": {
-            "personality": ["passionate", "strong-willed", "noble"],
-            "domain": "Creative Force",
-            "visual_motif": "Flaming heart with glowing sigils",
-            "letter_influence": ["Wisdom", "Beginnings", "Vitality"]
-          }
+      },
+      {
+        "name": "Virooli",
+        "region": "Thracia",
+        "traits": {
+          "personality": [
+            "courageous",
+            "strategic",
+            "inspiring"
+          ],
+          "domain": "Tactical Guidance",
+          "visual_motif": "Armored knight with radiant sword",
+          "letter_influence": [
+            "Vitality",
+            "Courage",
+            "Destruction"
+          ]
         }
-      ]
-    },
-    {
-      "number": 9,
-      "name": "ZIP",
-      "correspondence": "The Star (Aquarius)",
-      "governors": [
-        {
-          "name": "Zaxanol",
-          "region": "Cappadocia",
-          "traits": {
-            "personality": ["visionary", "innovative", "detached"],
-            "domain": "Hope and Inspiration",
-            "visual_motif": "Starry figure with glowing orbs",
-            "letter_influence": ["Completion", "Beginnings", "Purification"]
-          }
-        },
-        {
-          "name": "Saxenel",
-          "region": "Armenia",
-          "traits": {
-            "personality": ["progressive", "intellectual", "free-spirited"],
-            "domain": "Innovation",
-            "visual_motif": "Silver star with radiant beams",
-            "letter_influence": ["Hope", "Beginnings", "Purification"]
-          }
-        },
-        {
-          "name": "Alpudus",
-          "region": "Media",
-          "traits": {
-            "personality": ["humanitarian", "idealistic", "visionary"],
-            "domain": "Collective Good",
-            "visual_motif": "Aquarian urn with flowing light",
-            "letter_influence": ["Beginnings", "Purification", "Wisdom"]
-          }
+      },
+      {
+        "name": "Andispi",
+        "region": "Gosmam",
+        "traits": {
+          "personality": [
+            "energetic",
+            "pioneering",
+            "visionary"
+          ],
+          "domain": "Initiative",
+          "visual_motif": "Flaming torch with dynamic sparks",
+          "letter_influence": [
+            "Beginnings",
+            "Surrender",
+            "Love"
+          ]
         }
-      ]
-    },
-    {
-      "number": 10,
-      "name": "ZAX",
-      "correspondence": "The Devil (Capricorn)",
-      "governors": [
-        {
-          "name": "Lexarph",
-          "region": "Persia",
-          "traits": {
-            "personality": ["chaotic", "challenging", "intense"],
-            "domain": "Transformation through Adversity",
-            "visual_motif": "Dark vortex with fiery sigils",
-            "letter_influence": ["Wisdom", "Authority", "Purification"]
-          }
-        },
-        {
-          "name": "Comanan",
-          "region": "Babylon",
-          "traits": {
-            "personality": ["dispersive", "enigmatic", "powerful"],
-            "domain": "Overcoming Obstacles",
-            "visual_motif": "Shadowy figure with glowing eyes",
-            "letter_influence": ["Intuition", "Transformation", "Balance"]
-          }
-        },
-        {
-          "name": "Tabitom",
-          "region": "Arabia",
-          "traits": {
-            "personality": ["guarding", "resolute", "mysterious"],
-            "domain": "Protection Against Chaos",
-            "visual_motif": "Iron gate with radiant sigils",
-            "letter_influence": ["Illusion", "Beginnings", "Communication"]
-          }
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "name": "PAZ",
+    "correspondence": "The Lovers (Gemini)",
+    "governors": [
+      {
+        "name": "Thotanp",
+        "region": "Armenia",
+        "traits": {
+          "personality": [
+            "harmonious",
+            "communicative",
+            "adaptable"
+          ],
+          "domain": "Relationships",
+          "visual_motif": "Twin figures with glowing orbs",
+          "letter_influence": [
+            "Illusion",
+            "Protection",
+            "Transformation"
+          ]
         }
-      ]
-    },
-    {
-      "number": 11,
-      "name": "ICH",
-      "correspondence": "The Tower (Mars)",
-      "governors": [
-        {
-          "name": "Molpand",
-          "region": "Idumea",
-          "traits": {
-            "personality": ["disruptive", "dynamic", "forceful"],
-            "domain": "Sudden Change",
-            "visual_motif": "Crimson tower with lightning",
-            "letter_influence": ["Balance", "Transformation", "Wisdom"]
-          }
-        },
-        {
-          "name": "Usnarda",
-          "region": "Caria",
-          "traits": {
-            "personality": ["aggressive", "transformative", "bold"],
-            "domain": "Destruction and Renewal",
-            "visual_motif": "Flaming sword with radiant sparks",
-            "letter_influence": ["Vitality", "Hope", "Surrender"]
-          }
-        },
-        {
-          "name": "Ponodol",
-          "region": "Mesopotamia",
-          "traits": {
-            "personality": ["energetic", "revolutionary", "intense"],
-            "domain": "Breakthrough",
-            "visual_motif": "Exploding star with fiery sigils",
-            "letter_influence": ["Vitality", "Beginnings", "Transformation"]
-          }
+      },
+      {
+        "name": "Axziarg",
+        "region": "Persia",
+        "traits": {
+          "personality": [
+            "intellectual",
+            "diplomatic",
+            "versatile"
+          ],
+          "domain": "Mediation",
+          "visual_motif": "Silver scroll with flowing script",
+          "letter_influence": [
+            "Surrender",
+            "Beginnings",
+            "Purification"
+          ]
         }
-      ]
-    },
-    {
-      "number": 12,
-      "name": "LOE",
-      "correspondence": "The Sun (Sun)",
-      "governors": [
-        {
-          "name": "Tapamal",
-          "region": "Cilicia",
-          "traits": {
-            "personality": ["radiant", "joyful", "inspiring"],
-            "domain": "Vitality",
-            "visual_motif": "Golden sun with radiant beams",
-            "letter_influence": ["Illusion", "Beginnings", "Harmony"]
-          }
-        },
-        {
-          "name": "Gedoons",
-          "region": "Phrygia",
-          "traits": {
-            "personality": ["warm", "creative", "uplifting"],
-            "domain": "Creative Expression",
-            "visual_motif": "Fiery orb with glowing sigils",
-            "letter_influence": ["Connection", "Authority", "Love"]
-          }
-        },
-        {
-          "name": "Ambriol",
-          "region": "Lycia",
-          "traits": {
-            "personality": ["charismatic", "vibrant", "generous"],
-            "domain": "Illumination",
-            "visual_motif": "Radiant figure with golden aura",
-            "letter_influence": ["Beginnings", "Balance", "Communication"]
-          }
+      },
+      {
+        "name": "Pothnir",
+        "region": "Babylon",
+        "traits": {
+          "personality": [
+            "balanced",
+            "eloquent",
+            "unifying"
+          ],
+          "domain": "Connection",
+          "visual_motif": "Golden bridge with ethereal light",
+          "letter_influence": [
+            "Harmony",
+            "Transformation",
+            "Illusion"
+          ]
         }
-      ]
-    },
-    {
-      "number": 13,
-      "name": "ZIM",
-      "correspondence": "The Aeon (Fire)",
-      "governors": [
-        {
-          "name": "Gecaond",
-          "region": "Pamphylia",
-          "traits": {
-            "personality": ["transformative", "visionary", "dynamic"],
-            "domain": "Spiritual Evolution",
-            "visual_motif": "Flaming phoenix with radiant wings",
-            "letter_influence": ["Connection", "Authority", "Intuition"]
-          }
-        },
-        {
-          "name": "Laparin",
-          "region": "Paphlagonia",
-          "traits": {
-            "personality": ["inspirational", "progressive", "fiery"],
-            "domain": "Renewal",
-            "visual_motif": "Blazing star with swirling flames",
-            "letter_influence": ["Wisdom", "Beginnings", "Harmony"]
-          }
-        },
-        {
-          "name": "Docepax",
-          "region": "Bithynia",
-          "traits": {
-            "personality": ["energetic", "transformative", "bold"],
-            "domain": "Change Catalyst",
-            "visual_motif": "Fiery comet with glowing trail",
-            "letter_influence": ["Love", "Transformation", "Intuition"]
-          }
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "name": "LIT",
+    "correspondence": "The Hierophant (Taurus)",
+    "governors": [
+      {
+        "name": "Cucarb",
+        "region": "Arabia",
+        "traits": {
+          "personality": [
+            "traditional",
+            "stable",
+            "guiding"
+          ],
+          "domain": "Spiritual Tradition",
+          "visual_motif": "Ancient priest with glowing staff",
+          "letter_influence": [
+            "Wisdom",
+            "Beginnings",
+            "Vitality"
+          ]
         }
-      ]
-    },
-    {
-      "number": 14,
-      "name": "VTA",
-      "correspondence": "The Wheel of Fortune (Jupiter)",
-      "governors": [
-        {
-          "name": "Tedefo",
-          "region": "Pontus",
-          "traits": {
-            "personality": ["expansive", "optimistic", "fortunate"],
-            "domain": "Destiny",
-            "visual_motif": "Golden wheel with radiant spokes",
-            "letter_influence": ["Illusion", "Authority", "Love"]
-          }
-        },
-        {
-          "name": "Vivipos",
-          "region": "Galatia",
-          "traits": {
-            "personality": ["generous", "philosophical", "prosperous"],
-            "domain": "Abundance",
-            "visual_motif": "Jupiterian orb with glowing sigils",
-            "letter_influence": ["Vitality", "Courage", "Harmony"]
-          }
-        },
-        {
-          "name": "Ooanamb",
-          "region": "Cappadocia",
-          "traits": {
-            "personality": ["benevolent", "expansive", "wise"],
-            "domain": "Fortune",
-            "visual_motif": "Golden sage with a wheel of fortune and radiant sigils",
-            "letter_influence": ["Transformation", "Beginnings", "Surrender"]
-          }
+      },
+      {
+        "name": "Lauacon",
+        "region": "Idumea",
+        "traits": {
+          "personality": [
+            "grounded",
+            "reliable",
+            "nurturing"
+          ],
+          "domain": "Material Stability",
+          "visual_motif": "Earthy sage with rooted sigils",
+          "letter_influence": [
+            "Wisdom",
+            "Beginnings",
+            "Completion"
+          ]
         }
-      ]
-    },
-    {
-      "number": 15,
-      "name": "OXO",
-      "correspondence": "The Devil (Capricorn)",
-      "governors": [
-        {
-          "name": "Tahando",
-          "region": "Armenia",
-          "traits": {
-            "personality": ["ambitious", "disciplined", "resourceful"],
-            "domain": "Material Mastery",
-            "visual_motif": "Mountain goat with golden horns",
-            "letter_influence": ["Illusion", "Beginnings", "Protection"]
-          }
-        },
-        {
-          "name": "Nociabi",
-          "region": "Media",
-          "traits": {
-            "personality": ["practical", "structured", "patient"],
-            "domain": "Long-term Planning",
-            "visual_motif": "Ancient architect with glowing blueprints",
-            "letter_influence": ["Surrender", "Transformation", "Intuition"]
-          }
-        },
-        {
-          "name": "Tastoxo",
-          "region": "Persia",
-          "traits": {
-            "personality": ["determined", "resilient", "authoritative"],
-            "domain": "Overcoming Limitations",
-            "visual_motif": "Dark tower with radiant light at the top",
-            "letter_influence": ["Illusion", "Beginnings", "Hope"]
-          }
+      },
+      {
+        "name": "Sochial",
+        "region": "Caria",
+        "traits": {
+          "personality": [
+            "devoted",
+            "steadfast",
+            "wise"
+          ],
+          "domain": "Sacred Knowledge",
+          "visual_motif": "Golden book with radiant pages",
+          "letter_influence": [
+            "Hope",
+            "Transformation",
+            "Purification"
+          ]
         }
-      ]
-    },
-    {
-      "number": 16,
-      "name": "LEA",
-      "correspondence": "The Tower (Mars)",
-      "governors": [
-        {
-          "name": "Cucinar",
-          "region": "Babylon",
-          "traits": {
-            "personality": ["disruptive", "dynamic", "forceful"],
-            "domain": "Sudden Change",
-            "visual_motif": "Crimson tower with lightning",
-            "letter_influence": ["Intuition", "Beginnings", "Transformation"]
-          }
-        },
-        {
-          "name": "Lavacon",
-          "region": "Arabia",
-          "traits": {
-            "personality": ["aggressive", "transformative", "bold"],
-            "domain": "Destruction and Renewal",
-            "visual_motif": "Flaming sword with radiant sparks",
-            "letter_influence": ["Vitality", "Hope", "Surrender"]
-          }
-        },
-        {
-          "name": "Sochial",
-          "region": "Idumea",
-          "traits": {
-            "personality": ["energetic", "revolutionary", "intense"],
-            "domain": "Breakthrough",
-            "visual_motif": "Exploding star with fiery sigils",
-            "letter_influence": ["Intuition", "Transformation", "Harmony"]
-          }
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "name": "MAZ",
+    "correspondence": "The Hermit (Virgo)",
+    "governors": [
+      {
+        "name": "Anugel",
+        "region": "Mesopotamia",
+        "traits": {
+          "personality": [
+            "introspective",
+            "analytical",
+            "solitary"
+          ],
+          "domain": "Inner Wisdom",
+          "visual_motif": "Cloaked hermit with glowing lantern",
+          "letter_influence": [
+            "Surrender",
+            "Transformation",
+            "Intuition"
+          ]
         }
-      ]
-    },
-    {
-      "number": 17,
-      "name": "TAN",
-      "correspondence": "The Star (Aquarius)",
-      "governors": [
-        {
-          "name": "Mirzind",
-          "region": "Caria",
-          "traits": {
-            "personality": ["visionary", "innovative", "detached"],
-            "domain": "Hope and Inspiration",
-            "visual_motif": "Starry figure with glowing orbs",
-            "letter_influence": ["Balance", "Courage", "Destruction"]
-          }
-        },
-        {
-          "name": "Obuagel",
-          "region": "Mesopotamia",
-          "traits": {
-            "personality": ["progressive", "intellectual", "free-spirited"],
-            "domain": "Innovation",
-            "visual_motif": "Silver star with radiant beams",
-            "letter_influence": ["Transformation", "Communication", "Vitality"]
-          }
-        },
-        {
-          "name": "Cucarb",
-          "region": "Cilicia",
-          "traits": {
-            "personality": ["humanitarian", "idealistic", "visionary"],
-            "domain": "Collective Good",
-            "visual_motif": "Aquarian urn with flowing light",
-            "letter_influence": ["Harmony", "Beginnings", "Completion"]
-          }
+      },
+      {
+        "name": "Rocle",
+        "region": "Cilicia",
+        "traits": {
+          "personality": [
+            "discerning",
+            "methodical",
+            "reflective"
+          ],
+          "domain": "Self-Discovery",
+          "visual_motif": "Silver mirror with soft light",
+          "letter_influence": [
+            "Destruction",
+            "Transformation",
+            "Surrender"
+          ]
         }
-      ]
-    },
-    {
-      "number": 18,
-      "name": "ZEN",
-      "correspondence": "The Moon (Pisces)",
-      "governors": [
-        {
-          "name": "Popan",
-          "region": "Phrygia",
-          "traits": {
-            "personality": ["intuitive", "mysterious", "emotional"],
-            "domain": "Psychic Insight",
-            "visual_motif": "Veiled seer with moonlit glow",
-            "letter_influence": ["Illusion", "Beginnings", "Transformation"]
-          }
-        },
-        {
-          "name": "Rocle",
-          "region": "Lycia",
-          "traits": {
-            "personality": ["empathetic", "dreamy", "imaginative"],
-            "domain": "Emotional Healing",
-            "visual_motif": "Flowing robes with soft light",
-            "letter_influence": ["Connection", "Authority", "Balance"]
-          }
-        },
-        {
-          "name": "Labnixp",
-          "region": "Pamphylia",
-          "traits": {
-            "personality": ["illusory", "transformative", "enigmatic"],
-            "domain": "Subconscious Exploration",
-            "visual_motif": "Shifting mist with starry sigils",
-            "letter_influence": ["Beginnings", "Love", "Vitality"]
-          }
+      },
+      {
+        "name": "Labnixp",
+        "region": "Phrygia",
+        "traits": {
+          "personality": [
+            "precise",
+            "observant",
+            "contemplative"
+          ],
+          "domain": "Detailed Insight",
+          "visual_motif": "Crystal orb with intricate patterns",
+          "letter_influence": [
+            "Wisdom",
+            "Beginnings",
+            "Completion"
+          ]
         }
-      ]
-    },
-    {
-      "number": 19,
-      "name": "POP",
-      "correspondence": "The Sun (Sun)",
-      "governors": [
-        {
-          "name": "Cadaamp",
-          "region": "Paphlagonia",
-          "traits": {
-            "personality": ["radiant", "joyful", "inspiring"],
-            "domain": "Vitality",
-            "visual_motif": "Golden sun with radiant beams",
-            "letter_influence": ["Love", "Transformation", "Completion"]
-          }
-        },
-        {
-          "name": "Zarzilg",
-          "region": "Bithynia",
-          "traits": {
-            "personality": ["warm", "creative", "uplifting"],
-            "domain": "Creative Expression",
-            "visual_motif": "Fiery orb with glowing sigils",
-            "letter_influence": ["Balance", "Beginnings", "Connection"]
-          }
-        },
-        {
-          "name": "Lavavoth",
-          "region": "Pontus",
-          "traits": {
-            "personality": ["charismatic", "vibrant", "generous"],
-            "domain": "Illumination",
-            "visual_motif": "Radiant figure with golden aura",
-            "letter_influence": ["Transformation", "Balance", "Harmony"]
-          }
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "name": "DEO",
+    "correspondence": "The Chariot (Cancer)",
+    "governors": [
+      {
+        "name": "Ocanm",
+        "region": "Lycia",
+        "traits": {
+          "personality": [
+            "driven",
+            "protective",
+            "emotional"
+          ],
+          "domain": "Emotional Control",
+          "visual_motif": "Charioteer with glowing reins",
+          "letter_influence": [
+            "Transformation",
+            "Beginnings",
+            "Surrender"
+          ]
         }
-      ]
-    },
-    {
-      "number": 20,
-      "name": "CHR",
-      "correspondence": "Judgement (Fire)",
-      "governors": [
-        {
-          "name": "Zaxanol",
-          "region": "Galatia",
-          "traits": {
-            "personality": ["transformative", "visionary", "dynamic"],
-            "domain": "Spiritual Evolution",
-            "visual_motif": "Flaming phoenix with radiant wings",
-            "letter_influence": ["Illusion", "Courage", "Beginnings"]
-          }
-        },
-        {
-          "name": "Saxenel",
-          "region": "Cappadocia",
-          "traits": {
-            "personality": ["inspirational", "progressive", "fiery"],
-            "domain": "Renewal",
-            "visual_motif": "Blazing star with swirling flames",
-            "letter_influence": ["Beginnings", "Completion", "Love"]
-          }
-        },
-        {
-          "name": "Alpudus",
-          "region": "Armenia",
-          "traits": {
-            "personality": ["energetic", "transformative", "bold"],
-            "domain": "Change Catalyst",
-            "visual_motif": "Fiery comet with glowing trail",
-            "letter_influence": ["Surrender", "Beginnings", "Intuition"]
-          }
+      },
+      {
+        "name": "Ziracah",
+        "region": "Pamphylia",
+        "traits": {
+          "personality": [
+            "nurturing",
+            "resilient",
+            "determined"
+          ],
+          "domain": "Inner Strength",
+          "visual_motif": "Silver crab with radiant shell",
+          "letter_influence": [
+            "Completion",
+            "Beginnings",
+            "Balance"
+          ]
         }
-      ]
-    },
-    {
-      "number": 21,
-      "name": "ASP",
-      "correspondence": "The World (Earth)",
-      "governors": [
-        {
-          "name": "Lexarph",
-          "region": "Media",
-          "traits": {
-            "personality": ["grounded", "complete", "harmonious"],
-            "domain": "Wholeness",
-            "visual_motif": "Earthly sphere with radiant sigils",
-            "letter_influence": ["Wisdom", "Beginnings", "Surrender"]
-          }
-        },
-        {
-          "name": "Comanan",
-          "region": "Persia",
-          "traits": {
-            "personality": ["balanced", "integrated", "fulfilling"],
-            "domain": "Completion",
-            "visual_motif": "Golden mandala with glowing patterns",
-            "letter_influence": ["Vitality", "Beginnings", "Hope"]
-          }
-        },
-        {
-          "name": "Tabitom",
-          "region": "Babylon",
-          "traits": {
-            "personality": ["stable", "encompassing", "wise"],
-            "domain": "Universal Harmony",
-            "visual_motif": "Radiant globe with earthy tones",
-            "letter_influence": ["Transformation", "Surrender", "Courage"]
-          }
+      },
+      {
+        "name": "Mirzind",
+        "region": "Paphlagonia",
+        "traits": {
+          "personality": [
+            "intuitive",
+            "tenacious",
+            "caring"
+          ],
+          "domain": "Emotional Guidance",
+          "visual_motif": "Moonlit waves with glowing sigils",
+          "letter_influence": [
+            "Balance",
+            "Courage",
+            "Destruction"
+          ]
         }
-      ]
-    },
-    {
-      "number": 22,
-      "name": "LIN",
-      "correspondence": "The Hanged Man (Water)",
-      "governors": [
-        {
-          "name": "Molpand",
-          "region": "Idumea",
-          "traits": {
-            "personality": ["sacrificial", "reflective", "patient"],
-            "domain": "Surrender",
-            "visual_motif": "Inverted figure with flowing water",
-            "letter_influence": ["Completion", "Beginnings", "Purification"]
-          }
-        },
-        {
-          "name": "Usnarda",
-          "region": "Caria",
-          "traits": {
-            "personality": ["contemplative", "adaptive", "fluid"],
-            "domain": "Letting Go",
-            "visual_motif": "Watery veil with glowing sigils",
-            "letter_influence": ["Harmony", "Beginnings", "Destruction"]
-          }
-        },
-        {
-          "name": "Ponodol",
-          "region": "Mesopotamia",
-          "traits": {
-            "personality": ["intuitive", "receptive", "suspended"],
-            "domain": "Inner Reflection",
-            "visual_motif": "Hanging lantern with watery light",
-            "letter_influence": ["Illusion", "Beginnings", "Harmony"]
-          }
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "name": "ZID",
+    "correspondence": "Strength (Leo)",
+    "governors": [
+      {
+        "name": "Cadaamp",
+        "region": "Bithynia",
+        "traits": {
+          "personality": [
+            "courageous",
+            "radiant",
+            "confident"
+          ],
+          "domain": "Inner Power",
+          "visual_motif": "Lion with fiery mane",
+          "letter_influence": [
+            "Intuition",
+            "Vitality",
+            "Surrender"
+          ]
         }
-      ]
-    },
-    {
-      "number": 23,
-      "name": "TOR",
-      "correspondence": "Death (Scorpio)",
-      "governors": [
-        {
-          "name": "Tapamal",
-          "region": "Cilicia",
-          "traits": {
-            "personality": ["transformative", "intense", "mysterious"],
-            "domain": "Transition",
-            "visual_motif": "Skeletal figure with glowing scythe",
-            "letter_influence": ["Surrender", "Courage", "Connection"]
-          }
-        },
-        {
-          "name": "Gedoons",
-          "region": "Phrygia",
-          "traits": {
-            "personality": ["renewing", "deep", "powerful"],
-            "domain": "Endings and Beginnings",
-            "visual_motif": "Dark phoenix with fiery rebirth",
-            "letter_influence": ["Transformation", "Beginnings", "Surrender"]
-          }
-        },
-        {
-          "name": "Ambriol",
-          "region": "Lycia",
-          "traits": {
-            "personality": ["enigmatic", "regenerative", "introspective"],
-            "domain": "Transformation",
-            "visual_motif": "Flowing river with radiant sigils",
-            "letter_influence": ["Transformation", "Destruction", "Hope"]
-          }
+      },
+      {
+        "name": "Zarzilg",
+        "region": "Pontus",
+        "traits": {
+          "personality": [
+            "bold",
+            "charismatic",
+            "inspiring"
+          ],
+          "domain": "Leadership",
+          "visual_motif": "Golden crown with radiant light",
+          "letter_influence": [
+            "Vitality",
+            "Beginnings",
+            "Vitality"
+          ]
         }
-      ]
-    },
-    {
-      "number": 24,
-      "name": "NIA",
-      "correspondence": "Temperance (Sagittarius)",
-      "governors": [
-        {
-          "name": "Gecaond",
-          "region": "Pamphylia",
-          "traits": {
-            "personality": ["balanced", "harmonious", "adaptable"],
-            "domain": "Integration",
-            "visual_motif": "Golden figure pouring light",
-            "letter_influence": ["Illusion", "Courage", "Beginnings"]
-          }
-        },
-        {
-          "name": "Laparin",
-          "region": "Paphlagonia",
-          "traits": {
-            "personality": ["patient", "moderate", "inspiring"],
-            "domain": "Harmony",
-            "visual_motif": "Silver chalice with radiant flow",
-            "letter_influence": ["Destruction", "Courage", "Beginnings"]
-          }
-        },
-        {
-          "name": "Docepax",
-          "region": "Bithynia",
-          "traits": {
-            "personality": ["temperate", "unifying", "wise"],
-            "domain": "Balance",
-            "visual_motif": "Radiant bridge with glowing sigils",
-            "letter_influence": ["Balance", "Courage", "Destruction"]
-          }
+      },
+      {
+        "name": "Lavavoth",
+        "region": "Galatia",
+        "traits": {
+          "personality": [
+            "passionate",
+            "strong-willed",
+            "noble"
+          ],
+          "domain": "Creative Force",
+          "visual_motif": "Flaming heart with glowing sigils",
+          "letter_influence": [
+            "Wisdom",
+            "Beginnings",
+            "Vitality"
+          ]
         }
-      ]
-    },
-    {
-      "number": 25,
-      "name": "UTI",
-      "correspondence": "The Emperor (Aries)",
-      "governors": [
-        {
-          "name": "Tedefo",
-          "region": "Pontus",
-          "traits": {
-            "personality": ["authoritative", "dynamic", "bold"],
-            "domain": "Leadership",
-            "visual_motif": "Fiery throne with radiant crown",
-            "letter_influence": ["Harmony", "Hope", "Transformation"]
-          }
-        },
-        {
-          "name": "Vivipos",
-          "region": "Galatia",
-          "traits": {
-            "personality": ["courageous", "strategic", "inspiring"],
-            "domain": "Command",
-            "visual_motif": "Armored knight with glowing sword",
-            "letter_influence": ["Transformation", "Balance", "Hope"]
-          }
-        },
-        {
-          "name": "Ooanamb",
-          "region": "Cappadocia",
-          "traits": {
-            "personality": ["energetic", "pioneering", "visionary"],
-            "domain": "Initiative",
-            "visual_motif": "Flaming torch with dynamic sparks",
-            "letter_influence": ["Intuition", "Protection", "Courage"]
-          }
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "name": "ZIP",
+    "correspondence": "The Star (Aquarius)",
+    "governors": [
+      {
+        "name": "Zaxanol",
+        "region": "Cappadocia",
+        "traits": {
+          "personality": [
+            "visionary",
+            "innovative",
+            "detached"
+          ],
+          "domain": "Hope and Inspiration",
+          "visual_motif": "Starry figure with glowing orbs",
+          "letter_influence": [
+            "Completion",
+            "Beginnings",
+            "Purification"
+          ]
         }
-      ]
-    },
-    {
-      "number": 26,
-      "name": "DES",
-      "correspondence": "The Hierophant (Taurus)",
-      "governors": [
-        {
-          "name": "Tahando",
-          "region": "Cappadocia",
-          "traits": {
-            "personality": ["traditional", "stable", "guiding"],
-            "domain": "Spiritual Tradition",
-            "visual_motif": "Ancient priest with glowing staff",
-            "letter_influence": ["Illusion", "Beginnings", "Hope"]
-          }
-        },
-        {
-          "name": "Nociabi",
-          "region": "Armenia",
-          "traits": {
-            "personality": ["grounded", "reliable", "nurturing"],
-            "domain": "Material Stability",
-            "visual_motif": "Earthy sage with rooted sigils",
-            "letter_influence": ["Destruction", "Beginnings", "Intuition"]
-          }
-        },
-        {
-          "name": "Tastoxo",
-          "region": "Media",
-          "traits": {
-            "personality": ["devoted", "steadfast", "wise"],
-            "domain": "Sacred Knowledge",
-            "visual_motif": "Golden book with radiant pages",
-            "letter_influence": ["Illusion", "Beginnings", "Hope"]
-          }
+      },
+      {
+        "name": "Saxenel",
+        "region": "Armenia",
+        "traits": {
+          "personality": [
+            "progressive",
+            "intellectual",
+            "free-spirited"
+          ],
+          "domain": "Innovation",
+          "visual_motif": "Silver star with radiant beams",
+          "letter_influence": [
+            "Hope",
+            "Beginnings",
+            "Purification"
+          ]
         }
-      ]
-    },
-    {
-      "number": 27,
-      "name": "ZAA",
-      "correspondence": "The Star (Aquarius)",
-      "governors": [
-        {
-          "name": "Mirzind",
-          "region": "Caria",
-          "traits": {
-            "personality": ["visionary", "innovative", "detached"],
-            "domain": "Hope and Inspiration",
-            "visual_motif": "Starry figure with glowing orbs",
-            "letter_influence": ["Completion", "Intuition", "Destruction"]
-          }
-        },
-        {
-          "name": "Obuagel",
-          "region": "Mesopotamia",
-          "traits": {
-            "personality": ["progressive", "intellectual", "free-spirited"],
-            "domain": "Innovation",
-            "visual_motif": "Silver star with radiant beams",
-            "letter_influence": ["Transformation", "Destruction", "Harmony"]
-          }
-        },
-        {
-          "name": "Cucarb",
-          "region": "Cilicia",
-          "traits": {
-            "personality": ["humanitarian", "idealistic", "visionary"],
-            "domain": "Collective Good",
-            "visual_motif": "Aquarian urn with flowing light",
-            "letter_influence": ["Wisdom", "Beginnings", "Vitality"]
-          }
+      },
+      {
+        "name": "Alpudus",
+        "region": "Media",
+        "traits": {
+          "personality": [
+            "humanitarian",
+            "idealistic",
+            "visionary"
+          ],
+          "domain": "Collective Good",
+          "visual_motif": "Aquarian urn with flowing light",
+          "letter_influence": [
+            "Beginnings",
+            "Purification",
+            "Wisdom"
+          ]
         }
-      ]
-    },
-    {
-      "number": 28,
-      "name": "BAG",
-      "correspondence": "The Moon (Pisces)",
-      "governors": [
-        {
-          "name": "Popan",
-          "region": "Phrygia",
-          "traits": {
-            "personality": ["intuitive", "mysterious", "emotional"],
-            "domain": "Psychic Insight",
-            "visual_motif": "Veiled seer with moonlit glow",
-            "letter_influence": ["Illusion", "Transformation", "Illusion"]
-          }
-        },
-        {
-          "name": "Rocle",
-          "region": "Lycia",
-          "traits": {
-            "personality": ["empathetic", "dreamy", "imaginative"],
-            "domain": "Emotional Healing",
-            "visual_motif": "Flowing robes with soft light",
-            "letter_influence": ["Destruction", "Transformation", "Vitality"]
-          }
-        },
-        {
-          "name": "Labnixp",
-          "region": "Pamphylia",
-          "traits": {
-            "personality": ["illusory", "transformative", "enigmatic"],
-            "domain": "Subconscious Exploration",
-            "visual_motif": "Shifting mist with starry sigils",
-            "letter_influence": ["Destruction", "Beginnings", "Destruction"]
-          }
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "name": "ZAX",
+    "correspondence": "The Devil (Capricorn)",
+    "governors": [
+      {
+        "name": "Lexarph",
+        "region": "Persia",
+        "traits": {
+          "personality": [
+            "chaotic",
+            "challenging",
+            "intense"
+          ],
+          "domain": "Transformation through Adversity",
+          "visual_motif": "Dark vortex with fiery sigils",
+          "letter_influence": [
+            "Wisdom",
+            "Authority",
+            "Purification"
+          ]
         }
-      ]
-    },
-    {
-      "number": 29,
-      "name": "RII",
-      "correspondence": "The Sun (Sun)",
-      "governors": [
-        {
-          "name": "Cadaamp",
-          "region": "Paphlagonia",
-          "traits": {
-            "personality": ["radiant", "joyful", "inspiring"],
-            "domain": "Vitality",
-            "visual_motif": "Golden sun with radiant beams",
-            "letter_influence": ["Vitality", "Beginnings", "Balance"]
-          }
-        },
-        {
-          "name": "Zarzilg",
-          "region": "Bithynia",
-          "traits": {
-            "personality": ["warm", "creative", "uplifting"],
-            "domain": "Creative Expression",
-            "visual_motif": "Fiery orb with glowing sigils",
-            "letter_influence": ["Purification", "Beginnings", "Destruction"]
-          }
-        },
-        {
-          "name": "Lavavoth",
-          "region": "Pontus",
-          "traits": {
-            "personality": ["charismatic", "vibrant", "generous"],
-            "domain": "Illumination",
-            "visual_motif": "Radiant figure with golden aura",
-            "letter_influence": ["Destruction", "Beginnings", "Transformation"]
-          }
+      },
+      {
+        "name": "Comanan",
+        "region": "Babylon",
+        "traits": {
+          "personality": [
+            "dispersive",
+            "enigmatic",
+            "powerful"
+          ],
+          "domain": "Overcoming Obstacles",
+          "visual_motif": "Shadowy figure with glowing eyes",
+          "letter_influence": [
+            "Intuition",
+            "Transformation",
+            "Balance"
+          ]
         }
-      ]
-    },
-    {
-      "number": 30,
-      "name": "TEX",
-      "correspondence": "The World (Earth)",
-      "governors": [
-        {
-          "name": "Paraoan",
-          "region": "Unknown",
-          "traits": {
-            "personality": ["grounded", "complete", "harmonious"],
-            "domain": "Wholeness",
-            "visual_motif": "Earthly sphere with radiant sigils",
-            "letter_influence": ["Illusion", "Beginnings", "Destruction"]
-          }
-        },
-        {
-          "name": "Tapamal",
-          "region": "Unknown",
-          "traits": {
-            "personality": ["balanced", "integrated", "fulfilling"],
-            "domain": "Completion",
-            "visual_motif": "Golden mandala with glowing patterns",
-            "letter_influence": ["Surrender", "Beginnings", "Illusion"]
-          }
-        },
-        {
-          "name": "Gedoons",
-          "region": "Unknown",
-          "traits": {
-            "personality": ["stable", "encompassing", "wise"],
-            "domain": "Universal Harmony",
-            "visual_motif": "Radiant globe with earthy tones",
-            "letter_influence": ["Transformation", "Beginnings", "Balance"]
-          }
-        },
-        {
-          "name": "Ambriol",
-          "region": "Unknown",
-          "traits": {
-            "personality": ["nurturing", "protective", "grounding"],
-            "domain": "Material Integration",
-            "visual_motif": "Fertile landscape with glowing sigils",
-            "letter_influence": ["Beginnings", "Completion", "Destruction"]
-          }
+      },
+      {
+        "name": "Tabitom",
+        "region": "Arabia",
+        "traits": {
+          "personality": [
+            "guarding",
+            "resolute",
+            "mysterious"
+          ],
+          "domain": "Protection Against Chaos",
+          "visual_motif": "Iron gate with radiant sigils",
+          "letter_influence": [
+            "Illusion",
+            "Beginnings",
+            "Communication"
+          ]
         }
-      ]
-    }
-  ]
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "name": "ICH",
+    "correspondence": "The Tower (Mars)",
+    "governors": [
+      {
+        "name": "Molpand",
+        "region": "Idumea",
+        "traits": {
+          "personality": [
+            "disruptive",
+            "dynamic",
+            "forceful"
+          ],
+          "domain": "Sudden Change",
+          "visual_motif": "Crimson tower with lightning",
+          "letter_influence": [
+            "Balance",
+            "Transformation",
+            "Wisdom"
+          ]
+        }
+      },
+      {
+        "name": "Usnarda",
+        "region": "Caria",
+        "traits": {
+          "personality": [
+            "aggressive",
+            "transformative",
+            "bold"
+          ],
+          "domain": "Destruction and Renewal",
+          "visual_motif": "Flaming sword with radiant sparks",
+          "letter_influence": [
+            "Vitality",
+            "Hope",
+            "Surrender"
+          ]
+        }
+      },
+      {
+        "name": "Ponodol",
+        "region": "Mesopotamia",
+        "traits": {
+          "personality": [
+            "energetic",
+            "revolutionary",
+            "intense"
+          ],
+          "domain": "Breakthrough",
+          "visual_motif": "Exploding star with fiery sigils",
+          "letter_influence": [
+            "Vitality",
+            "Beginnings",
+            "Transformation"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "name": "LOE",
+    "correspondence": "The Sun (Sun)",
+    "governors": [
+      {
+        "name": "Tapamal",
+        "region": "Cilicia",
+        "traits": {
+          "personality": [
+            "radiant",
+            "joyful",
+            "inspiring"
+          ],
+          "domain": "Vitality",
+          "visual_motif": "Golden sun with radiant beams",
+          "letter_influence": [
+            "Illusion",
+            "Beginnings",
+            "Harmony"
+          ]
+        }
+      },
+      {
+        "name": "Gedoons",
+        "region": "Phrygia",
+        "traits": {
+          "personality": [
+            "warm",
+            "creative",
+            "uplifting"
+          ],
+          "domain": "Creative Expression",
+          "visual_motif": "Fiery orb with glowing sigils",
+          "letter_influence": [
+            "Connection",
+            "Authority",
+            "Love"
+          ]
+        }
+      },
+      {
+        "name": "Ambriol",
+        "region": "Lycia",
+        "traits": {
+          "personality": [
+            "charismatic",
+            "vibrant",
+            "generous"
+          ],
+          "domain": "Illumination",
+          "visual_motif": "Radiant figure with golden aura",
+          "letter_influence": [
+            "Beginnings",
+            "Balance",
+            "Communication"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "name": "ZIM",
+    "correspondence": "The Aeon (Fire)",
+    "governors": [
+      {
+        "name": "Gecaond",
+        "region": "Pamphylia",
+        "traits": {
+          "personality": [
+            "transformative",
+            "visionary",
+            "dynamic"
+          ],
+          "domain": "Spiritual Evolution",
+          "visual_motif": "Flaming phoenix with radiant wings",
+          "letter_influence": [
+            "Connection",
+            "Authority",
+            "Intuition"
+          ]
+        }
+      },
+      {
+        "name": "Laparin",
+        "region": "Paphlagonia",
+        "traits": {
+          "personality": [
+            "inspirational",
+            "progressive",
+            "fiery"
+          ],
+          "domain": "Renewal",
+          "visual_motif": "Blazing star with swirling flames",
+          "letter_influence": [
+            "Wisdom",
+            "Beginnings",
+            "Harmony"
+          ]
+        }
+      },
+      {
+        "name": "Docepax",
+        "region": "Bithynia",
+        "traits": {
+          "personality": [
+            "energetic",
+            "transformative",
+            "bold"
+          ],
+          "domain": "Change Catalyst",
+          "visual_motif": "Fiery comet with glowing trail",
+          "letter_influence": [
+            "Love",
+            "Transformation",
+            "Intuition"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "name": "VTA",
+    "correspondence": "The Wheel of Fortune (Jupiter)",
+    "governors": [
+      {
+        "name": "Tedefo",
+        "region": "Pontus",
+        "traits": {
+          "personality": [
+            "expansive",
+            "optimistic",
+            "fortunate"
+          ],
+          "domain": "Destiny",
+          "visual_motif": "Golden wheel with radiant spokes",
+          "letter_influence": [
+            "Illusion",
+            "Authority",
+            "Love"
+          ]
+        }
+      },
+      {
+        "name": "Vivipos",
+        "region": "Galatia",
+        "traits": {
+          "personality": [
+            "generous",
+            "philosophical",
+            "prosperous"
+          ],
+          "domain": "Abundance",
+          "visual_motif": "Jupiterian orb with glowing sigils",
+          "letter_influence": [
+            "Vitality",
+            "Courage",
+            "Harmony"
+          ]
+        }
+      },
+      {
+        "name": "Ooanamb",
+        "region": "Cappadocia",
+        "traits": {
+          "personality": [
+            "benevolent",
+            "expansive",
+            "wise"
+          ],
+          "domain": "Fortune",
+          "visual_motif": "Golden sage with a wheel of fortune and radiant sigils",
+          "letter_influence": [
+            "Transformation",
+            "Beginnings",
+            "Surrender"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "name": "OXO",
+    "correspondence": "The Devil (Capricorn)",
+    "governors": [
+      {
+        "name": "Tahando",
+        "region": "Armenia",
+        "traits": {
+          "personality": [
+            "ambitious",
+            "disciplined",
+            "resourceful"
+          ],
+          "domain": "Material Mastery",
+          "visual_motif": "Mountain goat with golden horns",
+          "letter_influence": [
+            "Illusion",
+            "Beginnings",
+            "Protection"
+          ]
+        }
+      },
+      {
+        "name": "Nociabi",
+        "region": "Media",
+        "traits": {
+          "personality": [
+            "practical",
+            "structured",
+            "patient"
+          ],
+          "domain": "Long-term Planning",
+          "visual_motif": "Ancient architect with glowing blueprints",
+          "letter_influence": [
+            "Surrender",
+            "Transformation",
+            "Intuition"
+          ]
+        }
+      },
+      {
+        "name": "Tastoxo",
+        "region": "Persia",
+        "traits": {
+          "personality": [
+            "determined",
+            "resilient",
+            "authoritative"
+          ],
+          "domain": "Overcoming Limitations",
+          "visual_motif": "Dark tower with radiant light at the top",
+          "letter_influence": [
+            "Illusion",
+            "Beginnings",
+            "Hope"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "name": "LEA",
+    "correspondence": "The Tower (Mars)",
+    "governors": [
+      {
+        "name": "Cucinar",
+        "region": "Babylon",
+        "traits": {
+          "personality": [
+            "disruptive",
+            "dynamic",
+            "forceful"
+          ],
+          "domain": "Sudden Change",
+          "visual_motif": "Crimson tower with lightning",
+          "letter_influence": [
+            "Intuition",
+            "Beginnings",
+            "Transformation"
+          ]
+        }
+      },
+      {
+        "name": "Lavacon",
+        "region": "Arabia",
+        "traits": {
+          "personality": [
+            "aggressive",
+            "transformative",
+            "bold"
+          ],
+          "domain": "Destruction and Renewal",
+          "visual_motif": "Flaming sword with radiant sparks",
+          "letter_influence": [
+            "Vitality",
+            "Hope",
+            "Surrender"
+          ]
+        }
+      },
+      {
+        "name": "Sochial",
+        "region": "Idumea",
+        "traits": {
+          "personality": [
+            "energetic",
+            "revolutionary",
+            "intense"
+          ],
+          "domain": "Breakthrough",
+          "visual_motif": "Exploding star with fiery sigils",
+          "letter_influence": [
+            "Intuition",
+            "Transformation",
+            "Harmony"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "name": "TAN",
+    "correspondence": "The Star (Aquarius)",
+    "governors": [
+      {
+        "name": "Mirzind",
+        "region": "Caria",
+        "traits": {
+          "personality": [
+            "visionary",
+            "innovative",
+            "detached"
+          ],
+          "domain": "Hope and Inspiration",
+          "visual_motif": "Starry figure with glowing orbs",
+          "letter_influence": [
+            "Balance",
+            "Courage",
+            "Destruction"
+          ]
+        }
+      },
+      {
+        "name": "Obuagel",
+        "region": "Mesopotamia",
+        "traits": {
+          "personality": [
+            "progressive",
+            "intellectual",
+            "free-spirited"
+          ],
+          "domain": "Innovation",
+          "visual_motif": "Silver star with radiant beams",
+          "letter_influence": [
+            "Transformation",
+            "Communication",
+            "Vitality"
+          ]
+        }
+      },
+      {
+        "name": "Cucarb",
+        "region": "Cilicia",
+        "traits": {
+          "personality": [
+            "humanitarian",
+            "idealistic",
+            "visionary"
+          ],
+          "domain": "Collective Good",
+          "visual_motif": "Aquarian urn with flowing light",
+          "letter_influence": [
+            "Harmony",
+            "Beginnings",
+            "Completion"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "name": "ZEN",
+    "correspondence": "The Moon (Pisces)",
+    "governors": [
+      {
+        "name": "Popan",
+        "region": "Phrygia",
+        "traits": {
+          "personality": [
+            "intuitive",
+            "mysterious",
+            "emotional"
+          ],
+          "domain": "Psychic Insight",
+          "visual_motif": "Veiled seer with moonlit glow",
+          "letter_influence": [
+            "Illusion",
+            "Beginnings",
+            "Transformation"
+          ]
+        }
+      },
+      {
+        "name": "Rocle",
+        "region": "Lycia",
+        "traits": {
+          "personality": [
+            "empathetic",
+            "dreamy",
+            "imaginative"
+          ],
+          "domain": "Emotional Healing",
+          "visual_motif": "Flowing robes with soft light",
+          "letter_influence": [
+            "Connection",
+            "Authority",
+            "Balance"
+          ]
+        }
+      },
+      {
+        "name": "Labnixp",
+        "region": "Pamphylia",
+        "traits": {
+          "personality": [
+            "illusory",
+            "transformative",
+            "enigmatic"
+          ],
+          "domain": "Subconscious Exploration",
+          "visual_motif": "Shifting mist with starry sigils",
+          "letter_influence": [
+            "Beginnings",
+            "Love",
+            "Vitality"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "name": "POP",
+    "correspondence": "The Sun (Sun)",
+    "governors": [
+      {
+        "name": "Cadaamp",
+        "region": "Paphlagonia",
+        "traits": {
+          "personality": [
+            "radiant",
+            "joyful",
+            "inspiring"
+          ],
+          "domain": "Vitality",
+          "visual_motif": "Golden sun with radiant beams",
+          "letter_influence": [
+            "Love",
+            "Transformation",
+            "Completion"
+          ]
+        }
+      },
+      {
+        "name": "Zarzilg",
+        "region": "Bithynia",
+        "traits": {
+          "personality": [
+            "warm",
+            "creative",
+            "uplifting"
+          ],
+          "domain": "Creative Expression",
+          "visual_motif": "Fiery orb with glowing sigils",
+          "letter_influence": [
+            "Balance",
+            "Beginnings",
+            "Connection"
+          ]
+        }
+      },
+      {
+        "name": "Lavavoth",
+        "region": "Pontus",
+        "traits": {
+          "personality": [
+            "charismatic",
+            "vibrant",
+            "generous"
+          ],
+          "domain": "Illumination",
+          "visual_motif": "Radiant figure with golden aura",
+          "letter_influence": [
+            "Transformation",
+            "Balance",
+            "Harmony"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "name": "CHR",
+    "correspondence": "Judgement (Fire)",
+    "governors": [
+      {
+        "name": "Zaxanol",
+        "region": "Galatia",
+        "traits": {
+          "personality": [
+            "transformative",
+            "visionary",
+            "dynamic"
+          ],
+          "domain": "Spiritual Evolution",
+          "visual_motif": "Flaming phoenix with radiant wings",
+          "letter_influence": [
+            "Illusion",
+            "Courage",
+            "Beginnings"
+          ]
+        }
+      },
+      {
+        "name": "Saxenel",
+        "region": "Cappadocia",
+        "traits": {
+          "personality": [
+            "inspirational",
+            "progressive",
+            "fiery"
+          ],
+          "domain": "Renewal",
+          "visual_motif": "Blazing star with swirling flames",
+          "letter_influence": [
+            "Beginnings",
+            "Completion",
+            "Love"
+          ]
+        }
+      },
+      {
+        "name": "Alpudus",
+        "region": "Armenia",
+        "traits": {
+          "personality": [
+            "energetic",
+            "transformative",
+            "bold"
+          ],
+          "domain": "Change Catalyst",
+          "visual_motif": "Fiery comet with glowing trail",
+          "letter_influence": [
+            "Surrender",
+            "Beginnings",
+            "Intuition"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "name": "ASP",
+    "correspondence": "The World (Earth)",
+    "governors": [
+      {
+        "name": "Lexarph",
+        "region": "Media",
+        "traits": {
+          "personality": [
+            "grounded",
+            "complete",
+            "harmonious"
+          ],
+          "domain": "Wholeness",
+          "visual_motif": "Earthly sphere with radiant sigils",
+          "letter_influence": [
+            "Wisdom",
+            "Beginnings",
+            "Surrender"
+          ]
+        }
+      },
+      {
+        "name": "Comanan",
+        "region": "Persia",
+        "traits": {
+          "personality": [
+            "balanced",
+            "integrated",
+            "fulfilling"
+          ],
+          "domain": "Completion",
+          "visual_motif": "Golden mandala with glowing patterns",
+          "letter_influence": [
+            "Vitality",
+            "Beginnings",
+            "Hope"
+          ]
+        }
+      },
+      {
+        "name": "Tabitom",
+        "region": "Babylon",
+        "traits": {
+          "personality": [
+            "stable",
+            "encompassing",
+            "wise"
+          ],
+          "domain": "Universal Harmony",
+          "visual_motif": "Radiant globe with earthy tones",
+          "letter_influence": [
+            "Transformation",
+            "Surrender",
+            "Courage"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "name": "LIN",
+    "correspondence": "The Hanged Man (Water)",
+    "governors": [
+      {
+        "name": "Molpand",
+        "region": "Idumea",
+        "traits": {
+          "personality": [
+            "sacrificial",
+            "reflective",
+            "patient"
+          ],
+          "domain": "Surrender",
+          "visual_motif": "Inverted figure with flowing water",
+          "letter_influence": [
+            "Completion",
+            "Beginnings",
+            "Purification"
+          ]
+        }
+      },
+      {
+        "name": "Usnarda",
+        "region": "Caria",
+        "traits": {
+          "personality": [
+            "contemplative",
+            "adaptive",
+            "fluid"
+          ],
+          "domain": "Letting Go",
+          "visual_motif": "Watery veil with glowing sigils",
+          "letter_influence": [
+            "Harmony",
+            "Beginnings",
+            "Destruction"
+          ]
+        }
+      },
+      {
+        "name": "Ponodol",
+        "region": "Mesopotamia",
+        "traits": {
+          "personality": [
+            "intuitive",
+            "receptive",
+            "suspended"
+          ],
+          "domain": "Inner Reflection",
+          "visual_motif": "Hanging lantern with watery light",
+          "letter_influence": [
+            "Illusion",
+            "Beginnings",
+            "Harmony"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "name": "TOR",
+    "correspondence": "Death (Scorpio)",
+    "governors": [
+      {
+        "name": "Tapamal",
+        "region": "Cilicia",
+        "traits": {
+          "personality": [
+            "transformative",
+            "intense",
+            "mysterious"
+          ],
+          "domain": "Transition",
+          "visual_motif": "Skeletal figure with glowing scythe",
+          "letter_influence": [
+            "Surrender",
+            "Courage",
+            "Connection"
+          ]
+        }
+      },
+      {
+        "name": "Gedoons",
+        "region": "Phrygia",
+        "traits": {
+          "personality": [
+            "renewing",
+            "deep",
+            "powerful"
+          ],
+          "domain": "Endings and Beginnings",
+          "visual_motif": "Dark phoenix with fiery rebirth",
+          "letter_influence": [
+            "Transformation",
+            "Beginnings",
+            "Surrender"
+          ]
+        }
+      },
+      {
+        "name": "Ambriol",
+        "region": "Lycia",
+        "traits": {
+          "personality": [
+            "enigmatic",
+            "regenerative",
+            "introspective"
+          ],
+          "domain": "Transformation",
+          "visual_motif": "Flowing river with radiant sigils",
+          "letter_influence": [
+            "Transformation",
+            "Destruction",
+            "Hope"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "name": "NIA",
+    "correspondence": "Temperance (Sagittarius)",
+    "governors": [
+      {
+        "name": "Gecaond",
+        "region": "Pamphylia",
+        "traits": {
+          "personality": [
+            "balanced",
+            "harmonious",
+            "adaptable"
+          ],
+          "domain": "Integration",
+          "visual_motif": "Golden figure pouring light",
+          "letter_influence": [
+            "Illusion",
+            "Courage",
+            "Beginnings"
+          ]
+        }
+      },
+      {
+        "name": "Laparin",
+        "region": "Paphlagonia",
+        "traits": {
+          "personality": [
+            "patient",
+            "moderate",
+            "inspiring"
+          ],
+          "domain": "Harmony",
+          "visual_motif": "Silver chalice with radiant flow",
+          "letter_influence": [
+            "Destruction",
+            "Courage",
+            "Beginnings"
+          ]
+        }
+      },
+      {
+        "name": "Docepax",
+        "region": "Bithynia",
+        "traits": {
+          "personality": [
+            "temperate",
+            "unifying",
+            "wise"
+          ],
+          "domain": "Balance",
+          "visual_motif": "Radiant bridge with glowing sigils",
+          "letter_influence": [
+            "Balance",
+            "Courage",
+            "Destruction"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "name": "UTI",
+    "correspondence": "The Emperor (Aries)",
+    "governors": [
+      {
+        "name": "Tedefo",
+        "region": "Pontus",
+        "traits": {
+          "personality": [
+            "authoritative",
+            "dynamic",
+            "bold"
+          ],
+          "domain": "Leadership",
+          "visual_motif": "Fiery throne with radiant crown",
+          "letter_influence": [
+            "Harmony",
+            "Hope",
+            "Transformation"
+          ]
+        }
+      },
+      {
+        "name": "Vivipos",
+        "region": "Galatia",
+        "traits": {
+          "personality": [
+            "courageous",
+            "strategic",
+            "inspiring"
+          ],
+          "domain": "Command",
+          "visual_motif": "Armored knight with glowing sword",
+          "letter_influence": [
+            "Transformation",
+            "Balance",
+            "Hope"
+          ]
+        }
+      },
+      {
+        "name": "Ooanamb",
+        "region": "Cappadocia",
+        "traits": {
+          "personality": [
+            "energetic",
+            "pioneering",
+            "visionary"
+          ],
+          "domain": "Initiative",
+          "visual_motif": "Flaming torch with dynamic sparks",
+          "letter_influence": [
+            "Intuition",
+            "Protection",
+            "Courage"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "name": "DES",
+    "correspondence": "The Hierophant (Taurus)",
+    "governors": [
+      {
+        "name": "Tahando",
+        "region": "Cappadocia",
+        "traits": {
+          "personality": [
+            "traditional",
+            "stable",
+            "guiding"
+          ],
+          "domain": "Spiritual Tradition",
+          "visual_motif": "Ancient priest with glowing staff",
+          "letter_influence": [
+            "Illusion",
+            "Beginnings",
+            "Hope"
+          ]
+        }
+      },
+      {
+        "name": "Nociabi",
+        "region": "Armenia",
+        "traits": {
+          "personality": [
+            "grounded",
+            "reliable",
+            "nurturing"
+          ],
+          "domain": "Material Stability",
+          "visual_motif": "Earthy sage with rooted sigils",
+          "letter_influence": [
+            "Destruction",
+            "Beginnings",
+            "Intuition"
+          ]
+        }
+      },
+      {
+        "name": "Tastoxo",
+        "region": "Media",
+        "traits": {
+          "personality": [
+            "devoted",
+            "steadfast",
+            "wise"
+          ],
+          "domain": "Sacred Knowledge",
+          "visual_motif": "Golden book with radiant pages",
+          "letter_influence": [
+            "Illusion",
+            "Beginnings",
+            "Hope"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "name": "ZAA",
+    "correspondence": "The Star (Aquarius)",
+    "governors": [
+      {
+        "name": "Mirzind",
+        "region": "Caria",
+        "traits": {
+          "personality": [
+            "visionary",
+            "innovative",
+            "detached"
+          ],
+          "domain": "Hope and Inspiration",
+          "visual_motif": "Starry figure with glowing orbs",
+          "letter_influence": [
+            "Completion",
+            "Intuition",
+            "Destruction"
+          ]
+        }
+      },
+      {
+        "name": "Obuagel",
+        "region": "Mesopotamia",
+        "traits": {
+          "personality": [
+            "progressive",
+            "intellectual",
+            "free-spirited"
+          ],
+          "domain": "Innovation",
+          "visual_motif": "Silver star with radiant beams",
+          "letter_influence": [
+            "Transformation",
+            "Destruction",
+            "Harmony"
+          ]
+        }
+      },
+      {
+        "name": "Cucarb",
+        "region": "Cilicia",
+        "traits": {
+          "personality": [
+            "humanitarian",
+            "idealistic",
+            "visionary"
+          ],
+          "domain": "Collective Good",
+          "visual_motif": "Aquarian urn with flowing light",
+          "letter_influence": [
+            "Wisdom",
+            "Beginnings",
+            "Vitality"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "name": "BAG",
+    "correspondence": "The Moon (Pisces)",
+    "governors": [
+      {
+        "name": "Popan",
+        "region": "Phrygia",
+        "traits": {
+          "personality": [
+            "intuitive",
+            "mysterious",
+            "emotional"
+          ],
+          "domain": "Psychic Insight",
+          "visual_motif": "Veiled seer with moonlit glow",
+          "letter_influence": [
+            "Illusion",
+            "Transformation",
+            "Illusion"
+          ]
+        }
+      },
+      {
+        "name": "Rocle",
+        "region": "Lycia",
+        "traits": {
+          "personality": [
+            "empathetic",
+            "dreamy",
+            "imaginative"
+          ],
+          "domain": "Emotional Healing",
+          "visual_motif": "Flowing robes with soft light",
+          "letter_influence": [
+            "Destruction",
+            "Transformation",
+            "Vitality"
+          ]
+        }
+      },
+      {
+        "name": "Labnixp",
+        "region": "Pamphylia",
+        "traits": {
+          "personality": [
+            "illusory",
+            "transformative",
+            "enigmatic"
+          ],
+          "domain": "Subconscious Exploration",
+          "visual_motif": "Shifting mist with starry sigils",
+          "letter_influence": [
+            "Destruction",
+            "Beginnings",
+            "Destruction"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "name": "RII",
+    "correspondence": "The Sun (Sun)",
+    "governors": [
+      {
+        "name": "Cadaamp",
+        "region": "Paphlagonia",
+        "traits": {
+          "personality": [
+            "radiant",
+            "joyful",
+            "inspiring"
+          ],
+          "domain": "Vitality",
+          "visual_motif": "Golden sun with radiant beams",
+          "letter_influence": [
+            "Vitality",
+            "Beginnings",
+            "Balance"
+          ]
+        }
+      },
+      {
+        "name": "Zarzilg",
+        "region": "Bithynia",
+        "traits": {
+          "personality": [
+            "warm",
+            "creative",
+            "uplifting"
+          ],
+          "domain": "Creative Expression",
+          "visual_motif": "Fiery orb with glowing sigils",
+          "letter_influence": [
+            "Purification",
+            "Beginnings",
+            "Destruction"
+          ]
+        }
+      },
+      {
+        "name": "Lavavoth",
+        "region": "Pontus",
+        "traits": {
+          "personality": [
+            "charismatic",
+            "vibrant",
+            "generous"
+          ],
+          "domain": "Illumination",
+          "visual_motif": "Radiant figure with golden aura",
+          "letter_influence": [
+            "Destruction",
+            "Beginnings",
+            "Transformation"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "name": "TEX",
+    "correspondence": "The World (Earth)",
+    "governors": [
+      {
+        "name": "Paraoan",
+        "region": "Unknown",
+        "traits": {
+          "personality": [
+            "grounded",
+            "complete",
+            "harmonious"
+          ],
+          "domain": "Wholeness",
+          "visual_motif": "Earthly sphere with radiant sigils",
+          "letter_influence": [
+            "Illusion",
+            "Beginnings",
+            "Destruction"
+          ]
+        }
+      },
+      {
+        "name": "Tapamal",
+        "region": "Unknown",
+        "traits": {
+          "personality": [
+            "balanced",
+            "integrated",
+            "fulfilling"
+          ],
+          "domain": "Completion",
+          "visual_motif": "Golden mandala with glowing patterns",
+          "letter_influence": [
+            "Surrender",
+            "Beginnings",
+            "Illusion"
+          ]
+        }
+      },
+      {
+        "name": "Gedoons",
+        "region": "Unknown",
+        "traits": {
+          "personality": [
+            "stable",
+            "encompassing",
+            "wise"
+          ],
+          "domain": "Universal Harmony",
+          "visual_motif": "Radiant globe with earthy tones",
+          "letter_influence": [
+            "Transformation",
+            "Beginnings",
+            "Balance"
+          ]
+        }
+      },
+      {
+        "name": "Ambriol",
+        "region": "Unknown",
+        "traits": {
+          "personality": [
+            "nurturing",
+            "protective",
+            "grounding"
+          ],
+          "domain": "Material Integration",
+          "visual_motif": "Fertile landscape with glowing sigils",
+          "letter_influence": [
+            "Beginnings",
+            "Completion",
+            "Destruction"
+          ]
+        }
+      }
+    ]
+  }
+]

@@ -25,23 +25,21 @@
       }
     },
     "trait_choices": {
-      "motive_alignment": "Chaotic Good",
-      "self_regard": "Catalyst",
-      "role_archetype": "Liberator",
-      "polarity_cd": "Destructive",
-      "orientation_io": "Outward-Focused",
+      "motive_alignment": "Lawful Good",
+      "self_regard": "Stern",
+      "role_archetype": "Teacher",
+      "polarity_cd": "Constructive",
+      "orientation_io": "Inward-Focused",
       "virtues": [
-        "Compassion",
-        "Resilience",
-        "Creativity"
+        "Courage"
       ],
       "flaws": [
         "Impatience",
         "Recklessness",
         "Hubris"
       ],
-      "baseline_tone": "Serious",
-      "baseline_approach": "Challenging",
+      "baseline_tone": "Nurturing",
+      "baseline_approach": "Teaching",
       "affect_states": {
         "negative": {
           "tone": "Cryptic",
@@ -66,6 +64,14 @@
           "name": "PACASNA"
         }
       ]
+    },
+    "knowledge_base_selections": [
+      "enochian_magic"
+    ],
+    "review_metadata": {
+      "last_review_date": "2025-07-02T23:32:42.874839",
+      "review_method": "automated_self_review",
+      "total_sections_reviewed": 10
     }
   },
   {
@@ -277,7 +283,7 @@
       "embodiment_date": "2025-06-26"
     },
     "canonical_data": {
-      "essence": "In PACASNA's presence, time itself seems to stand still at an unmoving center  a still-point of eternity about which the ages quietly wheel.",
+      "essence": "In PACASNA's presence, time itself seems to stand still at an unmoving center a still-point of eternity about which the ages quietly wheel.",
       "angelic_role": "Virtue of Eternal Stillness; governs abyssal wardens.",
       "traits": [
         "eternal",

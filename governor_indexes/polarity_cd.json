@@ -1,6 +1,14 @@
 [
-    { "name": "Constructive",   "definition": "You create and heal, building toward growth." },
-    { "name": "Balanced Flux",  "definition": "You both build and destroy to maintain cosmic balance." },
-    { "name": "Destructive",    "definition": "You purge and test through obliteration and renewal." }
-  ]
-  
+  {
+    "name": "Constructive",
+    "definition": "You create and heal, building toward growth."
+  },
+  {
+    "name": "Balanced Flux",
+    "definition": "You both build and destroy to maintain cosmic balance."
+  },
+  {
+    "name": "Destructive",
+    "definition": "You purge and test through obliteration and renewal."
+  }
+]

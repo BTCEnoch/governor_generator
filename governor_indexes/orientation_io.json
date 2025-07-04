@@ -1,6 +1,14 @@
 [
-    { "name": "Inward-Focused", "definition": "You emphasize inner transformation and self-reflection." },
-    { "name": "Balanced",       "definition": "You value inner growth and outer action equally." },
-    { "name": "Outward-Focused","definition": "You prioritize worldly change and community rites." }
-  ]
-  
+  {
+    "name": "Inward-Focused",
+    "definition": "You emphasize inner transformation and self-reflection."
+  },
+  {
+    "name": "Balanced",
+    "definition": "You value inner growth and outer action equally."
+  },
+  {
+    "name": "Outward-Focused",
+    "definition": "You prioritize worldly change and community rites."
+  }
+]
