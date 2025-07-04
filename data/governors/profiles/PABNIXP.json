@@ -1,0 +1,22 @@
+{
+  "governor_name": "PABNIXP",
+  "title": "'He who governs'",
+  "element": "Earth",
+  "aethyr": "BAG",
+  "essence": "In PABNIXP's presence, things naturally fall into line a calm but firm direction organizes every effort, instilling a sense of duty and responsibility in all.",
+  "angelic_role": "Seraph of Terrestrial Order; commands oak-crowned hosts.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Emperor",
+    "sephirot": "Geburah",
+    "zodiac_sign": "Aries",
+    "zodiac_angel": "Kamael",
+    "numerology": 3
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.296615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

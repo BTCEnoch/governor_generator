@@ -1,0 +1,22 @@
+{
+  "governor_name": "POTHNIR",
+  "title": "'Son of the three fold throne'",
+  "element": "Water",
+  "aethyr": "PAZ",
+  "essence": "In POTHNIR's presence, vision spans threefold time past, present, and future refract together into a single, balanced ray.",
+  "angelic_role": "Throne of Threefold Time; marshals tideborn guardians.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Justice",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Libra",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.228617",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

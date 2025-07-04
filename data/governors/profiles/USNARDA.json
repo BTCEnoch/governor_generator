@@ -1,0 +1,22 @@
+{
+  "governor_name": "USNARDA",
+  "title": "'He who casts down into the depths'",
+  "element": "Water",
+  "aethyr": "ICH",
+  "essence": "When USNARDA is near, arrogance is plunged beneath black tides pride suffocates and humility is reborn in the darkness.",
+  "angelic_role": "Virtue of Abyssal Humility; guides tideborn wardens.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Star",
+    "sephirot": "Binah",
+    "zodiac_sign": "Aquarius",
+    "zodiac_angel": "Cassiel",
+    "numerology": 1
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.250615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "governor_name": "ZAFASAI",
+  "title": "'He who is in emptiness'",
+  "element": "Air",
+  "aethyr": "ZEN",
+  "essence": "In ZAFASAI's presence, solitude feels sacred the air grows still and serene, inviting a detached peace that softens every edge of being.",
+  "angelic_role": "Archangel of Sacred Solitude; marshals resplendent watchers.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Hermit",
+    "sephirot": "Hod",
+    "zodiac_sign": "Virgo",
+    "zodiac_angel": "Raphael",
+    "numerology": 6
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.269615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

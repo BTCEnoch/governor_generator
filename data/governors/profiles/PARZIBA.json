@@ -1,0 +1,22 @@
+{
+  "governor_name": "PARZIBA",
+  "title": "'He who promises'",
+  "element": "Air",
+  "aethyr": "CHR",
+  "essence": "In PARZIBA's presence, the spirit lifts with quiet optimism an assuring light of faith glimmers even in darkness, gentle and unwavering.",
+  "angelic_role": "Virtue of Star of Hope; commands empyrean legions.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Star",
+    "sephirot": "Binah",
+    "zodiac_sign": "Aquarius",
+    "zodiac_angel": "Cassiel",
+    "numerology": 1
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.275615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

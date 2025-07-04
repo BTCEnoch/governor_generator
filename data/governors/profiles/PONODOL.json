@@ -1,0 +1,22 @@
+{
+  "governor_name": "PONODOL",
+  "title": "'He who destroys and creates'",
+  "element": "Fire",
+  "aethyr": "ICH",
+  "essence": "When PONODOL stands before you, obsolete forms shatter a cataclysmic forge breaking the old and midwifing new laws into existence.",
+  "angelic_role": "Power of Cataclysmic Forge; commands windborne heralds.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Star",
+    "sephirot": "Binah",
+    "zodiac_sign": "Aquarius",
+    "zodiac_angel": "Cassiel",
+    "numerology": 1
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.251616",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

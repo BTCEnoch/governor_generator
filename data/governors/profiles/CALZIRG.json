@@ -1,0 +1,22 @@
+{
+  "governor_name": "CALZIRG",
+  "title": "'She who is in the firmament'",
+  "element": "Earth",
+  "aethyr": "LIN",
+  "essence": "As CALZIRG approaches, the horizon stretches skyward an expansive, lofty feeling as if the very heavens have descended to meet the earth.",
+  "angelic_role": "Throne of Firmament of Grace; marshals mountain wardens.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Star",
+    "sephirot": "Binah",
+    "zodiac_sign": "Aquarius",
+    "zodiac_angel": "Cassiel",
+    "numerology": 1
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.281614",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

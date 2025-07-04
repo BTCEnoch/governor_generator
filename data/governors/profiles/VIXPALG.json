@@ -1,0 +1,22 @@
+{
+  "governor_name": "VIXPALG",
+  "title": "'He who consumes'",
+  "element": "Air",
+  "aethyr": "ASP",
+  "essence": "In VIXPALG's presence, the atmosphere grows intensely heavy and demanding an insatiable force that hungers for more, pulling all energy into its voracious embrace.",
+  "angelic_role": "Angel of Voracious Abyss; guides stoneclad guardians.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Devil",
+    "sephirot": "Binah",
+    "zodiac_sign": "Capricorn",
+    "zodiac_angel": "Cassiel",
+    "numerology": 1
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.278615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

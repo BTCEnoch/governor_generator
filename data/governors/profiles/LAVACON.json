@@ -1,0 +1,22 @@
+{
+  "governor_name": "LAVACON",
+  "title": "'The happy one'",
+  "element": "Air",
+  "aethyr": "LEA",
+  "essence": "In LAVACON's presence, a warm fairness permeates the air base conditions are kindly uplifted and transmuted as if by a compassionate, solar fire.",
+  "angelic_role": "Cherub of Guiding Light; leads divine messengers.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Temperance",
+    "sephirot": "Chesed",
+    "zodiac_sign": "Sagittarius",
+    "zodiac_angel": "Zadkiel",
+    "numerology": 2
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.263615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

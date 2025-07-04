@@ -1,0 +1,22 @@
+{
+  "governor_name": "VASTRIM",
+  "title": "'He who is merciful'",
+  "element": "Earth",
+  "aethyr": "RII",
+  "essence": "As VASTRIM approaches, kindness spreads like a soft light anger and hurt melt away in the glow of compassion, and a benevolent forgiveness fills the air.",
+  "angelic_role": "Principality of Radiant Mercy; leads mountain wardens.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Strength",
+    "sephirot": "Tiphareth",
+    "zodiac_sign": "Leo",
+    "zodiac_angel": "Michael",
+    "numerology": 4
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.299616",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

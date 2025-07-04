@@ -1,0 +1,22 @@
+{
+  "governor_name": "DOXMAEL",
+  "title": "'He who establishes the night'",
+  "element": "Water",
+  "aethyr": "TEX",
+  "essence": "In DOXMAEL's presence, boundaries between worlds grow thin a liminal magic threads through the air, weaving together realities in secret hermetic harmony.",
+  "angelic_role": "Dominion of Veil of Night; guides pearl-plumed wardens.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Empress",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Taurus",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.306614",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

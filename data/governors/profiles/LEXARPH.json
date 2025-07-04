@@ -1,0 +1,22 @@
+{
+  "governor_name": "LEXARPH",
+  "title": "'He who is first of the air'",
+  "element": "Spirit",
+  "aethyr": "ZAX",
+  "essence": "In LEXARPH's presence, a liminal breeze seems to whisper fate onto invisible vellum one can almost read the script of destiny between worlds.",
+  "angelic_role": "Seraph of Primacy of Air; commands stoneclad sentinels.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Hierophant",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Taurus",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.246614",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

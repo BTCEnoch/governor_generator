@@ -1,0 +1,22 @@
+{
+  "governor_name": "OPMACAS",
+  "title": "'He who is from the beginning'",
+  "element": "Fire",
+  "aethyr": "DEO",
+  "essence": "In OPMACAS's presence, form emerges from formlessness a primordial fire breathing shape into the void.",
+  "angelic_role": "Seraph of Primordial Flame; governs fire-forged guardians.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Death",
+    "sephirot": "Geburah",
+    "zodiac_sign": "Scorpio",
+    "zodiac_angel": "Kamael",
+    "numerology": 3
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.236615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

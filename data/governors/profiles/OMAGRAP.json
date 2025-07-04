@@ -1,0 +1,22 @@
+{
+  "governor_name": "OMAGRAP",
+  "title": "'He of lunar knowledge'",
+  "element": "Air",
+  "aethyr": "POP",
+  "essence": "When OMAGRAP is invoked, intuition moves in gentle cycles the atmosphere invites deep reflection as patterns repeat like comforting lunar phases.",
+  "angelic_role": "Throne of Lunar Reflection; marshals ethereal choristers.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Moon",
+    "sephirot": "Chesed",
+    "zodiac_sign": "Pisces",
+    "zodiac_angel": "Zadkiel",
+    "numerology": 2
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.273614",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

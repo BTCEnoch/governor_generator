@@ -1,0 +1,22 @@
+{
+  "governor_name": "MOLPAND",
+  "title": "'He who recieves men'",
+  "element": "Water",
+  "aethyr": "ICH",
+  "essence": "In MOLPAND's presence, a tranquil harbor opens for the soul a port where journeyman spirits first taste the calm of incarnation.",
+  "angelic_role": "Dominion of the Harbor of Incarnation; commands oceanic mariners.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The World",
+    "sephirot": "Yesod",
+    "zodiac_sign": "Aquarius",
+    "zodiac_angel": "Gabriel",
+    "numerology": 1
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.249615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

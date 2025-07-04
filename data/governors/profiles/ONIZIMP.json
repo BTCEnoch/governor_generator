@@ -1,0 +1,22 @@
+{
+  "governor_name": "ONIZIMP",
+  "title": "'He who brings labor'",
+  "element": "Earth",
+  "aethyr": "TOR",
+  "essence": "In ONIZIMP's presence, one is stirred to industrious action the environment buzzes with motivating energy, making productivity feel natural and rewarding.",
+  "angelic_role": "Virtue of Forge of Industry; commands iron-winged legionaries.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Empress",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Taurus",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.283615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

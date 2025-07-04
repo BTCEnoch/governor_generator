@@ -1,0 +1,22 @@
+{
+  "governor_name": "OCCODON",
+  "title": "'He whose name is Renewal'",
+  "element": "Water",
+  "aethyr": "LIL",
+  "essence": "In OCCODON's presence, a primordial tide seems to pulse through the air, dissolving ancient debris and baptizing new forms into being.",
+  "angelic_role": "Seraph of Primordial Renewal; commands tideborn spirits.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Hierophant",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Taurus",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.215614",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

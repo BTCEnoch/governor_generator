@@ -1,0 +1,22 @@
+{
+  "governor_name": "DOANZIN",
+  "title": "'He who names the waters'",
+  "element": "Fire",
+  "aethyr": "ZIP",
+  "essence": "In DOANZIN's presence, hidden patterns reveal their true names granting authority over unseen tides and the shapes they take.",
+  "angelic_role": "Angel of Hidden Tides; guides cloudborne choirs.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Temperance",
+    "sephirot": "Chesed",
+    "zodiac_sign": "Sagittarius",
+    "zodiac_angel": "Zadkiel",
+    "numerology": 2
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.245616",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

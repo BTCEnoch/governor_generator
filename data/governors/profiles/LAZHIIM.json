@@ -1,0 +1,22 @@
+{
+  "governor_name": "LAZHIIM",
+  "title": "'He who makes use of the day'",
+  "element": "Earth",
+  "aethyr": "DES",
+  "essence": "As LAZHIIM approaches, potential is swiftly seized every opportunity is efficiently utilized, and productivity flows with grounded ease.",
+  "angelic_role": "Power of Mastery of the Moment; commands earth-forged guardians.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Hierophant",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Taurus",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.292614",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

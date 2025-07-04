@@ -160,7 +160,6 @@ class MysticalTraditionsProcessor:
         print(f"   - governor_archives/ (complete archives)")
         print(f"   - mystical_traditions_index.json (unified index)")
 
-
 if __name__ == "__main__":
     processor = MysticalTraditionsProcessor()
     processor.process_all_traditions() 

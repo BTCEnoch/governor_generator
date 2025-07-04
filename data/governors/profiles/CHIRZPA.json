@@ -1,0 +1,22 @@
+{
+  "governor_name": "CHIRZPA",
+  "title": "'He who enjoys loud sounds'",
+  "element": "Air",
+  "aethyr": "ASP",
+  "essence": "In CHIRZPA's presence, the ground itself feels alive with boisterous energy earthy laughter and exuberant vibrations spur bold action and joy.",
+  "angelic_role": "Principality of Rhapsody of Earth; commands skyward riders.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Emperor",
+    "sephirot": "Geburah",
+    "zodiac_sign": "Aries",
+    "zodiac_angel": "Kamael",
+    "numerology": 3
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.277615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

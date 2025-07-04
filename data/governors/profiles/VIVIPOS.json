@@ -1,0 +1,22 @@
+{
+  "governor_name": "VIVIPOS",
+  "title": "'She of many repetitions'",
+  "element": "Fire",
+  "aethyr": "VTA",
+  "essence": "In VIVIPOS's presence, patterns repeat toward perfection echoing cycles that forge refinement through each iteration.",
+  "angelic_role": "Virtue of Cycle of Perfection; commands solar legionnaires.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Hermit",
+    "sephirot": "Hod",
+    "zodiac_sign": "Virgo",
+    "zodiac_angel": "Raphael",
+    "numerology": 6
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.258615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

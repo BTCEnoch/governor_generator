@@ -1,0 +1,22 @@
+{
+  "governor_name": "OBUAORS",
+  "title": "'She who is half darkness'",
+  "element": "Earth",
+  "aethyr": "VTI",
+  "essence": "As OBUAORS approaches, the light dims into a thoughtful twilight mysteries stir in the quiet, inviting deep introspection into unseen complexities.",
+  "angelic_role": "Cherub of Twilight Mystery; leads mountain wardens.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Death",
+    "sephirot": "Geburah",
+    "zodiac_sign": "Scorpio",
+    "zodiac_angel": "Kamael",
+    "numerology": 3
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.289615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

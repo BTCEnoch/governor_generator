@@ -1,0 +1,22 @@
+{
+  "governor_name": "VOANAMB",
+  "title": "'He to whom truth is relative'",
+  "element": "Fire",
+  "aethyr": "VTA",
+  "essence": "In VOANAMB's presence, truth shifts with perspective every context and season refracts reality into a different hue of understanding.",
+  "angelic_role": "Power of Prismatic Truth; commands sunsworn warriors.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Justice",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Libra",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.259615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

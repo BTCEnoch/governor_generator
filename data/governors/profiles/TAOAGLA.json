@@ -1,0 +1,22 @@
+{
+  "governor_name": "TAOAGLA",
+  "title": "'He who becomes the foremost beginning'",
+  "element": "Water",
+  "aethyr": "TEX",
+  "essence": "When TAOAGLA is near, a pioneering spark ignites the air it feels like the universe is beginning anew, led forward by an originative force.",
+  "angelic_role": "Seraph of Flame of Genesis; commands mist-bound spirits.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Emperor",
+    "sephirot": "Geburah",
+    "zodiac_sign": "Aries",
+    "zodiac_angel": "Kamael",
+    "numerology": 3
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.302616",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

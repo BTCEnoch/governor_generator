@@ -1,0 +1,22 @@
+{
+  "governor_name": "GEMNIMB",
+  "title": "'He who is only for a season'",
+  "element": "Water",
+  "aethyr": "TEX",
+  "essence": "In GEMNIMB's presence, every moment feels transient and precious like a season that blooms brilliantly then passes, encouraging adaptability to life's constant change.",
+  "angelic_role": "Cherub of Seasonal Wheel; leads deluge-born hosts.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Hermit",
+    "sephirot": "Hod",
+    "zodiac_sign": "Virgo",
+    "zodiac_angel": "Raphael",
+    "numerology": 6
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.303615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

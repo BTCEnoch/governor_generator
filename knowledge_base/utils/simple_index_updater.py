@@ -14,12 +14,12 @@ import sys
 
 # Add project root to Python path for proper imports
 project_root = Path(__file__).parent.parent.parent
-sys.path.append(str(project_root))
+# )  # Removed during reorganization
 
 # Import our components - updated paths for current structure
 try:
     # Try current knowledge_base structure first
-    from knowledge_base.data.curated_sources import CURATED_SOURCES
+    from data.knowledge.data.curated_sources import CURATED_SOURCES
     print("✅ Using knowledge_base structure")
 except ImportError:
     try:

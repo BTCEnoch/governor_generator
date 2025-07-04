@@ -1,0 +1,22 @@
+{
+  "governor_name": "GENADOL",
+  "title": "'He who only attracts'",
+  "element": "Fire",
+  "aethyr": "DEO",
+  "essence": "In GENADOL's presence, fate feels malleable his magnetic charisma draws life's iron filings into alignment.",
+  "angelic_role": "Cherub of Magnet of Fate; commands ember-crowned heralds.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Strength",
+    "sephirot": "Tiphareth",
+    "zodiac_sign": "Leo",
+    "zodiac_angel": "Michael",
+    "numerology": 4
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.237615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

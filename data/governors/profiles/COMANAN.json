@@ -1,0 +1,22 @@
+{
+  "governor_name": "COMANAN",
+  "title": "'He who knows how to manifest'",
+  "element": "Spirit",
+  "aethyr": "ZAX",
+  "essence": "In COMANAN's presence, seeds of possibility stir to life drawing spirit into leaf and legend in a quiet alchemy of growth.",
+  "angelic_role": "Cherub of Mystic Manifestation; leads earth-forged guardians.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Justice",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Libra",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.247616",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

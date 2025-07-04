@@ -1,0 +1,22 @@
+{
+  "governor_name": "LAZDIXI",
+  "title": "'He who has no supreme name'",
+  "element": "Water",
+  "aethyr": "LIT",
+  "essence": "When LAZDIXI is near, reality feels safeguarded clear boundaries hold firm, keeping the very syntax of existence intact.",
+  "angelic_role": "Dominion of Sanctity of Being; guides waveborne wardens.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Hierophant",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Taurus",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.229616",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

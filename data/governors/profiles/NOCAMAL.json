@@ -1,0 +1,22 @@
+{
+  "governor_name": "NOCAMAL",
+  "title": "'He who is servant of the arrow'",
+  "element": "Water",
+  "aethyr": "LIT",
+  "essence": "When NOCAMAL is near, discernment hums in measured harmony wisdom unfolding like a deliberate, guiding hymn.",
+  "angelic_role": "Virtue of Guiding Wisdom; governs abyssal angels.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Chariot",
+    "sephirot": "Hod",
+    "zodiac_sign": "Cancer",
+    "zodiac_angel": "Gabriel",
+    "numerology": 7
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.231615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

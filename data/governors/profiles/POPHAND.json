@@ -1,0 +1,22 @@
+{
+  "governor_name": "POPHAND",
+  "title": "'He who is divided into three parts'",
+  "element": "Earth",
+  "aethyr": "DES",
+  "essence": "As POPHAND approaches, diverse energies converge harmoniously like a hearty stew blending flavors, nourishing both body and spirit in equal measure.",
+  "angelic_role": "Dominion of Triune Harmony; guides oak-crowned guardians.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Lovers",
+    "sephirot": "Daath",
+    "zodiac_sign": "Gemini",
+    "zodiac_angel": "Raphael",
+    "numerology": 6
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.290615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

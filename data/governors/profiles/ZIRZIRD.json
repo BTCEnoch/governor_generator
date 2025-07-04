@@ -1,0 +1,35 @@
+{
+  "governor_name": "ZIRZIRD",
+  "title": "'He who was and will be'",
+  "element": "Fire",
+  "aethyr": "MAZ",
+  "essence": "In ZIRZIRD's presence, the cosmic ledger turns epochs are tallied on starry wheels with unwavering precision.",
+  "angelic_role": "Angel of Eternal Cycle; guides solar warriors.",
+  "archetypal_correspondences": {},
+  "knowledge_base": [
+    "enochian_magic",
+    "celtic_druidic",
+    "hermetic_philosophy",
+    "sacred_geometry",
+    "taoism"
+  ],
+  "persona": {
+    "virtues": [
+      "Courage",
+      "Wisdom",
+      "Compassion"
+    ],
+    "flaws": [
+      "Impatience",
+      "Pride",
+      "Stubbornness"
+    ],
+    "baseline_approach": "Teaching",
+    "baseline_tone": "Nurturing",
+    "motive_alignment": "Chaotic Good",
+    "role_archetype": "The Sage",
+    "orientation": "Introverted",
+    "polarity": "Constructive",
+    "self_regard": "Balanced"
+  }
+}

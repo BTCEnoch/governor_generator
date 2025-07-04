@@ -1,0 +1,22 @@
+{
+  "governor_name": "PARAOAN",
+  "title": "'He who has eyes'",
+  "element": "Spirit (All Elements)",
+  "aethyr": "LIN",
+  "essence": "In PARAOAN's presence, the veil of ordinary reality grows thin a mysterious sense of the universal permeates the air, hinting at transcendent truths beyond form.",
+  "angelic_role": "Cherub of Veil of Transcendence; leads oak-crowned hosts.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The World",
+    "sephirot": "Yesod",
+    "zodiac_sign": "Aquarius",
+    "zodiac_angel": "Gabriel",
+    "numerology": 1
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.280615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "governor_name": "VIROOLI",
+  "title": "'He who made the first nest'",
+  "element": "Water",
+  "aethyr": "ZOM",
+  "essence": "In VIROOLI's presence, one feels held within a primordial sanctuary an inner sacred chamber built before any outer realm can be commanded.",
+  "angelic_role": "Archangel of Primordial Sanctuary; marshals tideborn spirits.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Emperor",
+    "sephirot": "Geburah",
+    "zodiac_sign": "Aries",
+    "zodiac_angel": "Kamael",
+    "numerology": 3
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.223616",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

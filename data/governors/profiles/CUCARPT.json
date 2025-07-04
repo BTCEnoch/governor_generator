@@ -1,0 +1,22 @@
+{
+  "governor_name": "CUCARPT",
+  "title": "'She who replaces what was with something similar'",
+  "element": "Air",
+  "aethyr": "LEA",
+  "essence": "In CUCARPT's presence, every ending glows with a new dawn an echo-forge where conclusions transform into beginnings lit by gentle light.",
+  "angelic_role": "Seraph of Forge of Renewal; commands radiant ministers.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Death",
+    "sephirot": "Geburah",
+    "zodiac_sign": "Scorpio",
+    "zodiac_angel": "Kamael",
+    "numerology": 3
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.262615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

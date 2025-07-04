@@ -1,0 +1,22 @@
+{
+  "governor_name": "TOCARZI",
+  "title": "'He of such equality'",
+  "element": "Air",
+  "aethyr": "TAN",
+  "essence": "In TOCARZI's presence, all things regain their equilibrium an invisible scale seems to bring every situation into fair and perfect balance.",
+  "angelic_role": "Power of Scales of Mercy; commands empyrean spirits.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Justice",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Libra",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.267616",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

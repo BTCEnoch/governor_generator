@@ -1,0 +1,22 @@
+{
+  "governor_name": "VALGARS",
+  "title": "'He who works with that which is'",
+  "element": "Water",
+  "aethyr": "LIL",
+  "essence": "VALGARS's presence is like that of a master artisan at work reality itself feels malleable, with base circumstances transmuting into something sacred.",
+  "angelic_role": "Throne of Sacred Alchemy; marshals pearl-plumed guardians.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Hierophant",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Taurus",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.218616",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

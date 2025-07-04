@@ -1,0 +1,22 @@
+{
+  "governor_name": "DOCEPAX",
+  "title": "'He who names only great names'",
+  "element": "Fire",
+  "aethyr": "ZIM",
+  "essence": "In DOCEPAX's presence, every deed finds its true name this discerning herald crowns each act with a resonant, legendary title.",
+  "angelic_role": "Throne of Herald of Sacred Names; marshals storm-winged heralds.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Justice",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Libra",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.256615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

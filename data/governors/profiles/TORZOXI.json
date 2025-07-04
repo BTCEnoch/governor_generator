@@ -1,0 +1,22 @@
+{
+  "governor_name": "TORZOXI",
+  "title": "'She who rises up in strength'",
+  "element": "Air",
+  "aethyr": "POP",
+  "essence": "In TORZOXI's presence, courage surges anew the atmosphere brims with resilient valor, empowering the spirit to stand valiant against all odds.",
+  "angelic_role": "Seraph of Crown of Valor; commands luminous spirits.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Hierophant",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Taurus",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.271617",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

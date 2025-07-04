@@ -1,0 +1,22 @@
+{
+  "governor_name": "RANGLAM",
+  "title": "'He who governs his thoughts'",
+  "element": "Earth",
+  "aethyr": "VTI",
+  "essence": "As RANGLAM approaches, a monk-like stillness prevails mind and body align under strict self-discipline, and contemplation becomes as natural as breath.",
+  "angelic_role": "Throne of Monastic Mind; marshals iron-winged legionaries.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Hermit",
+    "sephirot": "Hod",
+    "zodiac_sign": "Virgo",
+    "zodiac_angel": "Raphael",
+    "numerology": 6
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.289615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

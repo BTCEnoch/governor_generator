@@ -1,0 +1,22 @@
+{
+  "governor_name": "AXXIARG",
+  "title": "'He whose name is Flame'",
+  "element": "Water",
+  "aethyr": "PAZ",
+  "essence": "When AXXIARG is near, an aura of humble authority prevails leadership is felt as service, bearing the weight of communal purpose.",
+  "angelic_role": "Cherub of Humble Authority; commands oceanic guardians.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Strength",
+    "sephirot": "Tiphareth",
+    "zodiac_sign": "Leo",
+    "zodiac_angel": "Michael",
+    "numerology": 4
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.227617",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

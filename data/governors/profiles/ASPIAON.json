@@ -1,0 +1,22 @@
+{
+  "governor_name": "ASPIAON",
+  "title": "'She who precedes inner truth'",
+  "element": "Fire",
+  "aethyr": "DEO",
+  "essence": "When ASPIAON stands before you, rightful order asserts itself motives are tested in a fiery tribunal of truth.",
+  "angelic_role": "Throne of Inner Judgement; commands 7,777 flameborn heralds.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Death",
+    "sephirot": "Geburah",
+    "zodiac_sign": "Scorpio",
+    "zodiac_angel": "Kamael",
+    "numerology": 3
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.239615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

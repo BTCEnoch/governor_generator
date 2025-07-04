@@ -1,0 +1,22 @@
+{
+  "governor_name": "NIGRANA",
+  "title": "'He who governs the 28 days of the moon'",
+  "element": "Earth",
+  "aethyr": "DES",
+  "essence": "In NIGRANA's presence, the world moves to a sacred rhythm half light, half darkness, each cycle intuitive and measured as if drawn by lunar tides at the edge of awareness.",
+  "angelic_role": "Virtue of Lunar Cycle; leads earth-forged legionaries.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Moon",
+    "sephirot": "Yesod",
+    "zodiac_sign": "Pisces",
+    "zodiac_angel": "Zadkiel",
+    "numerology": 2
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.291615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

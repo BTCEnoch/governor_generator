@@ -219,7 +219,6 @@ class MysticalContentExtractor:
             self.logger.error(f"Error processing {research_file}: {str(e)}")
             return False
 
-
 def main():
     """Process all mystical tradition research files"""
     extractor = MysticalContentExtractor()
@@ -252,7 +251,6 @@ def main():
     print()
     print(f"🎉 Successfully enhanced {processed}/{len(research_files)} mystical traditions!")
     print("📁 Rich content created in governor_archives/")
-
 
 if __name__ == "__main__":
     main() 

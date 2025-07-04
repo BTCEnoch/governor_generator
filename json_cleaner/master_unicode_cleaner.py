@@ -418,7 +418,6 @@ class MasterUnicodeCleaner:
         logger.info(f"Removed {len(backup_files)} backup files")
         return len(backup_files)
 
-
 def main():
     """Main execution function"""
     import argparse
@@ -450,7 +449,6 @@ def main():
     else:
         logger.info("All files processed successfully!")
         exit(0)
-
 
 if __name__ == "__main__":
     main() 

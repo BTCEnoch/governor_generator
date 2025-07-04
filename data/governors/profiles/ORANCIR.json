@@ -1,0 +1,22 @@
+{
+  "governor_name": "ORANCIR",
+  "title": "'He who is above and below'",
+  "element": "Earth",
+  "aethyr": "NIA",
+  "essence": "In ORANCIR's presence, the above and below unite in harmony a holistic balance is struck, as if all aspects of existence integrate into one complete whole.",
+  "angelic_role": "Principality of Unity of the Spheres; leads terra-bound stewards.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Temperance",
+    "sephirot": "Chesed",
+    "zodiac_sign": "Sagittarius",
+    "zodiac_angel": "Zadkiel",
+    "numerology": 2
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.285616",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "governor_name": "SAMAPHA",
+  "title": "'He who is with continuity'",
+  "element": "Water",
+  "aethyr": "ZOM",
+  "essence": "When SAMAPHA is near, a golden thread of continuity weaves through the atmosphere, ensuring identity endures through every transformation.",
+  "angelic_role": "Principality of Golden Continuum; leads deluge-born bringers.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Strength",
+    "sephirot": "Tiphareth",
+    "zodiac_sign": "Leo",
+    "zodiac_angel": "Michael",
+    "numerology": 4
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.222616",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

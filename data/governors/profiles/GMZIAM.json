@@ -1,0 +1,22 @@
+{
+  "governor_name": "GMZIAM",
+  "title": "'She who knows only herself'",
+  "element": "Earth",
+  "aethyr": "RII",
+  "essence": "In GMZIAM's presence, the mind becomes a poet's map introspective verses chart the soul's landscape, guiding an inner journey of profound self-discovery.",
+  "angelic_role": "Angel of Mirror of the Soul; guides iron-winged guardians.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Hermit",
+    "sephirot": "Hod",
+    "zodiac_sign": "Virgo",
+    "zodiac_angel": "Raphael",
+    "numerology": 6
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.301615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "governor_name": "ZILDRON",
+  "title": "'He who sets in flight'",
+  "element": "Air",
+  "aethyr": "CHR",
+  "essence": "In ZILDRON's presence, change feels exhilarating and imminent a catalytic force breaks old bonds and motivates bold new beginnings.",
+  "angelic_role": "Dominion of Catalyst of Change; guides celestial hosts.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Tower",
+    "sephirot": "Geburah",
+    "zodiac_sign": "Aries",
+    "zodiac_angel": "Michael",
+    "numerology": 3
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.274614",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

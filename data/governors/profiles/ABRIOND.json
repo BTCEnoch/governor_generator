@@ -1,0 +1,22 @@
+{
+  "governor_name": "ABRIOND",
+  "title": "'He who prepares his kingdom'",
+  "element": "Air",
+  "aethyr": "POP",
+  "essence": "In ABRIOND's presence, nebulous visions crystallize into strategy her provident insight lays methodical plans that light the way ahead.",
+  "angelic_role": "Cherub of Provident Strategy; leads divine messengers.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Hermit",
+    "sephirot": "Hod",
+    "zodiac_sign": "Virgo",
+    "zodiac_angel": "Raphael",
+    "numerology": 6
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.272615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

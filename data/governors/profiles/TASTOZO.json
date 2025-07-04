@@ -1,0 +1,22 @@
+{
+  "governor_name": "TASTOZO",
+  "title": "'She who initiates dancing'",
+  "element": "Air",
+  "aethyr": "OXO",
+  "essence": "In TASTOZO's presence, the heavens move in concert a cosmic choreography as planets and stars waltz to her joyful design.",
+  "angelic_role": "Angel of Celestial Dance; guides luminous spirits.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Strength",
+    "sephirot": "Tiphareth",
+    "zodiac_sign": "Leo",
+    "zodiac_angel": "Michael",
+    "numerology": 4
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.262615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

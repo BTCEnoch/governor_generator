@@ -1,0 +1,22 @@
+{
+  "governor_name": "CRPANIB",
+  "title": "'He who destroys speech'",
+  "element": "Earth",
+  "aethyr": "ZAA",
+  "essence": "In CRPANIB's presence, even silence speaks volumes an unseen undercurrent passes through the hush, hinting at guarded secrets and hidden intentions.",
+  "angelic_role": "Angel of Silence of Secrets; guides oak-crowned guardians.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The High Priestess",
+    "sephirot": "Yesod",
+    "zodiac_sign": "Cancer",
+    "zodiac_angel": "Gabriel",
+    "numerology": 2
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.295615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

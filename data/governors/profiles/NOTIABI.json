@@ -1,0 +1,22 @@
+{
+  "governor_name": "NOTIABI",
+  "title": "'Servant who speaks the truth'",
+  "element": "Air",
+  "aethyr": "OXO",
+  "essence": "When NOTIABI is invoked, truth arrives like a lightning strike sharp, sudden, and unerring, cutting through falsehood in an instant.",
+  "angelic_role": "Archangel of Lightning Revelation; marshals celestial legions.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Justice",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Libra",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.261616",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

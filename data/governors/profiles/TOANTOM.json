@@ -1,0 +1,22 @@
+{
+  "governor_name": "TOANTOM",
+  "title": "'He who loves knowledge'",
+  "element": "Air",
+  "aethyr": "ASP",
+  "essence": "In TOANTOM's presence, even stones seem to whisper knowledge an inquisitive hush invites discovery as the scholar in you awakens with curiosity.",
+  "angelic_role": "Archangel of Vault of Knowledge; marshals stoneclad soldiers.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Magician",
+    "sephirot": "Hod",
+    "zodiac_sign": "Gemini",
+    "zodiac_angel": "Raphael",
+    "numerology": 6
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.277615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

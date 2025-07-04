@@ -1,0 +1,22 @@
+{
+  "governor_name": "SIGMORF",
+  "title": "'He who visits the darkness'",
+  "element": "Air",
+  "aethyr": "TAN",
+  "essence": "In SIGMORF's presence, fear melts away in steady flame a fearless aura that forges fearless resolve and lights introspection with strength.",
+  "angelic_role": "Dominion of Fearless Resolve; guides celestial hosts.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Emperor",
+    "sephirot": "Geburah",
+    "zodiac_sign": "Aries",
+    "zodiac_angel": "Kamael",
+    "numerology": 3
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.265615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

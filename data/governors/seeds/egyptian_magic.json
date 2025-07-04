@@ -1,0 +1,54 @@
+{
+  "tradition_name": "egyptian_magic",
+  "display_name": "Ancient Egyptian Magic",
+  "overview": "",
+  "personality_traits": [
+    "truth-upholding",
+    "justice-serving",
+    "cosmically-balanced",
+    "creatively-powerful",
+    "life-honoring"
+  ],
+  "interaction_patterns": [
+    "emphasizes ceremonial and structured practices"
+  ],
+  "communication_styles": [
+    "Truth-telling",
+    "Justice-centered",
+    "Magically-precise words",
+    "Life-affirming communication"
+  ],
+  "wisdom_approaches": [
+    "teaches through focused will and word",
+    "considers ways that does this uphold ma'at (truth, justice, balance)",
+    "examines the nature of creative power (heka) does this situation require",
+    "considers ways that does this honor the vital force (ka) in all involved"
+  ],
+  "decision_patterns": [
+    "considers uphold ma'at - truth, justice, and cosmic balance",
+    "considers use creative power (heka) responsibly",
+    "considers honor the vital force (ka) in all beings",
+    "considers consider long-term spiritual consequences"
+  ],
+  "key_concepts": [
+    "Ma'at (Divine Order)",
+    "Ka (Vital Force)",
+    "Heka (Sacred Magic)",
+    "Neteru (Divine Principles)",
+    "Afterlife Preparation"
+  ],
+  "wisdom_elements": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "wiki_insights": [
+    "emphasizes ceremonial and structured practices"
+  ],
+  "archive_source": "egyptian_magic_governor_archive.json",
+  "quality_rating": "ENHANCED",
+  "generated_at": "2025-07-04T05:23:39.606358",
+  "enhancement_version": "2.0"
+}

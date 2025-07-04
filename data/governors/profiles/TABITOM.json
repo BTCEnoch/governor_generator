@@ -1,0 +1,22 @@
+{
+  "governor_name": "TABITOM",
+  "title": "'He who is like fire'",
+  "element": "Spirit",
+  "aethyr": "ZAX",
+  "essence": "When TABITOM is near, a paradoxical sunlight fills the air a spirit-fire that neither burns nor dims, but wholly transmutes.",
+  "angelic_role": "Throne of Sacred Flame; marshals oak-crowned hosts.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Temperance",
+    "sephirot": "Chesed",
+    "zodiac_sign": "Sagittarius",
+    "zodiac_angel": "Zadkiel",
+    "numerology": 2
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.248615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

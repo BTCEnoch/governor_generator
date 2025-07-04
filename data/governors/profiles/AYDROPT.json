@@ -1,0 +1,22 @@
+{
+  "governor_name": "AYDROPT",
+  "title": "'She who sees us with equality'",
+  "element": "Air",
+  "aethyr": "TAN",
+  "essence": "In AYDROPT's presence, the atmosphere feels balanced and benevolent a gentle wind of fairness that carries compassion and clears all prejudice.",
+  "angelic_role": "Virtue of Winds of Equilibrium; commands empyrean legions.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Justice",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Libra",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.266616",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

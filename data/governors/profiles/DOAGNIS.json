@@ -1,0 +1,22 @@
+{
+  "governor_name": "DOAGNIS",
+  "title": "'She who comes without a name'",
+  "element": "Water",
+  "aethyr": "ARN",
+  "essence": "When DOAGNIS is near, assistance arrives without fanfare an anonymous blessing, answers slipping in without name or notice.",
+  "angelic_role": "Dominion of Nameless Grace; guides waveborne angels.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Moon",
+    "sephirot": "Yesod",
+    "zodiac_sign": "Pisces",
+    "zodiac_angel": "Gabriel",
+    "numerology": 7
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.219616",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

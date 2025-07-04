@@ -1,0 +1,22 @@
+{
+  "governor_name": "LAPARIN",
+  "title": "'He who is the protector of man'",
+  "element": "Fire",
+  "aethyr": "ZIM",
+  "essence": "In LAPARIN's presence, faith stands as a bulwark of light a solar bastion where holy ground meets the roar of battle without yielding.",
+  "angelic_role": "Cherub of Bulwark of Light; leads whirlwind sentinels.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Sun",
+    "sephirot": "Tiphereth",
+    "zodiac_sign": "Leo",
+    "zodiac_angel": "Michael",
+    "numerology": 4
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.255615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

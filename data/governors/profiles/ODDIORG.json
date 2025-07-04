@@ -1,0 +1,22 @@
+{
+  "governor_name": "ODDIORG",
+  "title": "'He of fire and justice'",
+  "element": "Fire",
+  "aethyr": "ZIP",
+  "essence": "When ODDIORG stands before you, an inner alchemy begins will and psyche are tempered in a crucible of sacred number.",
+  "angelic_role": "Principality of Fiery Justice; leads thunderous riders.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Temperance",
+    "sephirot": "Chesed",
+    "zodiac_sign": "Sagittarius",
+    "zodiac_angel": "Zadkiel",
+    "numerology": 2
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.243615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "governor_name": "SOAGEEL",
+  "title": "'He who helps the most'",
+  "element": "Earth",
+  "aethyr": "NIA",
+  "essence": "As SOAGEEL approaches, a comforting warmth enfolds the space generosity and support flow freely, urging everyone to give and care for one another.",
+  "angelic_role": "Angel of Fount of Benevolence; guides granite-hewn hosts.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Empress",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Taurus",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.287617",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

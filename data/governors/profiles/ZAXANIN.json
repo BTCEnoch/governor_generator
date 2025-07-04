@@ -1,0 +1,22 @@
+{
+  "governor_name": "ZAXANIN",
+  "title": "'He who names things'",
+  "element": "Earth",
+  "aethyr": "TOR",
+  "essence": "In ZAXANIN's presence, every element falls into a logical pattern an analytical clarity permeates the air, and communication flows with precise articulation.",
+  "angelic_role": "Power of Lexicon of Creation; commands emerald soldiers.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Magician",
+    "sephirot": "Hod",
+    "zodiac_sign": "Gemini",
+    "zodiac_angel": "Raphael",
+    "numerology": 6
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.284615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

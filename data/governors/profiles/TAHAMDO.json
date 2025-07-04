@@ -1,0 +1,22 @@
+{
+  "governor_name": "TAHAMDO",
+  "title": "'He who lives according to his name'",
+  "element": "Air",
+  "aethyr": "OXO",
+  "essence": "When TAHAMDO is invoked, all facets of the self lock into harmony utterance, act, and essence moving in perfectly principled step.",
+  "angelic_role": "Principality of Harmonious Word; leads empyrean hosts.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Emperor",
+    "sephirot": "Geburah",
+    "zodiac_sign": "Aries",
+    "zodiac_angel": "Kamael",
+    "numerology": 3
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.260616",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

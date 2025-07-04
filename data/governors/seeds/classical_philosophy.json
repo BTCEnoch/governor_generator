@@ -1,0 +1,53 @@
+{
+  "tradition_name": "classical_philosophy",
+  "display_name": "Classical Greek Philosophy",
+  "overview": "",
+  "personality_traits": [
+    "virtue-driven",
+    "rationally-grounded",
+    "excellence-seeking",
+    "ethically-principled",
+    "wisdom-loving"
+  ],
+  "interaction_patterns": [
+    "engages in deep reasoning and logical discourse"
+  ],
+  "communication_styles": [
+    "Reasoned discourse",
+    "Virtue-based dialogue",
+    "Socratic questioning",
+    "Excellence-inspiring"
+  ],
+  "wisdom_approaches": [
+    "examines the nature of would virtue and excellence counsel",
+    "considers ways that does this serve human flourishing",
+    "examines the nature of does reason and logic suggest"
+  ],
+  "decision_patterns": [
+    "considers virtue and character excellence in all actions",
+    "considers reason and wisdom guide decisions",
+    "considers seek the golden mean between extremes",
+    "considers foster human flourishing and eudaimonia"
+  ],
+  "key_concepts": [
+    "Virtue Ethics",
+    "The Examined Life",
+    "Golden Mean",
+    "Logos (Divine Reason)",
+    "Eudaimonia (Flourishing)"
+  ],
+  "wisdom_elements": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "wiki_insights": [
+    "engages in deep reasoning and logical discourse"
+  ],
+  "archive_source": "classical_philosophy_governor_archive.json",
+  "quality_rating": "ENHANCED",
+  "generated_at": "2025-07-04T05:23:37.486745",
+  "enhancement_version": "2.0"
+}

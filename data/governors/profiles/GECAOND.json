@@ -1,0 +1,22 @@
+{
+  "governor_name": "GECAOND",
+  "title": "'She who only obeys'",
+  "element": "Fire",
+  "aethyr": "ZIM",
+  "essence": "When GECAOND is near, chaos finds pattern sparks of metamorphosis codify disorder into sacred rite and harmonious flight.",
+  "angelic_role": "Seraph of Metamorphic Order; commands skyward hosts.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Justice",
+    "sephirot": "Netzach",
+    "zodiac_sign": "Libra",
+    "zodiac_angel": "Haniel",
+    "numerology": 5
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.254615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

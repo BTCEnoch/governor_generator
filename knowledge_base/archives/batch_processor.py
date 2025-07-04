@@ -5,13 +5,12 @@ Processes research JSON files in manageable batches to extract summaries and con
 """
 
 import logging
-import sys
+
 from pathlib import Path
 from typing import List, Dict
 import json
 
-# Add parent directory to path for imports
-sys.path.append(str(Path(__file__).parent.parent))
+.parent.parent))
 
 from archives.knowledge_extractor import KnowledgeExtractor
 
@@ -23,7 +22,6 @@ class BatchProcessor:
         self.extractor = KnowledgeExtractor(
             links_dir="../links",  # Go up to knowledge_base, then to links
             archive_dir="."        # Current directory (archives)
-        )
         self.logger = logging.getLogger("BatchProcessor")
         
         # Define processing batches for manageable chunks
@@ -201,7 +199,6 @@ def main():
             logging.FileHandler('knowledge_extraction.log'),
             logging.StreamHandler()
         ]
-    )
     
     processor = BatchProcessor()
     

@@ -1,0 +1,22 @@
+{
+  "governor_name": "AMBRIOL",
+  "title": "'He who continuously comforts'",
+  "element": "Fire",
+  "aethyr": "LOE",
+  "essence": "When AMBRIOL stands before you, turmoil hushes into a gentle lullaby storm-tossed hearts are soothed by ember-warm dreams of solace.",
+  "angelic_role": "Angel of Dreamful Respite; guides zephyr-bound messengers.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Moon",
+    "sephirot": "Yesod",
+    "zodiac_sign": "Pisces",
+    "zodiac_angel": "Zadkiel",
+    "numerology": 2
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.253615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

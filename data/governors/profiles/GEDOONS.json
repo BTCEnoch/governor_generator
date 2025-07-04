@@ -1,0 +1,22 @@
+{
+  "governor_name": "GEDOONS",
+  "title": "'He who eliminates your name'",
+  "element": "Fire",
+  "aethyr": "LOE",
+  "essence": "When GEDOONS is near, identities can be erased like chalk names vanish from celestial rolls to grant the bearer tactical invisibility.",
+  "angelic_role": "Archangel of Veil of Anonymity; marshals thunderous hosts.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "The Lovers",
+    "sephirot": "Hod",
+    "zodiac_sign": "Gemini",
+    "zodiac_angel": "Raphael",
+    "numerology": 6
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.253615",
+    "source_data": "canon_governor_profiles.json"
+  }
+}

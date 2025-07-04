@@ -1,0 +1,22 @@
+{
+  "governor_name": "POCISNI",
+  "title": "'He who visits those in Heaven'",
+  "element": "Earth",
+  "aethyr": "BAG",
+  "essence": "As POCISNI approaches, a hush of reverence falls a bridge between realms opens, and aspirations take wing toward the heavens under his spiritual guidance.",
+  "angelic_role": "Cherub of Bridge of Aspiration; leads earth-forged wardens.",
+  "current_personality": {},
+  "current_knowledge_base": [],
+  "archetypal_correspondences": {
+    "tarot": "Temperance",
+    "sephirot": "Chesed",
+    "zodiac_sign": "Sagittarius",
+    "zodiac_angel": "Zadkiel",
+    "numerology": 2
+  },
+  "metadata": {
+    "created_for": "blind_review",
+    "cleaned_date": "2025-07-04T05:06:53.297616",
+    "source_data": "canon_governor_profiles.json"
+  }
+}
