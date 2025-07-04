@@ -1,0 +1,60 @@
+{
+  "questlines_system": {
+    "priority": 1,
+    "description": "Build core/questlines/ system - Autonomous questline generation by governors",
+    "status": "completed",
+    "components": [
+      "core/questlines/__init__.py",
+      "core/questlines/questline_builder.py",
+      "core/questlines/event_generator.py",
+      "core/questlines/encounter_system.py",
+      "core/questlines/schemas/questline_schemas.py"
+    ],
+    "started_at": "2025-07-04T16:36:56.949798",
+    "completed_at": "2025-07-04T16:40:17.451098"
+  },
+  "game_assets_system": {
+    "priority": 2,
+    "description": "Build core/game_assets/ system - Artifact definitions and tokenomics",
+    "status": "pending",
+    "components": [
+      "core/game_assets/__init__.py",
+      "core/game_assets/artifact_manager.py",
+      "core/game_assets/tokenomics_engine.py",
+      "core/game_assets/reward_system.py",
+      "core/game_assets/schemas/asset_schemas.py"
+    ]
+  },
+  "batch_processing_consolidation": {
+    "priority": 3,
+    "description": "Consolidate batch processing - Unified batch operations",
+    "status": "pending",
+    "components": [
+      "engines/batch_processing/questline_batch.py",
+      "engines/batch_processing/asset_batch.py",
+      "engines/batch_processing/integration_coordinator.py"
+    ]
+  },
+  "tap_contracts": {
+    "priority": 4,
+    "description": "Create build_system/contracts/ - TAP Protocol smart contract integration",
+    "status": "pending",
+    "components": [
+      "build_system/contracts/__init__.py",
+      "build_system/contracts/governor_contracts.tap",
+      "build_system/contracts/tokenomics_contracts.tap",
+      "build_system/contracts/contract_builder.py"
+    ]
+  },
+  "deployment_automation": {
+    "priority": 5,
+    "description": "Create build_system/deployment/ - Deployment automation scripts",
+    "status": "pending",
+    "components": [
+      "build_system/deployment/__init__.py",
+      "build_system/deployment/deploy_contracts.py",
+      "build_system/deployment/inscribe_content.py",
+      "build_system/deployment/setup_indexer.py"
+    ]
+  }
+}
