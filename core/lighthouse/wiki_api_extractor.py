@@ -101,6 +101,22 @@ class WikiAPIKnowledgeExtractor:
                 'Celtic mythology',
                 'Druid',
                 'Celtic polytheism'
+            ],
+            'buddhism': [
+                'Buddhism',
+                'Zen',
+                'Vajrayana',
+                'Four Noble Truths',
+                'Noble Eightfold Path',
+                'Meditation'
+            ],
+            'quantum_physics': [
+                'Quantum mechanics',
+                'Quantum entanglement',
+                'Observer effect (physics)',
+                'Wave-particle duality',
+                'Quantum consciousness',
+                'Copenhagen interpretation'
             ]
         }
     
