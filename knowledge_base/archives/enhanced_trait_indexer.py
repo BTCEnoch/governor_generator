@@ -166,7 +166,7 @@ class EnhancedTraitIndexer:
             "approaches.json": "approaches",
             "tones.json": "tones",
             "motive_alignment.json": "alignments",
-            "role_archtypes.json": "roles",
+            "role_archetypes.json": "roles",
             "orientation_io.json": "orientations",
             "polarity_cd.json": "polarities",
             "self_regard_options.json": "self_regard"

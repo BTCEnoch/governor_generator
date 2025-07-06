@@ -52,19 +52,18 @@ class GovernorReviewTemplate:
 class GovernorReviewTemplateGenerator:
     """Generates structured review templates for governor profile evaluation"""
     
-    def __init__(self, 
-                 trait_index_file: str = "enhanced_trait_index.json",
-                 tradition_index_file: str = "tradition_selection_index.json",
-                 governor_profiles_dir: str = "../../governor_output"):
-        
-        self.trait_index_file = Path(trait_index_file)
+    def __init__(
+            self,
+            tradition_index_file: str = "../../data/knowledge/indexes/tradition_index.json",
+            trait_index_file: str = "../../data/knowledge/indexes/trait_index.json",
+            governor_profiles_dir: str = "../../governor_dossier"):
+        """Initialize the template generator"""
+        self.logger = logging.getLogger(__name__)
         self.tradition_index_file = Path(tradition_index_file)
+        self.trait_index_file = Path(trait_index_file)
         self.governor_profiles_dir = Path(governor_profiles_dir)
-        self.logger = logging.getLogger("GovernorReviewTemplateGenerator")
-        
-        # Load indexes
-        self.trait_index = self._load_trait_index()
         self.tradition_index = self._load_tradition_index()
+        self.trait_index = self._load_trait_index()
         
         self.logger.info("Governor Review Template Generator initialized")
 
@@ -100,7 +99,7 @@ class GovernorReviewTemplateGenerator:
 
     def load_governor_profile(self, governor_name: str) -> Optional[Dict[str, Any]]:
         """Load a specific governor's profile"""
-        profile_file = self.governor_profiles_dir / f"{governor_name}.json"
+        profile_file = Path(__file__).parent.parent.parent / "governor_dossier" / f"{governor_name}.json"
         
         if not profile_file.exists():
             self.logger.error(f"Governor profile not found: {profile_file}")

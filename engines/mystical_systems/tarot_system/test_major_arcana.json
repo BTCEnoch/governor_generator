@@ -1,0 +1,199 @@
+{
+  "major_arcana": [
+    {
+      "id": "hierophant",
+      "name": "The Hierophant",
+      "number": 5,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Hierophant",
+      "summary": "The Hierophant (V), alternatively depicted as The Pope or The High Priest (as a counterpart to \"The High Priestess\") is the fifth card of the Major Arcana in occult Tarot decks used in divination. It was identified as the Pope in early decks like Tarot of Marseilles, while modern decks like Rider–Wa...",
+      "full_content": "The Hierophant (V), alternatively depicted as The Pope or The High Priest (as a counterpart to \"The High Priestess\") is the fifth card of the Major Arcana in occult Tarot decks used in divination. It was identified as the Pope in early decks like Tarot of Marseilles, while modern decks like Rider–Waite Tarot may use the term hierophant (Ancient Greek: ἱεροφάντης), a person who brings religious congregants into the presence of that which is deemed \"holy\".\n\nDescription and symbolism\nIn many modern packs, the Hierophant is represented with his right hand raised in blessing or benediction, with two fingers pointing skyward and two pointing down, thus forming a bridge between Heaven and Hell reminiscent of that formed by the body of The Hanged Man. The Hierophant is thus a true \"pontiff\", in th...",
+      "astrological_correspondence": "Taurus",
+      "extraction_source": "wikipedia_api"
+    },
+    {
+      "id": "lovers",
+      "name": "The Lovers",
+      "number": 6,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Lovers",
+      "summary": "The Lovers (VI) is the sixth trump or Major Arcana card in most traditional Tarot decks. It is used in game playing as well as in divination.",
+      "full_content": "The Lovers (VI) is the sixth trump or Major Arcana card in most traditional Tarot decks. It is used in game playing as well as in divination.\n\nInterpretation\nAccording to A. E. Waite's 1910 book Pictorial Key to the Tarot, the Lovers card carries several divinatory associations:\n\n6. THE LOVERS.—Attraction, love, beauty, trials overcome. Reversed: Failure, foolish designs. Another account speaks of marriage frustrated and contrarieties of all kinds.\nIn some traditions, the Lovers represent relationships and choices. Its appearance in a spread indicates some decision about an existing relationship, a temptation of the heart, or a choice of potential partners. Often an aspect of the Querent's life will have to be sacrificed; a bachelor(ette)'s lifestyle may be sacrificed and a relationship ga...",
+      "astrological_correspondence": "Gemini",
+      "extraction_source": "wikipedia_api"
+    },
+    {
+      "id": "chariot",
+      "name": "The Chariot",
+      "number": 7,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Chariot_(tarot_card)",
+      "summary": "The Chariot (VII) is the seventh trump or Major Arcana card in most traditional tarot decks. It is used in game playing as well as in divination.",
+      "full_content": "The Chariot (VII) is the seventh trump or Major Arcana card in most traditional tarot decks. It is used in game playing as well as in divination.\n\nDescription\nA figure sits in a chariot, although he holds no reins, he is pulled by two sphinxes or horses. There is often a black and white motif, for example one of the steeds may be black and the other white. The figure may be crowned or helmeted, and is winged in some representations. The figure may hold a sword or wand.\nThe Thoth Tarot deck has the figure controlling four animals.\nThe mallet, or gavel, on the chariot's coat of arms is a Masonic symbol representing self control.\nA canopy of stars above the charioteer's head is intended to show \"celestial influences\".\n\nInterpretation\nAccording to A.E. Waite's 1910 book, The Pictorial Key to t...",
+      "astrological_correspondence": "Cancer",
+      "extraction_source": "wikipedia_api"
+    },
+    {
+      "id": "strength",
+      "name": "Strength",
+      "number": 8,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Strength_(tarot_card)",
+      "summary": "Strength is a Major Arcana tarot card, and is numbered either XI or VIII, depending on the deck. Historically it was called Fortitude, and in the Thoth Tarot deck it is called Lust. This card is used in game playing as well as in divination.",
+      "full_content": "Strength is a Major Arcana tarot card, and is numbered either XI or VIII, depending on the deck. Historically it was called Fortitude, and in the Thoth Tarot deck it is called Lust. This card is used in game playing as well as in divination.\n\nDescription\nThe design of this card is fairly constant across tarot decks. The key characters are that of a woman and a lion, with the woman leaning over the lion. Many cards, including that of the Rider–Waite–Smith deck, have the woman clasping the lion's jaws. Some feature an Infinity symbol hovering over the woman's head. Other decks have the woman sitting upon the lion, or merely with one hand upon it. Some decks feature just one of the characters; flowers are often presented on this card.\nAccording to Eden Gray, the lemniscate above her represent...",
+      "astrological_correspondence": "Leo",
+      "extraction_source": "wikipedia_api"
+    },
+    {
+      "id": "hermit",
+      "name": "The Hermit",
+      "number": 9,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Hermit_(tarot_card)",
+      "summary": "The Hermit (IX) is the ninth trump or Major Arcana card in most traditional tarot decks. It is used in game playing as well as in divination.",
+      "full_content": "The Hermit (IX) is the ninth trump or Major Arcana card in most traditional tarot decks. It is used in game playing as well as in divination.\n\nDescription\nThe Rider–Waite version of the card shows an old man, standing on a mountain peak, carrying a staff in one hand and a lit lantern containing a six-pointed star (Star of David) in the other. In the background is a mountain range.\nAccording to Eden Gray, his lantern is the Lamp of Truth, used to guide the unknowing, his patriarch's staff helps him navigate narrow paths as he seeks enlightenment and his cloak is a form of discretion.\n\nInterpretation\nAccording to A.E. Waite's 1910 book Pictorial Key to the Tarot, the Hermit card carries several divinatory associations:\n\n9. THE HERMIT. Prudence, circumspection; also and especially treason, di...",
+      "astrological_correspondence": "Virgo",
+      "extraction_source": "wikipedia_api"
+    },
+    {
+      "id": "wheel_of_fortune",
+      "name": "Wheel of Fortune",
+      "number": 10,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wheel_of_Fortune_(tarot_card)",
+      "summary": "Wheel of Fortune is one of 78 cards in a tarot deck and is the tenth trump or Major Arcana card in most tarot decks. It is used in game playing as well as in divination.",
+      "full_content": "Wheel of Fortune is one of 78 cards in a tarot deck and is the tenth trump or Major Arcana card in most tarot decks. It is used in game playing as well as in divination.\n\nDescription\nThe card pictured is the Wheel Of Fortune card from the Rider–Waite tarot deck. A.E. Waite was a key figure in the development of the tarot in line with the Hermetic magical-religious system which was also being developed at the time, and this deck, as well as being in common use today, also forms the basis for a number of other modern tarot decks.\nAccording to Waite's 1910 book Pictorial Key to the Tarot, the Wheel of Fortune card carries several divinatory associations:\n\n10.WHEEL OF FORTUNE—Destiny, fortune, success, elevation, luck, felicity. Reversed: Increase, abundance, superfluity.\nThe Wheel Of Fortune ...",
+      "astrological_correspondence": "Jupiter",
+      "extraction_source": "wikipedia_api"
+    },
+    {
+      "id": "justice",
+      "name": "Justice",
+      "number": 11,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Justice_(tarot_card)",
+      "summary": "Justice is a Major Arcana tarot card, numbered either VIII or XI, depending on the deck. This card is used in game playing as well as in divination.",
+      "full_content": "Justice is a Major Arcana tarot card, numbered either VIII or XI, depending on the deck. This card is used in game playing as well as in divination.\n\nDescription\nThe Justice card, as a member of the tarot deck, appears in early tarot, such as the Tarot de Marseilles. It is part of the tarot's Major Arcana, and usually follows the Chariot, as card VIII, although some decks vary from this pattern. The virtue Justice accompanies two of the other cardinal virtues in the Major Arcana: temperance and strength.\nThe figure on the card holds a scale made of gold in their left hand, symbolizing a balanced decision.\n\nInterpretation\nAccording to A. E. Waite's 1910 book Pictorial Key to the Tarot, the Justice card carries several divinatory associations:\n\n11. JUSTICE.—Equity, rightness, probity, execut...",
+      "astrological_correspondence": "Libra",
+      "extraction_source": "wikipedia_api"
+    },
+    {
+      "id": "hanged_man",
+      "name": "The Hanged Man",
+      "number": 12,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Hanged_Man_(tarot_card)",
+      "summary": "The Hanged Man (XII) is the twelfth Major Arcana card in most traditional tarot decks. It is used in game playing as well as in divination.\nIt depicts a pittura infamante (pronounced [pitˈtuːra iɱfaˈmante]), an image of a man being hanged upside-down by one ankle (the only exception being the Tarocc...",
+      "full_content": "The Hanged Man (XII) is the twelfth Major Arcana card in most traditional tarot decks. It is used in game playing as well as in divination.\nIt depicts a pittura infamante (pronounced [pitˈtuːra iɱfaˈmante]), an image of a man being hanged upside-down by one ankle (the only exception being the Tarocco Siciliano, which depicts the man hanged by the neck instead). However, the expression on his face traditionally suggests that he is there by his own accord, and the card is meant to represent self-sacrifice more so than it does corporal punishment or criminality.\n\nDescription\nModern versions of the tarot deck depict a man hanging upside-down by one foot. The figure is most often suspended from a wooden beam (as in a cross or gallows) or a tree. Ambiguity results from the fact that the card its...",
+      "astrological_correspondence": "Neptune",
+      "extraction_source": "wikipedia_api"
+    },
+    {
+      "id": "death",
+      "name": "Death",
+      "number": 13,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Death_(tarot_card)",
+      "summary": "Death (XIII) is the 13th trump or Major Arcana card in most traditional tarot decks. It is used in tarot card games as well as in divination. The card typically depicts the Grim Reaper, and when used for divination is often interpreted as signifying major changes in a person's life.",
+      "full_content": "Death (XIII) is the 13th trump or Major Arcana card in most traditional tarot decks. It is used in tarot card games as well as in divination. The card typically depicts the Grim Reaper, and when used for divination is often interpreted as signifying major changes in a person's life.\n\nDescription\nSome decks, such as the Tarot of Marseilles and the Visconti Sforza Tarot omit the name from the card, calling it \"The Card with No Name\", often with the implication of a broader meaning than literal death. There are other decks that title Death as \"Rebirth\" or \"Death-Rebirth.\"\nThe Death card usually depicts the Grim Reaper, the personification of Death. In some decks, the Grim Reaper is riding a pale horse, and often he is wielding a sickle or scythe. Surrounding the Grim Reaper are dead and dying...",
+      "astrological_correspondence": "Scorpio",
+      "extraction_source": "wikipedia_api"
+    },
+    {
+      "id": "temperance",
+      "name": "Temperance",
+      "number": 14,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Temperance_(tarot_card)",
+      "summary": "Temperance (XIV) is one of the 22 Major Arcana cards in Tarot decks. It is usually numbered 14. It depicts a figure which represents the virtue Temperance. Along with Justice and Strength, it is one of three Virtues which are given their own cards in traditional tarot. It is used in both game playin...",
+      "full_content": "Temperance (XIV) is one of the 22 Major Arcana cards in Tarot decks. It is usually numbered 14. It depicts a figure which represents the virtue Temperance. Along with Justice and Strength, it is one of three Virtues which are given their own cards in traditional tarot. It is used in both game playing and in divination.\n\nIdentity of the figure\nTemperance almost invariably depicts a figure with pouring liquid from one cup to another. This figure is usually referred to as the virtue Temperance or as an angel, though several other interpretations also exist. In particular, Paul Huson suggests that the figure once represented Ganymede, who served as cup bearer to Zeus. Though it is possible that the figure could also be the goddess Iris or the archangel Michael. The former of these interpretati...",
+      "astrological_correspondence": "Sagittarius",
+      "extraction_source": "wikipedia_api"
+    },
+    {
+      "id": "devil",
+      "name": "The Devil",
+      "number": 15,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Devil_(tarot_card)",
+      "summary": "The Devil (XV) is the fifteenth trump or Major Arcana card in most traditional tarot decks. It is used in game playing as well as in divination.",
+      "full_content": "The Devil (XV) is the fifteenth trump or Major Arcana card in most traditional tarot decks. It is used in game playing as well as in divination.\n\nSymbolism\nAccording to A. E. Waite's 1910 book, The Pictorial Key to the Tarot, the Devil card carries several divinatory associations:\n\n15. THE DEVIL.—Ravage, violence, vehemence, extraordinary efforts, force, fatality; that which is predestined but is not for this reason evil. Reversed: Evil fatality, weakness, pettiness, blindness.\nIn the Rider–Waite–Smith deck, the Devil is derived in part from Eliphas Levi's famous illustration \"Baphomet\" in his Dogme et Rituel de la Haute Magie (1855). In the Rider–Waite–Smith deck, the Devil has harpy feet, ram horns, bat wings, a reversed pentagram on the forehead, a raised right hand and a lowered left h...",
+      "astrological_correspondence": "Capricorn",
+      "extraction_source": "wikipedia_api"
+    },
+    {
+      "id": "tower",
+      "name": "The Tower",
+      "number": 16,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Tower_(tarot_card)",
+      "summary": "The Tower (XVI) (most common modern name) is the 16th trump or Major Arcana card in most Italian-suited tarot decks.  It has been used in tarot cards since the 15th century as well as in divination since the mid-19th century.",
+      "full_content": "The Tower (XVI) (most common modern name) is the 16th trump or Major Arcana card in most Italian-suited tarot decks.  It has been used in tarot cards since the 15th century as well as in divination since the mid-19th century.\n\nHistory\nThis card follows immediately after The Devil in all tarots that contain it, and is associated with sudden, disruptive revelation, and potentially destructive change. Some early painted decks, such as the Visconti-Sforza tarot, do not contain it.\nEarly printed decks that preserve all their cards do feature The Tower. In these decks the card bears a number of different names and designs. In the Minchiate deck, the image usually shown is of two nude or scantily clad people fleeing the open door of what appears to be a burning building. In some Belgian tarots an...",
+      "astrological_correspondence": "Mars",
+      "extraction_source": "wikipedia_api"
+    },
+    {
+      "id": "star",
+      "name": "The Star",
+      "number": 17,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Star_(tarot_card)",
+      "summary": "The Star (XVII) is the 17th ranking or Major Arcana card in most traditional tarot decks. It is used in game playing as well as in divination.",
+      "full_content": "The Star (XVII) is the 17th ranking or Major Arcana card in most traditional tarot decks. It is used in game playing as well as in divination.\n\nDescription and symbolism\nA naked woman kneels by the water; one foot is in the water and one foot is on the land. Above her head is one large star, representing her core essences, and seven smaller stars, representing the chakras. The star is typically eight-pointed, but some late 15th-century depictions depict a six-pointed star instead. In each hand she holds a jug. From one jug she pours a liquid into the water. From the other jug she pours a liquid onto the land. The five senses are represented by the five unique lines formed by water spilled on the ground. Temperance, the 14th Major Arcana card, also has a foot on both land and water while po...",
+      "astrological_correspondence": "Aquarius",
+      "extraction_source": "wikipedia_api"
+    },
+    {
+      "id": "moon",
+      "name": "The Moon",
+      "number": 18,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Moon_(tarot_card)",
+      "summary": "The Moon (XVIII) is the eighteenth trump or Major Arcana card in most traditional tarot decks. It is used in game playing as well as in divination.",
+      "full_content": "The Moon (XVIII) is the eighteenth trump or Major Arcana card in most traditional tarot decks. It is used in game playing as well as in divination.\n\nDescription\nThe card depicts a night scene, where two large pillars are shown. A wolf and a domesticated dog howl at the Moon while a crayfish emerges from the water. The Moon has \"sixteen chief and sixteen secondary rays\", and \"[is] shedding the moisture of fertilizing dew in great drops\" (totaling 15 in the Rider–Waite deck) which are all Yodh-shaped.\n\nInterpretation\nAccording to A. E. Waite's 1911 book The Pictorial Key to the Tarot, \"the card represents life of the imagination apart from life of the spirit... The dog and wolf are the fears of the natural mind in the presence of that place of exit, when there is only reflected light to guid...",
+      "astrological_correspondence": "Pisces",
+      "extraction_source": "wikipedia_api"
+    },
+    {
+      "id": "sun",
+      "name": "The Sun",
+      "number": 19,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Sun_(tarot_card)",
+      "summary": "The Sun (XIX) is the nineteenth trump or Major Arcana card in most traditional tarot decks. It is commonly associated with joy, success, vitality, and illumination. The card symbolizes positivity and represents a time of clarity and personal growth.",
+      "full_content": "The Sun (XIX) is the nineteenth trump or Major Arcana card in most traditional tarot decks. It is commonly associated with joy, success, vitality, and illumination. The card symbolizes positivity and represents a time of clarity and personal growth.\n\nDescription\nIn the Rider–Waite deck, The Sun depicts a radiant Sun shining over a naked child riding a white horse. The child represents innocence and freedom, while the horse symbolizes purity and strength. Behind them, sunflowers bloom, symbolizing growth and abundance. The imagery emphasizes happiness, clarity, and the triumph of light over darkness.\n\nInterpretation\nA. E. Waite suggested that this card is associated with attained knowledge. The child of life holds a red flag, representing the blood of renewal, while a smiling Sun shines dow...",
+      "astrological_correspondence": "Sun",
+      "extraction_source": "wikipedia_api"
+    },
+    {
+      "id": "judgement",
+      "name": "Judgement",
+      "number": 20,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Judgement_(tarot_card)",
+      "summary": "Judgement (XX), or in some decks spelled Judgment, is a tarot card, part of the Major Arcana suit usually comprising 22 cards.",
+      "full_content": "Judgement (XX), or in some decks spelled Judgment, is a tarot card, part of the Major Arcana suit usually comprising 22 cards.\n\nCard meanings\nJudgement\nRebirth\nInner-calling\nAbsolution\nKarma\nCausality\nSecond chance\n\nDescription\nThe traditional scene is modeled after Christian imagery of the Resurrection and Last Judgment. An angel is depicted among the clouds blowing a great trumpet, from which hangs the flag of St. George, which references the 1 Corinthians 15. A group of resurrected people (man, woman, and child) of sallow complexion stand, arms spread, looking up at the angel in awe. The Sleeping Dead are emerging from crypts or graves, calling back to the Revelation 20, where the sea gives up its dead. There are snow-covered mountains in the background indicating a winter theme, simila...",
+      "astrological_correspondence": "Pluto",
+      "extraction_source": "wikipedia_api"
+    },
+    {
+      "id": "world",
+      "name": "The World",
+      "number": 21,
+      "suit": "MAJOR_ARCANA",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_World_(tarot_card)",
+      "summary": "The World (XXI)  is the 21st trump or Major Arcana card in the tarot deck. It can be incorporated as the final card of the Major Arcana or tarot trump sequence (the first or last optioned as being \"The Fool\" (0)). It is associated with the 22nd letter of the Hebrew alphabet, 'Tau', also spelled 'Tav...",
+      "full_content": "The World (XXI)  is the 21st trump or Major Arcana card in the tarot deck. It can be incorporated as the final card of the Major Arcana or tarot trump sequence (the first or last optioned as being \"The Fool\" (0)). It is associated with the 22nd letter of the Hebrew alphabet, 'Tau', also spelled 'Tav' or 'Taw'.\n\nDescription\nIn the traditional Tarot of Marseilles, as well as the later Rider–Waite tarot deck, a naked woman hovers or dances above the Earth holding a baton in each hand, surrounded by a wreath, being watched by the four living creatures (or hayyoth) of Jewish mythology: a man, a lion, an ox, and an eagle. This depiction parallels the tetramorph used in Christian art, where the four creatures are used as symbols of the four Evangelists. Some astrological sources explain these obs...",
+      "astrological_correspondence": "Saturn",
+      "extraction_source": "wikipedia_api"
+    }
+  ],
+  "minor_arcana": [],
+  "extraction_stats": {
+    "total_attempted": 17,
+    "successful_extractions": 17,
+    "failed_extractions": 0,
+    "errors": []
+  },
+  "total_cards_extracted": 17
+}

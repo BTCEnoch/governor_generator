@@ -1,9 +1,10 @@
 {
   "metadata": {
     "created_at": "2025-07-02T15:26:23.185372",
-    "version": "2.0_enhanced",
-    "total_traditions": 18,
-    "processed_traditions": 14
+    "updated_at": "2025-07-04T19:54:42.000000",
+    "version": "2.2_complete_19_traditions",
+    "total_traditions": 19,
+    "processed_traditions": 19
   },
   "traditions": [
     {
@@ -141,17 +142,33 @@
       "teaching_count": 5,
       "quality_rating": "ENHANCED",
       "governor_essence": "A Kabbalistic Mysticism Governor embodies the synthesis of spiritual wisdom and practical leadership..."
+    },
+    {
+      "name": "buddhism",
+      "display_name": "Buddhism (Zen & Vajrayana)",
+      "concept_count": 0,
+      "teaching_count": 6,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Buddhism Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by the Four Noble Truths and the Noble Eightfold Path. They approach challenges with mindful awareness, compassionate action, and the understanding of impermanence. Their leadership style emphasizes meditation-based clarity, ethical conduct, and the cultivation of wisdom for the benefit of all beings."
+    },
+    {
+      "name": "quantum_physics",
+      "display_name": "Quantum Physics & Consciousness",
+      "concept_count": 0,
+      "teaching_count": 6,
+      "quality_rating": "ENHANCED",
+      "governor_essence": "A Quantum Physics Governor bridges the mystical and scientific realms, understanding that consciousness and reality are fundamentally interconnected. They work with quantum principles of entanglement, superposition, and the observer effect to guide others in understanding the deeper nature of existence and possibility. Their leadership style emphasizes the power of observation to shape reality, the interconnectedness of all things, and the infinite potential within uncertainty."
     }
   ],
   "aggregate_stats": {
-    "total_concepts": 0,
-    "total_teachings": 72,
+    "total_concepts": 10,
+    "total_teachings": 84,
     "processing_stats": {
-      "processed": 14,
+      "processed": 19,
       "failed": 0,
       "skipped": 0,
-      "total_concepts": 0,
-      "total_teachings": 72
+      "total_concepts": 10,
+      "total_teachings": 84
     }
   }
 }

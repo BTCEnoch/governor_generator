@@ -9,20 +9,37 @@ import os
 import re
 import glob
 import shutil
-from typing import Dict, List, Tuple, Any
+import mimetypes
+from typing import Dict, List, Tuple, Any, Optional
 from pathlib import Path
 import logging
 from datetime import datetime
 
+# Try to import chardet for encoding detection
+try:
+    import chardet
+    CHARDET_AVAILABLE = True
+except ImportError:
+    CHARDET_AVAILABLE = False
+    logging.warning("chardet not available - will use utf-8 encoding by default")
+
 # Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler('json_cleaner/cleaning_log.txt'),
-        logging.StreamHandler()
-    ]
-)
+def setup_logging():
+    """Setup logging with proper path handling"""
+    log_dir = Path(__file__).parent / "logs"
+    log_dir.mkdir(exist_ok=True)
+    log_file = log_dir / "cleaning_log.txt"
+    
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        handlers=[
+            logging.FileHandler(log_file),
+            logging.StreamHandler()
+        ]
+    )
+
+setup_logging()
 logger = logging.getLogger(__name__)
 
 class MasterUnicodeCleaner:
@@ -32,8 +49,13 @@ class MasterUnicodeCleaner:
             'files_processed': 0,
             'files_cleaned': 0,
             'files_errors': 0,
+            'files_skipped': 0,
             'unicode_chars_replaced': 0,
-            'backup_files_created': 0
+            'backup_files_created': 0,
+            'file_types_processed': {},
+            'encoding_types_used': {},
+            'validation_failures': 0,
+            'binary_files_skipped': 0
         }
         
         # Comprehensive Unicode replacement dictionary
@@ -255,56 +277,276 @@ class MasterUnicodeCleaner:
             '⅞': '7/8',   # Vulgar fraction seven eighths
             '⅑': '1/9',   # Vulgar fraction one ninth
             '⅒': '1/10',  # Vulgar fraction one tenth
+            
+            # Accented characters - Latin
+            'à': 'a', 'á': 'a', 'â': 'a', 'ã': 'a', 'ä': 'a', 'å': 'a', 'æ': 'ae',
+            'ç': 'c', 'è': 'e', 'é': 'e', 'ê': 'e', 'ë': 'e', 'ì': 'i', 'í': 'i', 
+            'î': 'i', 'ï': 'i', 'ð': 'd', 'ñ': 'n', 'ò': 'o', 'ó': 'o', 'ô': 'o', 
+            'õ': 'o', 'ö': 'o', 'ø': 'o', 'ù': 'u', 'ú': 'u', 'û': 'u', 'ü': 'u', 
+            'ý': 'y', 'þ': 'th', 'ÿ': 'y', 'ß': 'ss',
+            'À': 'A', 'Á': 'A', 'Â': 'A', 'Ã': 'A', 'Ä': 'A', 'Å': 'A', 'Æ': 'AE',
+            'Ç': 'C', 'È': 'E', 'É': 'E', 'Ê': 'E', 'Ë': 'E', 'Ì': 'I', 'Í': 'I', 
+            'Î': 'I', 'Ï': 'I', 'Ð': 'D', 'Ñ': 'N', 'Ò': 'O', 'Ó': 'O', 'Ô': 'O', 
+            'Õ': 'O', 'Ö': 'O', 'Ø': 'O', 'Ù': 'U', 'Ú': 'U', 'Û': 'U', 'Ü': 'U', 
+            'Ý': 'Y', 'Þ': 'TH', 'Ÿ': 'Y',
+            
+            # Extended Latin characters
+            'ā': 'a', 'ă': 'a', 'ą': 'a', 'ć': 'c', 'ĉ': 'c', 'ċ': 'c', 'č': 'c',
+            'ď': 'd', 'đ': 'd', 'ē': 'e', 'ĕ': 'e', 'ė': 'e', 'ę': 'e', 'ě': 'e',
+            'ĝ': 'g', 'ğ': 'g', 'ġ': 'g', 'ģ': 'g', 'ĥ': 'h', 'ħ': 'h', 'ĩ': 'i',
+            'ī': 'i', 'ĭ': 'i', 'į': 'i', 'İ': 'I', 'ı': 'i', 'ĵ': 'j', 'ķ': 'k',
+            'ĸ': 'k', 'ĺ': 'l', 'ļ': 'l', 'ľ': 'l', 'ŀ': 'l', 'ł': 'l', 'ń': 'n',
+            'ņ': 'n', 'ň': 'n', 'ŉ': 'n', 'ŋ': 'ng', 'ō': 'o', 'ŏ': 'o', 'ő': 'o',
+            'œ': 'oe', 'ŕ': 'r', 'ŗ': 'r', 'ř': 'r', 'ś': 's', 'ŝ': 's', 'ş': 's',
+            'š': 's', 'ţ': 't', 'ť': 't', 'ŧ': 't', 'ũ': 'u', 'ū': 'u', 'ŭ': 'u',
+            'ů': 'u', 'ű': 'u', 'ų': 'u', 'ŵ': 'w', 'ŷ': 'y', 'ź': 'z', 'ż': 'z',
+            'ž': 'z',
+            
+            # Currency symbols
+            '€': 'EUR', '£': 'GBP', '¥': 'JPY', '₹': 'INR', '₽': 'RUB', '₩': 'KRW',
+            '₪': 'ILS', '₫': 'VND', '₵': 'GHS', '₡': 'CRC', '₨': 'PKR', '₦': 'NGN',
+            '₴': 'UAH', '₱': 'PHP', '₲': 'PYG', '₳': 'ARA', '₭': 'LAK', '₮': 'MNT',
+            '₯': 'GRD', '₰': 'PF', '₸': 'KZT', '₹': 'INR', '₺': 'TRY', '₻': 'CE',
+            '₼': 'AZN', '₽': 'RUB', '₾': 'GEL', '₿': 'BTC', '¢': 'cents', '¤': 'currency',
+            
+            # Additional symbols
+            '§': 'section', '¶': 'paragraph', '†': 'dagger', '‡': 'double-dagger',
+            '‰': 'per-mille', '‱': 'per-ten-thousand', '′': "'", '″': '"', '‴': "'''",
+            '‵': '`', '‶': '``', '‷': '```', '‸': '^', '‹': '<', '›': '>', '※': 'note',
+            '‼': '!!', '⁇': '??', '⁈': '?!', '⁉': '!?', '⁊': '&', '⁋': 'reversed-paragraph',
+            '⁌': 'reference', '⁍': 'x', '⁎': '*', '⁏': ';', '⁐': 'close-up',
+            '⁑': '*', '⁒': '%', '⁓': '~', '⁔': '~', '⁕': '*', '⁖': '...', '⁗': '....',
+            '⁘': '....', '⁙': '.....', '⁚': '......', '⁛': '......', '⁜': '......',
+            '⁝': '......', '⁞': '......'
         }
         
         logger.info("Master Unicode Cleaner initialized")
         logger.info(f"Project root: {self.project_root.absolute()}")
         logger.info(f"Unicode replacements loaded: {len(self.unicode_replacements)} mappings")
+        logger.info(f"Chardet available: {CHARDET_AVAILABLE}")
     
-    def find_json_files(self) -> List[Path]:
-        """Find all JSON files in the project, excluding backups and temp files"""
-        json_files = []
+    def detect_file_encoding(self, file_path: Path) -> str:
+        """Detect the encoding of a file using chardet or fallback to utf-8"""
+        if not CHARDET_AVAILABLE:
+            return 'utf-8'
+        
+        try:
+            with open(file_path, 'rb') as f:
+                raw_data = f.read(10000)  # Read first 10KB for detection
+            
+            if not raw_data:
+                return 'utf-8'
+            
+            detection = chardet.detect(raw_data)
+            if detection and detection['encoding']:
+                confidence = detection.get('confidence', 0)
+                if confidence > 0.7:  # Only use if confidence is high
+                    return detection['encoding']
+            
+            return 'utf-8'  # Fallback to utf-8
+            
+        except Exception:
+            return 'utf-8'
+    
+    def detect_file_type(self, file_path: Path) -> str:
+        """Detect the type of file based on extension and content"""
+        extension = file_path.suffix.lower()
+        
+        # File type mapping
+        type_mapping = {
+            '.py': 'python',
+            '.json': 'json',
+            '.yaml': 'yaml',
+            '.yml': 'yaml',
+            '.md': 'markdown',
+            '.txt': 'text',
+            '.html': 'html',
+            '.css': 'css',
+            '.js': 'javascript',
+            '.ts': 'typescript',
+            '.xml': 'xml',
+            '.csv': 'csv',
+            '.log': 'log',
+            '.conf': 'config',
+            '.cfg': 'config',
+            '.ini': 'config',
+            '.toml': 'config',
+            '.rst': 'restructuredtext',
+            '.sh': 'shell',
+            '.bash': 'shell',
+            '.ps1': 'powershell',
+            '.bat': 'batch',
+            '.sql': 'sql',
+            '.r': 'r',
+            '.R': 'r'
+        }
+        
+        return type_mapping.get(extension, 'text')
+    
+    def is_binary_file(self, file_path: Path) -> bool:
+        """Check if file is binary (contains null bytes)"""
+        try:
+            with open(file_path, 'rb') as f:
+                chunk = f.read(1024)
+                return b'\x00' in chunk
+        except Exception:
+            return False
+    
+    def validate_cleaned_file(self, file_path: Path, content: str, file_type: str) -> bool:
+        """Validate that cleaned content is still valid for the file type"""
+        try:
+            if file_type == 'json':
+                # Validate JSON structure
+                json.loads(content)
+                logger.info(f"  [OK] JSON structure validated")
+                return True
+            
+            elif file_type == 'yaml':
+                # Validate YAML structure (if PyYAML is available)
+                try:
+                    import yaml
+                    yaml.safe_load(content)
+                    logger.info(f"  [OK] YAML structure validated")
+                    return True
+                except ImportError:
+                    logger.warning(f"  [WARNING] PyYAML not available, skipping YAML validation")
+                    return True
+            
+            elif file_type == 'python':
+                # Basic Python syntax validation
+                try:
+                    compile(content, str(file_path), 'exec')
+                    logger.info(f"  [OK] Python syntax validated")
+                    return True
+                except SyntaxError as e:
+                    logger.error(f"  [ERROR] Python syntax error: {e}")
+                    return False
+            
+            elif file_type == 'xml':
+                # Basic XML validation
+                try:
+                    import xml.etree.ElementTree as ET
+                    ET.fromstring(content)
+                    logger.info(f"  [OK] XML structure validated")
+                    return True
+                except ET.ParseError as e:
+                    logger.error(f"  [ERROR] XML parse error: {e}")
+                    return False
+            
+            elif file_type == 'csv':
+                # Basic CSV validation
+                try:
+                    import csv
+                    from io import StringIO
+                    csv_reader = csv.reader(StringIO(content))
+                    list(csv_reader)  # Try to read all rows
+                    logger.info(f"  [OK] CSV structure validated")
+                    return True
+                except csv.Error as e:
+                    logger.error(f"  [ERROR] CSV error: {e}")
+                    return False
+            
+            else:
+                # For other file types, just check if content is not empty
+                if content.strip():
+                    logger.info(f"  [OK] Content validated for {file_type}")
+                    return True
+                else:
+                    logger.warning(f"  [WARNING] Content is empty after cleaning")
+                    return False
+        
+        except Exception as e:
+            logger.error(f"  [ERROR] Validation failed: {e}")
+            return False
+    
+    def find_text_files(self) -> List[Path]:
+        """Find all text files in the project, excluding backups and temp files"""
+        text_files = []
         
         # Directories to exclude
         exclude_dirs = {
             '.git', '__pycache__', '.cursor', 'node_modules', 
-            'profile_backups', 'json_cleaner', 'logs', 'temp'
+            'profile_backups', 'json_cleaner', 'logs', 'temp',
+            'build', 'dist', '.venv', 'venv', '.env'
+        }
+        
+        # File extensions to include (text files only)
+        include_extensions = {
+            '.py', '.json', '.md', '.txt', '.yaml', '.yml', 
+            '.js', '.ts', '.html', '.css', '.xml', '.csv', 
+            '.log', '.conf', '.cfg', '.ini', '.toml', '.rst',
+            '.sh', '.bash', '.ps1', '.bat', '.sql', '.r', '.R'
         }
         
         # File patterns to exclude
         exclude_patterns = {
-            '*_backup.json', '*_backup_*.json', '*.backup.json',
-            '*_temp.json', '*_temporary.json', '*.temp.json'
+            '*_backup.*', '*_backup_*.*', '*.backup.*',
+            '*_temp.*', '*_temporary.*', '*.temp.*',
+            '*_unicode_backup*', '*.lock', '*.tmp'
         }
         
-        logger.info("Scanning for JSON files...")
+        logger.info("Scanning for text files...")
         
-        for json_file in self.project_root.rglob('*.json'):
+        for file_path in self.project_root.rglob('*'):
+            # Skip directories
+            if file_path.is_dir():
+                continue
+            
             # Skip if in excluded directory
-            if any(excluded in json_file.parts for excluded in exclude_dirs):
+            if any(excluded in file_path.parts for excluded in exclude_dirs):
+                continue
+                
+            # Skip if not a text file extension
+            if file_path.suffix.lower() not in include_extensions:
                 continue
                 
             # Skip if matches excluded pattern
-            if any(json_file.match(pattern) for pattern in exclude_patterns):
+            if any(file_path.match(pattern) for pattern in exclude_patterns):
                 continue
                 
             # Skip if it's a backup file we might have created
-            if '_unicode_backup' in json_file.name:
+            if '_unicode_backup' in file_path.name:
                 continue
                 
-            json_files.append(json_file)
+            text_files.append(file_path)
         
-        logger.info(f"Found {len(json_files)} JSON files to process")
-        return sorted(json_files)
+        logger.info(f"Found {len(text_files)} text files to process")
+        return sorted(text_files)
     
-    def clean_json_file(self, file_path: Path, create_backup: bool = True) -> bool:
-        """Clean Unicode characters from a single JSON file"""
+    def clean_text_file(self, file_path: Path, create_backup: bool = True) -> bool:
+        """Clean Unicode characters from a text file"""
         try:
             logger.info(f"Processing: {file_path.relative_to(self.project_root)}")
             
-            # Read the file
-            with open(file_path, 'r', encoding='utf-8') as f:
-                original_content = f.read()
+            # Skip binary files
+            if self.is_binary_file(file_path):
+                logger.info(f"  [SKIP] Binary file detected")
+                self.stats['binary_files_skipped'] += 1
+                return False
+            
+            # Detect file encoding
+            encoding = self.detect_file_encoding(file_path)
+            file_type = self.detect_file_type(file_path)
+            
+            # Track file type and encoding statistics
+            self.stats['file_types_processed'][file_type] = self.stats['file_types_processed'].get(file_type, 0) + 1
+            self.stats['encoding_types_used'][encoding] = self.stats['encoding_types_used'].get(encoding, 0) + 1
+            
+            logger.info(f"  [INFO] File type: {file_type}, Encoding: {encoding}")
+            
+            # Read the file with detected encoding
+            try:
+                with open(file_path, 'r', encoding=encoding) as f:
+                    original_content = f.read()
+            except UnicodeDecodeError:
+                # Fallback to utf-8 with error handling
+                logger.warning(f"  [WARNING] Failed to read with {encoding}, trying utf-8")
+                try:
+                    with open(file_path, 'r', encoding='utf-8', errors='replace') as f:
+                        original_content = f.read()
+                except UnicodeDecodeError:
+                    logger.error(f"  [ERROR] Cannot read file with any encoding")
+                    return False
             
             # Check if file needs cleaning
             needs_cleaning = False
@@ -319,7 +561,7 @@ class MasterUnicodeCleaner:
             
             # Create backup if requested
             if create_backup:
-                backup_path = file_path.with_suffix('.json_unicode_backup')
+                backup_path = file_path.with_suffix(f'{file_path.suffix}_unicode_backup')
                 shutil.copy2(file_path, backup_path)
                 self.stats['backup_files_created'] += 1
                 logger.info(f"  [BACKUP] Backup created: {backup_path.name}")
@@ -336,12 +578,10 @@ class MasterUnicodeCleaner:
                     if count > 0:
                         logger.info(f"  • Replaced {count}x '{unicode_char}' with '{replacement}'")
             
-            # Validate JSON structure
-            try:
-                json.loads(cleaned_content)
-                logger.info(f"  [OK] JSON structure validated")
-            except json.JSONDecodeError as e:
-                logger.error(f"  [ERROR] JSON validation failed: {e}")
+            # Validate cleaned content
+            if not self.validate_cleaned_file(file_path, cleaned_content, file_type):
+                logger.error(f"  [ERROR] File validation failed - restoring from backup")
+                self.stats['validation_failures'] += 1
                 return False
             
             # Write cleaned content
@@ -357,42 +597,70 @@ class MasterUnicodeCleaner:
             self.stats['files_errors'] += 1
             return False
     
-    def clean_all_json_files(self, create_backups: bool = True) -> Dict[str, Any]:
-        """Clean all JSON files in the project"""
+    def clean_all_text_files(self, create_backups: bool = True) -> Dict[str, Any]:
+        """Clean all text files in the project"""
         start_time = datetime.now()
         logger.info("=" * 60)
-        logger.info("MASTER UNICODE CLEANER - STARTING BATCH PROCESSING")
+        logger.info("UNIVERSAL UNICODE CLEANER - STARTING BATCH PROCESSING")
         logger.info("=" * 60)
         
-        # Find all JSON files
-        json_files = self.find_json_files()
+        # Find all text files
+        text_files = self.find_text_files()
         
-        if not json_files:
-            logger.warning("No JSON files found to process")
+        if not text_files:
+            logger.warning("No text files found to process")
             return self.stats
         
-        # Process each file
-        for file_path in json_files:
+        logger.info(f"Found {len(text_files)} text files to process")
+        
+        # Process each file with progress tracking
+        for idx, file_path in enumerate(text_files, 1):
             self.stats['files_processed'] += 1
             
-            if self.clean_json_file(file_path, create_backups):
-                self.stats['files_cleaned'] += 1
+            # Progress indication
+            progress = (idx / len(text_files)) * 100
+            logger.info(f"[{idx}/{len(text_files)}] ({progress:.1f}%) Processing file...")
+            
+            try:
+                if self.clean_text_file(file_path, create_backups):
+                    self.stats['files_cleaned'] += 1
+                else:
+                    self.stats['files_skipped'] += 1
+            except Exception as e:
+                logger.error(f"  [ERROR] Unexpected error processing {file_path}: {e}")
+                self.stats['files_errors'] += 1
         
         # Calculate processing time
         end_time = datetime.now()
         processing_time = end_time - start_time
         
-        # Generate final report
+        # Generate comprehensive final report
         logger.info("=" * 60)
-        logger.info("MASTER UNICODE CLEANER - PROCESSING COMPLETE")
+        logger.info("UNIVERSAL UNICODE CLEANER - PROCESSING COMPLETE")
         logger.info("=" * 60)
-        logger.info(f"[STATS] FINAL STATISTICS:")
-        logger.info(f"  • Files processed: {self.stats['files_processed']}")
+        logger.info(f"[STATS] COMPREHENSIVE FINAL STATISTICS:")
+        logger.info(f"  • Total files processed: {self.stats['files_processed']}")
         logger.info(f"  • Files cleaned: {self.stats['files_cleaned']}")
+        logger.info(f"  • Files skipped: {self.stats['files_skipped']}")
         logger.info(f"  • Files with errors: {self.stats['files_errors']}")
+        logger.info(f"  • Binary files skipped: {self.stats['binary_files_skipped']}")
+        logger.info(f"  • Validation failures: {self.stats['validation_failures']}")
         logger.info(f"  • Unicode characters replaced: {self.stats['unicode_chars_replaced']:,}")
         logger.info(f"  • Backup files created: {self.stats['backup_files_created']}")
         logger.info(f"  • Processing time: {processing_time}")
+        
+        # File type breakdown
+        if self.stats['file_types_processed']:
+            logger.info(f"[BREAKDOWN] File types processed:")
+            for file_type, count in sorted(self.stats['file_types_processed'].items()):
+                logger.info(f"  • {file_type}: {count} files")
+        
+        # Encoding breakdown
+        if self.stats['encoding_types_used']:
+            logger.info(f"[BREAKDOWN] Encodings detected:")
+            for encoding, count in sorted(self.stats['encoding_types_used'].items()):
+                logger.info(f"  • {encoding}: {count} files")
+        
         logger.info("=" * 60)
         
         # Add processing time to stats
@@ -406,7 +674,7 @@ class MasterUnicodeCleaner:
         """Clean up backup files created during processing"""
         logger.info("Cleaning up backup files...")
         
-        backup_files = list(self.project_root.rglob('*.json_unicode_backup'))
+        backup_files = list(self.project_root.rglob('*_unicode_backup'))
         
         for backup_file in backup_files:
             try:
@@ -422,7 +690,7 @@ def main():
     """Main execution function"""
     import argparse
     
-    parser = argparse.ArgumentParser(description='Master Unicode Cleaner for JSON files')
+    parser = argparse.ArgumentParser(description='Universal Unicode Cleaner for all text files')
     parser.add_argument('--no-backups', action='store_true', 
                        help='Skip creating backup files')
     parser.add_argument('--cleanup-backups', action='store_true',
@@ -436,7 +704,7 @@ def main():
     cleaner = MasterUnicodeCleaner(args.project_root)
     
     # Run cleaning process
-    stats = cleaner.clean_all_json_files(create_backups=not args.no_backups)
+    stats = cleaner.clean_all_text_files(create_backups=not args.no_backups)
     
     # Cleanup backups if requested
     if args.cleanup_backups:

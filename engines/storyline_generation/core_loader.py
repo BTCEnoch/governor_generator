@@ -87,7 +87,7 @@ class CoreDataLoader:
             logger.info(f"📋 Loading {governor_name} from cache")
             return self._governor_cache[governor_name]
         
-        governor_file = self.governor_output_path / f"{governor_name}.json"
+        governor_file = Path(__file__).parent.parent.parent / "governor_dossier" / f"{governor_name}.json"
         
         if not governor_file.exists():
             raise FileNotFoundError(f"Governor file not found: {governor_file}")

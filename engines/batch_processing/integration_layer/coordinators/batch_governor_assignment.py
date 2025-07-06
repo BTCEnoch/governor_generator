@@ -2,6 +2,7 @@
 import sys
 import os
 from pathlib import Path
+import logging
 
 # Add project root to Python path for proper imports
 # , '../..'))  # Removed during reorganization
@@ -15,8 +16,9 @@ class BatchGovernorTarotAssignment:
         self.assigner = GovernorTarotAssigner()
         self.governors_path = Path("governor_output")
         # Update path to match new mystical systems architecture
-        self.tarot_output_path = Path("mystical_systems/tarot_system/data/governor_tarot_profiles")
+        self.tarot_output_path = Path(__file__).parent.parent.parent.parent.parent / "governor_dossier"
         self.tarot_output_path.mkdir(parents=True, exist_ok=True)
+        self.logger = logging.getLogger(__name__)
     
     def assign_all_governors(self):
         """Process all 91 governors and assign tarot influences"""

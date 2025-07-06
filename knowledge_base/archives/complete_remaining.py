@@ -4,10 +4,11 @@ Complete the remaining 2 traditions
 """
 
 import logging
-
+import sys
 from pathlib import Path
 
-.parent.parent))
+# Add project root to path
+sys.path.append(str(Path(__file__).parent.parent))
 
 from archives.knowledge_extractor import KnowledgeExtractor
 
@@ -17,6 +18,7 @@ def main():
     extractor = KnowledgeExtractor(
         links_dir="../links",
         archive_dir="."
+    )
     
     # Process the remaining traditions
     remaining_files = [

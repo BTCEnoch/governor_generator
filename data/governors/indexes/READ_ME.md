@@ -51,7 +51,7 @@ In addition to the source material, you will access the web and research the ind
 ```
 sources_of_truth/enochian_governors_advanced.json    # Master list of 91 governors
 governor_indexes/                              # Trait index JSONs & question catalog
-  alignment_motives.json
+  motive_alignment.json
   self_regard_options.json
   role_archetypes.json
   polarity_cd.json
@@ -70,7 +70,7 @@ README.md                                      # This file
 
 ### 3.2 Index Files & Counts
 
-* **alignment_motives.json** (9) — moral/ethical cores
+* **motive_alignment.json** (9) — moral/ethical cores
 * **self_regard_options.json** (20) — self‑view archetypes
 * **role_archetypes.json** (20) — engagement roles
 * **polarity_cd.json** (3) — constructive ↔ balanced ↔ destructive

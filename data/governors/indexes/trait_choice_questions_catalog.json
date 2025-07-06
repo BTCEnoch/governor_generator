@@ -4,7 +4,7 @@
       "id": "Q1",
       "field": "motive_alignment",
       "prompt": "Of these nine cosmic alignments, which best captures your fundamental purpose? Explain in 1-2 sentences why this alignment guides all you do.",
-      "options_file": "alignment_motives.json",
+      "options_file": "motive_alignment.json",
       "required_choices": 1,
       "capture_reason": true
     },
