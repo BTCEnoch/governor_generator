@@ -1,110 +1,187 @@
 """
 Batch Interview Processor
 
-This module handles running the visual aspects interviews for all governors in batch,
-ensuring consistent processing and validation of responses.
+This module handles running interviews for all governors in batch,
+processing responses and ensuring consistency with governor profiles.
 """
 
 import json
 import logging
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Any
 from datetime import datetime
+from dataclasses import asdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from tqdm import tqdm
 
-from .visual_aspects_interview import VisualAspectsInterview
+from core.governors.profiler.schemas.interview_schema import (
+    InterviewQuestion, InterviewResponse, InterviewSession, QuestionCategory
+)
+from core.utils.custom_logging.custom_logger import setup_logger
+from core.governors.profiler.interview.governor_interview_system import (
+    GovernorInterviewSystem, ContentLibrary
+)
+from core.utils.common.progress import ProgressTracker
 
-logger = logging.getLogger(__name__)
+logger = setup_logger(__name__)
 
 class BatchInterviewProcessor:
-    """Processes visual aspects interviews for all governors"""
+    """Processes interviews for all governors in parallel."""
     
-    def __init__(self, governors_dir: str = "governor_dossier"):
-        self.governors_dir = Path(governors_dir)
-        self.interview = VisualAspectsInterview()
-        
-    def load_governor_data(self, governor_file: Path) -> Dict:
-        """Load a governor's profile data"""
-        with governor_file.open() as f:
-            return json.load(f)
-            
-    def save_governor_data(self, governor_file: Path, data: Dict):
-        """Save updated governor data"""
-        with governor_file.open('w') as f:
-            json.dump(data, f, indent=2)
-            
-    def process_governor(self, governor_file: Path) -> Dict:
-        """
-        Process visual aspects interview for a single governor
+    def __init__(
+        self,
+        governors_dir: Path,
+        output_dir: Path,
+        max_workers: Optional[int] = None
+    ):
+        """Initialize the batch processor.
         
         Args:
-            governor_file: Path to the governor's JSON file
-            
-        Returns:
-            Updated governor data with interview responses
+            governors_dir: Directory containing governor trait files
+            output_dir: Directory to save interview results
+            max_workers: Maximum number of parallel workers
         """
-        # Load governor data
-        governor_data = self.load_governor_data(governor_file)
+        self.logger = logging.getLogger(__name__)
+        self.governors_dir = governors_dir
+        self.output_dir = output_dir
+        self.max_workers = max_workers
         
-        # Generate interview prompt
-        prompt = self.interview.get_interview_prompt(governor_data)
+        # Create interview system
+        self.interview_system = GovernorInterviewSystem(output_dir)
         
-        # Here we would call the AI to conduct the interview
-        # The AI would:
-        # 1. Load the governor's complete profile
-        # 2. Embody the governor's personality
-        # 3. Answer each question considering all traits
-        # 4. Validate responses against the governor's nature
+        # Get total number of governors
+        governor_files = list(self.governors_dir.glob("*.json"))
+        total_governors = len(governor_files)
         
-        logger.info(f"Processing interview for {governor_data['governor_name']}")
+        # Initialize progress tracking
+        self.progress = ProgressTracker(total=total_governors)
         
-        # For now, we'll just return the structure
-        return {
-            "interview_session": {
-                "timestamp": datetime.now().isoformat(),
-                "questions": [q.id for q in self.interview.questions],
-                "responses": {}  # Will be filled by AI responses
+    def process_all_governors(self) -> Dict[str, ContentLibrary]:
+        """Process interviews for all governors.
+        
+        Returns:
+            Dict mapping governor names to their content libraries
+        """
+        self.logger.info("Starting batch interview processing")
+        
+        # Get list of governor files
+        governor_files = list(self.governors_dir.glob("*.json"))
+        total_governors = len(governor_files)
+        
+        self.logger.info(f"Found {total_governors} governors to process")
+        
+        # Initialize results
+        results: Dict[str, ContentLibrary] = {}
+        
+        # Process in parallel
+        with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
+            # Submit all tasks
+            future_to_governor = {
+                executor.submit(self._process_governor, gov_file): gov_file
+                for gov_file in governor_files
             }
-        }
+            
+            # Process results as they complete
+            with tqdm(total=total_governors, desc="Processing Governors") as pbar:
+                for future in as_completed(future_to_governor):
+                    governor_file = future_to_governor[future]
+                    try:
+                        library = future.result()
+                        results[library.governor_name] = library
+                        self.logger.info(
+                            f"Completed processing {library.governor_name}"
+                        )
+                    except Exception as e:
+                        self.logger.error(
+                            f"Failed to process {governor_file.name}: {str(e)}"
+                        )
+                    pbar.update(1)
+                    
+        self.logger.info(
+            f"Completed batch processing. Processed {len(results)} governors"
+        )
+        return results
         
-    def process_all_governors(self):
-        """Process interviews for all governors"""
-        governor_files = sorted(self.governors_dir.glob("*.json"))
-        
-        for governor_file in governor_files:
-            try:
-                logger.info(f"Starting interview for {governor_file.stem}")
-                
-                # Process the interview
-                updated_data = self.process_governor(governor_file)
-                
-                # Here we would:
-                # 1. Update the governor's file with responses
-                # 2. Validate consistency across all responses
-                # 3. Generate visual aspects data structure
-                
-                logger.info(f"Completed interview for {governor_file.stem}")
-                
-            except Exception as e:
-                logger.error(f"Error processing {governor_file.stem}: {str(e)}")
-                continue
-                
-    def validate_responses(self, responses: Dict, governor_data: Dict) -> bool:
-        """
-        Validate that all responses are consistent with the governor's nature
+    def _process_governor(self, governor_file: Path) -> ContentLibrary:
+        """Process interviews for a single governor.
         
         Args:
-            responses: The interview responses
-            governor_data: The governor's complete profile data
+            governor_file: Path to governor's trait file
             
         Returns:
-            True if all responses are valid, False otherwise
+            Generated content library
         """
-        # Implementation would check:
-        # 1. Alignment with element
-        # 2. Consistency with aethyr
-        # 3. Match to angelic role
-        # 4. Reflection of personality traits
+        # Load governor traits
+        with governor_file.open('r', encoding='utf-8') as f:
+            traits = json.load(f)
+            
+        governor_name = governor_file.stem
+        self.logger.info(f"Processing governor {governor_name}")
         
-        # For now, return True as placeholder
-        # TODO: Implement full validation logic
-        return True 
+        # Conduct interviews
+        try:
+            library = self.interview_system.conduct_full_interview_series(
+                governor_name, traits
+            )
+            return library
+        except Exception as e:
+            self.logger.error(
+                f"Error processing {governor_name}: {str(e)}"
+            )
+            raise
+            
+def run_batch_interviews(
+    governors_dir: str,
+    output_dir: str,
+    max_workers: Optional[int] = None
+) -> None:
+    """Run batch interview processing.
+    
+    Args:
+        governors_dir: Directory containing governor trait files
+        output_dir: Directory to save interview results
+        max_workers: Maximum number of parallel workers
+    """
+    # Convert paths
+    governors_path = Path(governors_dir)
+    output_path = Path(output_dir)
+    
+    # Create processor
+    processor = BatchInterviewProcessor(
+        governors_path,
+        output_path,
+        max_workers=max_workers
+    )
+    
+    # Run processing
+    processor.process_all_governors()
+    
+if __name__ == "__main__":
+    import argparse
+    
+    parser = argparse.ArgumentParser(
+        description="Run batch governor interviews"
+    )
+    parser.add_argument(
+        "--governors-dir",
+        required=True,
+        help="Directory containing governor trait files"
+    )
+    parser.add_argument(
+        "--output-dir",
+        required=True,
+        help="Directory to save interview results"
+    )
+    parser.add_argument(
+        "--max-workers",
+        type=int,
+        help="Maximum number of parallel workers"
+    )
+    
+    args = parser.parse_args()
+    
+    run_batch_interviews(
+        args.governors_dir,
+        args.output_dir,
+        max_workers=args.max_workers
+    ) 

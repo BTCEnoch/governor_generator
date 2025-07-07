@@ -1,0 +1,169 @@
+{
+  "magical_tools": {
+    "primary_implements": {
+      "wand": {
+        "traditional_materials": ["wood", "crystal", "metal"],
+        "preferred_woods": {
+          "oak": {
+            "properties": ["strength", "protection", "wisdom"],
+            "magical_uses": ["directing_energy", "invoking_power", "manifestation"]
+          },
+          "willow": {
+            "properties": ["flexibility", "intuition", "healing"],
+            "magical_uses": ["psychic_work", "healing", "lunar_magic"]
+          },
+          "hazel": {
+            "properties": ["wisdom", "communication", "learning"],
+            "magical_uses": ["divination", "communication", "knowledge"]
+          }
+        },
+        "construction": {
+          "length": "forearm_length",
+          "thickness": "thumb_width",
+          "decoration": ["carvings", "crystals", "metals", "symbols"]
+        },
+        "consecration": {
+          "timing": "waxing_moon",
+          "elements": ["fire", "air"],
+          "methods": ["blessing", "charging", "naming"]
+        },
+        "magical_uses": {
+          "energy_direction": ["spellcasting", "healing", "blessing"],
+          "invocation": ["deities", "elements", "forces"],
+          "transformation": ["change_work", "transmutation", "evolution"]
+        }
+      },
+      "chalice": {
+        "traditional_materials": ["silver", "crystal", "ceramic"],
+        "construction": {
+          "size": "two_hands_cupped",
+          "features": ["stem", "base", "bowl"],
+          "decorations": ["symbols", "gems", "engravings"]
+        },
+        "consecration": {
+          "timing": "full_moon",
+          "elements": ["water", "moon"],
+          "methods": ["blessing", "charging", "purification"]
+        },
+        "magical_uses": {
+          "containing": ["emotions", "intuition", "psychic_energy"],
+          "scrying": ["divination", "reflection", "insight"],
+          "offering": ["libation", "dedication", "blessing"]
+        }
+      },
+      "athame": {
+        "traditional_materials": ["iron", "steel", "obsidian"],
+        "construction": {
+          "blade_length": "hand_span",
+          "handle": "black_material",
+          "features": ["double_edged", "pointed", "balanced"]
+        },
+        "consecration": {
+          "timing": "waning_moon",
+          "elements": ["air", "fire"],
+          "methods": ["purification", "charging", "dedication"]
+        },
+        "magical_uses": {
+          "banishing": ["negative_energy", "entities", "thoughts"],
+          "directing": ["force", "will", "intention"],
+          "cutting": ["bonds", "attachments", "limitations"]
+        }
+      }
+    },
+    "divination_tools": {
+      "tarot": {
+        "deck_types": {
+          "rider_waite_smith": {
+            "structure": ["22_major_arcana", "56_minor_arcana"],
+            "symbolism": "golden_dawn_based",
+            "use_cases": ["divination", "meditation", "pathworking"]
+          },
+          "thoth": {
+            "structure": ["22_major_arcana", "56_minor_arcana"],
+            "symbolism": "thelemic_qabalistic",
+            "use_cases": ["magical_work", "psychology", "initiation"]
+          },
+          "marseille": {
+            "structure": ["22_major_arcana", "56_minor_arcana"],
+            "symbolism": "traditional_european",
+            "use_cases": ["divination", "cartomancy", "meditation"]
+          }
+        },
+        "reading_methods": {
+          "celtic_cross": {
+            "positions": 10,
+            "focus": "comprehensive_situation",
+            "timing": "past_present_future"
+          },
+          "three_card": {
+            "positions": 3,
+            "focus": "quick_insight",
+            "timing": "situation_specific"
+          }
+        }
+      },
+      "crystal_ball": {
+        "materials": {
+          "quartz": {
+            "properties": ["clarity", "amplification", "purity"],
+            "uses": ["general_scrying", "future_seeing", "past_viewing"]
+          },
+          "obsidian": {
+            "properties": ["protection", "grounding", "truth"],
+            "uses": ["shadow_work", "protection", "truth_seeking"]
+          }
+        },
+        "scrying_methods": {
+          "direct_vision": {
+            "technique": "gazing_into_depth",
+            "preparation": ["meditation", "darkened_room", "quiet_mind"]
+          },
+          "symbolic_vision": {
+            "technique": "interpreting_patterns",
+            "preparation": ["symbol_study", "intuition_development"]
+          }
+        }
+      }
+    },
+    "ceremonial_implements": {
+      "altar": {
+        "construction": {
+          "materials": ["wood", "stone", "metal"],
+          "dimensions": ["double_cube", "golden_ratio", "square"],
+          "orientation": ["east", "north", "cardinal_points"]
+        },
+        "layout": {
+          "elemental": {
+            "east": ["incense", "air_symbols"],
+            "south": ["candle", "fire_symbols"],
+            "west": ["chalice", "water_symbols"],
+            "north": ["pentacle", "earth_symbols"],
+            "center": ["deity_images", "focus_objects"]
+          },
+          "working": {
+            "tools": ["primary_implements", "specific_items"],
+            "offerings": ["incense", "candles", "food"],
+            "symbols": ["divine_names", "sigils", "images"]
+          }
+        }
+      },
+      "robes": {
+        "colors": {
+          "white": {
+            "symbolism": ["purity", "protection", "spirituality"],
+            "uses": ["general_work", "high_magic", "initiation"]
+          },
+          "black": {
+            "symbolism": ["mystery", "absorption", "banishing"],
+            "uses": ["protection", "transformative_work", "shadow_work"]
+          }
+        },
+        "construction": {
+          "materials": ["natural_fibers", "silk", "linen"],
+          "features": ["hood", "sleeves", "length"],
+          "decorations": ["symbols", "borders", "trim"]
+        }
+      }
+    }
+  }
+} 

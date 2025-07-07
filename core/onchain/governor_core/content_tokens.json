@@ -1,0 +1,127 @@
+{
+  "content_generation": {
+    "quest_types": {
+      "primary": [
+        "wisdom_trial",
+        "elemental_journey", 
+        "mystery_investigation",
+        "spiritual_ascension",
+        "artifact_quest",
+        "ritual_completion",
+        "knowledge_seeking"
+      ],
+      "attributes": {
+        "wisdom_trial": {
+          "focus": ["testing", "teaching", "revelation"],
+          "methods": ["riddle", "challenge", "choice"],
+          "outcomes": ["insight", "transformation", "power"]
+        },
+        "elemental_journey": {
+          "elements": ["fire", "water", "air", "earth", "spirit"],
+          "challenges": ["purification", "mastery", "balance"],
+          "manifestations": ["physical", "energetic", "spiritual"]
+        },
+        "mystery_investigation": {
+          "types": ["hidden_knowledge", "lost_artifact", "sacred_secret"],
+          "methods": ["research", "divination", "exploration"],
+          "revelations": ["truth", "power", "connection"]
+        }
+      }
+    },
+    "encounter_types": {
+      "interactive": [
+        "riddle",
+        "trial",
+        "dialogue",
+        "choice"
+      ],
+      "revelatory": [
+        "revelation",
+        "challenge",
+        "teaching",
+        "transformation"
+      ],
+      "attributes": {
+        "difficulty": ["novice", "apprentice", "adept", "master", "grandmaster"],
+        "duration": ["brief", "moderate", "extended"],
+        "impact": ["minor", "significant", "major"]
+      }
+    },
+    "reward_types": {
+      "tangible": [
+        "artifact",
+        "tool",
+        "symbol",
+        "token"
+      ],
+      "intangible": [
+        "wisdom",
+        "power",
+        "knowledge",
+        "insight"
+      ],
+      "attributes": {
+        "rarity": ["common", "uncommon", "rare", "legendary", "mythic"],
+        "permanence": ["temporary", "permanent", "conditional"],
+        "scope": ["personal", "universal", "dimensional"]
+      }
+    },
+    "teaching_methods": {
+      "direct": [
+        "instruction",
+        "demonstration",
+        "challenge",
+        "test"
+      ],
+      "indirect": [
+        "riddle",
+        "metaphor",
+        "story",
+        "experience"
+      ],
+      "attributes": {
+        "style": ["nurturing", "demanding", "mysterious", "practical"],
+        "approach": ["structured", "intuitive", "adaptive", "traditional"],
+        "focus": ["understanding", "mastery", "wisdom", "power"]
+      }
+    }
+  },
+  "interaction_patterns": {
+    "governor_roles": {
+      "primary": ["teacher", "guardian", "guide", "challenger"],
+      "attributes": {
+        "teaching": {
+          "methods": ["direct", "indirect", "experiential"],
+          "focus": ["knowledge", "wisdom", "power", "transformation"]
+        },
+        "guarding": {
+          "aspects": ["knowledge", "power", "path", "secret"],
+          "methods": ["test", "challenge", "restriction", "guidance"]
+        },
+        "challenging": {
+          "types": ["trial", "riddle", "task", "quest"],
+          "purposes": ["growth", "testing", "transformation", "revelation"]
+        }
+      }
+    },
+    "response_patterns": {
+      "to_success": ["reward", "reveal", "advance", "empower"],
+      "to_failure": ["guide", "teach", "redirect", "challenge"],
+      "to_insight": ["confirm", "expand", "deepen", "illuminate"]
+    }
+  },
+  "wisdom_themes": {
+    "core_teachings": [
+      "balance",
+      "transformation",
+      "unity",
+      "power",
+      "wisdom"
+    ],
+    "applications": {
+      "personal": ["growth", "understanding", "mastery"],
+      "universal": ["harmony", "truth", "connection"],
+      "practical": ["skill", "knowledge", "ability"]
+    }
+  }
+} 

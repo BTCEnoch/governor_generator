@@ -1,0 +1,137 @@
+{
+  "magical_systems": {
+    "elemental_magic": {
+      "fire": {
+        "qualities": ["hot", "dry", "active", "expansive"],
+        "psychological_aspects": ["will", "passion", "creativity", "drive"],
+        "physical_manifestations": ["heat", "light", "electricity", "plasma"],
+        "magical_tools": ["wand", "athame", "candle", "incense"],
+        "ritual_directions": {
+          "cardinal": "south",
+          "time": "noon",
+          "season": "summer"
+        },
+        "governor_correspondences": {
+          "personality_traits": ["dynamic", "passionate", "transformative"],
+          "magical_specialties": ["transformation", "purification", "inspiration"],
+          "teaching_methods": ["direct", "challenging", "energetic"]
+        }
+      },
+      "water": {
+        "qualities": ["cold", "moist", "receptive", "flowing"],
+        "psychological_aspects": ["emotion", "intuition", "memory", "healing"],
+        "physical_manifestations": ["oceans", "rain", "blood", "sap"],
+        "magical_tools": ["cup", "cauldron", "mirror", "bowl"],
+        "ritual_directions": {
+          "cardinal": "west",
+          "time": "sunset",
+          "season": "autumn"
+        },
+        "governor_correspondences": {
+          "personality_traits": ["intuitive", "empathetic", "adaptive"],
+          "magical_specialties": ["healing", "divination", "emotional_work"],
+          "teaching_methods": ["nurturing", "reflective", "flowing"]
+        }
+      },
+      "air": {
+        "qualities": ["hot", "moist", "active", "mobile"],
+        "psychological_aspects": ["intellect", "communication", "analysis", "planning"],
+        "physical_manifestations": ["wind", "breath", "gas", "smoke"],
+        "magical_tools": ["sword", "censer", "feather", "wind_chimes"],
+        "ritual_directions": {
+          "cardinal": "east",
+          "time": "dawn",
+          "season": "spring"
+        },
+        "governor_correspondences": {
+          "personality_traits": ["intellectual", "communicative", "adaptable"],
+          "magical_specialties": ["divination", "communication", "mental_magic"],
+          "teaching_methods": ["analytical", "systematic", "theoretical"]
+        }
+      },
+      "earth": {
+        "qualities": ["cold", "dry", "receptive", "stable"],
+        "psychological_aspects": ["stability", "practicality", "resources", "growth"],
+        "physical_manifestations": ["stones", "crystals", "plants", "soil"],
+        "magical_tools": ["pentacle", "salt", "crystal", "stone"],
+        "ritual_directions": {
+          "cardinal": "north",
+          "time": "midnight",
+          "season": "winter"
+        },
+        "governor_correspondences": {
+          "personality_traits": ["practical", "reliable", "grounding"],
+          "magical_specialties": ["manifestation", "protection", "abundance"],
+          "teaching_methods": ["practical", "methodical", "hands-on"]
+        }
+      },
+      "spirit": {
+        "qualities": ["transcendent", "unifying", "eternal", "divine"],
+        "psychological_aspects": ["consciousness", "enlightenment", "unity", "transcendence"],
+        "physical_manifestations": ["light", "energy", "life_force", "consciousness"],
+        "magical_tools": ["crystal_sphere", "lamp", "bell", "sacred_text"],
+        "ritual_directions": {
+          "cardinal": "center",
+          "time": "timeless",
+          "season": "eternal"
+        },
+        "governor_correspondences": {
+          "personality_traits": ["wise", "transcendent", "unifying"],
+          "magical_specialties": ["spiritual_guidance", "enlightenment", "integration"],
+          "teaching_methods": ["holistic", "experiential", "transformative"]
+        }
+      }
+    },
+    "planetary_magic": {
+      "sun": {
+        "day": "sunday",
+        "metal": "gold",
+        "qualities": ["vitality", "authority", "illumination"],
+        "magical_uses": ["success", "health", "enlightenment"],
+        "governor_aspects": ["leadership", "vitality", "illumination"]
+      },
+      "moon": {
+        "day": "monday",
+        "metal": "silver",
+        "qualities": ["reflection", "cycles", "intuition"],
+        "magical_uses": ["psychic_work", "dreams", "emotions"],
+        "governor_aspects": ["intuition", "cycles", "mystery"]
+      },
+      "mars": {
+        "day": "tuesday",
+        "metal": "iron",
+        "qualities": ["energy", "courage", "action"],
+        "magical_uses": ["protection", "courage", "strength"],
+        "governor_aspects": ["warrior", "protector", "activator"]
+      },
+      "mercury": {
+        "day": "wednesday",
+        "metal": "mercury",
+        "qualities": ["communication", "learning", "travel"],
+        "magical_uses": ["communication", "study", "divination"],
+        "governor_aspects": ["messenger", "teacher", "guide"]
+      },
+      "jupiter": {
+        "day": "thursday",
+        "metal": "tin",
+        "qualities": ["expansion", "abundance", "wisdom"],
+        "magical_uses": ["prosperity", "growth", "leadership"],
+        "governor_aspects": ["expansion", "abundance", "wisdom"]
+      },
+      "venus": {
+        "day": "friday",
+        "metal": "copper",
+        "qualities": ["love", "beauty", "harmony"],
+        "magical_uses": ["love", "art", "peace"],
+        "governor_aspects": ["harmony", "beauty", "love"]
+      },
+      "saturn": {
+        "day": "saturday",
+        "metal": "lead",
+        "qualities": ["structure", "time", "boundaries"],
+        "magical_uses": ["binding", "banishing", "manifestation"],
+        "governor_aspects": ["structure", "limitation", "wisdom"]
+      }
+    }
+  }
+} 

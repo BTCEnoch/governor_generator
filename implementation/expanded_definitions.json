@@ -1,0 +1,195 @@
+{
+  "expanded_definitions": {
+    "platonic_solids": {
+      "tetrahedron": {
+        "element": "fire",
+        "faces": 4,
+        "edges": 6,
+        "vertices": 4,
+        "mystical_properties": {
+          "energy_type": "transformative",
+          "magical_uses": ["activation", "purification", "will_strengthening"],
+          "meditation_focus": "primal_force",
+          "governor_aspects": ["dynamic", "initiating", "catalyzing"]
+        },
+        "symbolic_correspondences": {
+          "colors": ["red", "orange", "gold"],
+          "sounds": ["sharp", "crackling", "ascending"],
+          "geometric_principles": ["minimum_structure", "perfect_stability", "equal_forces"]
+        },
+        "ritual_applications": {
+          "placement": "south",
+          "invocation_purpose": "energetic_activation",
+          "magical_operations": ["transformation", "purification", "empowerment"]
+        }
+      },
+      "cube": {
+        "element": "earth",
+        "faces": 6,
+        "edges": 12,
+        "vertices": 8,
+        "mystical_properties": {
+          "energy_type": "stabilizing",
+          "magical_uses": ["manifestation", "grounding", "protection"],
+          "meditation_focus": "material_reality",
+          "governor_aspects": ["stable", "manifesting", "protecting"]
+        },
+        "symbolic_correspondences": {
+          "colors": ["green", "brown", "black"],
+          "sounds": ["deep", "resonant", "grounding"],
+          "geometric_principles": ["perfect_stability", "material_manifestation", "foundational_structure"]
+        },
+        "ritual_applications": {
+          "placement": "north",
+          "invocation_purpose": "material_manifestation",
+          "magical_operations": ["grounding", "protection", "wealth"]
+        }
+      },
+      "octahedron": {
+        "element": "air",
+        "faces": 8,
+        "edges": 12,
+        "vertices": 6,
+        "mystical_properties": {
+          "energy_type": "intellectual",
+          "magical_uses": ["mental_clarity", "communication", "knowledge"],
+          "meditation_focus": "mental_realm",
+          "governor_aspects": ["analytical", "communicative", "learning"]
+        },
+        "symbolic_correspondences": {
+          "colors": ["yellow", "white", "sky_blue"],
+          "sounds": ["high", "clear", "windlike"],
+          "geometric_principles": ["balanced_opposition", "mental_clarity", "dual_nature"]
+        },
+        "ritual_applications": {
+          "placement": "east",
+          "invocation_purpose": "mental_activation",
+          "magical_operations": ["learning", "divination", "communication"]
+        }
+      },
+      "icosahedron": {
+        "element": "water",
+        "faces": 20,
+        "edges": 30,
+        "vertices": 12,
+        "mystical_properties": {
+          "energy_type": "flowing",
+          "magical_uses": ["emotion", "intuition", "healing"],
+          "meditation_focus": "emotional_realm",
+          "governor_aspects": ["intuitive", "healing", "flowing"]
+        },
+        "symbolic_correspondences": {
+          "colors": ["blue", "silver", "sea_green"],
+          "sounds": ["flowing", "rhythmic", "wavelike"],
+          "geometric_principles": ["fluidity", "adaptability", "emotional_depth"]
+        },
+        "ritual_applications": {
+          "placement": "west",
+          "invocation_purpose": "emotional_attunement",
+          "magical_operations": ["healing", "psychic_work", "love"]
+        }
+      },
+      "dodecahedron": {
+        "element": "spirit",
+        "faces": 12,
+        "edges": 30,
+        "vertices": 20,
+        "mystical_properties": {
+          "energy_type": "unifying",
+          "magical_uses": ["spiritual_connection", "higher_consciousness", "divine_communion"],
+          "meditation_focus": "spiritual_realm",
+          "governor_aspects": ["transcendent", "unifying", "divine"]
+        },
+        "symbolic_correspondences": {
+          "colors": ["purple", "gold", "white"],
+          "sounds": ["harmonic", "spherical", "all-encompassing"],
+          "geometric_principles": ["universal_container", "divine_proportion", "cosmic_order"]
+        },
+        "ritual_applications": {
+          "placement": "center",
+          "invocation_purpose": "spiritual_integration",
+          "magical_operations": ["enlightenment", "transcendence", "unity"]
+        }
+      }
+    },
+    "sacred_geometry": {
+      "fundamental_shapes": {
+        "circle": {
+          "symbolism": "unity_wholeness",
+          "magical_uses": ["protection", "containment", "cycles"],
+          "ritual_applications": ["circle_casting", "mandala_meditation", "cycle_work"]
+        },
+        "triangle": {
+          "symbolism": "dynamic_force",
+          "magical_uses": ["manifestation", "transformation", "power"],
+          "ritual_applications": ["elemental_work", "force_direction", "change_magic"]
+        },
+        "square": {
+          "symbolism": "stability_matter",
+          "magical_uses": ["grounding", "manifestation", "protection"],
+          "ritual_applications": ["foundation_work", "material_magic", "stability"]
+        },
+        "pentagon": {
+          "symbolism": "life_nature",
+          "magical_uses": ["life_force", "growth", "healing"],
+          "ritual_applications": ["healing_work", "nature_magic", "life_enhancement"]
+        },
+        "hexagon": {
+          "symbolism": "harmony_balance",
+          "magical_uses": ["integration", "balance", "communication"],
+          "ritual_applications": ["harmonizing", "balancing", "connecting"]
+        },
+        "heptagon": {
+          "symbolism": "mystical_completion",
+          "magical_uses": ["spiritual_work", "mystery", "initiation"],
+          "ritual_applications": ["mystical_rituals", "planetary_work", "initiation"]
+        },
+        "octagon": {
+          "symbolism": "regeneration_renewal",
+          "magical_uses": ["regeneration", "transition", "new_beginnings"],
+          "ritual_applications": ["regenerative_magic", "transitional_work", "renewal"]
+        }
+      },
+      "sacred_ratios": {
+        "phi": {
+          "value": 1.618033988749895,
+          "symbolism": "divine_proportion",
+          "applications": ["sacred_architecture", "natural_growth", "beauty"],
+          "magical_uses": ["harmony", "beauty", "natural_magic"]
+        },
+        "pi": {
+          "value": 3.141592653589793,
+          "symbolism": "cosmic_cycles",
+          "applications": ["circle_magic", "cyclic_phenomena", "wholeness"],
+          "magical_uses": ["completion", "cycles", "unity"]
+        },
+        "square_root_2": {
+          "value": 1.4142135623730951,
+          "symbolism": "dynamic_growth",
+          "applications": ["sacred_geometry", "growth_patterns", "expansion"],
+          "magical_uses": ["expansion", "growth", "development"]
+        },
+        "square_root_3": {
+          "value": 1.7320508075688772,
+          "symbolism": "divine_harmony",
+          "applications": ["triangular_geometry", "harmonic_resonance", "balance"],
+          "magical_uses": ["harmony", "resonance", "balance"]
+        }
+      },
+      "geometric_progressions": {
+        "fibonacci_sequence": {
+          "pattern": [1, 1, 2, 3, 5, 8, 13, 21],
+          "symbolism": "natural_growth",
+          "applications": ["growth_magic", "natural_harmony", "progressive_development"],
+          "magical_uses": ["organic_growth", "natural_magic", "evolutionary_work"]
+        },
+        "geometric_series": {
+          "pattern": "multiplication_by_constant",
+          "symbolism": "exponential_growth",
+          "applications": ["power_increase", "magical_amplification", "force_multiplication"],
+          "magical_uses": ["power_work", "amplification", "multiplication"]
+        }
+      }
+    }
+  }
+} 

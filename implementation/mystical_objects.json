@@ -1,0 +1,181 @@
+{
+  "mystical_objects": {
+    "ritual_tools": {
+      "wand": {
+        "element": "fire",
+        "purpose": "directing energy",
+        "materials": ["wood", "crystal", "metal"],
+        "consecration": {
+          "method": "fire_purification",
+          "divine_names": ["ORO IBAH AOZPI"],
+          "timing": "sunrise_or_noon"
+        },
+        "game_mechanics": {
+          "uses": ["spell_casting", "energy_direction", "invocation"],
+          "power_levels": ["basic", "enhanced", "masterwork"],
+          "effects": ["increased_power", "precise_control", "elemental_attunement"]
+        }
+      },
+      "cup": {
+        "element": "water",
+        "purpose": "containing essence",
+        "materials": ["silver", "crystal", "ceramic"],
+        "consecration": {
+          "method": "water_blessing",
+          "divine_names": ["MPH ARSL GAIOL"],
+          "timing": "sunset_or_full_moon"
+        },
+        "game_mechanics": {
+          "uses": ["potion_crafting", "scrying", "blessing"],
+          "power_levels": ["basic", "enhanced", "masterwork"],
+          "effects": ["emotional_insight", "healing_power", "psychic_reception"]
+        }
+      },
+      "dagger": {
+        "element": "air",
+        "purpose": "banishing_and_dividing",
+        "materials": ["steel", "bronze", "iron"],
+        "consecration": {
+          "method": "air_purification",
+          "divine_names": ["ORO IBAH AOZPI"],
+          "timing": "dawn_or_new_moon"
+        },
+        "game_mechanics": {
+          "uses": ["banishing", "protection", "air_magic"],
+          "power_levels": ["basic", "enhanced", "masterwork"],
+          "effects": ["mental_clarity", "protective_barrier", "swift_action"]
+        }
+      },
+      "pentacle": {
+        "element": "earth",
+        "purpose": "manifestation_and_protection",
+        "materials": ["wood", "metal", "stone"],
+        "consecration": {
+          "method": "earth_blessing",
+          "divine_names": ["MOR DIAL HCTGA"],
+          "timing": "midnight_or_solstice"
+        },
+        "game_mechanics": {
+          "uses": ["grounding", "protection", "manifestation"],
+          "power_levels": ["basic", "enhanced", "masterwork"],
+          "effects": ["stability", "material_power", "defensive_strength"]
+        }
+      }
+    },
+    "divination_tools": {
+      "crystal_ball": {
+        "purpose": "scrying_and_vision",
+        "materials": ["quartz", "beryl", "obsidian"],
+        "attunement": {
+          "method": "lunar_charging",
+          "duration": "full_moon_cycle"
+        },
+        "game_mechanics": {
+          "uses": ["future_sight", "remote_viewing", "spirit_contact"],
+          "skill_levels": ["beginner", "adept", "master"],
+          "vision_types": ["symbolic", "literal", "interactive"]
+        }
+      },
+      "tarot_deck": {
+        "purpose": "divination_and_meditation",
+        "variants": ["standard", "enochian", "elemental"],
+        "attunement": {
+          "method": "personal_energy",
+          "duration": "daily_use"
+        },
+        "game_mechanics": {
+          "uses": ["guidance", "insight", "prophecy"],
+          "reading_types": ["single", "three_card", "celtic_cross"],
+          "interpretation_levels": ["mundane", "spiritual", "cosmic"]
+        }
+      },
+      "enochian_chess": {
+        "purpose": "strategic_divination",
+        "components": {
+          "boards": ["fire", "water", "air", "earth"],
+          "pieces": ["king", "queen", "bishop", "knight", "rook", "pawn"]
+        },
+        "game_mechanics": {
+          "uses": ["divination", "meditation", "spiritual_combat"],
+          "modes": ["physical", "astral", "divine"],
+          "outcomes": ["prophecy", "guidance", "power"]
+        }
+      }
+    },
+    "magical_implements": {
+      "ring": {
+        "purpose": "authority_and_protection",
+        "materials": ["gold", "silver", "electrum"],
+        "inscriptions": ["divine_names", "sigils", "words_of_power"],
+        "game_mechanics": {
+          "uses": ["authority", "protection", "power_focus"],
+          "activation_methods": ["will", "word", "gesture"],
+          "effects": ["enhanced_authority", "protective_shield", "power_boost"]
+        }
+      },
+      "robe": {
+        "purpose": "ceremonial_garment",
+        "colors": {
+          "white": "purity",
+          "black": "banishing",
+          "purple": "power"
+        },
+        "game_mechanics": {
+          "uses": ["ritual_power", "protection", "status"],
+          "enhancements": ["sigils", "embroidery", "gems"],
+          "effects": ["magical_protection", "power_enhancement", "ritual_focus"]
+        }
+      },
+      "lamp": {
+        "purpose": "illumination_and_guidance",
+        "materials": ["brass", "silver", "crystal"],
+        "game_mechanics": {
+          "uses": ["spiritual_light", "guidance", "revelation"],
+          "power_sources": ["oil", "candle", "eternal_flame"],
+          "effects": ["truth_revelation", "path_showing", "spirit_attraction"]
+        }
+      }
+    },
+    "consumable_items": {
+      "incense": {
+        "purpose": "purification_and_offering",
+        "types": {
+          "frankincense": "purification",
+          "myrrh": "protection",
+          "sandalwood": "spirituality"
+        },
+        "game_mechanics": {
+          "uses": ["ritual_enhancement", "spirit_offering", "space_clearing"],
+          "duration": "ritual_length",
+          "effects": ["increased_power", "spirit_attraction", "purification"]
+        }
+      },
+      "oils": {
+        "purpose": "consecration_and_blessing",
+        "types": {
+          "holy": "consecration",
+          "elemental": "attunement",
+          "planetary": "influence"
+        },
+        "game_mechanics": {
+          "uses": ["tool_consecration", "blessing", "anointing"],
+          "duration": "until_cleansed",
+          "effects": ["enhanced_power", "specific_influence", "protection"]
+        }
+      },
+      "herbs": {
+        "purpose": "magical_ingredients",
+        "categories": {
+          "protective": ["sage", "rosemary", "bay"],
+          "visionary": ["mugwort", "wormwood", "damiana"],
+          "power": ["dragon's blood", "high john", "galangal"]
+        },
+        "game_mechanics": {
+          "uses": ["spells", "incense", "talismans"],
+          "preparation": ["whole", "powdered", "extracted"],
+          "effects": ["specific_magical_properties", "power_enhancement", "spirit_attraction"]
+        }
+      }
+    }
+  }
+} 

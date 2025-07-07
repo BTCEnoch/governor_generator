@@ -1,0 +1,173 @@
+{
+  "correspondence_system": {
+    "elemental": {
+      "fire": {
+        "direction": "south",
+        "season": "summer",
+        "time": "noon",
+        "tool": "wand",
+        "color": "red",
+        "qualities": ["transformative", "energetic", "purifying"],
+        "governors": {
+          "attributes": ["passionate", "inspiring", "dynamic"],
+          "domains": ["transformation", "will", "inspiration"]
+        }
+      },
+      "water": {
+        "direction": "west",
+        "season": "autumn",
+        "time": "sunset",
+        "tool": "cup",
+        "color": "blue",
+        "qualities": ["flowing", "cleansing", "intuitive"],
+        "governors": {
+          "attributes": ["empathic", "healing", "receptive"],
+          "domains": ["emotion", "healing", "divination"]
+        }
+      },
+      "air": {
+        "direction": "east",
+        "season": "spring",
+        "time": "dawn",
+        "tool": "dagger",
+        "color": "yellow",
+        "qualities": ["intellectual", "communicative", "swift"],
+        "governors": {
+          "attributes": ["analytical", "communicative", "strategic"],
+          "domains": ["knowledge", "communication", "movement"]
+        }
+      },
+      "earth": {
+        "direction": "north",
+        "season": "winter",
+        "time": "midnight",
+        "tool": "pentacle",
+        "color": "green",
+        "qualities": ["stable", "nurturing", "manifesting"],
+        "governors": {
+          "attributes": ["grounding", "practical", "reliable"],
+          "domains": ["manifestation", "abundance", "protection"]
+        }
+      }
+    },
+    "planetary": {
+      "sun": {
+        "day": "sunday",
+        "metal": "gold",
+        "energy": "vital force",
+        "governors": {
+          "attributes": ["illuminating", "life-giving", "central"],
+          "domains": ["vitality", "authority", "enlightenment"]
+        }
+      },
+      "moon": {
+        "day": "monday",
+        "metal": "silver",
+        "energy": "reflection",
+        "governors": {
+          "attributes": ["intuitive", "cyclical", "nurturing"],
+          "domains": ["cycles", "mystery", "subconscious"]
+        }
+      },
+      "mars": {
+        "day": "tuesday",
+        "metal": "iron",
+        "energy": "force",
+        "governors": {
+          "attributes": ["courageous", "assertive", "protective"],
+          "domains": ["strength", "protection", "victory"]
+        }
+      },
+      "mercury": {
+        "day": "wednesday",
+        "metal": "mercury",
+        "energy": "communication",
+        "governors": {
+          "attributes": ["intelligent", "adaptable", "expressive"],
+          "domains": ["knowledge", "skill", "communication"]
+        }
+      },
+      "jupiter": {
+        "day": "thursday",
+        "metal": "tin",
+        "energy": "expansion",
+        "governors": {
+          "attributes": ["wise", "generous", "expansive"],
+          "domains": ["growth", "abundance", "wisdom"]
+        }
+      },
+      "venus": {
+        "day": "friday",
+        "metal": "copper",
+        "energy": "harmony",
+        "governors": {
+          "attributes": ["harmonious", "artistic", "loving"],
+          "domains": ["love", "beauty", "art"]
+        }
+      },
+      "saturn": {
+        "day": "saturday",
+        "metal": "lead",
+        "energy": "structure",
+        "governors": {
+          "attributes": ["disciplined", "structured", "enduring"],
+          "domains": ["time", "karma", "foundations"]
+        }
+      }
+    },
+    "aethyric": {
+      "celestial": {
+        "realm": "heavenly",
+        "energy": "divine light",
+        "governors": {
+          "attributes": ["illuminated", "transcendent", "divine"],
+          "domains": ["revelation", "transcendence", "unity"]
+        }
+      },
+      "mental": {
+        "realm": "intellectual",
+        "energy": "thought forms",
+        "governors": {
+          "attributes": ["analytical", "conceptual", "abstract"],
+          "domains": ["knowledge", "understanding", "wisdom"]
+        }
+      },
+      "astral": {
+        "realm": "emotional",
+        "energy": "desire force",
+        "governors": {
+          "attributes": ["imaginative", "emotional", "visionary"],
+          "domains": ["dreams", "visions", "desires"]
+        }
+      },
+      "etheric": {
+        "realm": "vital",
+        "energy": "life force",
+        "governors": {
+          "attributes": ["energetic", "vitalizing", "formative"],
+          "domains": ["health", "vitality", "manifestation"]
+        }
+      }
+    },
+    "integration_rules": {
+      "elemental_combinations": {
+        "fire_air": "inspiration and intellect",
+        "water_earth": "manifestation and flow",
+        "fire_water": "transformative emotion",
+        "air_earth": "practical knowledge"
+      },
+      "planetary_aspects": {
+        "conjunction": "unified force",
+        "opposition": "dynamic tension",
+        "trine": "harmonious flow",
+        "square": "challenging growth"
+      },
+      "realm_interactions": {
+        "celestial_mental": "divine understanding",
+        "mental_astral": "inspired vision",
+        "astral_etheric": "manifesting dreams",
+        "etheric_physical": "embodied power"
+      }
+    }
+  }
+} 

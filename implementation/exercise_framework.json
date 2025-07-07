@@ -1,0 +1,82 @@
+{
+  "exercise_framework": {
+    "basic_practices": {
+      "meditation": {
+        "levels": ["centering", "energy_work", "advanced_states"],
+        "progression_metrics": {
+          "focus_duration": "minutes",
+          "energy_sensitivity": "scale_1_10",
+          "state_depth": "scale_1_10"
+        },
+        "implementation": {
+          "game_mechanics": ["meditation_minigame", "energy_visualization", "state_tracking"],
+          "rewards": ["increased_focus", "enhanced_perception", "deeper_insights"]
+        }
+      },
+      "sacred_space": {
+        "components": ["circle_casting", "elemental_quarters", "divine_names"],
+        "implementation": {
+          "game_mechanics": ["space_creation_interface", "protection_mechanics", "power_amplification"],
+          "validation_checks": ["proper_sequence", "correct_names", "element_balance"]
+        }
+      },
+      "ritual_structure": {
+        "phases": ["preparation", "invocation", "working", "closing"],
+        "requirements": {
+          "tools": ["wand", "cup", "dagger", "pentacle"],
+          "correspondences": ["elements", "planets", "divine_names"]
+        }
+      }
+    },
+    "advanced_practices": {
+      "divination": {
+        "systems": {
+          "skrying": {
+            "methods": ["crystal_gazing", "dark_mirror", "elemental_reflection"],
+            "progression": ["symbols", "scenes", "interactive_visions"]
+          },
+          "enochian_chess": {
+            "boards": ["earth", "water", "air", "fire"],
+            "piece_correspondences": {
+              "king": "elemental_ruler",
+              "queen": "elemental_power",
+              "bishop": "elemental_messenger",
+              "knight": "elemental_force",
+              "rook": "elemental_guardian",
+              "pawn": "elemental_essence"
+            }
+          },
+          "tarot": {
+            "decks": ["standard", "enochian", "elemental"],
+            "reading_types": ["single_card", "three_card", "celtic_cross"],
+            "interpretation_layers": ["mundane", "spiritual", "cosmic"]
+          }
+        }
+      },
+      "high_magic": {
+        "angelic_invocation": {
+          "preparation": ["purification", "consecration", "circle_casting"],
+          "execution": ["divine_names", "calls", "gestures"],
+          "communion": ["reception", "conversation", "dismissal"]
+        },
+        "arcane_physics": {
+          "principles": ["correspondence", "vibration", "polarity"],
+          "applications": ["sigil_creation", "energy_manipulation", "reality_modification"],
+          "measurements": ["power_level", "harmony_rating", "effectiveness_score"]
+        }
+      }
+    },
+    "integration_system": {
+      "governor_attributes": {
+        "power_sources": ["elemental", "planetary", "divine"],
+        "skill_tracks": ["ritual", "divination", "invocation"],
+        "wisdom_paths": ["hermetic", "enochian", "practical"]
+      },
+      "progression_tracking": {
+        "metrics": ["experience", "mastery", "insight"],
+        "achievements": ["ritual_completion", "vision_accuracy", "angelic_contact"],
+        "rewards": ["new_abilities", "enhanced_powers", "deeper_understanding"]
+      }
+    }
+  }
+} 

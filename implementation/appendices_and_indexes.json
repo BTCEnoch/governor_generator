@@ -1,0 +1,168 @@
+{
+  "appendices_and_indexes": {
+    "workbook_appendices": {
+      "magical_tools": {
+        "ritual_implements": {
+          "wand": {
+            "materials": ["oak", "almond", "ash"],
+            "consecration": ["fire_ritual", "solar_timing", "divine_names"],
+            "uses": ["directing_energy", "invoking", "banishing"]
+          },
+          "cup": {
+            "materials": ["silver", "crystal", "ceramic"],
+            "consecration": ["water_ritual", "lunar_timing", "purification"],
+            "uses": ["containing", "reflecting", "transforming"]
+          }
+        },
+        "temple_furniture": {
+          "altar": {
+            "placement": ["center", "east", "variable"],
+            "construction": ["double_cube", "pillared", "portable"],
+            "uses": ["focus_point", "power_center", "offering_place"]
+          },
+          "pillars": {
+            "types": ["black", "white", "middle"],
+            "symbolism": ["severity", "mercy", "balance"],
+            "placement": ["temple_entrance", "altar_sides"]
+          }
+        }
+      },
+      "divine_names": {
+        "hebrew": {
+          "tetragrammaton": {
+            "letters": ["yod", "heh", "vav", "heh"],
+            "elements": ["fire", "water", "air", "earth"],
+            "uses": ["highest_invocation", "divine_authority", "creation"]
+          },
+          "elohim": {
+            "meaning": "divine_powers",
+            "uses": ["nature_forces", "manifestation", "judgment"],
+            "variations": ["elohim_gibor", "elohim_tzabaoth"]
+          }
+        },
+        "enochian": {
+          "divine_names": {
+            "elements": ["oro_ibah_aozpi", "mph_arsl_gaiol", "oip_teaa_pdoce"],
+            "uses": ["elemental_control", "spirit_communication", "power_raising"],
+            "correspondences": ["fire", "water", "air"]
+          },
+          "angelic_names": {
+            "hierarchies": ["kings", "seniors", "angels"],
+            "functions": ["ruling", "wisdom", "execution"],
+            "invocation_methods": ["calls", "sigils", "tablets"]
+          }
+        }
+      }
+    },
+    "reference_indexes": {
+      "symbols": {
+        "elemental": {
+          "fire": {
+            "signs": ["triangle_upward", "salamander", "phoenix"],
+            "colors": ["red", "orange", "gold"],
+            "tools": ["wand", "dagger", "lamp"]
+          },
+          "water": {
+            "signs": ["triangle_downward", "undine", "dolphin"],
+            "colors": ["blue", "sea_green", "silver"],
+            "tools": ["cup", "mirror", "shell"]
+          }
+        },
+        "planetary": {
+          "sun": {
+            "signs": ["circle_dot", "hexagram", "crown"],
+            "colors": ["gold", "yellow", "orange"],
+            "metals": ["gold", "brass"]
+          },
+          "moon": {
+            "signs": ["crescent", "silver_disc", "chalice"],
+            "colors": ["silver", "white", "pearl"],
+            "metals": ["silver", "moonstone"]
+          }
+        }
+      },
+      "correspondences": {
+        "elements": {
+          "fire": {
+            "direction": "south",
+            "season": "summer",
+            "time": "noon",
+            "archangel": "michael"
+          },
+          "water": {
+            "direction": "west",
+            "season": "autumn",
+            "time": "sunset",
+            "archangel": "gabriel"
+          }
+        },
+        "planets": {
+          "sun": {
+            "day": "sunday",
+            "metal": "gold",
+            "number": 6,
+            "archangel": "michael"
+          },
+          "moon": {
+            "day": "monday",
+            "metal": "silver",
+            "number": 9,
+            "archangel": "gabriel"
+          }
+        }
+      }
+    },
+    "practical_guides": {
+      "ritual_construction": {
+        "circle_casting": {
+          "methods": ["lesser_banishing", "greater_invoking", "supreme"],
+          "components": ["quarters", "pentagrams", "divine_names"],
+          "variations": ["elemental", "planetary", "zodiacal"]
+        },
+        "invocation": {
+          "methods": ["divine_names", "barbarous_words", "vibration"],
+          "structures": ["hierarchical", "direct", "intermediary"],
+          "power_levels": ["lesser", "greater", "supreme"]
+        }
+      },
+      "magical_timing": {
+        "planetary_hours": {
+          "calculation": ["sunrise_method", "fixed_time", "true_position"],
+          "applications": ["ritual_timing", "talisman_creation", "invocation"],
+          "tables": ["daily", "weekly", "monthly"]
+        },
+        "moon_phases": {
+          "phases": ["new", "waxing", "full", "waning"],
+          "operations": ["beginning", "increase", "culmination", "decrease"],
+          "timing_tables": ["monthly", "yearly", "metonic"]
+        }
+      }
+    },
+    "cross_references": {
+      "traditions": {
+        "golden_dawn": {
+          "grade_system": ["neophyte", "zelator", "theoricus"],
+          "ritual_series": ["elemental", "planetary", "zodiacal"],
+          "knowledge_lectures": ["theoretical", "practical", "mystical"]
+        },
+        "thelema": {
+          "classes": ["probationer", "neophyte", "zelator"],
+          "practices": ["star_ruby", "reguli", "samekh"],
+          "systems": ["qabalah", "tarot", "astrology"]
+        }
+      },
+      "systems": {
+        "qabalah": {
+          "trees": ["life", "knowledge", "daath"],
+          "worlds": ["atziluth", "briah", "yetzirah", "assiah"],
+          "paths": ["hebrew_letters", "tarot_trumps", "astrological"]
+        },
+        "alchemy": {
+          "stages": ["nigredo", "albedo", "rubedo"],
+          "processes": ["calcination", "dissolution", "separation"],
+          "materials": ["metals", "minerals", "essences"]
+        }
+      }
+    }
+  }
+} 

@@ -1,0 +1,136 @@
+{
+  "format_version": "1.0",
+  "field_descriptions": {
+    "dimensional_manifestation": {
+      "purpose": "Defines how the governor manifests across different dimensional planes",
+      "parameters": {
+        "base_form": "Primary physical/etheric appearance",
+        "form_description": "Detailed description of appearance",
+        "dimensional_variations": "How form changes across etheric/astral/mental/causal planes",
+        "transition_effects": "Visual effects during plane transitions",
+        "constant_elements": "Features that remain consistent across all manifestations"
+      }
+    },
+    "color_scheme": {
+      "purpose": "Core colors associated with the governor's energy signature",
+      "parameters": "Single color or color combination (e.g. prismatic, golden, azure)"
+    },
+    "geometry_patterns": {
+      "purpose": "Sacred geometric forms in the governor's manifestation",
+      "parameters": "List of geometric patterns (e.g. merkaba, torus, dodecahedron)"
+    },
+    "environmental_effects": {
+      "purpose": "How the governor's presence affects the surrounding environment",
+      "parameters": {
+        "primary_effect": "Main environmental change",
+        "radius": "Effect range in meters",
+        "duration": "How long effects last",
+        "intensity": "Effect strength (subtle/moderate/powerful)",
+        "secondary_effects": "Additional environmental changes"
+      }
+    },
+    "time_variations": {
+      "purpose": "How manifestation changes with time and celestial influences",
+      "parameters": {
+        "astrological_influences": "Celestial bodies affecting manifestation",
+        "cycle_description": "Pattern of manifestation changes",
+        "peak_manifestation": "Strongest form of manifestation",
+        "dormant_manifestation": "Minimal form of manifestation"
+      }
+    },
+    "energy_signature": {
+      "purpose": "Energetic characteristics of the governor's presence",
+      "parameters": {
+        "frequency": "Vibrational frequency in etheric spectrum",
+        "polarity": "Energy polarity alignment",
+        "intensity": "Power level as percentage of maximum",
+        "special_properties": "Unique energy characteristics"
+      }
+    },
+    "symbol_set": {
+      "purpose": "Sacred symbols and markings associated with the governor",
+      "parameters": {
+        "sigils": "Power-focusing symbols",
+        "emblems": "Authority and office symbols",
+        "seals": "Binding and protection marks",
+        "scripts": "Sacred writing systems"
+      }
+    },
+    "light_shadow": {
+      "purpose": "Interaction with light and shadow forces",
+      "parameters": {
+        "light_expression": "How light manifests through the governor",
+        "shadow_interaction": "How shadows respond to presence",
+        "balance_point": "Equilibrium between light and shadow",
+        "special_effects": "Unique light/shadow phenomena"
+      }
+    },
+    "scale_description": {
+      "purpose": "Size and scale of manifestation",
+      "parameters": "Base scale reference (e.g. human, building, mountain)"
+    },
+    "scale_variations": {
+      "purpose": "How size changes across different planes",
+      "parameters": {
+        "physical": "Size in physical plane",
+        "etheric": "Size in etheric plane",
+        "astral": "Size in astral plane",
+        "mental": "Size in mental plane"
+      }
+    },
+    "special_properties": {
+      "purpose": "Unique manifestation characteristics",
+      "parameters": "List of special features not covered by other fields"
+    },
+    "manifestation_triggers": {
+      "purpose": "What causes the governor to manifest",
+      "parameters": "List of conditions that trigger manifestation"
+    },
+    "observer_effects": {
+      "purpose": "How different observers perceive the governor",
+      "parameters": "Description of perception variations based on observer"
+    }
+  },
+  "questions": [
+    {
+      "id": "Q1_BASE_FORM",
+      "category": "dimensional_manifestation",
+      "question": "What is your primary form of manifestation in the etheric plane? Consider your essence, element, and angelic role in describing your base appearance.",
+      "field": "dimensional_manifestation.base_form",
+      "required_traits": ["essence", "element", "angelic_role"],
+      "validation_rules": ["must_reference_element", "must_reflect_essence"]
+    },
+    {
+      "id": "Q2_DIMENSIONAL_VARIATIONS",
+      "category": "dimensional_manifestation",
+      "question": "How does your form change as you manifest across the etheric, astral, mental, and causal planes? What aspects remain constant?",
+      "field": "dimensional_manifestation.dimensional_variations",
+      "required_traits": ["essence", "archetypal_correspondences"],
+      "validation_rules": ["must_cover_all_planes", "must_identify_constants"]
+    },
+    {
+      "id": "Q3_ENERGY_SIGNATURE",
+      "category": "energy",
+      "question": "Describe your energy signature's frequency, polarity, and intensity. How does this relate to your role and essence?",
+      "field": "energy_signature",
+      "required_traits": ["essence", "polar_traits"],
+      "validation_rules": ["must_specify_frequency", "must_match_polarity"]
+    },
+    {
+      "id": "Q4_ENVIRONMENTAL_IMPACT",
+      "category": "environment",
+      "question": "How does your presence affect the surrounding environment? What is the range and intensity of these effects?",
+      "field": "environmental_effects",
+      "required_traits": ["element", "essence"],
+      "validation_rules": ["must_specify_range", "must_describe_effects"]
+    },
+    {
+      "id": "Q5_SACRED_SYMBOLS",
+      "category": "symbols",
+      "question": "What sacred symbols, seals, and scripts are associated with your office? How do they represent your authority and power?",
+      "field": "symbol_set",
+      "required_traits": ["angelic_role", "knowledge_base"],
+      "validation_rules": ["must_include_all_symbol_types", "must_explain_significance"]
+    }
+  ]
+} 

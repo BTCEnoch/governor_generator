@@ -1,0 +1,179 @@
+{
+  "tap_protocol_capabilities": {
+    "hypertoken_types": {
+      "quest_tokens": {
+        "attributes": {
+          "mutable": [
+            "completion_status",
+            "current_stage",
+            "player_progress",
+            "wisdom_gained"
+          ],
+          "immutable": [
+            "quest_id",
+            "creator_governor",
+            "difficulty_level",
+            "quest_type"
+          ]
+        },
+        "state_transitions": {
+          "allowed": [
+            "inactive_to_active",
+            "active_to_completed",
+            "active_to_failed",
+            "failed_to_retry"
+          ],
+          "restricted": [
+            "completed_to_inactive",
+            "failed_to_completed"
+          ]
+        }
+      },
+      "wisdom_tokens": {
+        "attributes": {
+          "mutable": [
+            "wisdom_level",
+            "unlocked_teachings",
+            "mastery_progress"
+          ],
+          "immutable": [
+            "wisdom_type",
+            "source_governor",
+            "creation_block"
+          ]
+        },
+        "accumulation_rules": {
+          "methods": [
+            "quest_completion",
+            "challenge_success",
+            "governor_teaching"
+          ],
+          "limits": {
+            "per_block": 100,
+            "per_quest": 1000,
+            "total_cap": 100000
+          }
+        }
+      },
+      "artifact_tokens": {
+        "attributes": {
+          "mutable": [
+            "power_level",
+            "activation_status",
+            "bound_to_player"
+          ],
+          "immutable": [
+            "artifact_type",
+            "creation_governor",
+            "rarity_level"
+          ]
+        },
+        "usage_rules": {
+          "activation_conditions": [
+            "wisdom_threshold",
+            "quest_completion",
+            "governor_permission"
+          ],
+          "transfer_restrictions": [
+            "bound_to_player",
+            "governor_approved",
+            "wisdom_required"
+          ]
+        }
+      }
+    },
+    "trac_indexing": {
+      "trackable_events": {
+        "quest_events": [
+          "quest_start",
+          "stage_completion",
+          "wisdom_gain",
+          "challenge_attempt"
+        ],
+        "governor_events": [
+          "teaching_session",
+          "artifact_creation",
+          "wisdom_transfer"
+        ],
+        "player_events": [
+          "token_acquisition",
+          "wisdom_level_up",
+          "artifact_activation"
+        ]
+      },
+      "state_tracking": {
+        "quest_states": [
+          "not_started",
+          "in_progress",
+          "completed",
+          "failed"
+        ],
+        "wisdom_states": [
+          "locked",
+          "unlocked",
+          "mastered"
+        ],
+        "artifact_states": [
+          "dormant",
+          "active",
+          "bound"
+        ]
+      }
+    },
+    "contract_limitations": {
+      "storage_limits": {
+        "quest_data": 1024,
+        "wisdom_data": 512,
+        "artifact_data": 768
+      },
+      "transaction_limits": {
+        "max_state_changes": 5,
+        "max_token_transfers": 3,
+        "max_events_per_tx": 10
+      },
+      "rate_limits": {
+        "quests_per_block": 10,
+        "wisdom_transfers_per_block": 20,
+        "artifact_creations_per_day": 100
+      }
+    },
+    "governor_permissions": {
+      "quest_creation": {
+        "allowed": [
+          "define_stages",
+          "set_rewards",
+          "specify_requirements"
+        ],
+        "restricted": [
+          "modify_active_quest",
+          "change_completion_status",
+          "alter_rewards"
+        ]
+      },
+      "wisdom_management": {
+        "allowed": [
+          "teach_wisdom",
+          "verify_mastery",
+          "grant_tokens"
+        ],
+        "restricted": [
+          "modify_player_wisdom",
+          "remove_wisdom",
+          "bypass_requirements"
+        ]
+      },
+      "artifact_control": {
+        "allowed": [
+          "create_artifact",
+          "set_activation_rules",
+          "bind_to_player"
+        ],
+        "restricted": [
+          "modify_bound_artifact",
+          "override_restrictions",
+          "force_activation"
+        ]
+      }
+    }
+  }
+} 

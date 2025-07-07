@@ -1,0 +1,173 @@
+{
+  "ritual_systems": {
+    "circle_casting": {
+      "components": {
+        "physical_circle": {
+          "methods": ["salt", "cord", "chalk", "visualization"],
+          "purpose": "create_sacred_space",
+          "energetic_qualities": ["protection", "containment", "focus"]
+        },
+        "quarter_calls": {
+          "east": {
+            "element": "air",
+            "guardian_type": "sylphs",
+            "invocation_focus": "mental_clarity"
+          },
+          "south": {
+            "element": "fire",
+            "guardian_type": "salamanders",
+            "invocation_focus": "transformation"
+          },
+          "west": {
+            "element": "water",
+            "guardian_type": "undines",
+            "invocation_focus": "emotion"
+          },
+          "north": {
+            "element": "earth",
+            "guardian_type": "gnomes",
+            "invocation_focus": "manifestation"
+          }
+        },
+        "center_point": {
+          "element": "spirit",
+          "purpose": "divine_connection",
+          "energetic_qualities": ["balance", "integration", "transcendence"]
+        }
+      },
+      "ritual_tools": {
+        "sword": {
+          "element": "air",
+          "purpose": "banishing",
+          "magical_correspondences": ["clarity", "protection", "boundaries"]
+        },
+        "wand": {
+          "element": "fire",
+          "purpose": "directing_energy",
+          "magical_correspondences": ["will", "transformation", "power"]
+        },
+        "cup": {
+          "element": "water",
+          "purpose": "containing_energy",
+          "magical_correspondences": ["emotion", "healing", "intuition"]
+        },
+        "pentacle": {
+          "element": "earth",
+          "purpose": "manifestation",
+          "magical_correspondences": ["grounding", "protection", "abundance"]
+        }
+      }
+    },
+    "ceremonial_structures": {
+      "opening_sequence": {
+        "steps": [
+          {
+            "name": "purification",
+            "methods": ["smudging", "asperging", "blessing"],
+            "purpose": "cleanse_space_and_participants"
+          },
+          {
+            "name": "grounding",
+            "methods": ["meditation", "visualization", "earthing"],
+            "purpose": "establish_stability"
+          },
+          {
+            "name": "circle_casting",
+            "methods": ["traditional", "elemental", "planetary"],
+            "purpose": "create_sacred_space"
+          },
+          {
+            "name": "invocation",
+            "methods": ["deity", "element", "force"],
+            "purpose": "establish_divine_connection"
+          }
+        ]
+      },
+      "main_working": {
+        "components": [
+          {
+            "name": "energy_raising",
+            "methods": ["chanting", "movement", "visualization"],
+            "purpose": "build_magical_power"
+          },
+          {
+            "name": "directing",
+            "methods": ["gesture", "tools", "words"],
+            "purpose": "focus_energy_to_purpose"
+          },
+          {
+            "name": "grounding_excess",
+            "methods": ["earthing", "dispersion", "absorption"],
+            "purpose": "stabilize_energies"
+          }
+        ]
+      },
+      "closing_sequence": {
+        "steps": [
+          {
+            "name": "thanksgiving",
+            "methods": ["gratitude", "offering", "acknowledgment"],
+            "purpose": "honor_spiritual_forces"
+          },
+          {
+            "name": "dismissal",
+            "methods": ["formal", "elemental", "simple"],
+            "purpose": "release_energies"
+          },
+          {
+            "name": "grounding",
+            "methods": ["meditation", "eating", "touching_earth"],
+            "purpose": "return_to_normal"
+          }
+        ]
+      }
+    },
+    "magical_timing": {
+      "lunar_phases": {
+        "new_moon": {
+          "energy": "beginnings",
+          "magical_uses": ["new_projects", "setting_intentions", "banishing"]
+        },
+        "waxing_moon": {
+          "energy": "increase",
+          "magical_uses": ["growth", "attraction", "enhancement"]
+        },
+        "full_moon": {
+          "energy": "culmination",
+          "magical_uses": ["manifestation", "charging", "completion"]
+        },
+        "waning_moon": {
+          "energy": "decrease",
+          "magical_uses": ["banishing", "release", "ending"]
+        }
+      },
+      "planetary_hours": {
+        "calculation": "divide_day_and_night_into_12_parts",
+        "purpose": "optimize_magical_timing",
+        "applications": ["ritual_timing", "spell_work", "meditation"]
+      },
+      "seasonal_points": {
+        "solstices": {
+          "summer": {
+            "energy": "maximum_light",
+            "magical_uses": ["abundance", "fulfillment", "celebration"]
+          },
+          "winter": {
+            "energy": "maximum_dark",
+            "magical_uses": ["introspection", "rest", "planning"]
+          }
+        },
+        "equinoxes": {
+          "spring": {
+            "energy": "balance_increasing_light",
+            "magical_uses": ["new_beginnings", "growth", "renewal"]
+          },
+          "autumn": {
+            "energy": "balance_increasing_dark",
+            "magical_uses": ["harvest", "completion", "preparation"]
+          }
+        }
+      }
+    }
+  }
+} 

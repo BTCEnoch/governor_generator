@@ -1,0 +1,93 @@
+{
+  "relationship_types": {
+    "hierarchical": {
+      "superior": ["teacher", "guardian", "master"],
+      "peer": ["ally", "counterpart", "mirror"],
+      "subordinate": ["student", "messenger", "assistant"]
+    },
+    "oppositional": {
+      "direct": ["opponent", "challenger", "rival"],
+      "indirect": ["counterbalance", "complement", "inverse"]
+    },
+    "collaborative": {
+      "active": ["partner", "amplifier", "catalyst"],
+      "passive": ["resonator", "harmonizer", "stabilizer"]
+    }
+  },
+  "interaction_rules": {
+    "power_dynamics": {
+      "superior_to_subordinate": {
+        "primary_actions": ["teach", "protect", "guide"],
+        "secondary_actions": ["transform", "reveal", "enhance"],
+        "restricted_actions": ["bind", "diminish"]
+      },
+      "peer_to_peer": {
+        "primary_actions": ["ally", "harmonize", "exchange"],
+        "secondary_actions": ["challenge", "balance", "mirror"],
+        "restricted_actions": ["dominate", "suppress"]
+      },
+      "subordinate_to_superior": {
+        "primary_actions": ["learn", "assist", "channel"],
+        "secondary_actions": ["support", "amplify", "relay"],
+        "restricted_actions": ["override", "bind"]
+      }
+    },
+    "energy_flows": {
+      "complementary": {
+        "effects": ["amplification", "resonance", "harmony"],
+        "strength_modifier": 1.5
+      },
+      "opposing": {
+        "effects": ["nullification", "transformation", "breakthrough"],
+        "strength_modifier": 0.7
+      },
+      "neutral": {
+        "effects": ["exchange", "balance", "stabilization"],
+        "strength_modifier": 1.0
+      }
+    }
+  },
+  "relationship_states": {
+    "active_states": {
+      "harmonious": {
+        "effects": ["enhanced_power", "mutual_growth"],
+        "duration": "sustained",
+        "transition_triggers": ["conflict", "betrayal"]
+      },
+      "conflicting": {
+        "effects": ["power_struggle", "forced_growth"],
+        "duration": "temporary",
+        "transition_triggers": ["resolution", "submission"]
+      },
+      "neutral": {
+        "effects": ["balanced_exchange", "stable_interaction"],
+        "duration": "variable",
+        "transition_triggers": ["alignment", "opposition"]
+      }
+    },
+    "dormant_states": {
+      "potential": {
+        "activation_triggers": ["resonance", "necessity", "divine_will"],
+        "awakening_effects": ["power_surge", "mutual_recognition"]
+      },
+      "restricted": {
+        "release_conditions": ["task_completion", "cycle_completion", "balance_restoration"],
+        "release_effects": ["power_redistribution", "role_reallocation"]
+      }
+    }
+  },
+  "network_effects": {
+    "triads": {
+      "balanced": ["teacher-student-mentor", "guardian-messenger-receiver"],
+      "unbalanced": ["rival-ally-opponent", "master-student-rebel"]
+    },
+    "chains": {
+      "power_transmission": ["source-channel-receiver-manifestor"],
+      "knowledge_flow": ["keeper-teacher-student-seeker"]
+    },
+    "circles": {
+      "mutual_enhancement": ["all_peers", "all_complementary"],
+      "dynamic_balance": ["mixed_hierarchy", "mixed_opposition"]
+    }
+  }
+} 

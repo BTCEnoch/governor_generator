@@ -1,4 +1,5 @@
 {
+  "governor_id": "OCCODON",
   "name": "OCCODON",
   "title": "'He whose name is Renewal'",
   "element": "Water",
@@ -55,5 +56,64 @@
     "zodiac_angel": "Haniel",
     "numerology": 5
   },
-  "interview_responses": {}
+  "interview_responses": {},
+  "visual_aspects": {
+    "governor_id": "OCCODON",
+    "name": "OCCODON",
+    "dimensional_manifestation": {
+      "base_form": "",
+      "form_description": "",
+      "dimensional_variations": {
+        "etheric": "",
+        "astral": "",
+        "mental": "",
+        "causal": ""
+      },
+      "transition_effects": "",
+      "constant_elements": []
+    },
+    "color_scheme": "",
+    "geometry_patterns": [],
+    "environmental_effects": {
+      "primary_effect": "",
+      "radius": "",
+      "duration": "",
+      "intensity": "",
+      "secondary_effects": []
+    },
+    "time_variations": {
+      "astrological_influences": [],
+      "cycle_description": "",
+      "peak_manifestation": "",
+      "dormant_manifestation": ""
+    },
+    "energy_signature": {
+      "frequency": "",
+      "polarity": "",
+      "intensity": "",
+      "special_properties": []
+    },
+    "symbol_set": {
+      "sigils": [],
+      "emblems": [],
+      "seals": [],
+      "scripts": []
+    },
+    "light_shadow": {
+      "light_expression": "",
+      "shadow_interaction": "",
+      "balance_point": "",
+      "special_effects": []
+    },
+    "scale_description": "",
+    "scale_variations": {
+      "physical": "",
+      "etheric": "",
+      "astral": "",
+      "mental": ""
+    },
+    "special_properties": [],
+    "manifestation_triggers": [],
+    "observer_effects": ""
+  }
 }

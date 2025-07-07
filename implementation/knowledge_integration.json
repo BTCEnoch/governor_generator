@@ -1,0 +1,151 @@
+{
+  "knowledge_integration": {
+    "sources": {
+      "workbook": {
+        "basic_practices": {
+          "meditation": {
+            "exercises": ["centering", "energy_work", "visualization"],
+            "progression": ["beginner", "intermediate", "advanced"],
+            "game_mechanics": ["focus_meter", "energy_visualization", "achievement_tracking"]
+          },
+          "ritual_structure": {
+            "components": ["circle_casting", "invocation", "working", "banishing"],
+            "tools": ["wand", "cup", "dagger", "pentacle"],
+            "game_mechanics": ["ritual_builder", "power_measurement", "success_tracking"]
+          }
+        },
+        "advanced_practices": {
+          "divination": {
+            "systems": ["tarot", "skrying", "enochian_chess"],
+            "skills": ["interpretation", "vision", "prophecy"],
+            "game_mechanics": ["card_reading", "vision_quests", "strategic_divination"]
+          },
+          "high_magic": {
+            "practices": ["invocation", "evocation", "transformation"],
+            "requirements": ["tools", "symbols", "knowledge"],
+            "game_mechanics": ["spirit_contact", "power_working", "reality_manipulation"]
+          }
+        }
+      },
+      "mystical_traditions": {
+        "golden_dawn": {
+          "core_practices": ["ritual_magic", "qabalah", "tarot"],
+          "knowledge_base": "wikipedia:Hermetic_Order_of_the_Golden_Dawn",
+          "integration": ["hierarchical_structure", "grade_system", "ceremonial_magic"]
+        },
+        "hermeticism": {
+          "core_practices": ["alchemy", "astrology", "theurgy"],
+          "knowledge_base": "wikipedia:Hermeticism",
+          "integration": ["philosophical_principles", "magical_correspondences", "divine_wisdom"]
+        },
+        "thelema": {
+          "core_practices": ["true_will", "ceremonial_magic", "yoga"],
+          "knowledge_base": "wikipedia:Thelema",
+          "integration": ["personal_development", "magical_practice", "spiritual_evolution"]
+        }
+      }
+    },
+    "integration_methods": {
+      "knowledge_mapping": {
+        "correspondences": {
+          "elements": {
+            "fire": {
+              "direction": "south",
+              "tool": "wand",
+              "exercises": ["energy_work", "transformation", "will_development"],
+              "game_mechanics": ["power_boost", "transformation_effects", "will_challenges"]
+            },
+            "water": {
+              "direction": "west",
+              "tool": "cup",
+              "exercises": ["scrying", "emotional_work", "healing"],
+              "game_mechanics": ["vision_quests", "emotional_challenges", "healing_powers"]
+            },
+            "air": {
+              "direction": "east",
+              "tool": "dagger",
+              "exercises": ["meditation", "visualization", "communication"],
+              "game_mechanics": ["mental_challenges", "vision_powers", "message_sending"]
+            },
+            "earth": {
+              "direction": "north",
+              "tool": "pentacle",
+              "exercises": ["grounding", "manifestation", "protection"],
+              "game_mechanics": ["stability_powers", "manifestation_challenges", "protection_spells"]
+            }
+          },
+          "planets": {
+            "sun": {
+              "day": "sunday",
+              "exercises": ["vitality_work", "authority_development", "illumination"],
+              "game_mechanics": ["power_boost", "leadership_challenges", "enlightenment_quests"]
+            },
+            "moon": {
+              "day": "monday",
+              "exercises": ["psychic_development", "intuition_work", "dream_practice"],
+              "game_mechanics": ["psychic_powers", "intuition_challenges", "dream_quests"]
+            }
+          }
+        },
+        "progression_systems": {
+          "initiation": {
+            "levels": ["neophyte", "zelator", "theoricus", "practicus", "philosophus"],
+            "requirements": {
+              "neophyte": ["basic_ritual", "meditation", "study"],
+              "zelator": ["elemental_work", "practical_magic", "ceremonial"],
+              "theoricus": ["divination", "astral_work", "theoretical_study"],
+              "practicus": ["advanced_ritual", "magical_practice", "teaching"],
+              "philosophus": ["high_magic", "synthesis", "leadership"]
+            }
+          },
+          "skill_development": {
+            "magical_practice": {
+              "basic": ["meditation", "visualization", "energy_work"],
+              "intermediate": ["ritual_work", "divination", "astral_travel"],
+              "advanced": ["evocation", "high_magic", "reality_manipulation"]
+            },
+            "knowledge_acquisition": {
+              "theoretical": ["philosophy", "symbolism", "correspondence"],
+              "practical": ["ritual", "divination", "magic"],
+              "synthesis": ["teaching", "creation", "innovation"]
+            }
+          }
+        }
+      },
+      "game_mechanics": {
+        "ritual_system": {
+          "components": ["preparation", "circle_casting", "invocation", "working", "closing"],
+          "power_sources": ["personal", "elemental", "planetary", "divine"],
+          "effects": ["transformation", "manifestation", "protection", "revelation"]
+        },
+        "divination_system": {
+          "methods": ["tarot", "skrying", "astrology", "geomancy"],
+          "outcomes": ["guidance", "prophecy", "insight", "warning"],
+          "applications": ["personal", "magical", "strategic", "spiritual"]
+        },
+        "magical_combat": {
+          "styles": ["elemental", "planetary", "divine", "combined"],
+          "techniques": ["attack", "defense", "banishing", "binding"],
+          "power_levels": ["apprentice", "adept", "master", "grandmaster"]
+        }
+      }
+    },
+    "implementation_guidelines": {
+      "knowledge_base": {
+        "structure": ["hierarchical", "cross-referenced", "searchable"],
+        "content_types": ["text", "diagrams", "interactive", "audio"],
+        "access_methods": ["query", "browse", "guided", "random"]
+      },
+      "game_systems": {
+        "core_mechanics": ["skill_based", "knowledge_based", "power_based"],
+        "progression": ["experience", "achievement", "discovery"],
+        "interaction": ["solo", "group", "competitive", "cooperative"]
+      },
+      "integration_rules": {
+        "knowledge_flow": ["sequential", "branching", "networked"],
+        "skill_development": ["practice", "study", "synthesis"],
+        "power_acquisition": ["gradual", "milestone", "quest"]
+      }
+    }
+  }
+} 

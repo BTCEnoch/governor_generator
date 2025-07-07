@@ -53,5 +53,21 @@
       "average": "Formal",
       "good": "Intense"
     }
-  }
+  },
+  "visual_aspects": {
+    "dimensional_manifestation": {},
+    "color_scheme": {},
+    "geometry_patterns": {},
+    "environmental_effects": {},
+    "time_variations": {},
+    "energy_signature": {},
+    "symbol_set": {},
+    "light_shadow": {},
+    "scale_description": {},
+    "scale_variations": {},
+    "special_properties": {},
+    "manifestation_triggers": {},
+    "observer_effects": {}
+  },
+  "governor_id": "GECAOND"
 }

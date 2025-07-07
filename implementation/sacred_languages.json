@@ -1,0 +1,195 @@
+{
+  "sacred_languages": {
+    "enochian": {
+      "structure": {
+        "alphabet": {
+          "characters": ["Paa", "Veh", "Ged", "Gal", "Or", "Un", "Graph", "Tal", "Gon", "Na", "Ur", "Mals", "Ger", "Drux", "Pal", "Med", "Don", "Ceph", "Van", "Fam", "Gisg", "Ur"],
+          "pronunciations": {
+            "traditional": ["Pay", "Veh", "Ged", "Gal", "Oh", "Un", "Graph", "Tal", "Gon", "Na", "Ur", "Mals", "Ger", "Drux", "Pal", "Med", "Don", "Ceph", "Van", "Fam", "Gisg", "Ur"],
+            "modern": ["Pa", "Ve", "Ged", "Gal", "Or", "Un", "Graf", "Tal", "Gon", "Na", "Ur", "Mals", "Ger", "Druks", "Pal", "Med", "Don", "Kef", "Van", "Fam", "Gis", "Ur"]
+          },
+          "correspondences": {
+            "elemental": ["fire", "earth", "air", "water", "spirit"],
+            "planetary": ["sun", "moon", "mercury", "venus", "mars", "jupiter", "saturn"],
+            "zodiacal": ["aries", "taurus", "gemini", "cancer", "leo", "virgo", "libra", "scorpio", "sagittarius", "capricorn", "aquarius", "pisces"]
+          }
+        },
+        "grammar": {
+          "syntax": {
+            "word_order": ["subject", "verb", "object"],
+            "modifiers": ["prefix", "suffix", "infix"],
+            "particles": ["conjunctive", "directive", "descriptive"]
+          },
+          "morphology": {
+            "word_formation": ["root", "stem", "affix"],
+            "inflection": ["tense", "aspect", "mood"],
+            "derivation": ["nominal", "verbal", "adjectival"]
+          }
+        },
+        "phonology": {
+          "sounds": {
+            "consonants": ["plosives", "fricatives", "nasals"],
+            "vowels": ["monophthongs", "diphthongs"],
+            "special": ["aspirated", "glottal", "palatalized"]
+          },
+          "patterns": {
+            "syllable": ["onset", "nucleus", "coda"],
+            "stress": ["primary", "secondary", "tertiary"],
+            "intonation": ["rising", "falling", "level"]
+          }
+        }
+      },
+      "magical_applications": {
+        "invocation": {
+          "methods": {
+            "calls": ["angelic", "elemental", "planetary"],
+            "names": ["divine", "angelic", "spiritual"],
+            "formulas": ["creation", "transformation", "banishing"]
+          },
+          "effects": {
+            "consciousness": ["expansion", "elevation", "transformation"],
+            "energy": ["activation", "direction", "manifestation"],
+            "reality": ["alteration", "creation", "dissolution"]
+          }
+        },
+        "evocation": {
+          "techniques": {
+            "summoning": ["entities", "forces", "intelligences"],
+            "binding": ["agreements", "constraints", "duties"],
+            "dismissal": ["release", "banishment", "completion"]
+          },
+          "requirements": {
+            "preparation": ["circle", "tools", "offerings"],
+            "timing": ["astrological", "elemental", "cyclic"],
+            "operator": ["purity", "authority", "knowledge"]
+          }
+        },
+        "creation": {
+          "methods": {
+            "sigils": ["names", "intentions", "forces"],
+            "talismans": ["objects", "inscriptions", "consecrations"],
+            "spaces": ["temples", "gates", "dimensions"]
+          },
+          "powers": {
+            "manifestation": ["physical", "astral", "mental"],
+            "transformation": ["personal", "environmental", "universal"],
+            "realization": ["wisdom", "power", "divinity"]
+          }
+        }
+      }
+    },
+    "hebrew": {
+      "structure": {
+        "alphabet": {
+          "letters": {
+            "regular": ["aleph", "beth", "gimel", "daleth", "he", "vav", "zayin", "cheth", "teth", "yod", "kaph", "lamed", "mem", "nun", "samech", "ayin", "pe", "tzaddi", "qoph", "resh", "shin", "tau"],
+            "finals": ["kaph_final", "mem_final", "nun_final", "pe_final", "tzaddi_final"]
+          },
+          "numerical_values": {
+            "units": ["1-9"],
+            "tens": ["10-90"],
+            "hundreds": ["100-400"]
+          },
+          "mystical_properties": {
+            "paths": ["tree_of_life_connections"],
+            "elements": ["three_mother_letters"],
+            "planets": ["seven_doubles"],
+            "zodiac": ["twelve_simples"]
+          }
+        },
+        "gematria": {
+          "methods": {
+            "standard": ["absolute", "ordinal", "reduced"],
+            "advanced": ["integral", "plenary", "sofit"],
+            "specialized": ["albam", "atbash", "avgad"]
+          },
+          "applications": {
+            "analysis": ["words", "phrases", "texts"],
+            "synthesis": ["names", "formulas", "prayers"],
+            "revelation": ["hidden_meanings", "connections", "mysteries"]
+          }
+        }
+      },
+      "magical_applications": {
+        "names_of_power": {
+          "divine": {
+            "tetragrammaton": ["YHVH", "AHYH", "ADNI"],
+            "expansions": ["72_names", "42_letter_name", "22_letter_name"],
+            "combinations": ["permutations", "integrations", "unifications"]
+          },
+          "angelic": {
+            "archangels": ["Michael", "Gabriel", "Raphael", "Uriel"],
+            "angels": ["choir_names", "guardian_angels", "messenger_angels"],
+            "hosts": ["legions", "orders", "hierarchies"]
+          }
+        },
+        "formulas": {
+          "creation": {
+            "golem": ["animation", "control", "deactivation"],
+            "talisman": ["inscription", "empowerment", "activation"],
+            "amulet": ["protection", "blessing", "healing"]
+          },
+          "transformation": {
+            "personal": ["purification", "elevation", "illumination"],
+            "material": ["transmutation", "animation", "dissolution"],
+            "spiritual": ["ascension", "union", "realization"]
+          }
+        }
+      }
+    },
+    "sanskrit": {
+      "structure": {
+        "alphabet": {
+          "devanagari": {
+            "vowels": ["simple", "compound"],
+            "consonants": ["stops", "nasals", "semivowels", "sibilants"],
+            "modifiers": ["anusvara", "visarga", "chandrabindu"]
+          },
+          "phonetic_properties": {
+            "articulation": ["place", "manner", "voice"],
+            "resonance": ["nasal", "aspirated", "retroflex"],
+            "energy": ["prana", "apana", "samana"]
+          }
+        },
+        "mantras": {
+          "types": {
+            "bija": ["seed_syllables", "elemental_sounds", "deity_seeds"],
+            "nama": ["name_mantras", "attribute_mantras", "quality_mantras"],
+            "dhyana": ["meditation_formulas", "contemplation_verses", "realization_mantras"]
+          },
+          "applications": {
+            "spiritual": ["awakening", "purification", "liberation"],
+            "magical": ["manifestation", "protection", "transformation"],
+            "healing": ["physical", "mental", "emotional"]
+          }
+        }
+      },
+      "magical_applications": {
+        "tantra": {
+          "practices": {
+            "kundalini": ["awakening", "ascension", "integration"],
+            "chakra": ["activation", "balancing", "transcendence"],
+            "yantra": ["creation", "meditation", "realization"]
+          },
+          "siddhis": {
+            "major": ["omniscience", "omnipresence", "omnipotence"],
+            "minor": ["clairvoyance", "levitation", "materialization"],
+            "attainments": ["samadhi", "kaivalya", "moksha"]
+          }
+        },
+        "ritual": {
+          "puja": {
+            "elements": ["offerings", "mantras", "mudras"],
+            "sequences": ["invocation", "worship", "conclusion"],
+            "effects": ["blessing", "empowerment", "union"]
+          },
+          "homa": {
+            "preparations": ["fire_altar", "materials", "mantras"],
+            "offerings": ["substances", "prayers", "intentions"],
+            "completions": ["perfect_offering", "divine_acceptance", "manifestation"]
+          }
+        }
+      }
+    }
+  }
+} 

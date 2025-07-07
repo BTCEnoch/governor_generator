@@ -1,297 +1,221 @@
 """
 Visual Aspects Interview System
 
-This module defines the structured interview questions and response options for gathering
-governor visual aspects. Each governor must be asked the same questions in the same order,
-and must consider all options before making choices based on their traits and attributes.
+This module handles interviewing governors about their visual manifestation aspects,
+explaining the purpose and parameters of each field while gathering responses.
 """
 
+import json
+import logging
+from pathlib import Path
+from typing import Dict, List, Any, Optional
 from dataclasses import dataclass
-from typing import List, Dict, Optional
-from enum import Enum
+from core.governors.profiler.schemas.visual_aspects_schema import (
+    VisualAspects, FormType, ColorScheme, GeometryPattern,
+    DimensionalManifestation, EnvironmentalEffect, TimeVariation,
+    EnergySignature, SymbolSet, LightShadowDynamics
+)
+from core.utils.common.errors import ValidationError
+from core.utils.custom_logging.custom_logger import setup_logger
 
-# Response Option Enums
-class FormType(Enum):
-    ETHEREAL = "Pure energy/light forms"
-    GEOMETRIC = "Sacred geometry based"
-    ABSTRACT = "Non-euclidean/conceptual"
-    COMPOSITE = "Multiple forms combined"
-    METAMORPHIC = "Shape-shifting/fluid"
-    SYMBOLIC = "Manifests as pure symbols"
-    ELEMENTAL = "Pure elemental form"
-    HUMANOID = "Angelic humanoid form"
-    CELESTIAL = "Cosmic/stellar form"
-    OTHER = "Unique manifestation"
-
-class ColorScheme(Enum):
-    PRISMATIC = "Full spectrum of shifting colors"
-    MONOCHROMATIC = "Single color with variations"
-    ELEMENTAL = "Colors of their element"
-    CELESTIAL = "Cosmic/starlight colors"
-    METALLIC = "Metallic/reflective colors"
-    CRYSTALLINE = "Crystal/transparent colors"
-    SHADOW = "Shadow/void colors"
-    LIGHT = "Pure light colors"
-    AETHYRIC = "Colors of their Aethyr"
-    SYMBOLIC = "Colors tied to their role"
+logger = setup_logger(__name__)
 
 @dataclass
-class InterviewQuestion:
-    """Structure for a single interview question"""
+class FieldDescription:
+    """Description of a visual aspect field."""
+    purpose: str
+    parameters: Dict[str, Any]
+
+@dataclass
+class VisualAspectsQuestion:
+    """Question about a visual aspect."""
     id: str
+    category: str
     question: str
-    context: str
-    options: List[str]
-    requires_explanation: bool = True
+    field: str
+    required_traits: List[str]
+    validation_rules: List[str]
 
-class VisualAspectsInterview:
-    """Defines the structured interview for gathering governor visual aspects"""
+class VisualAspectsInterviewer:
+    """Handles interviews about visual aspects."""
     
-    def __init__(self):
-        self.questions = self._initialize_questions()
+    def __init__(self, questions_file: Path):
+        """Initialize the interviewer.
         
-    def _initialize_questions(self) -> List[InterviewQuestion]:
-        """Initialize the full set of interview questions"""
-        return [
-            InterviewQuestion(
-                id="primary_form",
-                question="What is your primary form of manifestation?",
-                context="""
-                Consider your element, aethyr, and role. Review all options before choosing:
-                - ETHEREAL: Pure energy/light forms
-                - GEOMETRIC: Sacred geometry based
-                - ABSTRACT: Non-euclidean/conceptual
-                - COMPOSITE: Multiple forms combined
-                - METAMORPHIC: Shape-shifting/fluid
-                - SYMBOLIC: Manifests as pure symbols
-                - ELEMENTAL: Pure elemental form
-                - HUMANOID: Angelic humanoid form
-                - CELESTIAL: Cosmic/stellar form
-                - OTHER: Unique manifestation
-                
-                Your choice should reflect your essence and angelic role.
-                """,
-                options=[form.name for form in FormType],
-            ),
-            InterviewQuestion(
-                id="color_scheme",
-                question="What colors dominate your manifestation?",
-                context="""
-                Consider your element, aethyr, and correspondences. Review all options:
-                - PRISMATIC: Full spectrum of shifting colors
-                - MONOCHROMATIC: Single color with variations
-                - ELEMENTAL: Colors of your element
-                - CELESTIAL: Cosmic/starlight colors
-                - METALLIC: Metallic/reflective colors
-                - CRYSTALLINE: Crystal/transparent colors
-                - SHADOW: Shadow/void colors
-                - LIGHT: Pure light colors
-                - AETHYRIC: Colors of your Aethyr
-                - SYMBOLIC: Colors tied to your role
-                
-                Your choice should align with your essence and nature.
-                """,
-                options=[color.name for color in ColorScheme],
-            ),
-            InterviewQuestion(
-                id="sacred_geometry",
-                question="What sacred geometric patterns are present in your form?",
-                context="""
-                Consider your sephirot and numerological correspondences. Options include:
-                - Platonic solids (tetrahedron, cube, octahedron, etc.)
-                - Tree of Life patterns
-                - Metatron's Cube
-                - Flower of Life
-                - Spirals (Fibonacci, Golden)
-                - Your personal sigil geometry
-                - Elemental symbols
-                - Zodiacal geometry
-                - Enochian letter forms
-                - Custom sacred patterns
-                
-                Describe how these patterns manifest and interact.
-                """,
-                options=[],  # Free-form response with guidance
-            ),
-            InterviewQuestion(
-                id="dimensional_presence",
-                question="How does your form manifest across different dimensions?",
-                context="""
-                Consider your role and essence. Describe your presence in:
-                - Physical dimension
-                - Etheric plane
-                - Astral realm
-                - Mental plane
-                - Spiritual dimensions
-                - Time dimension
-                - Your home Aethyr
-                
-                Explain how your form changes or remains constant.
-                """,
-                options=[],  # Free-form response with guidance
-            ),
-            InterviewQuestion(
-                id="environmental_effects",
-                question="What effects does your presence have on the surrounding environment?",
-                context="""
-                Consider your element and powers. Effects might include:
-                - Changes in light/shadow
-                - Temperature changes
-                - Air/wind effects
-                - Water/moisture effects
-                - Earth/material effects
-                - Time distortions
-                - Reality fluctuations
-                - Energy manifestations
-                - Sound/vibration changes
-                - Emotional/mental influences
-                
-                Describe the sphere of your influence.
-                """,
-                options=[],  # Free-form response with guidance
-            ),
-            InterviewQuestion(
-                id="time_variations",
-                question="How does your appearance change with different temporal conditions?",
-                context="""
-                Consider your zodiacal and planetary correspondences. Describe changes based on:
-                - Astrological alignments
-                - Planetary hours
-                - Day/night cycle
-                - Seasonal influences
-                - Lunar phases
-                - Solar cycles
-                - Aethyric tides
-                
-                Explain the nature and reason for these changes.
-                """,
-                options=[],  # Free-form response with guidance
-            ),
-            InterviewQuestion(
-                id="energy_signature",
-                question="What is the unique signature of your energetic presence?",
-                context="""
-                Consider your element and essence. Describe your:
-                - Energy frequency
-                - Vibrational pattern
-                - Aethyric resonance
-                - Elemental harmonics
-                - Light/shadow balance
-                - Power manifestation
-                - Spiritual radiation
-                
-                Explain how others would sense your presence.
-                """,
-                options=[],  # Free-form response with guidance
-            ),
-            InterviewQuestion(
-                id="symbolic_aspects",
-                question="What symbolic elements are consistently present in your manifestation?",
-                context="""
-                Consider your role and correspondences. Describe your:
-                - Personal sigils
-                - Elemental marks
-                - Angelic seals
-                - Sacred symbols
-                - Enochian letters
-                - Geometric emblems
-                - Power signs
-                - Divine names
-                
-                Explain how these symbols relate to your essence.
-                """,
-                options=[],  # Free-form response with guidance
-            ),
-            InterviewQuestion(
-                id="scale_proportion",
-                question="What is your scale and proportion relative to human perception?",
-                context="""
-                Consider your role and power. Describe:
-                - Natural size range
-                - Size variations
-                - Proportional relationships
-                - Dimensional scaling
-                - Perceptual adjustments
-                - Form ratios
-                - Sacred proportions
-                
-                Explain how and why your scale changes.
-                """,
-                options=[],  # Free-form response with guidance
-            ),
-            InterviewQuestion(
-                id="interaction_methods",
-                question="How do you interact with physical and spiritual entities?",
-                context="""
-                Consider your approach and tone. Describe:
-                - Physical interaction methods
-                - Energy manipulation
-                - Communication channels
-                - Power transmission
-                - Blessing/protection methods
-                - Teaching techniques
-                - Healing approaches
-                
-                Explain how these align with your role.
-                """,
-                options=[],  # Free-form response with guidance
-            )
+        Args:
+            questions_file: Path to visual aspects questions JSON
+        """
+        self.logger = logging.getLogger(__name__)
+        self.questions_file = questions_file
+        self._load_questions()
+        
+    def _load_questions(self) -> None:
+        """Load questions and field descriptions from JSON."""
+        with self.questions_file.open('r', encoding='utf-8') as f:
+            data = json.load(f)
+            
+        # Load field descriptions
+        self.field_descriptions = {
+            field: FieldDescription(**desc)
+            for field, desc in data["field_descriptions"].items()
+        }
+        
+        # Load questions
+        self.questions = [
+            VisualAspectsQuestion(**q) for q in data["questions"]
         ]
-
-    def get_interview_prompt(self, governor_data: Dict) -> str:
-        """
-        Generate the complete interview prompt for a governor
+        
+    def explain_field(self, field_name: str) -> str:
+        """Get explanation of a field's purpose and parameters.
         
         Args:
-            governor_data: The governor's complete profile data
+            field_name: Name of the field to explain
             
         Returns:
-            A formatted prompt string for the interview
+            Formatted explanation string
         """
-        prompt = f"""
-        VISUAL ASPECTS INTERVIEW FOR {governor_data['governor_name']}
+        if field_name not in self.field_descriptions:
+            return f"No description available for {field_name}"
+            
+        desc = self.field_descriptions[field_name]
+        explanation = f"Purpose: {desc.purpose}\n\n"
         
-        Before answering each question, carefully consider:
-        - Your element: {governor_data['persona']['element']}
-        - Your aethyr: {governor_data['persona']['aethyr']}
-        - Your essence: {governor_data['persona']['essence']}
-        - Your angelic role: {governor_data['persona']['angelic_role']}
-        - Your knowledge domains: {', '.join(governor_data['persona']['knowledge_base'])}
-        - Your correspondences: {governor_data['persona']['archetypal_correspondences']}
-        - Your approach and tone: {governor_data['persona']['polar_traits']['baseline_approach']}, {governor_data['persona']['polar_traits']['baseline_tone']}
+        if isinstance(desc.parameters, dict):
+            explanation += "Parameters:\n"
+            for param, param_desc in desc.parameters.items():
+                explanation += f"- {param}: {param_desc}\n"
+        else:
+            explanation += f"Parameters: {desc.parameters}"
+            
+        return explanation
         
-        Instructions:
-        1. Read each question carefully
-        2. Review ALL provided options before making choices
-        3. Consider how your choices align with your traits and attributes
-        4. Provide detailed explanations for your choices
-        5. Maintain consistency with your established persona
-        
-        Questions follow below. Take time to consider each one fully.
-        """
-        
-        for i, question in enumerate(self.questions, 1):
-            prompt += f"\n\nQuestion {i}: {question.question}\n"
-            prompt += f"Context: {question.context}\n"
-            if question.options:
-                prompt += f"Options: {', '.join(question.options)}\n"
-            prompt += "Please provide your response and explanation:"
-        
-        return prompt
-
-    def validate_response(self, question_id: str, response: str, governor_data: Dict) -> bool:
-        """
-        Validate that a response aligns with the governor's traits
+    def get_field_parameters(self, field_name: str) -> Dict[str, Any]:
+        """Get parameters for a field.
         
         Args:
-            question_id: The ID of the question being answered
-            response: The governor's response
-            governor_data: The governor's complete profile data
+            field_name: Name of the field
             
         Returns:
-            True if the response is valid, False otherwise
+            Field parameters
         """
-        # Implementation would validate response against governor traits
-        # For now, return True as placeholder
-        # TODO: Implement full validation logic
-        return True 
+        if field_name not in self.field_descriptions:
+            return {}
+        return self.field_descriptions[field_name].parameters
+        
+    def interview_governor(
+        self,
+        governor_traits: Dict[str, Any]
+    ) -> Dict[str, Any]:
+        """Interview a governor about their visual aspects.
+        
+        Args:
+            governor_traits: Governor's trait data
+            
+        Returns:
+            Completed visual aspects data
+        """
+        self.logger.info(
+            f"Starting visual aspects interview for {governor_traits['governor_name']}"
+        )
+        
+        visual_aspects = {}
+        
+        # Process each field
+        for field_name, field_desc in self.field_descriptions.items():
+            # Explain field
+            self.logger.info(f"\nExplaining {field_name}:")
+            self.logger.info(self.explain_field(field_name))
+            
+            # Get relevant questions
+            field_questions = [
+                q for q in self.questions
+                if q.category == field_name
+            ]
+            
+            # Process questions
+            field_data = {}
+            for question in field_questions:
+                # Check required traits
+                traits_present = all(
+                    trait in governor_traits
+                    for trait in question.required_traits
+                )
+                
+                if not traits_present:
+                    self.logger.warning(
+                        f"Missing required traits for {question.id}"
+                    )
+                    continue
+                    
+                # Get response based on traits
+                try:
+                    response = self._generate_response(
+                        question, governor_traits
+                    )
+                    field_data.update(response)
+                except Exception as e:
+                    self.logger.error(
+                        f"Error processing {question.id}: {str(e)}"
+                    )
+                    
+            visual_aspects[field_name] = field_data
+            
+        self.logger.info("Visual aspects interview complete")
+        return visual_aspects
+        
+    def _generate_response(
+        self,
+        question: VisualAspectsQuestion,
+        traits: Dict[str, Any]
+    ) -> Dict[str, Any]:
+        """Generate response to a question based on governor traits.
+        
+        Args:
+            question: Question to answer
+            traits: Governor's traits
+            
+        Returns:
+            Response data
+        """
+        # Get field parameters
+        field_params = self.get_field_parameters(question.category)
+        
+        # TODO: Implement response generation logic
+        # For now, return empty structure matching parameters
+        if isinstance(field_params, dict):
+            return {
+                param: "" for param in field_params
+            }
+        return {"value": ""}
+        
+def process_governor_visual_aspects(
+    governor_file: Path,
+    questions_file: Path
+) -> Dict[str, Any]:
+    """Process visual aspects for a governor.
+    
+    Args:
+        governor_file: Path to governor JSON file
+        questions_file: Path to questions JSON file
+        
+    Returns:
+        Updated governor data with visual aspects
+    """
+    # Load governor data
+    with governor_file.open('r', encoding='utf-8') as f:
+        governor_data = json.load(f)
+        
+    # Create interviewer
+    interviewer = VisualAspectsInterviewer(questions_file)
+    
+    # Conduct interview
+    visual_aspects = interviewer.interview_governor(governor_data)
+    
+    # Update governor data
+    governor_data["visual_aspects"] = visual_aspects
+    
+    # Save updated data
+    with governor_file.open('w', encoding='utf-8') as f:
+        json.dump(governor_data, f, indent=2)
+        
+    return governor_data 

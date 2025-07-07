@@ -1,0 +1,181 @@
+{
+  "mystical_traditions": {
+    "hermetic": {
+      "core_principles": {
+        "as_above_so_below": {
+          "concept": "macrocosm_microcosm_correspondence",
+          "applications": ["ritual_design", "talismanic_magic", "meditation"],
+          "governor_aspects": ["teaching_methodology", "symbol_interpretation", "cosmic_understanding"]
+        },
+        "mentalism": {
+          "concept": "mental_nature_of_universe",
+          "applications": ["thought_forms", "manifestation", "reality_shaping"],
+          "practices": ["visualization", "affirmation", "mental_alchemy"]
+        },
+        "polarity": {
+          "concept": "balance_of_opposites",
+          "applications": ["healing", "transformation", "balance"],
+          "manifestations": ["masculine_feminine", "active_passive", "light_dark"]
+        }
+      },
+      "magical_practices": {
+        "theurgy": {
+          "definition": "divine_working",
+          "methods": ["invocation", "evocation", "meditation"],
+          "tools": ["wand", "lamp", "incense", "robes"]
+        },
+        "alchemy": {
+          "physical": ["laboratory_work", "herbal_preparation", "mineral_work"],
+          "spiritual": ["meditation", "visualization", "energy_work"],
+          "mental": ["study", "contemplation", "transformation"]
+        }
+      }
+    },
+    "kabbalah": {
+      "tree_of_life": {
+        "sephiroth": {
+          "kether": {
+            "title": "crown",
+            "divine_name": "eheieh",
+            "magical_image": "ancient_bearded_king_profile",
+            "governor_aspects": ["divine_inspiration", "unity_consciousness", "primordial_wisdom"]
+          },
+          "chokmah": {
+            "title": "wisdom",
+            "divine_name": "yah",
+            "magical_image": "bearded_male_figure",
+            "governor_aspects": ["divine_force", "will", "spiritual_energy"]
+          },
+          "binah": {
+            "title": "understanding",
+            "divine_name": "yhvh_elohim",
+            "magical_image": "mature_woman",
+            "governor_aspects": ["divine_understanding", "form", "structure"]
+          }
+        },
+        "paths": {
+          "aleph": {
+            "letter": "א",
+            "tarot": "fool",
+            "element": "air",
+            "governor_teaching": "divine_inspiration"
+          },
+          "beth": {
+            "letter": "ב",
+            "tarot": "magician",
+            "planet": "mercury",
+            "governor_teaching": "skill_mastery"
+          }
+        }
+      },
+      "four_worlds": {
+        "atziluth": {
+          "realm": "divine",
+          "experience": "pure_spirit",
+          "governor_role": "divine_inspiration"
+        },
+        "briah": {
+          "realm": "creation",
+          "experience": "pure_intellect",
+          "governor_role": "creative_force"
+        },
+        "yetzirah": {
+          "realm": "formation",
+          "experience": "emotions_psychology",
+          "governor_role": "pattern_forming"
+        },
+        "assiah": {
+          "realm": "action",
+          "experience": "physical_reality",
+          "governor_role": "manifestation"
+        }
+      }
+    },
+    "enochian": {
+      "aethyrs": {
+        "structure": {
+          "total_number": 30,
+          "nature": "celestial_realms",
+          "progression": "descending_vibration"
+        },
+        "key_aethyrs": {
+          "lil": {
+            "number": 1,
+            "theme": "highest_divine",
+            "governor_role": "supreme_teaching"
+          },
+          "tex": {
+            "number": 30,
+            "theme": "physical_foundation",
+            "governor_role": "material_instruction"
+          }
+        }
+      },
+      "angelic_language": {
+        "structure": {
+          "alphabet": 21,
+          "pronunciation_rules": ["vibration", "resonance", "power"],
+          "magical_effects": ["reality_alteration", "consciousness_shift", "divine_communication"]
+        },
+        "tables": {
+          "great_table": {
+            "structure": "4x12_squares",
+            "uses": ["angel_communication", "magical_operations", "divine_knowledge"],
+            "governor_applications": ["teaching", "guidance", "power"]
+          },
+          "tablet_union": {
+            "structure": "central_cross",
+            "purpose": "unification",
+            "applications": ["integration", "balance", "harmony"]
+          }
+        }
+      },
+      "magical_implements": {
+        "holy_table": {
+          "construction": "wooden_gold_letters",
+          "use": "crystal_scrying",
+          "governor_applications": ["teaching_tool", "divination_aid", "power_focus"]
+        },
+        "sigillum_dei_aemeth": {
+          "construction": "wax_metal",
+          "symbols": "divine_names_numbers",
+          "uses": ["protection", "divine_connection", "power_focusing"]
+        }
+      }
+    },
+    "golden_dawn": {
+      "grade_system": {
+        "neophyte": {
+          "title": "0=0",
+          "element": "earth",
+          "learning_focus": ["basics", "foundation", "discipline"],
+          "governor_teaching_role": "fundamental_instruction"
+        },
+        "zelator": {
+          "title": "1=10",
+          "element": "earth",
+          "learning_focus": ["practical_magic", "tools", "basics"],
+          "governor_teaching_role": "practical_guidance"
+        },
+        "theoricus": {
+          "title": "2=9",
+          "element": "air",
+          "learning_focus": ["theory", "divination", "study"],
+          "governor_teaching_role": "theoretical_instruction"
+        }
+      },
+      "ritual_formats": {
+        "lesser_banishing": {
+          "structure": ["qabalistic_cross", "pentagrams", "archangels"],
+          "purpose": "purification_protection",
+          "governor_applications": ["teaching_protection", "energy_management"]
+        },
+        "middle_pillar": {
+          "structure": ["divine_names", "energy_centers", "circulation"],
+          "purpose": "personal_empowerment",
+          "governor_applications": ["energy_teaching", "personal_development"]
+        }
+      }
+    }
+  }
+} 

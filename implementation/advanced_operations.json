@@ -1,0 +1,176 @@
+{
+  "advanced_operations": {
+    "evocation_techniques": {
+      "circle_methods": {
+        "traditional": {
+          "setup": {
+            "physical_components": ["circle", "triangle", "altar"],
+            "tools": ["sword", "wand", "incense", "sigil"],
+            "protection": ["banishing", "warding", "sealing"]
+          },
+          "procedure": {
+            "preparation": {
+              "space": ["cleansing", "consecration", "charging"],
+              "operator": ["purification", "robing", "centering"],
+              "tools": ["blessing", "charging", "arranging"]
+            },
+            "operation": {
+              "opening": ["circle_casting", "wards_setting", "space_preparation"],
+              "calling": ["vibration", "invocation", "manifestation"],
+              "interaction": ["communication", "commanding", "dismissal"]
+            }
+          }
+        },
+        "enochian": {
+          "setup": {
+            "physical_components": ["holy_table", "sigillum_dei", "ensigns"],
+            "tools": ["crystal", "lamens", "ring", "wand"],
+            "protection": ["names_of_god", "angelic_calls", "divine_circle"]
+          },
+          "procedure": {
+            "preparation": {
+              "space": ["table_arrangement", "tool_placement", "consecration"],
+              "operator": ["purification", "prayer", "divine_alignment"],
+              "tools": ["charging", "consecration", "empowerment"]
+            },
+            "operation": {
+              "opening": ["divine_names", "angelic_calls", "aethyr_opening"],
+              "contact": ["scrying", "communication", "vision"],
+              "recording": ["journaling", "symbol_drawing", "message_recording"]
+            }
+          }
+        }
+      },
+      "entity_types": {
+        "elemental": {
+          "preparation": ["elemental_attunement", "appropriate_tools", "corresponding_time"],
+          "method": ["elemental_calls", "appropriate_offerings", "natural_locations"],
+          "interaction": ["respectful_communication", "clear_purpose", "proper_dismissal"]
+        },
+        "planetary": {
+          "preparation": ["planetary_timing", "corresponding_tools", "appropriate_offerings"],
+          "method": ["planetary_invocations", "sphere_alignment", "divine_names"],
+          "interaction": ["formal_protocol", "specific_requests", "proper_closure"]
+        },
+        "angelic": {
+          "preparation": ["highest_purification", "sacred_space", "divine_alignment"],
+          "method": ["divine_names", "angelic_languages", "sacred_calls"],
+          "interaction": ["reverent_communication", "divine_purpose", "grateful_closure"]
+        }
+      }
+    },
+    "invocation_methods": {
+      "divine_force": {
+        "preparation": {
+          "physical": ["ritual_bath", "fasting", "sacred_vestments"],
+          "spiritual": ["meditation", "prayer", "contemplation"],
+          "environmental": ["temple_preparation", "altar_setup", "space_purification"]
+        },
+        "techniques": {
+          "assumption": {
+            "steps": ["vibration", "visualization", "embodiment"],
+            "methods": ["god_form", "divine_name", "sacred_gesture"],
+            "signs": ["energy_shift", "consciousness_change", "divine_presence"]
+          },
+          "drawing_down": {
+            "preparation": ["moon_timing", "circle_casting", "energy_raising"],
+            "process": ["invocation", "channeling", "embodiment"],
+            "completion": ["grounding", "recording", "integration"]
+          }
+        }
+      },
+      "elemental_force": {
+        "preparation": {
+          "tools": ["elemental_weapon", "corresponding_incense", "appropriate_colors"],
+          "space": ["directional_alignment", "elemental_symbols", "appropriate_timing"],
+          "operator": ["elemental_attunement", "corresponding_breathing", "visualization"]
+        },
+        "methods": {
+          "direct": ["element_breathing", "force_visualization", "energy_absorption"],
+          "ceremonial": ["ritual_invocation", "elemental_signs", "divine_names"],
+          "natural": ["location_working", "weather_alignment", "natural_timing"]
+        }
+      }
+    },
+    "astral_travel": {
+      "preparation": {
+        "physical": {
+          "body": ["relaxation", "comfortable_position", "energy_alignment"],
+          "space": ["quiet_environment", "appropriate_lighting", "protection_circle"],
+          "tools": ["crystal_focus", "incense", "symbolic_objects"]
+        },
+        "mental": {
+          "state": ["meditation", "concentration", "visualization"],
+          "protection": ["shields", "wards", "guardians"],
+          "anchoring": ["physical_anchor", "energy_cord", "return_signal"]
+        }
+      },
+      "techniques": {
+        "projection_methods": {
+          "symbol": {
+            "process": ["symbol_focus", "energy_alignment", "consciousness_shift"],
+            "navigation": ["symbolic_pathways", "corresponding_energies", "divine_guidance"],
+            "return": ["symbol_reversal", "consciousness_reintegration", "grounding"]
+          },
+          "doorway": {
+            "process": ["door_visualization", "energy_gathering", "threshold_crossing"],
+            "navigation": ["intended_destination", "pathway_following", "landmark_recognition"],
+            "return": ["door_return", "body_reintegration", "reality_check"]
+          }
+        },
+        "realm_exploration": {
+          "elemental": {
+            "preparation": ["elemental_attunement", "corresponding_tools", "protective_measures"],
+            "navigation": ["elemental_signs", "being_interaction", "energy_work"],
+            "learning": ["wisdom_gathering", "power_understanding", "knowledge_integration"]
+          },
+          "planetary": {
+            "preparation": ["sphere_alignment", "corresponding_symbols", "divine_names"],
+            "navigation": ["sphere_pathways", "intelligence_interaction", "power_centers"],
+            "learning": ["sphere_wisdom", "power_acquisition", "knowledge_return"]
+          }
+        }
+      }
+    },
+    "energy_working": {
+      "foundation": {
+        "sensing": {
+          "techniques": ["aura_reading", "energy_feeling", "vibration_detection"],
+          "development": ["sensitivity_training", "energy_discrimination", "frequency_attunement"],
+          "application": ["diagnosis", "assessment", "verification"]
+        },
+        "manipulation": {
+          "basic": ["gathering", "directing", "releasing"],
+          "advanced": ["transforming", "storing", "combining"],
+          "mastery": ["creation", "dissolution", "transmutation"]
+        }
+      },
+      "advanced_techniques": {
+        "healing": {
+          "methods": {
+            "direct": ["energy_transfer", "blockage_removal", "pattern_correction"],
+            "indirect": ["field_adjustment", "resonance_healing", "pattern_reinforcement"],
+            "distance": ["connection_establishment", "energy_sending", "pattern_maintenance"]
+          },
+          "applications": {
+            "physical": ["body_healing", "pain_management", "vitality_enhancement"],
+            "emotional": ["trauma_release", "pattern_healing", "balance_restoration"],
+            "mental": ["thought_pattern_correction", "clarity_enhancement", "focus_improvement"]
+          }
+        },
+        "manifestation": {
+          "methods": {
+            "direct": ["energy_condensation", "pattern_formation", "reality_anchoring"],
+            "indirect": ["field_influence", "probability_adjustment", "pattern_seeding"],
+            "sustained": ["pattern_maintenance", "energy_feeding", "reality_stabilization"]
+          },
+          "applications": {
+            "physical": ["object_creation", "reality_modification", "physical_effects"],
+            "circumstantial": ["probability_manipulation", "synchronicity_creation", "opportunity_generation"],
+            "developmental": ["skill_enhancement", "ability_manifestation", "power_development"]
+          }
+        }
+      }
+    }
+  }
+} 

@@ -1,0 +1,264 @@
+{
+  "magical_beings": {
+    "elemental_beings": {
+      "salamanders": {
+        "element": "fire",
+        "characteristics": {
+          "appearance": ["flame_like", "lizard_form", "light_emanating"],
+          "temperament": ["passionate", "quick", "transformative"],
+          "energy_signature": ["intense", "radiating", "pulsing"]
+        },
+        "domains": {
+          "natural": ["flames", "volcanoes", "lightning"],
+          "magical": ["transformation", "purification", "inspiration"],
+          "psychological": ["passion", "creativity", "will"]
+        },
+        "interaction_methods": {
+          "summoning": {
+            "tools": ["wand", "red_candle", "incense"],
+            "timing": ["noon", "summer", "full_sun"],
+            "offerings": ["spices", "aromatic_woods", "volcanic_stones"]
+          },
+          "communication": {
+            "methods": ["meditation", "flame_scrying", "dream_work"],
+            "languages": ["fire_symbols", "heat_patterns", "light_signals"]
+          }
+        },
+        "governor_relationships": {
+          "teaching_roles": ["inspiration", "transformation", "energy_work"],
+          "magical_instruction": ["fire_magic", "will_development", "passion_work"]
+        }
+      },
+      "sylphs": {
+        "element": "air",
+        "characteristics": {
+          "appearance": ["translucent", "winged", "flowing"],
+          "temperament": ["intellectual", "swift", "changeable"],
+          "energy_signature": ["light", "mobile", "ethereal"]
+        },
+        "domains": {
+          "natural": ["winds", "clouds", "atmosphere"],
+          "magical": ["communication", "intellect", "movement"],
+          "psychological": ["thought", "logic", "ideas"]
+        },
+        "interaction_methods": {
+          "summoning": {
+            "tools": ["sword", "feather", "wind_chimes"],
+            "timing": ["dawn", "spring", "windy_days"],
+            "offerings": ["incense", "aromatic_oils", "bird_calls"]
+          },
+          "communication": {
+            "methods": ["thought_projection", "wind_listening", "cloud_watching"],
+            "languages": ["whistles", "mental_images", "air_symbols"]
+          }
+        },
+        "governor_relationships": {
+          "teaching_roles": ["knowledge", "communication", "mental_development"],
+          "magical_instruction": ["air_magic", "mental_powers", "divination"]
+        }
+      },
+      "undines": {
+        "element": "water",
+        "characteristics": {
+          "appearance": ["fluid", "merform", "flowing_hair"],
+          "temperament": ["emotional", "adaptable", "intuitive"],
+          "energy_signature": ["flowing", "cool", "rhythmic"]
+        },
+        "domains": {
+          "natural": ["oceans", "rivers", "rain"],
+          "magical": ["emotions", "healing", "psychic_work"],
+          "psychological": ["feelings", "intuition", "dreams"]
+        },
+        "interaction_methods": {
+          "summoning": {
+            "tools": ["chalice", "mirror", "seashells"],
+            "timing": ["twilight", "autumn", "full_moon"],
+            "offerings": ["water", "pearls", "moon_flowers"]
+          },
+          "communication": {
+            "methods": ["scrying", "dream_work", "emotional_attunement"],
+            "languages": ["feelings", "water_sounds", "flowing_patterns"]
+          }
+        },
+        "governor_relationships": {
+          "teaching_roles": ["emotional_wisdom", "healing", "intuition"],
+          "magical_instruction": ["water_magic", "healing_arts", "psychic_development"]
+        }
+      },
+      "gnomes": {
+        "element": "earth",
+        "characteristics": {
+          "appearance": ["solid", "crystalline", "earthy"],
+          "temperament": ["steady", "practical", "reliable"],
+          "energy_signature": ["dense", "stable", "grounding"]
+        },
+        "domains": {
+          "natural": ["mountains", "crystals", "plants"],
+          "magical": ["manifestation", "abundance", "protection"],
+          "psychological": ["stability", "practicality", "resources"]
+        },
+        "interaction_methods": {
+          "summoning": {
+            "tools": ["pentacle", "crystals", "plants"],
+            "timing": ["midnight", "winter", "new_moon"],
+            "offerings": ["stones", "metals", "grains"]
+          },
+          "communication": {
+            "methods": ["earth_attunement", "crystal_work", "nature_communion"],
+            "languages": ["crystal_patterns", "earth_vibrations", "plant_signals"]
+          }
+        },
+        "governor_relationships": {
+          "teaching_roles": ["manifestation", "grounding", "resource_management"],
+          "magical_instruction": ["earth_magic", "crystal_work", "abundance_creation"]
+        }
+      }
+    },
+    "angelic_hierarchies": {
+      "seraphim": {
+        "order": "first",
+        "domain": "divine_love",
+        "characteristics": {
+          "appearance": ["six_winged", "fiery", "radiant"],
+          "energy": ["intense_love", "pure_light", "divine_fire"],
+          "function": ["divine_love_transmission", "purification", "illumination"]
+        },
+        "magical_correspondences": {
+          "colors": ["bright_red", "gold", "white"],
+          "elements": ["divine_fire", "pure_light"],
+          "symbols": ["flames", "wings", "eyes"]
+        },
+        "interaction_methods": {
+          "invocation": {
+            "tools": ["highest_grade_implements", "pure_incense", "sacred_fire"],
+            "preparations": ["extensive_purification", "divine_love_meditation"],
+            "protocols": ["highest_reverence", "complete_dedication", "pure_intention"]
+          }
+        },
+        "governor_relationships": {
+          "teaching_aspects": ["divine_love", "highest_wisdom", "purification"],
+          "magical_instruction": ["seraphic_magic", "love_transmission", "divine_connection"]
+        }
+      },
+      "cherubim": {
+        "order": "second",
+        "domain": "divine_wisdom",
+        "characteristics": {
+          "appearance": ["four_faced", "many_eyed", "winged"],
+          "energy": ["wisdom_light", "knowledge_force", "understanding"],
+          "function": ["wisdom_guardians", "knowledge_keepers", "truth_revealers"]
+        },
+        "magical_correspondences": {
+          "colors": ["blue", "purple", "gold"],
+          "elements": ["divine_air", "celestial_fire"],
+          "symbols": ["book", "sword", "eye"]
+        },
+        "interaction_methods": {
+          "invocation": {
+            "tools": ["sacred_texts", "wisdom_symbols", "truth_mirrors"],
+            "preparations": ["wisdom_study", "truth_seeking", "knowledge_preparation"],
+            "protocols": ["respectful_approach", "wisdom_seeking", "truth_dedication"]
+          }
+        },
+        "governor_relationships": {
+          "teaching_aspects": ["divine_wisdom", "knowledge_transmission", "truth_revelation"],
+          "magical_instruction": ["wisdom_magic", "knowledge_work", "truth_seeking"]
+        }
+      }
+    },
+    "nature_spirits": {
+      "dryads": {
+        "domain": "trees",
+        "characteristics": {
+          "appearance": ["tree_like", "green_tinted", "flowing"],
+          "energy": ["growth", "nature_force", "life_essence"],
+          "specialties": ["tree_magic", "growth_work", "nature_healing"]
+        },
+        "interaction_methods": {
+          "communication": {
+            "tools": ["wood_wands", "leaves", "tree_essences"],
+            "timing": ["dawn", "spring", "full_moon"],
+            "offerings": ["water", "crystals", "songs"]
+          }
+        },
+        "magical_applications": {
+          "healing": ["nature_healing", "growth_stimulation", "life_force_work"],
+          "manifestation": ["abundance", "growth", "natural_magic"],
+          "wisdom": ["tree_wisdom", "nature_knowledge", "life_understanding"]
+        }
+      },
+      "faeries": {
+        "types": {
+          "trooping_fae": {
+            "characteristics": ["social", "organized", "hierarchical"],
+            "domains": ["nature_order", "seasonal_changes", "natural_cycles"],
+            "interaction_protocols": ["formal", "respectful", "structured"]
+          },
+          "solitary_fae": {
+            "characteristics": ["independent", "powerful", "territorial"],
+            "domains": ["specific_places", "natural_features", "magical_tasks"],
+            "interaction_protocols": ["careful", "individual", "specific"]
+          }
+        },
+        "magical_associations": {
+          "elements": ["nature_force", "wild_magic", "life_energy"],
+          "timing": ["twilight", "dawn", "between_times"],
+          "places": ["wild_places", "ancient_sites", "natural_features"]
+        },
+        "interaction_methods": {
+          "offerings": ["milk", "honey", "shiny_objects"],
+          "protocols": ["politeness", "no_iron", "fair_exchange"],
+          "warnings": ["never_thank", "no_promises", "maintain_boundaries"]
+        }
+      }
+    },
+    "guardian_entities": {
+      "personal_guardians": {
+        "types": {
+          "higher_self": {
+            "nature": "divine_aspect",
+            "function": ["guidance", "protection", "evolution"],
+            "interaction": ["meditation", "dreams", "intuition"]
+          },
+          "spirit_guide": {
+            "nature": "evolved_being",
+            "function": ["teaching", "protection", "development"],
+            "interaction": ["meditation", "journeying", "dreams"]
+          }
+        },
+        "interaction_methods": {
+          "contact": {
+            "tools": ["mirror", "crystal", "journal"],
+            "states": ["meditation", "dream", "journey"],
+            "timing": ["quiet_times", "spiritual_days", "power_moments"]
+          },
+          "development": {
+            "practices": ["regular_meditation", "journaling", "energy_work"],
+            "stages": ["awareness", "contact", "communication", "collaboration"]
+          }
+        }
+      },
+      "place_guardians": {
+        "types": {
+          "temple_guardians": {
+            "nature": "sacred_protectors",
+            "function": ["protection", "maintenance", "energy_management"],
+            "interaction": ["ritual", "offering", "dedication"]
+          },
+          "land_spirits": {
+            "nature": "location_beings",
+            "function": ["land_protection", "nature_balance", "place_harmony"],
+            "interaction": ["nature_communion", "offerings", "respect"]
+          }
+        },
+        "interaction_protocols": {
+          "establishment": {
+            "methods": ["formal_ritual", "agreement_making", "energy_work"],
+            "offerings": ["regular_attention", "energy_feeding", "physical_items"],
+            "maintenance": ["regular_communication", "energy_renewal", "respect_showing"]
+          }
+        }
+      }
+    }
+  }
+} 

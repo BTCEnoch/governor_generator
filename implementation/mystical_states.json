@@ -1,0 +1,186 @@
+{
+  "mystical_states": {
+    "meditation_levels": {
+      "preliminary": {
+        "physical": {
+          "body_state": ["relaxed", "still", "balanced"],
+          "breathing": ["rhythmic", "deep", "controlled"],
+          "energy": ["settling", "calming", "centering"]
+        },
+        "mental": {
+          "awareness": ["present", "observant", "detached"],
+          "thought_process": ["slowing", "quieting", "organizing"],
+          "focus": ["developing", "strengthening", "stabilizing"]
+        },
+        "signs": {
+          "physical": ["muscle_relaxation", "breath_deepening", "tension_release"],
+          "mental": ["thought_slowing", "mental_clarity", "increased_awareness"],
+          "energetic": ["tingling", "warmth", "heaviness"]
+        }
+      },
+      "intermediate": {
+        "physical": {
+          "body_state": ["deeply_relaxed", "energetically_active", "light"],
+          "breathing": ["automatic", "refined", "subtle"],
+          "energy": ["flowing", "circulating", "expanding"]
+        },
+        "mental": {
+          "awareness": ["expanded", "clear", "focused"],
+          "thought_process": ["minimal", "controlled", "directed"],
+          "consciousness": ["heightened", "stable", "unified"]
+        },
+        "experiences": {
+          "sensory": ["light_patterns", "internal_sounds", "energy_sensations"],
+          "mental": ["thought_cessation", "mental_silence", "clarity"],
+          "energetic": ["energy_flows", "chakra_activation", "field_expansion"]
+        }
+      },
+      "advanced": {
+        "physical": {
+          "body_state": ["transcended", "ethereal", "transparent"],
+          "breathing": ["minimal", "spiritualized", "pranayamic"],
+          "energy": ["radiant", "transformed", "unified"]
+        },
+        "mental": {
+          "awareness": ["cosmic", "universal", "divine"],
+          "consciousness": ["non_dual", "unified", "transcendent"],
+          "perception": ["direct_knowing", "intuitive_wisdom", "divine_insight"]
+        },
+        "experiences": {
+          "mystical": ["unity", "timelessness", "boundlessness"],
+          "spiritual": ["divine_presence", "cosmic_consciousness", "enlightenment"],
+          "transformative": ["ego_dissolution", "divine_union", "spiritual_rebirth"]
+        }
+      }
+    },
+    "trance_states": {
+      "light_trance": {
+        "characteristics": {
+          "physical": ["relaxed", "slightly_altered", "aware"],
+          "mental": ["suggestible", "focused", "receptive"],
+          "energetic": ["opening", "sensitive", "responsive"]
+        },
+        "applications": {
+          "magical": ["energy_work", "light_healing", "basic_divination"],
+          "spiritual": ["prayer", "meditation", "contemplation"],
+          "practical": ["learning", "creativity", "problem_solving"]
+        },
+        "induction_methods": {
+          "physical": ["breathing", "drumming", "movement"],
+          "mental": ["visualization", "counting", "focusing"],
+          "energetic": ["energy_circulation", "chakra_activation", "grounding"]
+        }
+      },
+      "medium_trance": {
+        "characteristics": {
+          "physical": ["deeply_relaxed", "partially_dissociated", "energetically_active"],
+          "mental": ["highly_receptive", "altered_consciousness", "enhanced_perception"],
+          "energetic": ["expanded", "flowing", "connected"]
+        },
+        "applications": {
+          "magical": ["channeling", "healing", "advanced_divination"],
+          "spiritual": ["spirit_communication", "astral_projection", "vision_work"],
+          "transformative": ["emotional_healing", "past_life_work", "shadow_integration"]
+        },
+        "experiences": {
+          "sensory": ["visions", "voices", "sensations"],
+          "psychic": ["telepathy", "clairvoyance", "precognition"],
+          "spiritual": ["guide_contact", "divine_messages", "spiritual_teachings"]
+        }
+      },
+      "deep_trance": {
+        "characteristics": {
+          "physical": ["cataleptic", "fully_dissociated", "energetically_transformed"],
+          "mental": ["completely_altered", "transcendent", "unified"],
+          "consciousness": ["non_ordinary", "expanded", "cosmic"]
+        },
+        "applications": {
+          "magical": ["high_magic", "divine_communion", "reality_manipulation"],
+          "spiritual": ["enlightenment", "divine_union", "cosmic_consciousness"],
+          "transformative": ["complete_transformation", "spiritual_death_rebirth", "divine_realization"]
+        },
+        "phenomena": {
+          "physical": ["levitation", "temperature_changes", "light_phenomena"],
+          "energetic": ["kundalini", "spiritual_fire", "divine_energy"],
+          "consciousness": ["samadhi", "nirvana", "divine_union"]
+        }
+      }
+    },
+    "mystical_visions": {
+      "types": {
+        "prophetic": {
+          "characteristics": ["future_oriented", "symbolic", "meaningful"],
+          "content": ["future_events", "warnings", "guidance"],
+          "interpretation": ["symbol_analysis", "context_consideration", "pattern_recognition"]
+        },
+        "instructional": {
+          "characteristics": ["teaching_oriented", "clear", "structured"],
+          "content": ["spiritual_teachings", "magical_instructions", "divine_wisdom"],
+          "application": ["practical_implementation", "spiritual_development", "magical_practice"]
+        },
+        "transformative": {
+          "characteristics": ["life_changing", "profound", "overwhelming"],
+          "content": ["divine_revelation", "spiritual_truth", "cosmic_order"],
+          "effects": ["personal_transformation", "spiritual_awakening", "consciousness_expansion"]
+        }
+      },
+      "reception_methods": {
+        "dreams": {
+          "types": ["lucid", "prophetic", "instructional"],
+          "interpretation": ["symbol_analysis", "message_extraction", "guidance_recognition"],
+          "validation": ["cross_reference", "practical_testing", "pattern_confirmation"]
+        },
+        "meditation": {
+          "approaches": ["focused", "receptive", "contemplative"],
+          "experiences": ["visual_images", "inner_voice", "direct_knowing"],
+          "integration": ["recording", "analysis", "implementation"]
+        },
+        "spontaneous": {
+          "triggers": ["sacred_places", "spiritual_practices", "divine_grace"],
+          "manifestations": ["waking_visions", "divine_presence", "supernatural_phenomena"],
+          "integration": ["immediate_recording", "context_preservation", "meaning_extraction"]
+        }
+      }
+    },
+    "spiritual_experiences": {
+      "divine_contact": {
+        "types": {
+          "direct": {
+            "characteristics": ["immediate", "overwhelming", "transformative"],
+            "effects": ["consciousness_transformation", "divine_knowledge", "spiritual_awakening"],
+            "integration": ["life_changes", "spiritual_dedication", "wisdom_sharing"]
+          },
+          "mediated": {
+            "characteristics": ["gradual", "guided", "progressive"],
+            "effects": ["spiritual_growth", "understanding_development", "capacity_building"],
+            "integration": ["practice_development", "teaching_reception", "wisdom_application"]
+          }
+        },
+        "manifestations": {
+          "consciousness": ["expanded_awareness", "divine_presence", "unity_experience"],
+          "physical": ["light_phenomena", "energy_sensations", "bodily_transformations"],
+          "spiritual": ["divine_love", "cosmic_consciousness", "spiritual_insight"]
+        }
+      },
+      "kundalini": {
+        "stages": {
+          "awakening": {
+            "signs": ["energy_movement", "spontaneous_postures", "consciousness_shifts"],
+            "experiences": ["energy_rushes", "chakra_activations", "consciousness_expansions"],
+            "challenges": ["energy_management", "physical_adjustments", "psychological_integration"]
+          },
+          "development": {
+            "processes": ["channel_clearing", "chakra_development", "consciousness_expansion"],
+            "experiences": ["siddhis", "enhanced_perception", "spiritual_insights"],
+            "integration": ["energy_mastery", "consciousness_stabilization", "spiritual_maturation"]
+          },
+          "completion": {
+            "characteristics": ["full_activation", "stable_enlightenment", "divine_union"],
+            "manifestations": ["permanent_transformation", "spiritual_completion", "divine_embodiment"],
+            "expressions": ["teaching", "healing", "divine_service"]
+          }
+        }
+      }
+    }
+  }
+} 
