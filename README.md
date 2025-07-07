@@ -36,6 +36,138 @@ The Enochian Governor Generation system is a sophisticated AI-powered game engin
    - On-chain achievements
    - Zero web dependencies
 
+## 📁 Directory Structure Index
+
+### Core System Components
+```
+core/
+├── game_assets/                    # Game asset management
+│   ├── artifact_manager.py         # Artifact creation and handling
+│   ├── pack/                      # Base game assets
+│   │   ├── aethyrs.json           # Aethyric realm data
+│   │   └── enochian_alphabet.json # Sacred alphabet mappings
+│   └── visual_aspects/            # Visual element handling
+│       ├── base.py                # Base visual components
+│       └── bitcoin_optimized.py   # L1 optimized visuals
+├── governors/                      # Governor angel system
+│   ├── profiler/                  # Governor profiling
+│   │   ├── core/                  # Core profiling logic
+│   │   ├── interview/             # Governor interaction system
+│   │   └── schemas/               # Profile data structures
+│   └── services/                  # Governor services
+├── lighthouse/                     # Knowledge base system
+│   ├── retrievers/                # Knowledge retrieval
+│   ├── schemas/                   # Knowledge structures
+│   └── traditions/                # Mystical traditions
+├── onchain/                       # Bitcoin L1 integration
+│   ├── governor_core/             # Core governor contracts
+│   └── protocol/                  # TAP protocol integration
+├── questlines/                    # Quest generation system
+│   ├── rewards/                   # Reward management
+│   ├── schemas/                   # Quest data structures
+│   └── templates/                 # Quest templates
+└── utils/                         # Utility functions
+    ├── batch/                     # Batch processing
+    ├── custom_logging/            # Logging system
+    ├── mystical/                  # Mystical utilities
+    └── mystical_systems/          # Mystical mechanics
+```
+
+### Data and Resources
+```
+data/
+├── canon/                         # Canonical sources
+│   └── expansions/               # System expansions
+├── governors/                     # Governor data
+│   ├── indexes/                  # Governor indexes
+│   └── seeds/                    # Governor seed data
+├── knowledge/                     # Knowledge base data
+│   ├── archives/                 # Knowledge archives
+│   ├── generated/                # Generated content
+│   └── seeds/                    # Knowledge seeds
+└── questlines/                   # Quest data storage
+```
+
+### Documentation
+```
+docs/
+├── api/                          # API documentation
+├── architecture/                 # System architecture
+│   └── diagrams/                # System diagrams
+├── concepts/                     # Core concepts
+├── game_design/                  # Game mechanics
+├── implementation/              # Implementation guides
+├── lighthouse/                  # Lighthouse docs
+│   ├── diagrams/               # System diagrams
+│   ├── dialog-engine/          # Dialog system
+│   └── game-loops/             # Game mechanics
+└── technical-specs/            # Technical specifications
+```
+
+### Testing and Development
+```
+tests/
+├── core/                        # Core system tests
+│   ├── game_assets/            # Asset tests
+│   ├── governors/              # Governor tests
+│   ├── lighthouse/             # Lighthouse tests
+│   └── questlines/             # Quest system tests
+└── engines/                    # Engine tests
+    ├── mystical_systems/       # Mystical system tests
+    └── storyline_generation/   # Story generation tests
+```
+
+## 🔧 Development Setup
+
+1. **Environment Setup**
+```bash
+python -m venv venv
+source venv/bin/activate  # Unix
+venv\Scripts\activate     # Windows
+pip install -r requirements.txt
+```
+
+2. **Running Tests**
+```bash
+python -m pytest tests/
+```
+
+3. **Building Documentation**
+```bash
+cd docs
+mkdocs build
+```
+
+## 📚 Additional Resources
+
+- [Implementation Guide](docs/IMPLEMENTATION.md)
+- [Architecture Overview](docs/architecture/architecture_map_trac.md)
+- [Game Design Document](docs/game_design/README.md)
+- [Technical Specifications](docs/technical-specs/README.md)
+
+## 🔒 Security and Privacy
+
+- All sensitive data is stored in `.env` files (never committed)
+- API keys are managed securely
+- User data is protected according to regulations
+- All blockchain interactions are validated
+
+## 📝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
+
+## 📄 License
+
+This project is proprietary and confidential. All rights reserved.
+
+---
+
+**🏛️ REMEMBER: We are preserving humanity's sacred wisdom for eternity. Code with reverence, respect, and technical excellence. ⛓️✨**
+
 ## Project Structure
 
 ```
