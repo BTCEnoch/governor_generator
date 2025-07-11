@@ -134,6 +134,18 @@ def get_aethyr_number(aethyr: str) -> int:
     }
     return aethyr_map.get(aethyr.upper(), 15)  # Default to middle aethyr if unknown
 
+def get_aethyr_name(number: int) -> str:
+    """Convert aethyr number (1-30) to name"""
+    aethyr_names = {
+        1: 'LIL', 2: 'ARN', 3: 'ZOM', 4: 'PAZ', 5: 'LIT',
+        6: 'MAZ', 7: 'DEO', 8: 'ZID', 9: 'ZIP', 10: 'ZAX',
+        11: 'ICH', 12: 'LOE', 13: 'ZIM', 14: 'UTA', 15: 'OXO',
+        16: 'LEA', 17: 'TAN', 18: 'ZEN', 19: 'POP', 20: 'CHR',
+        21: 'ASP', 22: 'LIN', 23: 'TOR', 24: 'NIA', 25: 'UTI',
+        26: 'DES', 27: 'ZAA', 28: 'BAG', 29: 'RII', 30: 'TEX'
+    }
+    return aethyr_names.get(number, 'OXO')  # Default to middle aethyr if unknown
+
 def get_geometry_patterns(seed: bytes, aethyr: str) -> int:
     """Get geometry patterns based on seed and aethyr"""
     patterns = 0
@@ -235,7 +247,8 @@ def expand_visual_traits(binary_data: bytes) -> Dict[str, Any]:
 
 def verify_traits(binary_data: bytes, governor_name: str, aethyr: int, element: str) -> bool:
     """Verify traits were generated correctly"""
-    expected = generate_visual_traits(governor_name, aethyr, element)
+    aethyr_name = get_aethyr_name(aethyr)
+    expected = generate_visual_traits(governor_name, aethyr_name, element)
     return binary_data == expected 
 
 class VisualAspectBatchProcessor(UnifiedBatchProcessor):
@@ -246,24 +259,27 @@ class VisualAspectBatchProcessor(UnifiedBatchProcessor):
         try:
             # Extract and validate required fields
             governor_name = cast(str, item.get('name'))
-            aethyr = cast(int, item.get('aethyr'))
+            aethyr_num = cast(int, item.get('aethyr'))
             element = cast(str, item.get('element'))
             
             if not isinstance(governor_name, str):
                 raise ValueError("governor_name must be a string")
-            if not isinstance(aethyr, int):
+            if not isinstance(aethyr_num, int):
                 raise ValueError("aethyr must be an integer")
             if not isinstance(element, str):
                 raise ValueError("element must be a string")
             
+            # Convert aethyr number to name
+            aethyr_name = get_aethyr_name(aethyr_num)
+            
             # Generate visual traits
-            binary_traits = generate_visual_traits(governor_name, aethyr, element)
+            binary_traits = generate_visual_traits(governor_name, aethyr_name, element)
             
             # Expand for verification
             expanded = expand_visual_traits(binary_traits)
             
             # Verify generation
-            if not verify_traits(binary_traits, governor_name, aethyr, element):
+            if not verify_traits(binary_traits, governor_name, aethyr_num, element):
                 raise ValueError("Generated traits verification failed")
             
             return {
