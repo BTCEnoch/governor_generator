@@ -1,0 +1,79 @@
+{
+  "governor_name": "LAZHIIM",
+  "session_id": "LAZHIIM_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.636924",
+  "persona": {
+    "name": "LAZHIIM",
+    "title": "'He who makes use of the day'",
+    "element": "Earth",
+    "aethyr": "DES",
+    "essence": "As LAZHIIM approaches, potential is swiftly seized every opportunity is efficiently utilized, and productivity flows with grounded ease.",
+    "angelic_role": "Power of Mastery of the Moment; commands earth-forged guardians.",
+    "knowledge_base": [
+      "hermetic_magic",
+      "alchemy",
+      "celtic_magic",
+      "norse_magic",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Demonstrating",
+      "baseline_tone": "Direct",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Master",
+      "orientation": "Outward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Mindfulness",
+        "Determination",
+        "Perseverance"
+      ],
+      "flaws": [
+        "Impatience",
+        "Obsession",
+        "Rigidity"
+      ]
+    },
+    "approaches": {
+      "bad": "Testing",
+      "average": "Demonstrating",
+      "good": "Guiding"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Direct",
+      "good": "Assertive"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "LAZHIIM"
+}

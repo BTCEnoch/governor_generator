@@ -1,0 +1,28 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "SILVER",
+  "geometry": {
+    "patterns": [
+      "MERKABA"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 2,
+    "radius": 2,
+    "intensity": 0
+  },
+  "time_variations": 179,
+  "energy_signature": 179,
+  "symbol_set": 248,
+  "light_shadow": 105,
+  "special_properties": [
+    142,
+    129,
+    93,
+    86
+  ]
+}

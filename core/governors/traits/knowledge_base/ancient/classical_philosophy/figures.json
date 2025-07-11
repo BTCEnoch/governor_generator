@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "classical_philosophy",
+      "name": "Classical Greek Philosophy",
+      "category": "tradition_archetype",
+      "definition": "",
+      "dates": {},
+      "roles": [],
+      "contributions": [
+        "Character excellence is the foundation of all leadership",
+        "The examined life reveals wisdom and self-knowledge",
+        "Virtue lies in finding balance between extremes",
+        "Reason connects human consciousness to cosmic order",
+        "True happiness comes from living excellently",
+        "Ethical choices create sustainable success",
+        "Philosophy guides practical decision-making"
+      ],
+      "key_works": [],
+      "attributes": {
+        "governor_essence": "A Classical Greek Philosophy Governor leads through virtue, reason, and the pursuit of excellence, balancing ethical principles with practical wisdom while fostering human flourishing in all endeavors.",
+        "conflict_styles": [],
+        "communication_styles": [
+          "Reasoned discourse",
+          "Virtue-based dialogue",
+          "Socratic questioning",
+          "Excellence-inspiring"
+        ],
+        "relationship_approaches": []
+      }
+    }
+  ]
+}

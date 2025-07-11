@@ -1,0 +1,33 @@
+{
+  "form": {
+    "name": "Ethereal",
+    "description": "A luminous, ever-shifting form of pure light and energy",
+    "interactions": [
+      "phase_shift",
+      "energy_resonance",
+      "light_manipulation"
+    ]
+  },
+  "color": "GOLDEN",
+  "geometry": {
+    "patterns": [
+      "METATRON"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 1,
+    "radius": 2,
+    "intensity": 5
+  },
+  "time_variations": 112,
+  "energy_signature": 97,
+  "symbol_set": 172,
+  "light_shadow": 158,
+  "special_properties": [
+    200,
+    192,
+    11,
+    72
+  ]
+}

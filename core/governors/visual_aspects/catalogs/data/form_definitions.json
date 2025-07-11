@@ -1,0 +1,130 @@
+{
+  "version": "1.0",
+  "forms": [
+    {
+      "name": "FLUID_CRYSTALLINE",
+      "base_type": "FLUID",
+      "description": "A form that combines flowing water-like properties with crystalline structure, representing the balance between change and stability",
+      "valid_interactions": [
+        "FLOWING",
+        "REFLECTING",
+        "TRANSMUTING",
+        "RESONATING"
+      ],
+      "tradition_origins": [
+        "enochian_magic",
+        "hermetic_alchemy",
+        "egyptian_magic"
+      ],
+      "elemental_affinities": [
+        "water",
+        "aether"
+      ],
+      "aethyr_resonance": [
+        "LIL",
+        "ARN",
+        "ZOM"
+      ]
+    },
+    {
+      "name": "RADIANT_SYMBOLIC",
+      "base_type": "RADIANT",
+      "description": "A luminous form composed of living light that arranges itself into sacred geometric patterns and sigils",
+      "valid_interactions": [
+        "EMANATING",
+        "PULSING",
+        "HARMONIZING",
+        "CATALYZING"
+      ],
+      "tradition_origins": [
+        "enochian_magic",
+        "kabbalah",
+        "sacred_geometry"
+      ],
+      "elemental_affinities": [
+        "fire",
+        "spirit"
+      ],
+      "aethyr_resonance": [
+        "LIL",
+        "PAZ",
+        "ZID"
+      ]
+    },
+    {
+      "name": "ETHEREAL_METAMORPHIC",
+      "base_type": "ETHEREAL",
+      "description": "A misty, translucent form that constantly shifts between defined states while maintaining its essential nature",
+      "valid_interactions": [
+        "FLOWING",
+        "CYCLING",
+        "ABSORBING",
+        "TRANSMUTING"
+      ],
+      "tradition_origins": [
+        "enochian_magic",
+        "hermeticism",
+        "alchemy"
+      ],
+      "elemental_affinities": [
+        "air",
+        "water"
+      ],
+      "aethyr_resonance": [
+        "ZIM",
+        "LOE",
+        "IKH"
+      ]
+    },
+    {
+      "name": "PRISMATIC_ARCHETYPAL",
+      "base_type": "PRISMATIC",
+      "description": "A multi-faceted crystalline form that refracts light in ways that reveal fundamental cosmic patterns",
+      "valid_interactions": [
+        "REFLECTING",
+        "RESONATING",
+        "HARMONIZING",
+        "CATALYZING"
+      ],
+      "tradition_origins": [
+        "enochian_magic",
+        "platonic_philosophy",
+        "sacred_geometry"
+      ],
+      "elemental_affinities": [
+        "aether",
+        "fire"
+      ],
+      "aethyr_resonance": [
+        "LIL",
+        "ASP",
+        "KHR"
+      ]
+    },
+    {
+      "name": "ORGANIC_SYMBOLIC",
+      "base_type": "ORGANIC",
+      "description": "A living, growing form that naturally develops into sacred patterns and sigils",
+      "valid_interactions": [
+        "FLOWING",
+        "CYCLING",
+        "RESONATING",
+        "HARMONIZING"
+      ],
+      "tradition_origins": [
+        "enochian_magic",
+        "druidic_wisdom",
+        "hermetic_naturalism"
+      ],
+      "elemental_affinities": [
+        "earth",
+        "water"
+      ],
+      "aethyr_resonance": [
+        "TAN",
+        "LEA",
+        "OXO"
+      ]
+    }
+  ]
+} 

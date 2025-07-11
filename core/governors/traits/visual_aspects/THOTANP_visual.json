@@ -1,0 +1,35 @@
+{
+  "form": {
+    "name": "Ethereal",
+    "description": "A luminous, ever-shifting form of pure light and energy",
+    "interactions": [
+      "phase_shift",
+      "energy_resonance",
+      "light_manipulation"
+    ]
+  },
+  "color": "AZURE",
+  "geometry": {
+    "patterns": [
+      "MERKABA",
+      "FLOWER_OF_LIFE",
+      "TORUS"
+    ],
+    "complexity": 3
+  },
+  "environment": {
+    "effect_type": 3,
+    "radius": 3,
+    "intensity": 2
+  },
+  "time_variations": 236,
+  "energy_signature": 114,
+  "symbol_set": 138,
+  "light_shadow": 203,
+  "special_properties": [
+    199,
+    86,
+    43,
+    86
+  ]
+}

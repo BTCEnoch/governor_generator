@@ -1,0 +1,79 @@
+{
+  "governor_name": "MATHVLA",
+  "session_id": "MATHVLA_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.639924",
+  "persona": {
+    "name": "MATHVLA",
+    "title": "'He who ends actions'",
+    "element": "Earth",
+    "aethyr": "ZAA",
+    "essence": "As MATHVLA approaches, wavering ends at once a decisive finality grips the moment, ensuring all actions reach a firm and resolute conclusion.",
+    "angelic_role": "Archangel of Final Verdict; marshals earth-forged wardens.",
+    "knowledge_base": [
+      "hermeticism",
+      "kabbalah",
+      "alchemy",
+      "theurgy",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Judgement",
+      "sephirot": "Hod",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Gabriel",
+      "numerology": 3
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Testing",
+      "baseline_tone": "Direct",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Judge",
+      "orientation": "Outward-Focused",
+      "polarity": "Destructive",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Justice",
+        "Discernment",
+        "Fortitude"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Aloofness",
+        "Severity"
+      ]
+    },
+    "approaches": {
+      "bad": "Punishing",
+      "average": "Testing",
+      "good": "Judging"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Direct",
+      "good": "Solemn"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "MATHVLA"
+}

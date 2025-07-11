@@ -1,0 +1,30 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "GOLDEN",
+  "geometry": {
+    "patterns": [
+      "TORUS",
+      "SPIRAL",
+      "FRACTAL"
+    ],
+    "complexity": 3
+  },
+  "environment": {
+    "effect_type": 1,
+    "radius": 0,
+    "intensity": 4
+  },
+  "time_variations": 224,
+  "energy_signature": 69,
+  "symbol_set": 154,
+  "light_shadow": 109,
+  "special_properties": [
+    13,
+    150,
+    127,
+    5
+  ]
+}

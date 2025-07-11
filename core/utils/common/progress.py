@@ -1,112 +1,86 @@
 """
-Progress Tracking Utilities
-Common progress tracking and reporting functions
+Progress tracking utilities for batch operations.
 """
 
-import logging
+from typing import Dict, Optional
+from datetime import datetime
 import time
-from typing import Any, Dict, List, Optional, Callable, Iterator
-from dataclasses import dataclass
-from datetime import datetime, timedelta
 
-logger = logging.getLogger(__name__)
+from core.utils.custom_logging import setup_logger
 
-@dataclass
-class ProgressStats:
-    """Statistics for progress tracking"""
-    total: int
-    completed: int
-    failed: int
-    start_time: datetime
-    
-    @property
-    def success_rate(self) -> float:
-        """Calculate success rate"""
-        return self.completed / self.total if self.total > 0 else 0
-        
-    @property
-    def elapsed_time(self) -> timedelta:
-        """Calculate elapsed time"""
-        return datetime.now() - self.start_time
-        
-    @property
-    def items_per_second(self) -> float:
-        """Calculate processing rate"""
-        elapsed = self.elapsed_time.total_seconds()
-        return self.completed / elapsed if elapsed > 0 else 0
+logger = setup_logger(__name__)
 
 class ProgressTracker:
-    """Track progress of batch operations"""
+    """
+    Tracks progress of batch operations with timing and completion estimates.
+    """
     
-    def __init__(self, total: int, update_interval: float = 1.0):
-        self.total = total
-        self.completed = 0
-        self.failed = 0
-        self.start_time = datetime.now()
-        self.last_update = time.time()
-        self.update_interval = update_interval
+    def __init__(self):
+        self.jobs: Dict[str, Dict] = {}
         
-    def update(self, success: bool = True) -> None:
-        """
-        Update progress
+    def start_job(self, job_id: str, total: int) -> None:
+        """Start tracking a new job"""
+        self.jobs[job_id] = {
+            'total': total,
+            'current': 0,
+            'start_time': datetime.now(),
+            'last_update': time.time(),
+            'completed': False
+        }
+        logger.info(f"📊 Started tracking job {job_id} with {total} items")
         
-        Args:
-            success: Whether the operation succeeded
-        """
-        if success:
-            self.completed += 1
+    def update_progress(self, job_id: str, current: int) -> None:
+        """Update progress for a job"""
+        if job_id not in self.jobs:
+            logger.warning(f"⚠️ Attempted to update unknown job {job_id}")
+            return
+            
+        job = self.jobs[job_id]
+        job['current'] = current
+        now = time.time()
+        
+        # Calculate progress percentage
+        progress = (current / job['total']) * 100 if job['total'] > 0 else 0
+        
+        # Calculate speed and ETA
+        elapsed = now - job['last_update']
+        if elapsed >= 1.0:  # Update every second
+            items_per_sec = (current - job['current']) / elapsed
+            remaining = job['total'] - current
+            eta_seconds = remaining / items_per_sec if items_per_sec > 0 else 0
+            
+            logger.info(
+                f"📈 Job {job_id}: {progress:.1f}% complete "
+                f"({current}/{job['total']}) "
+                f"ETA: {self._format_time(eta_seconds)}"
+            )
+            
+            job['last_update'] = now
+            
+    def complete_job(self, job_id: str) -> None:
+        """Mark a job as completed"""
+        if job_id in self.jobs:
+            job = self.jobs[job_id]
+            job['completed'] = True
+            duration = datetime.now() - job['start_time']
+            logger.info(
+                f"✅ Job {job_id} completed in {duration.total_seconds():.1f}s"
+            )
+            
+    def get_progress(self, job_id: str) -> Optional[float]:
+        """Get current progress percentage for a job"""
+        if job_id in self.jobs:
+            job = self.jobs[job_id]
+            return (job['current'] / job['total']) * 100 if job['total'] > 0 else 0
+        return None
+        
+    def _format_time(self, seconds: float) -> str:
+        """Format seconds into human readable time"""
+        if seconds < 60:
+            return f"{seconds:.0f}s"
+        elif seconds < 3600:
+            minutes = seconds / 60
+            return f"{minutes:.0f}m"
         else:
-            self.failed += 1
-            
-        current_time = time.time()
-        if current_time - self.last_update >= self.update_interval:
-            self.log_progress()
-            self.last_update = current_time
-            
-    def log_progress(self) -> None:
-        """Log current progress"""
-        stats = self.get_stats()
-        logger.info(
-            f"Progress: {stats.completed}/{stats.total} "
-            f"({stats.success_rate:.1%}) - "
-            f"Rate: {stats.items_per_second:.1f} items/sec"
-        )
-        
-    def get_stats(self) -> ProgressStats:
-        """Get current statistics"""
-        return ProgressStats(
-            total=self.total,
-            completed=self.completed,
-            failed=self.failed,
-            start_time=self.start_time
-        )
-
-def track_progress(
-    items: List[Any],
-    operation: Callable[[Any], Any],
-    update_interval: float = 1.0
-) -> Iterator[Any]:
-    """
-    Generator that tracks progress while processing items
-    
-    Args:
-        items: Items to process
-        operation: Function to apply to each item
-        update_interval: Progress update interval in seconds
-        
-    Yields:
-        Operation results
-    """
-    tracker = ProgressTracker(len(items), update_interval)
-    
-    for item in items:
-        try:
-            result = operation(item)
-            tracker.update(success=True)
-            yield result
-        except Exception as e:
-            logger.error(f"Error processing item: {e}")
-            tracker.update(success=False)
-            
-    # Final progress update
-    tracker.log_progress() 
+            hours = seconds / 3600
+            return f"{hours:.1f}h" 

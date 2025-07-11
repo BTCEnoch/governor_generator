@@ -1,0 +1,79 @@
+{
+  "governor_name": "DOCEPAX",
+  "session_id": "DOCEPAX_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.623925",
+  "persona": {
+    "name": "DOCEPAX",
+    "title": "'He who names only great names'",
+    "element": "Fire",
+    "aethyr": "ZIM",
+    "essence": "In DOCEPAX's presence, every deed finds its true name this discerning herald crowns each act with a resonant, legendary title.",
+    "angelic_role": "Throne of Herald of Sacred Names; marshals storm-winged heralds.",
+    "knowledge_base": [
+      "kabbalah",
+      "gematria",
+      "numerology",
+      "onomancy",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Scribing",
+      "baseline_tone": "Formal",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Herald",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Regal",
+      "virtues": [
+        "Discernment",
+        "Vision",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Pride",
+        "Zealousness",
+        "Aloofness"
+      ]
+    },
+    "approaches": {
+      "bad": "Prophesying",
+      "average": "Scribing",
+      "good": "Naming (defaulting to Teaching as closest match)"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Formal",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "DOCEPAX"
+}

@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "one",
+      "name": "One",
+      "number": 1,
+      "definition": "The number of unity, leadership, and divine will.",
+      "category": "numerology",
+      "qualities": [
+        "independence",
+        "originality",
+        "leadership"
+      ],
+      "governor_attributes": [
+        "pioneering",
+        "innovative",
+        "self-reliant"
+      ],
+      "planetary_correspondence": "Sun",
+      "domains": [
+        "creation",
+        "initiation",
+        "individuality"
+      ]
+    },
+    {
+      "id": "two",
+      "name": "Two",
+      "number": 2,
+      "definition": "The number of duality, partnership, and balance.",
+      "category": "numerology",
+      "qualities": [
+        "cooperation",
+        "diplomacy",
+        "sensitivity"
+      ],
+      "governor_attributes": [
+        "mediating",
+        "intuitive",
+        "harmonizing"
+      ],
+      "planetary_correspondence": "Moon",
+      "domains": [
+        "relationships",
+        "balance",
+        "receptivity"
+      ]
+    },
+    {
+      "id": "three",
+      "name": "Three",
+      "number": 3,
+      "definition": "The number of creation, expression, and growth.",
+      "category": "numerology",
+      "qualities": [
+        "creativity",
+        "communication",
+        "joy"
+      ],
+      "governor_attributes": [
+        "expressive",
+        "optimistic",
+        "inspiring"
+      ],
+      "planetary_correspondence": "Jupiter",
+      "domains": [
+        "creativity",
+        "communication",
+        "expansion"
+      ]
+    },
+    {
+      "id": "four",
+      "name": "Four",
+      "number": 4,
+      "definition": "The number of stability, order, and manifestation.",
+      "category": "numerology",
+      "qualities": [
+        "stability",
+        "organization",
+        "practicality"
+      ],
+      "governor_attributes": [
+        "grounding",
+        "methodical",
+        "reliable"
+      ],
+      "planetary_correspondence": "Saturn",
+      "domains": [
+        "foundation",
+        "structure",
+        "manifestation"
+      ]
+    },
+    {
+      "id": "five",
+      "name": "Five",
+      "number": 5,
+      "definition": "The number of change, freedom, and adventure.",
+      "category": "numerology",
+      "qualities": [
+        "adaptability",
+        "versatility",
+        "curiosity"
+      ],
+      "governor_attributes": [
+        "adventurous",
+        "versatile",
+        "progressive"
+      ],
+      "planetary_correspondence": "Mercury",
+      "domains": [
+        "change",
+        "freedom",
+        "experience"
+      ]
+    },
+    {
+      "id": "six",
+      "name": "Six",
+      "number": 6,
+      "definition": "The number of harmony, love, and responsibility.",
+      "category": "numerology",
+      "qualities": [
+        "harmony",
+        "nurturing",
+        "service"
+      ],
+      "governor_attributes": [
+        "compassionate",
+        "responsible",
+        "harmonious"
+      ],
+      "planetary_correspondence": "Venus",
+      "domains": [
+        "love",
+        "balance",
+        "service"
+      ]
+    },
+    {
+      "id": "seven",
+      "name": "Seven",
+      "number": 7,
+      "definition": "The number of mystery, wisdom, and spirituality.",
+      "category": "numerology",
+      "qualities": [
+        "analysis",
+        "wisdom",
+        "mysticism"
+      ],
+      "governor_attributes": [
+        "analytical",
+        "mystical",
+        "introspective"
+      ],
+      "planetary_correspondence": "Neptune",
+      "domains": [
+        "wisdom",
+        "spirituality",
+        "understanding"
+      ]
+    },
+    {
+      "id": "eight",
+      "name": "Eight",
+      "number": 8,
+      "definition": "The number of power, abundance, and manifestation.",
+      "category": "numerology",
+      "qualities": [
+        "authority",
+        "abundance",
+        "achievement"
+      ],
+      "governor_attributes": [
+        "powerful",
+        "manifesting",
+        "authoritative"
+      ],
+      "planetary_correspondence": "Uranus",
+      "domains": [
+        "power",
+        "abundance",
+        "mastery"
+      ]
+    },
+    {
+      "id": "nine",
+      "name": "Nine",
+      "number": 9,
+      "definition": "The number of completion, universal love, and service.",
+      "category": "numerology",
+      "qualities": [
+        "completion",
+        "compassion",
+        "universality"
+      ],
+      "governor_attributes": [
+        "humanitarian",
+        "universal",
+        "transcendent"
+      ],
+      "planetary_correspondence": "Mars",
+      "domains": [
+        "completion",
+        "transformation",
+        "service"
+      ]
+    },
+    {
+      "id": "eleven",
+      "name": "Eleven",
+      "number": 11,
+      "definition": "The master number of illumination and spiritual insight.",
+      "category": "numerology",
+      "qualities": [
+        "illumination",
+        "inspiration",
+        "idealism"
+      ],
+      "governor_attributes": [
+        "visionary",
+        "inspirational",
+        "enlightened"
+      ],
+      "planetary_correspondence": "Pluto",
+      "domains": [
+        "enlightenment",
+        "inspiration",
+        "mastery"
+      ]
+    },
+    {
+      "id": "twenty_two",
+      "name": "Twenty-Two",
+      "number": 22,
+      "definition": "The master number of the master builder and manifestation.",
+      "category": "numerology",
+      "qualities": [
+        "mastery",
+        "practicality",
+        "power"
+      ],
+      "governor_attributes": [
+        "masterful",
+        "manifesting",
+        "practical"
+      ],
+      "planetary_correspondence": "Earth",
+      "domains": [
+        "mastery",
+        "manifestation",
+        "service"
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T19:54:42.000000",
+  "entries": [
+    {
+      "id": "quantum_decision-making",
+      "name": "Quantum decision-making",
+      "category": "quantum_practice",
+      "definition": "Working with superposition of possibilities",
+      "methods": [],
+      "requirements": {
+        "tools": [],
+        "preparations": []
+      },
+      "stages": []
+    },
+    {
+      "id": "entanglement_leadership",
+      "name": "Entanglement leadership",
+      "category": "quantum_practice",
+      "definition": "Understanding non-local influence and connection",
+      "methods": [],
+      "requirements": {
+        "tools": [],
+        "preparations": []
+      },
+      "stages": []
+    },
+    {
+      "id": "observer_effect_management",
+      "name": "Observer effect management",
+      "category": "quantum_practice",
+      "definition": "Using conscious attention to shape outcomes",
+      "methods": [],
+      "requirements": {
+        "tools": [],
+        "preparations": []
+      },
+      "stages": []
+    },
+    {
+      "id": "uncertainty_navigation",
+      "name": "Uncertainty navigation",
+      "category": "quantum_practice",
+      "definition": "Embracing the creative potential of the unknown",
+      "methods": [],
+      "requirements": {
+        "tools": [],
+        "preparations": []
+      },
+      "stages": []
+    },
+    {
+      "id": "coherence_cultivation",
+      "name": "Coherence cultivation",
+      "category": "quantum_practice",
+      "definition": "Developing quantum states of awareness",
+      "methods": [],
+      "requirements": {
+        "tools": [],
+        "preparations": []
+      },
+      "stages": []
+    }
+  ]
+}

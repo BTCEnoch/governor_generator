@@ -1,0 +1,79 @@
+{
+  "governor_name": "LAVACON",
+  "session_id": "LAVACON_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.634924",
+  "persona": {
+    "name": "LAVACON",
+    "title": "'The happy one'",
+    "element": "Air",
+    "aethyr": "LEA",
+    "essence": "In LAVACON's presence, a warm fairness permeates the air base conditions are kindly uplifted and transmuted as if by a compassionate, solar fire.",
+    "angelic_role": "Cherub of Guiding Light; leads divine messengers.",
+    "knowledge_base": [
+      "astrology",
+      "hermetic_philosophy",
+      "kabbalah",
+      "solar_magic",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Encouraging",
+      "baseline_tone": "Warm",
+      "motive_alignment": "Lawful Good",
+      "role_archetype": "Herald",
+      "orientation": "Balanced",
+      "polarity": "Constructive",
+      "self_regard": "Radiant",
+      "virtues": [
+        "Compassion",
+        "Kindness",
+        "Hope"
+      ],
+      "flaws": [
+        "Impatience",
+        "Zealousness",
+        "Self-doubt"
+      ]
+    },
+    "approaches": {
+      "bad": "Challenging",
+      "average": "Encouraging",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Warm",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "LAVACON"
+}

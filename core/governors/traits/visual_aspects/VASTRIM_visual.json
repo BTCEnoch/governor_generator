@@ -1,0 +1,28 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "EMERALD",
+  "geometry": {
+    "patterns": [
+      "FLOWER_OF_LIFE"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 4,
+    "radius": 0,
+    "intensity": 4
+  },
+  "time_variations": 93,
+  "energy_signature": 6,
+  "symbol_set": 147,
+  "light_shadow": 137,
+  "special_properties": [
+    174,
+    244,
+    25,
+    158
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "SILVER",
+  "geometry": {
+    "patterns": [
+      "SPIRAL"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 2,
+    "radius": 0,
+    "intensity": 2
+  },
+  "time_variations": 74,
+  "energy_signature": 6,
+  "symbol_set": 233,
+  "light_shadow": 138,
+  "special_properties": [
+    49,
+    108,
+    77,
+    4
+  ]
+}

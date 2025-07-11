@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "radiant_blessing",
+      "name": "Radiant Blessing",
+      "category": "environment",
+      "definition": "Emanates pure divine light and blessing energy",
+      "parameters": {
+        "effect_type": "radiant",
+        "radius": "regional",
+        "intensity": "moderate"
+      }
+    },
+    {
+      "id": "purifying_presence",
+      "name": "Purifying Presence",
+      "category": "environment",
+      "definition": "Cleanses and purifies the surrounding space",
+      "parameters": {
+        "effect_type": "transforming",
+        "radius": "local",
+        "intensity": "intense"
+      }
+    },
+    {
+      "id": "wisdom_field",
+      "name": "Wisdom Field",
+      "category": "environment",
+      "definition": "Creates a field of enhanced spiritual understanding",
+      "parameters": {
+        "effect_type": "radiant",
+        "radius": "personal",
+        "intensity": "subtle"
+      }
+    },
+    {
+      "id": "protective_sphere",
+      "name": "Protective Sphere",
+      "category": "environment",
+      "definition": "Generates a protective barrier of divine energy",
+      "parameters": {
+        "effect_type": "absorbing",
+        "radius": "local",
+        "intensity": "intense"
+      }
+    },
+    {
+      "id": "transformative_vortex",
+      "name": "Transformative Vortex",
+      "category": "environment",
+      "definition": "Creates a space of spiritual transformation",
+      "parameters": {
+        "effect_type": "transforming",
+        "radius": "personal",
+        "intensity": "overwhelming"
+      }
+    },
+    {
+      "id": "harmonic_field",
+      "name": "Harmonic Field",
+      "category": "environment",
+      "definition": "Establishes a field of divine harmony and balance",
+      "parameters": {
+        "effect_type": "neutral",
+        "radius": "regional",
+        "intensity": "subtle"
+      }
+    },
+    {
+      "id": "celestial_gateway",
+      "name": "Celestial Gateway",
+      "category": "environment",
+      "definition": "Opens a connection to higher spiritual realms",
+      "parameters": {
+        "effect_type": "transforming",
+        "radius": "global",
+        "intensity": "overwhelming"
+      }
+    },
+    {
+      "id": "sacred_sanctuary",
+      "name": "Sacred Sanctuary",
+      "category": "environment",
+      "definition": "Creates a protected space of divine peace",
+      "parameters": {
+        "effect_type": "neutral",
+        "radius": "local",
+        "intensity": "moderate"
+      }
+    }
+  ]
+} 

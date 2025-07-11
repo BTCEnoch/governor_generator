@@ -1,0 +1,191 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "enochian_magic",
+      "name": "Enochian Magic",
+      "category": "primary_tradition",
+      "definition": "The angelic magical system received by John Dee and Edward Kelley, featuring a complete cosmological framework, angelic language, and hierarchical spiritual realms.",
+      "key_concepts": [
+        "30 Aethyrs",
+        "91 Governors",
+        "Angelic Language",
+        "Elemental Watchtowers",
+        "Great Table",
+        "Sigillum Dei Aemeth"
+      ],
+      "primary_sources": [
+        "John Dee's Angelic Conversations",
+        "Liber Loagaeth",
+        "The 19 Enochian Keys"
+      ],
+      "associated_angels": [
+        "Uriel",
+        "Gabriel",
+        "Michael",
+        "Raphael"
+      ]
+    },
+    {
+      "id": "hermetic_qabalah",
+      "name": "Hermetic Qabalah",
+      "category": "primary_tradition",
+      "definition": "A Western esoteric tradition combining Jewish mysticism with Hermetic, astrological, and alchemical teachings.",
+      "key_concepts": [
+        "Tree of Life",
+        "Four Worlds",
+        "Divine Names",
+        "Sephirotic Powers",
+        "Paths of Wisdom"
+      ],
+      "primary_sources": [
+        "Sefer Yetzirah",
+        "Zohar",
+        "Corpus Hermeticum"
+      ],
+      "associated_angels": [
+        "Metatron",
+        "Sandalphon",
+        "Raziel"
+      ]
+    },
+    {
+      "id": "golden_dawn",
+      "name": "Golden Dawn System",
+      "category": "synthetic_tradition",
+      "definition": "A comprehensive magical system synthesizing multiple traditions into a coherent framework of spiritual development.",
+      "key_concepts": [
+        "Elemental Grades",
+        "Qabalistic Cross",
+        "Middle Pillar",
+        "Rose Cross",
+        "Magical Implements"
+      ],
+      "primary_sources": [
+        "Cipher Manuscripts",
+        "Israel Regardie's Works",
+        "Flying Rolls"
+      ],
+      "associated_angels": [
+        "All Qabalistic Angels",
+        "Elemental Kings",
+        "Planetary Intelligences"
+      ]
+    },
+    {
+      "id": "thelema",
+      "name": "Thelemic Mysticism",
+      "category": "modern_tradition",
+      "definition": "A spiritual philosophy emphasizing personal spiritual evolution and the discovery of one's True Will.",
+      "key_concepts": [
+        "True Will",
+        "Holy Guardian Angel",
+        "Aeons",
+        "Tree of Life Adaptations",
+        "Ceremonial Magic"
+      ],
+      "primary_sources": [
+        "The Book of the Law",
+        "Vision and the Voice",
+        "777 and Other Works"
+      ],
+      "associated_angels": [
+        "Aiwass",
+        "Holy Guardian Angel"
+      ]
+    },
+    {
+      "id": "celtic_druidic",
+      "name": "Celtic Druidic Traditions",
+      "category": "nature_tradition",
+      "definition": "Ancient Celtic spiritual practices focusing on nature connection, seasonal cycles, and divine inspiration.",
+      "key_concepts": [
+        "Awen",
+        "Sacred Groves",
+        "Otherworld",
+        "Tree Lore",
+        "Seasonal Festivals"
+      ],
+      "primary_sources": [
+        "Celtic Myths",
+        "Bardic Traditions",
+        "Ogham System"
+      ],
+      "associated_spirits": [
+        "Nature Spirits",
+        "Ancestors",
+        "Celtic Deities"
+      ]
+    },
+    {
+      "id": "egyptian_magic",
+      "name": "Egyptian Magic",
+      "category": "ancient_tradition",
+      "definition": "Ancient Egyptian magical practices involving divine forces, sacred geometry, and cosmic principles.",
+      "key_concepts": [
+        "Heka",
+        "Divine Names",
+        "Sacred Geometry",
+        "Temple Magic",
+        "Stellar Alignments"
+      ],
+      "primary_sources": [
+        "Book of the Dead",
+        "Pyramid Texts",
+        "Temple Inscriptions"
+      ],
+      "associated_deities": [
+        "Thoth",
+        "Isis",
+        "Horus"
+      ]
+    },
+    {
+      "id": "sacred_geometry",
+      "name": "Sacred Geometry",
+      "category": "universal_tradition",
+      "definition": "The study of geometric patterns as expressions of divine principles and cosmic laws.",
+      "key_concepts": [
+        "Golden Ratio",
+        "Platonic Solids",
+        "Flower of Life",
+        "Metatron's Cube",
+        "Sacred Measures"
+      ],
+      "primary_sources": [
+        "Pythagorean Works",
+        "Geometric Proofs",
+        "Natural Patterns"
+      ],
+      "applications": [
+        "Temple Architecture",
+        "Mandala Creation",
+        "Energy Work"
+      ]
+    },
+    {
+      "id": "quantum_physics",
+      "name": "Quantum Mysticism",
+      "category": "modern_synthesis",
+      "definition": "Integration of quantum physics principles with mystical understanding of consciousness and reality.",
+      "key_concepts": [
+        "Observer Effect",
+        "Quantum Entanglement",
+        "Wave-Particle Duality",
+        "Multiple Dimensions",
+        "Consciousness Role"
+      ],
+      "primary_sources": [
+        "Scientific Papers",
+        "Quantum Theories",
+        "Consciousness Studies"
+      ],
+      "key_principles": [
+        "Non-locality",
+        "Superposition",
+        "Quantum Coherence"
+      ]
+    }
+  ]
+} 

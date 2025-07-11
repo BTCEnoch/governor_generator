@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "kether",
+      "name": "Kether",
+      "definition": "The Crown, pure divine unity, ultimate source.",
+      "category": "sephirot"
+    },
+    {
+      "id": "chokmah",
+      "name": "Chokmah",
+      "definition": "Wisdom, divine force, father principle.",
+      "category": "sephirot"
+    },
+    {
+      "id": "binah",
+      "name": "Binah",
+      "definition": "Understanding, divine form, mother principle.",
+      "category": "sephirot"
+    },
+    {
+      "id": "chesed",
+      "name": "Chesed",
+      "definition": "Mercy, loving grace, divine benevolence.",
+      "category": "sephirot"
+    },
+    {
+      "id": "geburah",
+      "name": "Geburah",
+      "definition": "Severity, divine justice, restriction.",
+      "category": "sephirot"
+    },
+    {
+      "id": "tiphareth",
+      "name": "Tiphareth",
+      "definition": "Beauty, divine harmony, center point.",
+      "category": "sephirot"
+    },
+    {
+      "id": "netzach",
+      "name": "Netzach",
+      "definition": "Victory, divine emotion, natural force.",
+      "category": "sephirot"
+    },
+    {
+      "id": "hod",
+      "name": "Hod",
+      "definition": "Splendor, divine intellect, form.",
+      "category": "sephirot"
+    },
+    {
+      "id": "yesod",
+      "name": "Yesod",
+      "definition": "Foundation, divine interface, astral plane.",
+      "category": "sephirot"
+    },
+    {
+      "id": "malkuth",
+      "name": "Malkuth",
+      "definition": "Kingdom, divine manifestation, physical realm.",
+      "category": "sephirot"
+    },
+    {
+      "id": "daath",
+      "name": "Daath",
+      "definition": "Knowledge, hidden crossing point, cosmic gateway.",
+      "category": "sephirot"
+    }
+  ]
+} 

@@ -11,7 +11,7 @@ from pathlib import Path
 from typing import Dict, List, Optional, Union, Any
 from datetime import datetime
 
-from core.governors.profiler.core.enhanced_profile_analyzer import EnhancedGovernorProfile
+from core.governors.profiles.analyzer import EnhancedProfile
 from core.onchain.protocol.hypertoken_manager import TokenType, TokenState
 
 # Configure logging
@@ -137,7 +137,7 @@ class QuestTemplateManager:
             
     def generate_quest_template(
         self,
-        governor_profile: EnhancedGovernorProfile,
+        governor_profile: EnhancedProfile,
         quest_type: str
     ) -> QuestTemplate:
         """
@@ -190,7 +190,7 @@ class QuestTemplateManager:
             logger.error(f"Failed to generate quest template: {e}")
             raise
             
-    def _calculate_difficulty(self, profile: EnhancedGovernorProfile) -> QuestDifficulty:
+    def _calculate_difficulty(self, profile: EnhancedProfile) -> QuestDifficulty:
         """Calculate quest difficulty based on profile"""
         try:
             # Map profile difficulty (1-10) to QuestDifficulty enum
@@ -214,7 +214,7 @@ class QuestTemplateManager:
             
     def _generate_stages(
         self,
-        profile: EnhancedGovernorProfile,
+        profile: EnhancedProfile,
         challenge_types: List[ChallengeType],
         num_stages: int,
         difficulty: QuestDifficulty
@@ -261,7 +261,7 @@ class QuestTemplateManager:
             
     def _generate_challenges(
         self,
-        profile: EnhancedGovernorProfile,
+        profile: EnhancedProfile,
         challenge_types: List[ChallengeType],
         difficulty: QuestDifficulty,
         stage_number: int
@@ -333,13 +333,13 @@ class QuestTemplateManager:
             logger.error(f"Failed to calculate reputation requirement: {e}")
             return 10  # Default value
             
-    def _calculate_voidmaker_tier(self, profile: EnhancedGovernorProfile) -> int:
+    def _calculate_voidmaker_tier(self, profile: EnhancedProfile) -> int:
         """Calculate voidmaker content tier based on profile"""
         try:
             # Count non-empty voidmaker responses
-            awareness = len([x for x in profile.voidmaker_awareness.cosmic_patterns if x])
-            influence = len([x for x in profile.voidmaker_awareness.reality_influence if x])
-            unity = len([x for x in profile.voidmaker_awareness.integration_unity if x])
+            awareness = len([x for x in profile.void_awareness.cosmic_patterns if x])
+            influence = len([x for x in profile.void_awareness.reality_influence if x])
+            unity = len([x for x in profile.void_awareness.integration_unity if x])
             
             total = awareness + influence + unity
             
@@ -361,7 +361,7 @@ class QuestTemplateManager:
         timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
         return f"quest_{governor_id}_{timestamp}"
         
-    def _generate_title(self, quest_type: str, profile: EnhancedGovernorProfile) -> str:
+    def _generate_title(self, quest_type: str, profile: EnhancedProfile) -> str:
         """Generate quest title"""
         element = profile.elemental_essence.ruling_element.capitalize()
         if quest_type == "wisdom_trial":
@@ -372,27 +372,28 @@ class QuestTemplateManager:
             return f"Astral Voyage of {element} Mastery"
         return f"Quest of {element} Mystery"
         
-    def _generate_description(self, quest_type: str, profile: EnhancedGovernorProfile) -> str:
+    def _generate_description(self, quest_type: str, profile: EnhancedProfile) -> str:
         """Generate quest description"""
-        # TODO: Implement more sophisticated description generation
-        return f"A {quest_type.replace('_', ' ')} guided by {profile.governor_id}"
+        element = profile.elemental_essence.ruling_element.capitalize()
+        domain = profile.wisdom_foundation.primary_domain.capitalize()
+        return f"A {quest_type.replace('_', ' ')} of {element} mastery guided by {profile.governor_id}, master of {domain}"
         
-    def _generate_stage_title(self, profile: EnhancedGovernorProfile, stage_number: int) -> str:
+    def _generate_stage_title(self, profile: EnhancedProfile, stage_number: int) -> str:
         """Generate stage title"""
-        # TODO: Implement more sophisticated title generation
-        return f"The {profile.elemental_essence.ruling_element.capitalize()} Path"
+        element = profile.elemental_essence.ruling_element.capitalize()
+        return f"The {element} Path - Stage {stage_number + 1}"
         
-    def _generate_stage_description(self, profile: EnhancedGovernorProfile, stage_number: int) -> str:
+    def _generate_stage_description(self, profile: EnhancedProfile, stage_number: int) -> str:
         """Generate stage description"""
-        # TODO: Implement more sophisticated description generation
-        return f"Stage {stage_number + 1} of your journey with {profile.governor_id}"
+        element = profile.elemental_essence.ruling_element.capitalize()
+        return f"Stage {stage_number + 1} of your journey with {profile.governor_id} through the realm of {element}"
         
     def _generate_challenge_description(
         self,
-        profile: EnhancedGovernorProfile,
+        profile: EnhancedProfile,
         challenge_type: ChallengeType,
         stage_number: int
     ) -> str:
         """Generate challenge description"""
-        # TODO: Implement more sophisticated description generation
-        return f"A {challenge_type.value} challenge in the realm of {profile.elemental_essence.ruling_element}" 
+        element = profile.elemental_essence.ruling_element
+        return f"A {challenge_type.value} challenge in the realm of {element}" 

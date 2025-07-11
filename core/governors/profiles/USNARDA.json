@@ -1,0 +1,79 @@
+{
+  "governor_name": "USNARDA",
+  "session_id": "USNARDA_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.700515",
+  "persona": {
+    "name": "USNARDA",
+    "title": "'He who casts down into the depths'",
+    "element": "Water",
+    "aethyr": "ICH",
+    "essence": "When USNARDA is near, arrogance is plunged beneath black tides pride suffocates and humility is reborn in the darkness.",
+    "angelic_role": "Virtue of Abyssal Humility; guides tideborn wardens.",
+    "knowledge_base": [
+      "gnosticism",
+      "hermeticism",
+      "mysticism",
+      "kabbalah",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Star",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Testing",
+      "baseline_tone": "Sombre",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Warden",
+      "orientation": "Inward-Focused",
+      "polarity": "Destructive",
+      "self_regard": "Obscure",
+      "virtues": [
+        "Humility",
+        "Discernment",
+        "Fortitude"
+      ],
+      "flaws": [
+        "Melancholy",
+        "Aloofness",
+        "Isolation"
+      ]
+    },
+    "approaches": {
+      "bad": "Punishing",
+      "average": "Testing",
+      "good": "Guiding"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Sombre",
+      "good": "Direct"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "USNARDA"
+}

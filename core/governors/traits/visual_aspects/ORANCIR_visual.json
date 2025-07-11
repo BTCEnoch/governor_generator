@@ -1,0 +1,33 @@
+{
+  "form": {
+    "name": "Ethereal",
+    "description": "A luminous, ever-shifting form of pure light and energy",
+    "interactions": [
+      "phase_shift",
+      "energy_resonance",
+      "light_manipulation"
+    ]
+  },
+  "color": "EMERALD",
+  "geometry": {
+    "patterns": [
+      "FLOWER_OF_LIFE"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 4,
+    "radius": 1,
+    "intensity": 5
+  },
+  "time_variations": 25,
+  "energy_signature": 227,
+  "symbol_set": 118,
+  "light_shadow": 170,
+  "special_properties": [
+    190,
+    204,
+    241,
+    182
+  ]
+}

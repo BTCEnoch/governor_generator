@@ -1,0 +1,34 @@
+{
+  "form": {
+    "name": "Fluid",
+    "description": "A flowing, liquid-like manifestation of sacred energy",
+    "interactions": [
+      "wave_resonance",
+      "flow_manipulation",
+      "tidal_harmony"
+    ]
+  },
+  "color": "AZURE",
+  "geometry": {
+    "patterns": [
+      "MERKABA",
+      "METATRON"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 2,
+    "radius": 2,
+    "intensity": 3
+  },
+  "time_variations": 89,
+  "energy_signature": 145,
+  "symbol_set": 67,
+  "light_shadow": 91,
+  "special_properties": [
+    178,
+    203,
+    167,
+    89
+  ]
+} 

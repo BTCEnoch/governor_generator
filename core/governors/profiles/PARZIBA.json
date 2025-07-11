@@ -1,0 +1,79 @@
+{
+  "governor_name": "PARZIBA",
+  "session_id": "PARZIBA_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.663402",
+  "persona": {
+    "name": "PARZIBA",
+    "title": "'He who promises'",
+    "element": "Air",
+    "aethyr": "CHR",
+    "essence": "In PARZIBA's presence, the spirit lifts with quiet optimism an assuring light of faith glimmers even in darkness, gentle and unwavering.",
+    "angelic_role": "Virtue of Star of Hope; commands empyrean legions.",
+    "knowledge_base": [
+      "astrology",
+      "kabbalah",
+      "mystical_christianity",
+      "hermeticism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Star",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Encouraging",
+      "baseline_tone": "Nurturing",
+      "motive_alignment": "Neutral Good",
+      "role_archetype": "Herald",
+      "orientation": "Balanced",
+      "polarity": "Constructive",
+      "self_regard": "Radiant",
+      "virtues": [
+        "Faith",
+        "Hope",
+        "Vision"
+      ],
+      "flaws": [
+        "Self-doubt",
+        "Worry",
+        "Fearfulness"
+      ]
+    },
+    "approaches": {
+      "bad": "Comforting",
+      "average": "Encouraging",
+      "good": "Prophesying"
+    },
+    "tones": {
+      "bad": "Gentle",
+      "average": "Nurturing",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "PARZIBA"
+}

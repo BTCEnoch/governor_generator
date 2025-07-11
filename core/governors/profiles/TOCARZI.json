@@ -1,0 +1,79 @@
+{
+  "governor_name": "TOCARZI",
+  "session_id": "TOCARZI_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.694516",
+  "persona": {
+    "name": "TOCARZI",
+    "title": "'He of such equality'",
+    "element": "Air",
+    "aethyr": "TAN",
+    "essence": "In TOCARZI's presence, all things regain their equilibrium an invisible scale seems to bring every situation into fair and perfect balance.",
+    "angelic_role": "Power of Scales of Mercy; commands empyrean spirits.",
+    "knowledge_base": [
+      "hermetic_philosophy",
+      "kabbalah",
+      "alchemy",
+      "pythagorean_mysticism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Mediating",
+      "baseline_tone": "Analytical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Judge",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Stoic",
+      "virtues": [
+        "Justice",
+        "Discernment",
+        "Equanimity"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Aloofness",
+        "Obstinacy"
+      ]
+    },
+    "approaches": {
+      "bad": "Testing",
+      "average": "Mediating",
+      "good": "Demonstrating"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Analytical",
+      "good": "Direct"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "TOCARZI"
+}

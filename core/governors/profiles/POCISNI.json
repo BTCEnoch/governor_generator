@@ -1,0 +1,79 @@
+{
+  "governor_name": "POCISNI",
+  "session_id": "POCISNI_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.666401",
+  "persona": {
+    "name": "POCISNI",
+    "title": "'He who visits those in Heaven'",
+    "element": "Earth",
+    "aethyr": "BAG",
+    "essence": "As POCISNI approaches, a hush of reverence falls a bridge between realms opens, and aspirations take wing toward the heavens under his spiritual guidance.",
+    "angelic_role": "Cherub of Bridge of Aspiration; leads earth-forged wardens.",
+    "knowledge_base": [
+      "mysticism",
+      "angelology",
+      "astral_magic",
+      "celestial_magic",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Guiding",
+      "baseline_tone": "Formal",
+      "motive_alignment": "Lawful Good",
+      "role_archetype": "Herald",
+      "orientation": "Balanced",
+      "polarity": "Constructive",
+      "self_regard": "Radiant",
+      "virtues": [
+        "Vision",
+        "Faith",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Yearning",
+        "Zealousness"
+      ]
+    },
+    "approaches": {
+      "bad": "Prophesying",
+      "average": "Guiding",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Intense",
+      "average": "Formal",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "POCISNI"
+}

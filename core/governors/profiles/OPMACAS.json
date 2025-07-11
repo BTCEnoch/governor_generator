@@ -1,0 +1,79 @@
+{
+  "governor_name": "OPMACAS",
+  "session_id": "OPMACAS_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.655401",
+  "persona": {
+    "name": "OPMACAS",
+    "title": "'He who is from the beginning'",
+    "element": "Fire",
+    "aethyr": "DEO",
+    "essence": "In OPMACAS's presence, form emerges from formlessness a primordial fire breathing shape into the void.",
+    "angelic_role": "Seraph of Primordial Flame; governs fire-forged guardians.",
+    "knowledge_base": [
+      "alchemy",
+      "hermeticism",
+      "kabbalah",
+      "gnosticism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Challenging",
+      "baseline_tone": "Stern",
+      "motive_alignment": "Chaotic Neutral",
+      "role_archetype": "Herald",
+      "orientation": "Outward-Focused",
+      "polarity": "Destructive",
+      "self_regard": "Zealous",
+      "virtues": [
+        "Valor",
+        "Vision",
+        "Determination"
+      ],
+      "flaws": [
+        "Zealousness",
+        "Pride",
+        "Impatience"
+      ]
+    },
+    "approaches": {
+      "bad": "Punishing",
+      "average": "Challenging",
+      "good": "Prophesying"
+    },
+    "tones": {
+      "bad": "Intense",
+      "average": "Stern",
+      "good": "Passionate"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "OPMACAS"
+}

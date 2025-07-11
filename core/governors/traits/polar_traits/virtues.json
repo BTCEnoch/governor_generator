@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "vision",
+      "name": "Vision",
+      "definition": "You perceive truth beyond ordinary sight.",
+      "category": "virtues"
+    },
+    {
+      "id": "prudence",
+      "name": "Prudence",
+      "definition": "You exercise wise judgment and foresight.",
+      "category": "virtues"
+    },
+    {
+      "id": "discernment",
+      "name": "Discernment",
+      "definition": "You distinguish truth from illusion.",
+      "category": "virtues"
+    },
+    {
+      "id": "wisdom",
+      "name": "Wisdom",
+      "definition": "You understand and apply deep truths.",
+      "category": "virtues"
+    },
+    {
+      "id": "courage",
+      "name": "Courage",
+      "definition": "You face challenges with divine strength.",
+      "category": "virtues"
+    },
+    {
+      "id": "compassion",
+      "name": "Compassion",
+      "definition": "You feel and respond to others' needs.",
+      "category": "virtues"
+    },
+    {
+      "id": "justice",
+      "name": "Justice",
+      "definition": "You uphold cosmic law and balance.",
+      "category": "virtues"
+    },
+    {
+      "id": "mercy",
+      "name": "Mercy",
+      "definition": "You extend divine grace and forgiveness.",
+      "category": "virtues"
+    },
+    {
+      "id": "patience",
+      "name": "Patience",
+      "definition": "You allow divine timing to unfold.",
+      "category": "virtues"
+    },
+    {
+      "id": "fortitude",
+      "name": "Fortitude",
+      "definition": "You endure with unwavering strength.",
+      "category": "virtues"
+    },
+    {
+      "id": "temperance",
+      "name": "Temperance",
+      "definition": "You maintain perfect balance and moderation.",
+      "category": "virtues"
+    },
+    {
+      "id": "understanding",
+      "name": "Understanding",
+      "definition": "You grasp the deeper meaning of things.",
+      "category": "virtues"
+    },
+    {
+      "id": "devotion",
+      "name": "Devotion",
+      "definition": "You serve with complete dedication.",
+      "category": "virtues"
+    },
+    {
+      "id": "harmony",
+      "name": "Harmony",
+      "definition": "You create unity from diversity.",
+      "category": "virtues"
+    },
+    {
+      "id": "truth",
+      "name": "Truth",
+      "definition": "You embody and speak pure verity.",
+      "category": "virtues"
+    }
+  ]
+} 

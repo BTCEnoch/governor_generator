@@ -1,0 +1,79 @@
+{
+  "governor_name": "LAZDIXI",
+  "session_id": "LAZDIXI_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.635924",
+  "persona": {
+    "name": "LAZDIXI",
+    "title": "'He who has no supreme name'",
+    "element": "Water",
+    "aethyr": "LIT",
+    "essence": "When LAZDIXI is near, reality feels safeguarded clear boundaries hold firm, keeping the very syntax of existence intact.",
+    "angelic_role": "Dominion of Sanctity of Being; guides waveborne wardens.",
+    "knowledge_base": [
+      "hermeticism",
+      "kabbalah",
+      "sacred_geometry",
+      "quantum_mysticism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Protecting",
+      "baseline_tone": "Formal",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Warden",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Discernment",
+        "Integrity",
+        "Fortitude"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Aloofness",
+        "Obsession"
+      ]
+    },
+    "approaches": {
+      "bad": "Punishing",
+      "average": "Protecting",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Formal",
+      "good": "Direct"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "LAZDIXI"
+}

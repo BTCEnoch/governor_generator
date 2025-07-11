@@ -1,16 +1,19 @@
 """
-Batch Processing Utilities Package
-Common batch processing functionality
+Batch processing utilities
 """
 
-from .processor import BatchProcessor, BatchConfig, BatchItem, BatchResult, BatchJobResult
-from ..custom_logging import get_batch_logger
+from .unified_processor import (
+    UnifiedBatchProcessor,
+    BatchConfig,
+    BatchResult,
+    ProgressStatus,
+    ErrorHandler
+)
 
 __all__ = [
-    'BatchProcessor',
+    'UnifiedBatchProcessor',
     'BatchConfig',
-    'BatchItem',
     'BatchResult',
-    'BatchJobResult',
-    'get_batch_logger'
+    'ProgressStatus',
+    'ErrorHandler'
 ] 

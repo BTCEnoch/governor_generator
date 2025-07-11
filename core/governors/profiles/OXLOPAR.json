@@ -1,0 +1,79 @@
+{
+  "governor_name": "OXLOPAR",
+  "session_id": "OXLOPAR_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.658401",
+  "persona": {
+    "name": "OXLOPAR",
+    "title": "'He who has them in his hands'",
+    "element": "Earth",
+    "aethyr": "BAG",
+    "essence": "As OXLOPAR approaches, a protective hold grips the environment like an invisible hand preventing any straying, it is both sheltering and unyieldingly firm.",
+    "angelic_role": "Throne of Providential Grasp; marshals mountain wardens.",
+    "knowledge_base": [
+      "earth_magic",
+      "mountain_lore",
+      "protective_magic",
+      "guardian_traditions",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Testing",
+      "baseline_tone": "Direct",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Warden",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Fortitude",
+        "Prudence",
+        "Trustworthiness"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Obstinacy",
+        "Suspicion"
+      ]
+    },
+    "approaches": {
+      "bad": "Protecting",
+      "average": "Testing",
+      "good": "Guiding"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Direct",
+      "good": "Nurturing"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "OXLOPAR"
+}

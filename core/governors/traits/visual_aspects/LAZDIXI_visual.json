@@ -1,0 +1,29 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "AZURE",
+  "geometry": {
+    "patterns": [
+      "FLOWER_OF_LIFE",
+      "TORUS"
+    ],
+    "complexity": 2
+  },
+  "environment": {
+    "effect_type": 3,
+    "radius": 1,
+    "intensity": 7
+  },
+  "time_variations": 160,
+  "energy_signature": 181,
+  "symbol_set": 86,
+  "light_shadow": 243,
+  "special_properties": [
+    177,
+    83,
+    42,
+    73
+  ]
+}

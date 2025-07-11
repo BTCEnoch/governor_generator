@@ -1,0 +1,28 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "EMERALD",
+  "geometry": {
+    "patterns": [
+      "METATRON"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 4,
+    "radius": 0,
+    "intensity": 7
+  },
+  "time_variations": 168,
+  "energy_signature": 197,
+  "symbol_set": 140,
+  "light_shadow": 40,
+  "special_properties": [
+    17,
+    13,
+    15,
+    29
+  ]
+}

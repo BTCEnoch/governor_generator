@@ -1,0 +1,33 @@
+{
+  "form": {
+    "name": "Geometric",
+    "description": "A perfect crystalline structure of sacred geometry",
+    "interactions": [
+      "pattern_matching",
+      "crystal_focus",
+      "geometric_alignment"
+    ]
+  },
+  "color": "EMERALD",
+  "geometry": {
+    "patterns": [
+      "TESSERACT"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 4,
+    "radius": 3,
+    "intensity": 0
+  },
+  "time_variations": 61,
+  "energy_signature": 6,
+  "symbol_set": 40,
+  "light_shadow": 219,
+  "special_properties": [
+    191,
+    121,
+    236,
+    216
+  ]
+}

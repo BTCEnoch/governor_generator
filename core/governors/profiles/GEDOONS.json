@@ -1,0 +1,79 @@
+{
+  "governor_name": "GEDOONS",
+  "session_id": "GEDOONS_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.627924",
+  "persona": {
+    "name": "GEDOONS",
+    "title": "'He who eliminates your name'",
+    "element": "Fire",
+    "aethyr": "LOE",
+    "essence": "When GEDOONS is near, identities can be erased like chalk names vanish from celestial rolls to grant the bearer tactical invisibility.",
+    "angelic_role": "Archangel of Veil of Anonymity; marshals thunderous hosts.",
+    "knowledge_base": [
+      "shadow_magic",
+      "mystical_stealth",
+      "occult_protection",
+      "sigil_craft",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Lovers",
+      "sephirot": "Hod",
+      "zodiac_sign": "Gemini",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Cool",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Warden",
+      "orientation": "Inward-Focused",
+      "polarity": "Destructive",
+      "self_regard": "Obscure",
+      "virtues": [
+        "Discernment",
+        "Prudence",
+        "Self-control"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Isolation",
+        "Suspicion"
+      ]
+    },
+    "approaches": {
+      "bad": "Deceiving",
+      "average": "Observing",
+      "good": "Protecting"
+    },
+    "tones": {
+      "bad": "Cryptic",
+      "average": "Cool",
+      "good": "Direct"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "GEDOONS"
+}

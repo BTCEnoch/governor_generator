@@ -122,16 +122,33 @@ def handle_errors(
     return decorator
 
 """
-Common error classes used throughout the application.
+Common error classes for the Governor Generation system.
 """
 
-class ValidationError(Exception):
-    """
-    Exception raised for validation errors in data models.
-    
-    Attributes:
-        message -- explanation of the error
-    """
-    def __init__(self, message: str):
-        self.message = message
-        super().__init__(self.message) 
+class BatchProcessingError(Exception):
+    """Raised when a batch processing operation fails"""
+    pass
+
+class GovernorGenerationError(Exception):
+    """Base class for Governor Generation system errors"""
+    pass
+
+class ValidationError(GovernorGenerationError):
+    """Raised when data validation fails"""
+    pass
+
+class ProcessingError(GovernorGenerationError):
+    """Raised when a processing operation fails"""
+    pass
+
+class ConfigurationError(GovernorGenerationError):
+    """Raised when configuration is invalid"""
+    pass
+
+class ResourceNotFoundError(GovernorGenerationError):
+    """Raised when a required resource is not found"""
+    pass
+
+class BitcoinIntegrationError(GovernorGenerationError):
+    """Raised when Bitcoin integration fails"""
+    pass 

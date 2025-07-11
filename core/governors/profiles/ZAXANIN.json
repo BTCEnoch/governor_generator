@@ -1,0 +1,79 @@
+{
+  "governor_name": "ZAXANIN",
+  "session_id": "ZAXANIN_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.714860",
+  "persona": {
+    "name": "ZAXANIN",
+    "title": "'He who names things'",
+    "element": "Earth",
+    "aethyr": "TOR",
+    "essence": "In ZAXANIN's presence, every element falls into a logical pattern an analytical clarity permeates the air, and communication flows with precise articulation.",
+    "angelic_role": "Power of Lexicon of Creation; commands emerald soldiers.",
+    "knowledge_base": [
+      "kabbalah",
+      "hermeticism",
+      "gematria",
+      "sacred_geometry",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Magician",
+      "sephirot": "Hod",
+      "zodiac_sign": "Gemini",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Teaching",
+      "baseline_tone": "Analytical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Archivist",
+      "orientation": "Inward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Discernment",
+        "Wisdom",
+        "Prudence"
+      ],
+      "flaws": [
+        "Obsession",
+        "Aloofness",
+        "Rigidity"
+      ]
+    },
+    "approaches": {
+      "bad": "Questioning",
+      "average": "Teaching",
+      "good": "Demonstrating"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Analytical",
+      "good": "Direct"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "ZAXANIN"
+}

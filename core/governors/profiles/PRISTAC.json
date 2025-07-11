@@ -1,0 +1,79 @@
+{
+  "governor_name": "PRISTAC",
+  "session_id": "PRISTAC_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.671401",
+  "persona": {
+    "name": "PRISTAC",
+    "title": "'He who has the likeness of a Holy One'",
+    "element": "Fire",
+    "aethyr": "ZID",
+    "essence": "When PRISTAC is near, the air resonates with a higher model mortals find themselves drawn to echo a more celestial harmony.",
+    "angelic_role": "Power of Divine Reflection; commands tempestuous legions.",
+    "knowledge_base": [
+      "hermetic_philosophy",
+      "mystical_christianity",
+      "kabbalah",
+      "sacred_geometry",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Mirroring",
+      "baseline_tone": "Intense",
+      "motive_alignment": "Lawful Good",
+      "role_archetype": "Mirror",
+      "orientation": "Inward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Radiant",
+      "virtues": [
+        "Vision",
+        "Charisma",
+        "Discernment"
+      ],
+      "flaws": [
+        "Zealousness",
+        "Aloofness",
+        "Pride"
+      ]
+    },
+    "approaches": {
+      "bad": "Punishing",
+      "average": "Mirroring",
+      "good": "Demonstrating"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Intense",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "PRISTAC"
+}

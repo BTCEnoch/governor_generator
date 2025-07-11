@@ -1,0 +1,79 @@
+{
+  "governor_name": "PARAOAN",
+  "session_id": "PARAOAN_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.662401",
+  "persona": {
+    "name": "PARAOAN",
+    "title": "'He who has eyes'",
+    "element": "Spirit (All Elements)",
+    "aethyr": "LIN",
+    "essence": "In PARAOAN's presence, the veil of ordinary reality grows thin a mysterious sense of the universal permeates the air, hinting at transcendent truths beyond form.",
+    "angelic_role": "Cherub of Veil of Transcendence; leads oak-crowned hosts.",
+    "knowledge_base": [
+      "hermetic_philosophy",
+      "mystical_qabalah",
+      "gnostic_wisdom",
+      "vedantic_philosophy",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The World",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Gabriel",
+      "numerology": 1
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Questioning",
+      "baseline_tone": "Philosophical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Oracle",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Obscure",
+      "virtues": [
+        "Vision",
+        "Discernment",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Yearning",
+        "Zealousness"
+      ]
+    },
+    "approaches": {
+      "bad": "Prophesying",
+      "average": "Questioning",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Cryptic",
+      "average": "Philosophical",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "PARAOAN"
+}

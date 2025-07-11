@@ -1,0 +1,79 @@
+{
+  "governor_name": "TORZOXI",
+  "session_id": "TORZOXI_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.697515",
+  "persona": {
+    "name": "TORZOXI",
+    "title": "'She who rises up in strength'",
+    "element": "Air",
+    "aethyr": "POP",
+    "essence": "In TORZOXI's presence, courage surges anew the atmosphere brims with resilient valor, empowering the spirit to stand valiant against all odds.",
+    "angelic_role": "Seraph of Crown of Valor; commands luminous spirits.",
+    "knowledge_base": [
+      "hermeticism",
+      "kabbalah",
+      "alchemy",
+      "angelology",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Encouraging",
+      "baseline_tone": "Assertive",
+      "motive_alignment": "Lawful Good",
+      "role_archetype": "Herald",
+      "orientation": "Outward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Valor",
+        "Courage",
+        "Fortitude"
+      ],
+      "flaws": [
+        "Zealousness",
+        "Pride",
+        "Recklessness"
+      ]
+    },
+    "approaches": {
+      "bad": "Challenging",
+      "average": "Encouraging",
+      "good": "Demonstrating"
+    },
+    "tones": {
+      "bad": "Intense",
+      "average": "Assertive",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "TORZOXI"
+}

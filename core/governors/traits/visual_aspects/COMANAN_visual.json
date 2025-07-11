@@ -1,0 +1,34 @@
+{
+  "form": {
+    "name": "Ethereal",
+    "description": "A luminous, ever-shifting form of pure light and energy",
+    "interactions": [
+      "phase_shift",
+      "energy_resonance",
+      "light_manipulation"
+    ]
+  },
+  "color": "PLASMA",
+  "geometry": {
+    "patterns": [
+      "SPIRAL",
+      "FRACTAL"
+    ],
+    "complexity": 2
+  },
+  "environment": {
+    "effect_type": 7,
+    "radius": 1,
+    "intensity": 2
+  },
+  "time_variations": 84,
+  "energy_signature": 219,
+  "symbol_set": 172,
+  "light_shadow": 34,
+  "special_properties": [
+    234,
+    164,
+    121,
+    143
+  ]
+}

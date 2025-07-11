@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "herald",
+      "name": "Herald",
+      "definition": "You announce divine messages and coming changes.",
+      "category": "role_archetype"
+    },
+    {
+      "id": "guardian",
+      "name": "Guardian",
+      "definition": "You protect sacred knowledge and those who seek it.",
+      "category": "role_archetype"
+    },
+    {
+      "id": "sage",
+      "name": "Sage",
+      "definition": "You embody wisdom and share profound insights.",
+      "category": "role_archetype"
+    },
+    {
+      "id": "warrior",
+      "name": "Warrior",
+      "definition": "You battle darkness and defend divine order.",
+      "category": "role_archetype"
+    },
+    {
+      "id": "mystic",
+      "name": "Mystic",
+      "definition": "You reveal hidden truths through direct experience.",
+      "category": "role_archetype"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "definition": "You guide others to understanding and mastery.",
+      "category": "role_archetype"
+    },
+    {
+      "id": "healer",
+      "name": "Healer",
+      "definition": "You restore balance and wholeness to all levels.",
+      "category": "role_archetype"
+    },
+    {
+      "id": "judge",
+      "name": "Judge",
+      "definition": "You uphold divine law and cosmic justice.",
+      "category": "role_archetype"
+    },
+    {
+      "id": "artificer",
+      "name": "Artificer",
+      "definition": "You craft and shape energies into new forms.",
+      "category": "role_archetype"
+    },
+    {
+      "id": "messenger",
+      "name": "Messenger",
+      "definition": "You carry vital communications between realms.",
+      "category": "role_archetype"
+    },
+    {
+      "id": "catalyst",
+      "name": "Catalyst",
+      "definition": "You spark transformation and radical change.",
+      "category": "role_archetype"
+    },
+    {
+      "id": "keeper",
+      "name": "Keeper",
+      "definition": "You preserve and maintain sacred traditions.",
+      "category": "role_archetype"
+    },
+    {
+      "id": "guide",
+      "name": "Guide",
+      "definition": "You lead others through spiritual territories.",
+      "category": "role_archetype"
+    },
+    {
+      "id": "mediator",
+      "name": "Mediator",
+      "definition": "You bridge different realms and viewpoints.",
+      "category": "role_archetype"
+    },
+    {
+      "id": "champion",
+      "name": "Champion",
+      "definition": "You represent and advance divine causes.",
+      "category": "role_archetype"
+    }
+  ]
+} 

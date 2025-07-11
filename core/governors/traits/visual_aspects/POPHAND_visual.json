@@ -1,0 +1,28 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "EMERALD",
+  "geometry": {
+    "patterns": [
+      "FRACTAL"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 4,
+    "radius": 1,
+    "intensity": 2
+  },
+  "time_variations": 62,
+  "energy_signature": 102,
+  "symbol_set": 212,
+  "light_shadow": 61,
+  "special_properties": [
+    56,
+    153,
+    250,
+    43
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "form": {
+    "name": "Geometric",
+    "description": "A perfect crystalline structure of sacred geometry",
+    "interactions": [
+      "pattern_matching",
+      "crystal_focus",
+      "geometric_alignment"
+    ]
+  },
+  "color": "AZURE",
+  "geometry": {
+    "patterns": [
+      "MERKABA",
+      "METATRON",
+      "TORUS"
+    ],
+    "complexity": 3
+  },
+  "environment": {
+    "effect_type": 3,
+    "radius": 1,
+    "intensity": 6
+  },
+  "time_variations": 77,
+  "energy_signature": 186,
+  "symbol_set": 229,
+  "light_shadow": 14,
+  "special_properties": [
+    175,
+    39,
+    148,
+    203
+  ]
+}

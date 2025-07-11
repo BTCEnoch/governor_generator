@@ -14,9 +14,19 @@ import logging
 from typing import Dict, Any
 
 # Import our system components
-from engines.storyline_generation.canonical_trait_registry import CanonicalTraitRegistry
-from engines.storyline_generation.governor_engine import GovernorEngine
-from retrievers.focused_mystical_retriever import FocusedMysticalRetriever
+# from core.storyline.canonical_trait_registry import CanonicalTraitRegistry
+# from core.storyline.governor_engine import GovernorEngine
+from .retrievers.focused_mystical_retriever import FocusedMysticalRetriever
+from core.storyline.core_loader import CoreDataLoader
+
+# Temporary stub classes until storyline system is implemented
+class CanonicalTraitRegistry:
+    def get_governor_canonical(self, governor_name: str):
+        return None
+
+class GovernorEngine:
+    def create_archetypal_governor(self, governor_name: str):
+        return None
 
 # LOGGING SETUP (VITAL for demonstrating progress)
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')

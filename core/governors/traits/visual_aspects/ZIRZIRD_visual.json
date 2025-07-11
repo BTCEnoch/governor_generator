@@ -1,0 +1,30 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "GOLDEN",
+  "geometry": {
+    "patterns": [
+      "FLOWER_OF_LIFE",
+      "TORUS",
+      "FRACTAL"
+    ],
+    "complexity": 3
+  },
+  "environment": {
+    "effect_type": 1,
+    "radius": 1,
+    "intensity": 3
+  },
+  "time_variations": 53,
+  "energy_signature": 71,
+  "symbol_set": 29,
+  "light_shadow": 133,
+  "special_properties": [
+    29,
+    89,
+    68,
+    194
+  ]
+}

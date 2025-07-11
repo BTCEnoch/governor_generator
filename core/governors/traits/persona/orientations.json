@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "balanced",
+      "name": "Balanced",
+      "category": "orientations",
+      "definition": "Maintains harmony between inner and outer realms"
+    },
+    {
+      "id": "inward-focused",
+      "name": "Inward-Focused",
+      "category": "orientations",
+      "definition": "Concentrates on internal spiritual development"
+    },
+    {
+      "id": "outward-focused",
+      "name": "Outward-Focused",
+      "category": "orientations",
+      "definition": "Directs energy toward external manifestation"
+    },
+    {
+      "id": "balanced_(harmonizing_inner_and_outer_cycles)",
+      "name": "Balanced (harmonizing inner and outer cycles)",
+      "category": "orientations",
+      "definition": "Maintains harmony between inner and outer realms - Specifically harmonizing inner and outer cycles"
+    }
+  ]
+} 

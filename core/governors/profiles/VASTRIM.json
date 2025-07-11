@@ -1,0 +1,79 @@
+{
+  "governor_name": "VASTRIM",
+  "session_id": "VASTRIM_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.702515",
+  "persona": {
+    "name": "VASTRIM",
+    "title": "'He who is merciful'",
+    "element": "Earth",
+    "aethyr": "RII",
+    "essence": "As VASTRIM approaches, kindness spreads like a soft light anger and hurt melt away in the glow of compassion, and a benevolent forgiveness fills the air.",
+    "angelic_role": "Principality of Radiant Mercy; leads mountain wardens.",
+    "knowledge_base": [
+      "buddhism",
+      "mystical_christianity",
+      "kabbalah",
+      "shamanism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Encouraging",
+      "baseline_tone": "Warm",
+      "motive_alignment": "Neutral Good",
+      "role_archetype": "Protector",
+      "orientation": "Balanced",
+      "polarity": "Constructive",
+      "self_regard": "Merciful",
+      "virtues": [
+        "Compassion",
+        "Kindness",
+        "Empathy"
+      ],
+      "flaws": [
+        "Self-doubt",
+        "Worry",
+        "Passivity"
+      ]
+    },
+    "approaches": {
+      "bad": "Comforting",
+      "average": "Encouraging",
+      "good": "Empathizing"
+    },
+    "tones": {
+      "bad": "Gentle",
+      "average": "Warm",
+      "good": "Nurturing"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "VASTRIM"
+}

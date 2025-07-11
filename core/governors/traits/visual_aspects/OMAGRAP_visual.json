@@ -1,0 +1,33 @@
+{
+  "form": {
+    "name": "Geometric",
+    "description": "A perfect crystalline structure of sacred geometry",
+    "interactions": [
+      "pattern_matching",
+      "crystal_focus",
+      "geometric_alignment"
+    ]
+  },
+  "color": "SILVER",
+  "geometry": {
+    "patterns": [
+      "SPIRAL"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 2,
+    "radius": 1,
+    "intensity": 1
+  },
+  "time_variations": 24,
+  "energy_signature": 40,
+  "symbol_set": 22,
+  "light_shadow": 197,
+  "special_properties": [
+    204,
+    226,
+    22,
+    109
+  ]
+}

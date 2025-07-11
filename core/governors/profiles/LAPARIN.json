@@ -1,0 +1,79 @@
+{
+  "governor_name": "LAPARIN",
+  "session_id": "LAPARIN_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.632924",
+  "persona": {
+    "name": "LAPARIN",
+    "title": "'He who is the protector of man'",
+    "element": "Fire",
+    "aethyr": "ZIM",
+    "essence": "In LAPARIN's presence, faith stands as a bulwark of light a solar bastion where holy ground meets the roar of battle without yielding.",
+    "angelic_role": "Cherub of Bulwark of Light; leads whirlwind sentinels.",
+    "knowledge_base": [
+      "christian_mysticism",
+      "kabbalah",
+      "angelology",
+      "sacred_geometry",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Sun",
+      "sephirot": "Tiphereth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Protecting",
+      "baseline_tone": "Intense",
+      "motive_alignment": "Lawful Good",
+      "role_archetype": "Protector",
+      "orientation": "Outward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Fortitude",
+        "Valor",
+        "Faith"
+      ],
+      "flaws": [
+        "Zealousness",
+        "Pride",
+        "Rigidity"
+      ]
+    },
+    "approaches": {
+      "bad": "Punishing",
+      "average": "Protecting",
+      "good": "Challenging"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Intense",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "LAPARIN"
+}

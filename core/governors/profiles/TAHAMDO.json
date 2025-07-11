@@ -1,0 +1,79 @@
+{
+  "governor_name": "TAHAMDO",
+  "session_id": "TAHAMDO_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.684622",
+  "persona": {
+    "name": "TAHAMDO",
+    "title": "'He who lives according to his name'",
+    "element": "Air",
+    "aethyr": "OXO",
+    "essence": "When TAHAMDO is invoked, all facets of the self lock into harmony utterance, act, and essence moving in perfectly principled step.",
+    "angelic_role": "Principality of Harmonious Word; leads empyrean hosts.",
+    "knowledge_base": [
+      "hermeticism",
+      "kabbalah",
+      "alchemy",
+      "theurgy",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Teaching",
+      "baseline_tone": "Formal",
+      "motive_alignment": "Lawful Good",
+      "role_archetype": "Herald",
+      "orientation": "Balanced",
+      "polarity": "Constructive",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Integrity",
+        "Wisdom",
+        "Mindfulness"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Zealousness",
+        "Aloofness"
+      ]
+    },
+    "approaches": {
+      "bad": "Testing",
+      "average": "Teaching",
+      "good": "Demonstrating"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Formal",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "TAHAMDO"
+}

@@ -1,0 +1,28 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "SILVER",
+  "geometry": {
+    "patterns": [
+      "TESSERACT"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 2,
+    "radius": 0,
+    "intensity": 2
+  },
+  "time_variations": 26,
+  "energy_signature": 88,
+  "symbol_set": 86,
+  "light_shadow": 121,
+  "special_properties": [
+    190,
+    186,
+    94,
+    39
+  ]
+}

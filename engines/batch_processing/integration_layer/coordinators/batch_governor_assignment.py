@@ -1,15 +1,21 @@
-﻿import json
+﻿"""
+Batch Governor Assignment Coordinator
+"""
+
+import json
 import sys
 import os
 from pathlib import Path
 import logging
 
+from typing import Dict, List, Any
+
 # Add project root to Python path for proper imports
 # , '../..'))  # Removed during reorganization
 
 # Import from mystical systems according to new architecture
-from engines.mystical_systems.tarot_system.engines.governor_tarot_assigner import GovernorTarotAssigner
-from engines.mystical_systems.tarot_system.schemas.tarot_schemas import GovernorTarotProfile
+from core.mystical_systems.tarot_system.engines.governor_tarot_assigner import GovernorTarotAssigner
+from core.mystical_systems.tarot_system.schemas.tarot_schemas import GovernorTarotProfile
 
 class BatchGovernorTarotAssignment:
     def __init__(self):

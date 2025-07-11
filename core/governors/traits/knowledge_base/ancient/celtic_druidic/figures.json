@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "celtic_druidic",
+      "name": "Celtic Druidic Traditions",
+      "category": "tradition_archetype",
+      "definition": "",
+      "dates": {},
+      "roles": [],
+      "contributions": [
+        "True leadership flows from connection to the sacred in nature",
+        "Divine inspiration (Awen) guides authentic decision-making",
+        "Wisdom bridges the worlds of matter and spirit",
+        "Natural cycles teach timing and patience in leadership",
+        "Every being has unique medicine to offer the community",
+        "The land holds ancient teachings for modern challenges",
+        "Seasonal awareness brings balance to action and rest"
+      ],
+      "key_works": [],
+      "attributes": {
+        "governor_essence": "A Celtic Druidic Traditions Governor embodies the sacred connection between wisdom and nature, leading through deep attunement to natural cycles, divine inspiration (Awen), and the interconnected web of seen and unseen worlds.",
+        "conflict_styles": [],
+        "communication_styles": [
+          "Speaks with seasonal wisdom",
+          "Uses nature metaphors",
+          "Bridges seen and unseen insights",
+          "Channels divine inspiration"
+        ],
+        "relationship_approaches": []
+      }
+    }
+  ]
+}

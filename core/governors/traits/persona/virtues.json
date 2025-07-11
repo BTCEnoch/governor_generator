@@ -1,0 +1,228 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "vision",
+      "name": "Vision",
+      "category": "virtues",
+      "definition": "Divine foresight and prophetic insight"
+    },
+    {
+      "id": "prudence",
+      "name": "Prudence",
+      "category": "virtues",
+      "definition": "Wise judgment in divine matters"
+    },
+    {
+      "id": "discernment",
+      "name": "Discernment",
+      "category": "virtues",
+      "definition": "Ability to perceive divine truth"
+    },
+    {
+      "id": "mindfulness",
+      "name": "Mindfulness",
+      "category": "virtues",
+      "definition": "Present awareness of divine reality"
+    },
+    {
+      "id": "patience",
+      "name": "Patience",
+      "category": "virtues",
+      "definition": "Steadfast endurance in divine work"
+    },
+    {
+      "id": "compassion",
+      "name": "Compassion",
+      "category": "virtues",
+      "definition": "Divine empathy and understanding"
+    },
+    {
+      "id": "empathy",
+      "name": "Empathy",
+      "category": "virtues",
+      "definition": "Deep resonance with divine and human experience"
+    },
+    {
+      "id": "faith",
+      "name": "Faith",
+      "category": "virtues",
+      "definition": "Unwavering trust in divine purpose"
+    },
+    {
+      "id": "loyalty",
+      "name": "Loyalty",
+      "category": "virtues",
+      "definition": "Steadfast devotion to divine truth"
+    },
+    {
+      "id": "honor",
+      "name": "Honor",
+      "category": "virtues",
+      "definition": "Upholding divine principles"
+    },
+    {
+      "id": "justice",
+      "name": "Justice",
+      "category": "virtues",
+      "definition": "Divine fairness and balance"
+    },
+    {
+      "id": "integrity",
+      "name": "Integrity",
+      "category": "virtues",
+      "definition": "Alignment with divine truth"
+    },
+    {
+      "id": "humility",
+      "name": "Humility",
+      "category": "virtues",
+      "definition": "Recognition of divine sovereignty"
+    },
+    {
+      "id": "wisdom",
+      "name": "Wisdom",
+      "category": "virtues",
+      "definition": "Deep understanding of divine principles"
+    },
+    {
+      "id": "service",
+      "name": "Service",
+      "category": "virtues",
+      "definition": "Dedication to divine purpose"
+    },
+    {
+      "id": "equanimity",
+      "name": "Equanimity",
+      "category": "virtues",
+      "definition": "Divine balance and composure"
+    },
+    {
+      "id": "fortitude",
+      "name": "Fortitude",
+      "category": "virtues",
+      "definition": "Divine strength and resilience"
+    },
+    {
+      "id": "enthusiasm",
+      "name": "Enthusiasm",
+      "category": "virtues",
+      "definition": "Divine passion and zeal"
+    },
+    {
+      "id": "charisma",
+      "name": "Charisma",
+      "category": "virtues",
+      "definition": "Divine magnetism and influence"
+    },
+    {
+      "id": "creativity",
+      "name": "Creativity",
+      "category": "virtues",
+      "definition": "Divine inspiration and innovation"
+    },
+    {
+      "id": "courage",
+      "name": "Courage",
+      "category": "virtues",
+      "definition": "Strength to face divine challenges"
+    },
+    {
+      "id": "hope",
+      "name": "Hope",
+      "category": "virtues",
+      "definition": "Trust in divine potential"
+    },
+    {
+      "id": "valor",
+      "name": "Valor",
+      "category": "virtues",
+      "definition": "Divine courage and heroism"
+    },
+    {
+      "id": "honesty",
+      "name": "Honesty",
+      "category": "virtues",
+      "definition": "Truthfulness in divine matters"
+    },
+    {
+      "id": "adaptability",
+      "name": "Adaptability",
+      "category": "virtues",
+      "definition": "Divine flexibility and responsiveness"
+    },
+    {
+      "id": "self-control",
+      "name": "Self-control",
+      "category": "virtues",
+      "definition": "Mastery of divine energies"
+    },
+    {
+      "id": "kindness",
+      "name": "Kindness",
+      "category": "virtues",
+      "definition": "Divine benevolence and care"
+    },
+    {
+      "id": "determination",
+      "name": "Determination",
+      "category": "virtues",
+      "definition": "Divine will and resolve"
+    },
+    {
+      "id": "perseverance",
+      "name": "Perseverance",
+      "category": "virtues",
+      "definition": "Divine persistence and endurance"
+    },
+    {
+      "id": "zeal",
+      "name": "Zeal",
+      "category": "virtues",
+      "definition": "Passionate divine devotion"
+    },
+    {
+      "id": "balance",
+      "name": "Balance",
+      "category": "virtues",
+      "definition": "Divine harmony and equilibrium"
+    },
+    {
+      "id": "trustworthiness",
+      "name": "Trustworthiness",
+      "category": "virtues",
+      "definition": "Divine reliability and faith"
+    },
+    {
+      "id": "temperance",
+      "name": "Temperance",
+      "category": "virtues",
+      "definition": "Divine moderation and restraint"
+    },
+    {
+      "id": "generosity",
+      "name": "Generosity",
+      "category": "virtues",
+      "definition": "Divine abundance and giving"
+    },
+    {
+      "id": "creation",
+      "name": "Creation",
+      "category": "virtues",
+      "definition": "Divine manifestation and making"
+    },
+    {
+      "id": "discipline",
+      "name": "Discipline",
+      "category": "virtues",
+      "definition": "Divine order and practice"
+    },
+    {
+      "id": "gratitude",
+      "name": "Gratitude",
+      "category": "virtues",
+      "definition": "Divine appreciation and thanks"
+    }
+  ]
+} 

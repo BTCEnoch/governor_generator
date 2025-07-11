@@ -1,0 +1,6350 @@
+{
+  "generation_time": "2025-07-09T00:40:06.721050",
+  "total_governors": 181,
+  "results": [
+    {
+      "governor_name": "ABRIOND",
+      "binary_traits": "56495331010202523d9e212edda2e939",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 2,
+          "intensity": 2
+        },
+        "time_variations": 61,
+        "energy_signature": 158,
+        "symbol_set": 33,
+        "light_shadow": 46,
+        "special_properties": [
+          221,
+          162,
+          233,
+          57
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.125229"
+    },
+    {
+      "governor_name": "ABRIOND",
+      "binary_traits": "56495331010202523d9e212edda2e939",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 2,
+          "intensity": 2
+        },
+        "time_variations": 61,
+        "energy_signature": 158,
+        "symbol_set": 33,
+        "light_shadow": 46,
+        "special_properties": [
+          221,
+          162,
+          233,
+          57
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.125229"
+    },
+    {
+      "governor_name": "ADVORPT",
+      "binary_traits": "5649533107031063e81459afeaefe319",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 0,
+          "intensity": 3
+        },
+        "time_variations": 232,
+        "energy_signature": 20,
+        "symbol_set": 89,
+        "light_shadow": 175,
+        "special_properties": [
+          234,
+          239,
+          227,
+          25
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.429380"
+    },
+    {
+      "governor_name": "ADVORPT",
+      "binary_traits": "5649533107031063e81459afeaefe319",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 0,
+          "intensity": 3
+        },
+        "time_variations": 232,
+        "energy_signature": 20,
+        "symbol_set": 89,
+        "light_shadow": 175,
+        "special_properties": [
+          234,
+          239,
+          227,
+          25
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.429380"
+    },
+    {
+      "governor_name": "AMBRIOL",
+      "binary_traits": "56495331020138b12a3ba8457376ca9e",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "TORUS",
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 2,
+          "intensity": 5
+        },
+        "time_variations": 42,
+        "energy_signature": 59,
+        "symbol_set": 168,
+        "light_shadow": 69,
+        "special_properties": [
+          115,
+          118,
+          202,
+          158
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.431381"
+    },
+    {
+      "governor_name": "AMBRIOL",
+      "binary_traits": "56495331020138b12a3ba8457376ca9e",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "TORUS",
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 2,
+          "intensity": 5
+        },
+        "time_variations": 42,
+        "energy_signature": 59,
+        "symbol_set": 168,
+        "light_shadow": 69,
+        "special_properties": [
+          115,
+          118,
+          202,
+          158
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.431381"
+    },
+    {
+      "governor_name": "ANDISPI",
+      "binary_traits": "56495331040343fbf14fe6d520fda576",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "METATRON",
+            "TESSERACT"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 3,
+          "intensity": 7
+        },
+        "time_variations": 241,
+        "energy_signature": 79,
+        "symbol_set": 230,
+        "light_shadow": 213,
+        "special_properties": [
+          32,
+          253,
+          165,
+          118
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.433381"
+    },
+    {
+      "governor_name": "ANDISPI",
+      "binary_traits": "56495331040343fbf14fe6d520fda576",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "METATRON",
+            "TESSERACT"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 3,
+          "intensity": 7
+        },
+        "time_variations": 241,
+        "energy_signature": 79,
+        "symbol_set": 230,
+        "light_shadow": 213,
+        "special_properties": [
+          32,
+          253,
+          165,
+          118
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.433381"
+    },
+    {
+      "governor_name": "ASPIAON",
+      "binary_traits": "5649533103010c399f9923bec34a2e56",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "TORUS"
+          ],
+          "complexity": 2
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 3,
+          "intensity": 1
+        },
+        "time_variations": 159,
+        "energy_signature": 153,
+        "symbol_set": 35,
+        "light_shadow": 190,
+        "special_properties": [
+          195,
+          74,
+          46,
+          86
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.435382"
+    },
+    {
+      "governor_name": "ASPIAON",
+      "binary_traits": "5649533103010c399f9923bec34a2e56",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "TORUS"
+          ],
+          "complexity": 2
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 3,
+          "intensity": 1
+        },
+        "time_variations": 159,
+        "energy_signature": 153,
+        "symbol_set": 35,
+        "light_shadow": 190,
+        "special_properties": [
+          195,
+          74,
+          46,
+          86
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.435382"
+    },
+    {
+      "governor_name": "AXXIARG",
+      "binary_traits": "5649533105031ccbfcf02132ad205af6",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "TORUS",
+            "SPIRAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 1,
+          "intensity": 6
+        },
+        "time_variations": 252,
+        "energy_signature": 240,
+        "symbol_set": 33,
+        "light_shadow": 50,
+        "special_properties": [
+          173,
+          32,
+          90,
+          246
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.436382"
+    },
+    {
+      "governor_name": "AXXIARG",
+      "binary_traits": "5649533105031ccbfcf02132ad205af6",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "TORUS",
+            "SPIRAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 1,
+          "intensity": 6
+        },
+        "time_variations": 252,
+        "energy_signature": 240,
+        "symbol_set": 33,
+        "light_shadow": 50,
+        "special_properties": [
+          173,
+          32,
+          90,
+          246
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.436382"
+    },
+    {
+      "governor_name": "AYDROPT",
+      "binary_traits": "56495331050220aadb8c7fb221b94577",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "FRACTAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 1,
+          "intensity": 5
+        },
+        "time_variations": 219,
+        "energy_signature": 140,
+        "symbol_set": 127,
+        "light_shadow": 178,
+        "special_properties": [
+          33,
+          185,
+          69,
+          119
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.438382"
+    },
+    {
+      "governor_name": "AYDROPT",
+      "binary_traits": "56495331050220aadb8c7fb221b94577",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "FRACTAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 1,
+          "intensity": 5
+        },
+        "time_variations": 219,
+        "energy_signature": 140,
+        "symbol_set": 127,
+        "light_shadow": 178,
+        "special_properties": [
+          33,
+          185,
+          69,
+          119
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.438382"
+    },
+    {
+      "governor_name": "CALZIRG",
+      "binary_traits": "564953310104106cec195da6de4e59df",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 1,
+          "intensity": 3
+        },
+        "time_variations": 236,
+        "energy_signature": 25,
+        "symbol_set": 93,
+        "light_shadow": 166,
+        "special_properties": [
+          222,
+          78,
+          89,
+          223
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.440382"
+    },
+    {
+      "governor_name": "CALZIRG",
+      "binary_traits": "564953310104106cec195da6de4e59df",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 1,
+          "intensity": 3
+        },
+        "time_variations": 236,
+        "energy_signature": 25,
+        "symbol_set": 93,
+        "light_shadow": 166,
+        "special_properties": [
+          222,
+          78,
+          89,
+          223
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.440382"
+    },
+    {
+      "governor_name": "CHASLPO",
+      "binary_traits": "564953310104013c5fb0a2f4f005daa7",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 3,
+          "intensity": 1
+        },
+        "time_variations": 95,
+        "energy_signature": 176,
+        "symbol_set": 162,
+        "light_shadow": 244,
+        "special_properties": [
+          240,
+          5,
+          218,
+          167
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.441381"
+    },
+    {
+      "governor_name": "CHASLPO",
+      "binary_traits": "564953310104013c5fb0a2f4f005daa7",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 3,
+          "intensity": 1
+        },
+        "time_variations": 95,
+        "energy_signature": 176,
+        "symbol_set": 162,
+        "light_shadow": 244,
+        "special_properties": [
+          240,
+          5,
+          218,
+          167
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.441381"
+    },
+    {
+      "governor_name": "CHIRZPA",
+      "binary_traits": "564953310602104aa275c9780747ec64",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 1,
+          "intensity": 2
+        },
+        "time_variations": 162,
+        "energy_signature": 117,
+        "symbol_set": 201,
+        "light_shadow": 120,
+        "special_properties": [
+          7,
+          71,
+          236,
+          100
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.444381"
+    },
+    {
+      "governor_name": "CHIRZPA",
+      "binary_traits": "564953310602104aa275c9780747ec64",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 1,
+          "intensity": 2
+        },
+        "time_variations": 162,
+        "energy_signature": 117,
+        "symbol_set": 201,
+        "light_shadow": 120,
+        "special_properties": [
+          7,
+          71,
+          236,
+          100
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.444381"
+    },
+    {
+      "governor_name": "COMANAN",
+      "binary_traits": "564953310005304f54dbac22eaa4798f",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "PLASMA",
+        "geometry": {
+          "patterns": [
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 2
+        },
+        "environment": {
+          "effect_type": 7,
+          "radius": 1,
+          "intensity": 2
+        },
+        "time_variations": 84,
+        "energy_signature": 219,
+        "symbol_set": 172,
+        "light_shadow": 34,
+        "special_properties": [
+          234,
+          164,
+          121,
+          143
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.446381"
+    },
+    {
+      "governor_name": "COMANAN",
+      "binary_traits": "564953310005304f54dbac22eaa4798f",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "PLASMA",
+        "geometry": {
+          "patterns": [
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 2
+        },
+        "environment": {
+          "effect_type": 7,
+          "radius": 1,
+          "intensity": 2
+        },
+        "time_variations": 84,
+        "energy_signature": 219,
+        "symbol_set": 172,
+        "light_shadow": 34,
+        "special_properties": [
+          234,
+          164,
+          121,
+          143
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.446381"
+    },
+    {
+      "governor_name": "CRALPIR",
+      "binary_traits": "5649533101017071eca6a55dea155ef5",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "SPIRAL",
+            "FRACTAL",
+            "TESSERACT"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 2,
+          "intensity": 3
+        },
+        "time_variations": 236,
+        "energy_signature": 166,
+        "symbol_set": 165,
+        "light_shadow": 93,
+        "special_properties": [
+          234,
+          21,
+          94,
+          245
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.447381"
+    },
+    {
+      "governor_name": "CRALPIR",
+      "binary_traits": "5649533101017071eca6a55dea155ef5",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "SPIRAL",
+            "FRACTAL",
+            "TESSERACT"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 2,
+          "intensity": 3
+        },
+        "time_variations": 236,
+        "energy_signature": 166,
+        "symbol_set": 165,
+        "light_shadow": 93,
+        "special_properties": [
+          234,
+          21,
+          94,
+          245
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.447381"
+    },
+    {
+      "governor_name": "CRPANIB",
+      "binary_traits": "56495331010480cc95eec39f817d4280",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "CUSTOM"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 1,
+          "intensity": 6
+        },
+        "time_variations": 149,
+        "energy_signature": 238,
+        "symbol_set": 195,
+        "light_shadow": 159,
+        "special_properties": [
+          129,
+          125,
+          66,
+          128
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.449423"
+    },
+    {
+      "governor_name": "CRPANIB",
+      "binary_traits": "56495331010480cc95eec39f817d4280",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "CUSTOM"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 1,
+          "intensity": 6
+        },
+        "time_variations": 149,
+        "energy_signature": 238,
+        "symbol_set": 195,
+        "light_shadow": 159,
+        "special_properties": [
+          129,
+          125,
+          66,
+          128
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.449423"
+    },
+    {
+      "governor_name": "CUCARPT",
+      "binary_traits": "56495331020220d294b1d80eecf650ac",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "FRACTAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 2,
+          "intensity": 6
+        },
+        "time_variations": 148,
+        "energy_signature": 177,
+        "symbol_set": 216,
+        "light_shadow": 14,
+        "special_properties": [
+          236,
+          246,
+          80,
+          172
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.451388"
+    },
+    {
+      "governor_name": "CUCARPT",
+      "binary_traits": "56495331020220d294b1d80eecf650ac",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "FRACTAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 2,
+          "intensity": 6
+        },
+        "time_variations": 148,
+        "energy_signature": 177,
+        "symbol_set": 216,
+        "light_shadow": 14,
+        "special_properties": [
+          236,
+          246,
+          80,
+          172
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.451388"
+    },
+    {
+      "governor_name": "DIALOIA",
+      "binary_traits": "5649533100030b7b543788d809bdf2c1",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "METATRON",
+            "TORUS"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 3,
+          "intensity": 3
+        },
+        "time_variations": 84,
+        "energy_signature": 55,
+        "symbol_set": 136,
+        "light_shadow": 216,
+        "special_properties": [
+          9,
+          189,
+          242,
+          193
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.452389"
+    },
+    {
+      "governor_name": "DIALOIA",
+      "binary_traits": "5649533100030b7b543788d809bdf2c1",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "METATRON",
+            "TORUS"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 3,
+          "intensity": 3
+        },
+        "time_variations": 84,
+        "energy_signature": 55,
+        "symbol_set": 136,
+        "light_shadow": 216,
+        "special_properties": [
+          9,
+          189,
+          242,
+          193
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.452389"
+    },
+    {
+      "governor_name": "DOAGNIS",
+      "binary_traits": "56495331030383a34fb0b434db04b84e",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "METATRON",
+            "CUSTOM"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 0,
+          "intensity": 5
+        },
+        "time_variations": 79,
+        "energy_signature": 176,
+        "symbol_set": 180,
+        "light_shadow": 52,
+        "special_properties": [
+          219,
+          4,
+          184,
+          78
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.454388"
+    },
+    {
+      "governor_name": "DOAGNIS",
+      "binary_traits": "56495331030383a34fb0b434db04b84e",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "METATRON",
+            "CUSTOM"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 0,
+          "intensity": 5
+        },
+        "time_variations": 79,
+        "energy_signature": 176,
+        "symbol_set": 180,
+        "light_shadow": 52,
+        "special_properties": [
+          219,
+          4,
+          184,
+          78
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.454388"
+    },
+    {
+      "governor_name": "DOANZIN",
+      "binary_traits": "56495331010131692418897e4579cd28",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 1,
+          "intensity": 3
+        },
+        "time_variations": 36,
+        "energy_signature": 24,
+        "symbol_set": 137,
+        "light_shadow": 126,
+        "special_properties": [
+          69,
+          121,
+          205,
+          40
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.456389"
+    },
+    {
+      "governor_name": "DOANZIN",
+      "binary_traits": "56495331010131692418897e4579cd28",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 1,
+          "intensity": 3
+        },
+        "time_variations": 36,
+        "energy_signature": 24,
+        "symbol_set": 137,
+        "light_shadow": 126,
+        "special_properties": [
+          69,
+          121,
+          205,
+          40
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.456389"
+    },
+    {
+      "governor_name": "DOCEPAX",
+      "binary_traits": "56495331070110c9a6fb2d174339e879",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 1,
+          "intensity": 6
+        },
+        "time_variations": 166,
+        "energy_signature": 251,
+        "symbol_set": 45,
+        "light_shadow": 23,
+        "special_properties": [
+          67,
+          57,
+          232,
+          121
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.458389"
+    },
+    {
+      "governor_name": "DOCEPAX",
+      "binary_traits": "56495331070110c9a6fb2d174339e879",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 1,
+          "intensity": 6
+        },
+        "time_variations": 166,
+        "energy_signature": 251,
+        "symbol_set": 45,
+        "light_shadow": 23,
+        "special_properties": [
+          67,
+          57,
+          232,
+          121
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.458389"
+    },
+    {
+      "governor_name": "DOXMAEL",
+      "binary_traits": "564953310303029b2046b74c78a96296",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 3,
+          "intensity": 4
+        },
+        "time_variations": 32,
+        "energy_signature": 70,
+        "symbol_set": 183,
+        "light_shadow": 76,
+        "special_properties": [
+          120,
+          169,
+          98,
+          150
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.460388"
+    },
+    {
+      "governor_name": "DOXMAEL",
+      "binary_traits": "564953310303029b2046b74c78a96296",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 3,
+          "intensity": 4
+        },
+        "time_variations": 32,
+        "energy_signature": 70,
+        "symbol_set": 183,
+        "light_shadow": 76,
+        "special_properties": [
+          120,
+          169,
+          98,
+          150
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.460388"
+    },
+    {
+      "governor_name": "GECAOND",
+      "binary_traits": "56495331040110d1c83fc51365616d46",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 2,
+          "intensity": 6
+        },
+        "time_variations": 200,
+        "energy_signature": 63,
+        "symbol_set": 197,
+        "light_shadow": 19,
+        "special_properties": [
+          101,
+          97,
+          109,
+          70
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.462388"
+    },
+    {
+      "governor_name": "GECAOND",
+      "binary_traits": "56495331040110d1c83fc51365616d46",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 2,
+          "intensity": 6
+        },
+        "time_variations": 200,
+        "energy_signature": 63,
+        "symbol_set": 197,
+        "light_shadow": 19,
+        "special_properties": [
+          101,
+          97,
+          109,
+          70
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.462388"
+    },
+    {
+      "governor_name": "GEDOONS",
+      "binary_traits": "56495331050170c96996a54b27953ed8",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "SPIRAL",
+            "FRACTAL",
+            "TESSERACT"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 1,
+          "intensity": 6
+        },
+        "time_variations": 105,
+        "energy_signature": 150,
+        "symbol_set": 165,
+        "light_shadow": 75,
+        "special_properties": [
+          39,
+          149,
+          62,
+          216
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.463388"
+    },
+    {
+      "governor_name": "GEDOONS",
+      "binary_traits": "56495331050170c96996a54b27953ed8",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "SPIRAL",
+            "FRACTAL",
+            "TESSERACT"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 1,
+          "intensity": 6
+        },
+        "time_variations": 105,
+        "energy_signature": 150,
+        "symbol_set": 165,
+        "light_shadow": 75,
+        "special_properties": [
+          39,
+          149,
+          62,
+          216
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.463388"
+    },
+    {
+      "governor_name": "GEMNIMB",
+      "binary_traits": "564953310403013be6a5f8645af02c99",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 3,
+          "intensity": 1
+        },
+        "time_variations": 230,
+        "energy_signature": 165,
+        "symbol_set": 248,
+        "light_shadow": 100,
+        "special_properties": [
+          90,
+          240,
+          44,
+          153
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.465388"
+    },
+    {
+      "governor_name": "GEMNIMB",
+      "binary_traits": "564953310403013be6a5f8645af02c99",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 3,
+          "intensity": 1
+        },
+        "time_variations": 230,
+        "energy_signature": 165,
+        "symbol_set": 248,
+        "light_shadow": 100,
+        "special_properties": [
+          90,
+          240,
+          44,
+          153
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.465388"
+    },
+    {
+      "governor_name": "GENADOL",
+      "binary_traits": "5649533107010e01dee864e0811217c4",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "METATRON",
+            "FLOWER_OF_LIFE",
+            "TORUS"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 0,
+          "intensity": 0
+        },
+        "time_variations": 222,
+        "energy_signature": 232,
+        "symbol_set": 100,
+        "light_shadow": 224,
+        "special_properties": [
+          129,
+          18,
+          23,
+          196
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.468388"
+    },
+    {
+      "governor_name": "GENADOL",
+      "binary_traits": "5649533107010e01dee864e0811217c4",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "METATRON",
+            "FLOWER_OF_LIFE",
+            "TORUS"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 0,
+          "intensity": 0
+        },
+        "time_variations": 222,
+        "energy_signature": 232,
+        "symbol_set": 100,
+        "light_shadow": 224,
+        "special_properties": [
+          129,
+          18,
+          23,
+          196
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.468388"
+    },
+    {
+      "governor_name": "GMTZIAM",
+      "binary_traits": "5649533103040124739fcfb0afbd88cb",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 0,
+          "intensity": 1
+        },
+        "time_variations": 115,
+        "energy_signature": 159,
+        "symbol_set": 207,
+        "light_shadow": 176,
+        "special_properties": [
+          175,
+          189,
+          136,
+          203
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.470387"
+    },
+    {
+      "governor_name": "GMTZIAM",
+      "binary_traits": "5649533103040124739fcfb0afbd88cb",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 0,
+          "intensity": 1
+        },
+        "time_variations": 115,
+        "energy_signature": 159,
+        "symbol_set": 207,
+        "light_shadow": 176,
+        "special_properties": [
+          175,
+          189,
+          136,
+          203
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.470387"
+    },
+    {
+      "governor_name": "LAPARIN",
+      "binary_traits": "564953310301020928f8f319ee3942a0",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 1,
+          "intensity": 0
+        },
+        "time_variations": 40,
+        "energy_signature": 248,
+        "symbol_set": 243,
+        "light_shadow": 25,
+        "special_properties": [
+          238,
+          57,
+          66,
+          160
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.471387"
+    },
+    {
+      "governor_name": "LAPARIN",
+      "binary_traits": "564953310301020928f8f319ee3942a0",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 1,
+          "intensity": 0
+        },
+        "time_variations": 40,
+        "energy_signature": 248,
+        "symbol_set": 243,
+        "light_shadow": 25,
+        "special_properties": [
+          238,
+          57,
+          66,
+          160
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.471387"
+    },
+    {
+      "governor_name": "LAVACON",
+      "binary_traits": "56495331070202a217f46fae3bdf9d48",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 0,
+          "intensity": 5
+        },
+        "time_variations": 23,
+        "energy_signature": 244,
+        "symbol_set": 111,
+        "light_shadow": 174,
+        "special_properties": [
+          59,
+          223,
+          157,
+          72
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.474389"
+    },
+    {
+      "governor_name": "LAVACON",
+      "binary_traits": "56495331070202a217f46fae3bdf9d48",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 0,
+          "intensity": 5
+        },
+        "time_variations": 23,
+        "energy_signature": 244,
+        "symbol_set": 111,
+        "light_shadow": 174,
+        "special_properties": [
+          59,
+          223,
+          157,
+          72
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.474389"
+    },
+    {
+      "governor_name": "LAZDIXI",
+      "binary_traits": "5649533105030ceba0b556f3b1532a49",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "TORUS"
+          ],
+          "complexity": 2
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 1,
+          "intensity": 7
+        },
+        "time_variations": 160,
+        "energy_signature": 181,
+        "symbol_set": 86,
+        "light_shadow": 243,
+        "special_properties": [
+          177,
+          83,
+          42,
+          73
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.476388"
+    },
+    {
+      "governor_name": "LAZDIXI",
+      "binary_traits": "5649533105030ceba0b556f3b1532a49",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "TORUS"
+          ],
+          "complexity": 2
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 1,
+          "intensity": 7
+        },
+        "time_variations": 160,
+        "energy_signature": 181,
+        "symbol_set": 86,
+        "light_shadow": 243,
+        "special_properties": [
+          177,
+          83,
+          42,
+          73
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.476388"
+    },
+    {
+      "governor_name": "LAZHIIM",
+      "binary_traits": "56495331000401649d7f05ace85c472e",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 0,
+          "intensity": 3
+        },
+        "time_variations": 157,
+        "energy_signature": 127,
+        "symbol_set": 5,
+        "light_shadow": 172,
+        "special_properties": [
+          232,
+          92,
+          71,
+          46
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.478387"
+    },
+    {
+      "governor_name": "LAZHIIM",
+      "binary_traits": "56495331000401649d7f05ace85c472e",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 0,
+          "intensity": 3
+        },
+        "time_variations": 157,
+        "energy_signature": 127,
+        "symbol_set": 5,
+        "light_shadow": 172,
+        "special_properties": [
+          232,
+          92,
+          71,
+          46
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.478387"
+    },
+    {
+      "governor_name": "LEXARPH",
+      "binary_traits": "56495331050532372fdc5ba4f67c52bb",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "PLASMA",
+        "geometry": {
+          "patterns": [
+            "METATRON",
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 7,
+          "radius": 2,
+          "intensity": 1
+        },
+        "time_variations": 47,
+        "energy_signature": 220,
+        "symbol_set": 91,
+        "light_shadow": 164,
+        "special_properties": [
+          246,
+          124,
+          82,
+          187
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.479387"
+    },
+    {
+      "governor_name": "LEXARPH",
+      "binary_traits": "56495331050532372fdc5ba4f67c52bb",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "PLASMA",
+        "geometry": {
+          "patterns": [
+            "METATRON",
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 7,
+          "radius": 2,
+          "intensity": 1
+        },
+        "time_variations": 47,
+        "energy_signature": 220,
+        "symbol_set": 91,
+        "light_shadow": 164,
+        "special_properties": [
+          246,
+          124,
+          82,
+          187
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.479387"
+    },
+    {
+      "governor_name": "MATHVLA",
+      "binary_traits": "56495331040402d46cbd5047986326df",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 2,
+          "intensity": 6
+        },
+        "time_variations": 108,
+        "energy_signature": 189,
+        "symbol_set": 80,
+        "light_shadow": 71,
+        "special_properties": [
+          152,
+          99,
+          38,
+          223
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.481389"
+    },
+    {
+      "governor_name": "MATHVLA",
+      "binary_traits": "56495331040402d46cbd5047986326df",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 2,
+          "intensity": 6
+        },
+        "time_variations": 108,
+        "energy_signature": 189,
+        "symbol_set": 80,
+        "light_shadow": 71,
+        "special_properties": [
+          152,
+          99,
+          38,
+          223
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.481389"
+    },
+    {
+      "governor_name": "MIRZIND",
+      "binary_traits": "56495331060440d4dfe3aa4d1ef43158",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "TESSERACT"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 2,
+          "intensity": 6
+        },
+        "time_variations": 223,
+        "energy_signature": 227,
+        "symbol_set": 170,
+        "light_shadow": 77,
+        "special_properties": [
+          30,
+          244,
+          49,
+          88
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.483388"
+    },
+    {
+      "governor_name": "MIRZIND",
+      "binary_traits": "56495331060440d4dfe3aa4d1ef43158",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "TESSERACT"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 2,
+          "intensity": 6
+        },
+        "time_variations": 223,
+        "energy_signature": 227,
+        "symbol_set": 170,
+        "light_shadow": 77,
+        "special_properties": [
+          30,
+          244,
+          49,
+          88
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.483388"
+    },
+    {
+      "governor_name": "MOLPAND",
+      "binary_traits": "56495331010332933ec71b35050c8ea9",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "METATRON",
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 2,
+          "intensity": 4
+        },
+        "time_variations": 62,
+        "energy_signature": 199,
+        "symbol_set": 27,
+        "light_shadow": 53,
+        "special_properties": [
+          5,
+          12,
+          142,
+          169
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.485335"
+    },
+    {
+      "governor_name": "MOLPAND",
+      "binary_traits": "56495331010332933ec71b35050c8ea9",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "METATRON",
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 2,
+          "intensity": 4
+        },
+        "time_variations": 62,
+        "energy_signature": 199,
+        "symbol_set": 27,
+        "light_shadow": 53,
+        "special_properties": [
+          5,
+          12,
+          142,
+          169
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.485335"
+    },
+    {
+      "governor_name": "NABAOMI",
+      "binary_traits": "56495331060240421a585679beba5e27",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "TESSERACT"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 0,
+          "intensity": 2
+        },
+        "time_variations": 26,
+        "energy_signature": 88,
+        "symbol_set": 86,
+        "light_shadow": 121,
+        "special_properties": [
+          190,
+          186,
+          94,
+          39
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.487336"
+    },
+    {
+      "governor_name": "NABAOMI",
+      "binary_traits": "56495331060240421a585679beba5e27",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "TESSERACT"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 0,
+          "intensity": 2
+        },
+        "time_variations": 26,
+        "energy_signature": 88,
+        "symbol_set": 86,
+        "light_shadow": 121,
+        "special_properties": [
+          190,
+          186,
+          94,
+          39
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.487336"
+    },
+    {
+      "governor_name": "NIGRANA",
+      "binary_traits": "56495331050401b474ab7d87aea29d6c",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 2,
+          "intensity": 5
+        },
+        "time_variations": 116,
+        "energy_signature": 171,
+        "symbol_set": 125,
+        "light_shadow": 135,
+        "special_properties": [
+          174,
+          162,
+          157,
+          108
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.489334"
+    },
+    {
+      "governor_name": "NIGRANA",
+      "binary_traits": "56495331050401b474ab7d87aea29d6c",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 2,
+          "intensity": 5
+        },
+        "time_variations": 116,
+        "energy_signature": 171,
+        "symbol_set": 125,
+        "light_shadow": 135,
+        "special_properties": [
+          174,
+          162,
+          157,
+          108
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.489334"
+    },
+    {
+      "governor_name": "NOCAMAL",
+      "binary_traits": "5649533106030eabdcda3e0e927f556f",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "METATRON",
+            "FLOWER_OF_LIFE",
+            "TORUS"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 1,
+          "intensity": 5
+        },
+        "time_variations": 220,
+        "energy_signature": 218,
+        "symbol_set": 62,
+        "light_shadow": 14,
+        "special_properties": [
+          146,
+          127,
+          85,
+          111
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.491335"
+    },
+    {
+      "governor_name": "NOCAMAL",
+      "binary_traits": "5649533106030eabdcda3e0e927f556f",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "METATRON",
+            "FLOWER_OF_LIFE",
+            "TORUS"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 1,
+          "intensity": 5
+        },
+        "time_variations": 220,
+        "energy_signature": 218,
+        "symbol_set": 62,
+        "light_shadow": 14,
+        "special_properties": [
+          146,
+          127,
+          85,
+          111
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.491335"
+    },
+    {
+      "governor_name": "NOTIABI",
+      "binary_traits": "56495331030201729a49c3bbcadae596",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 2,
+          "intensity": 3
+        },
+        "time_variations": 154,
+        "energy_signature": 73,
+        "symbol_set": 195,
+        "light_shadow": 187,
+        "special_properties": [
+          202,
+          218,
+          229,
+          150
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.492335"
+    },
+    {
+      "governor_name": "NOTIABI",
+      "binary_traits": "56495331030201729a49c3bbcadae596",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 2,
+          "intensity": 3
+        },
+        "time_variations": 154,
+        "energy_signature": 73,
+        "symbol_set": 195,
+        "light_shadow": 187,
+        "special_properties": [
+          202,
+          218,
+          229,
+          150
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.492335"
+    },
+    {
+      "governor_name": "OBUAORS",
+      "binary_traits": "56495331060440543bfa17121bac41d1",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "TESSERACT"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 2,
+          "intensity": 2
+        },
+        "time_variations": 59,
+        "energy_signature": 250,
+        "symbol_set": 23,
+        "light_shadow": 18,
+        "special_properties": [
+          27,
+          172,
+          65,
+          209
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.494335"
+    },
+    {
+      "governor_name": "OBUAORS",
+      "binary_traits": "56495331060440543bfa17121bac41d1",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "TESSERACT"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 2,
+          "intensity": 2
+        },
+        "time_variations": 59,
+        "energy_signature": 250,
+        "symbol_set": 23,
+        "light_shadow": 18,
+        "special_properties": [
+          27,
+          172,
+          65,
+          209
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.494335"
+    },
+    {
+      "status": "failed",
+      "error": "'governor_name'"
+    },
+    {
+      "governor_name": "ODDIORG",
+      "binary_traits": "564953310201b079b4c251bae046b2d6",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "SPIRAL",
+            "FRACTAL",
+            "CUSTOM"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 3,
+          "intensity": 3
+        },
+        "time_variations": 180,
+        "energy_signature": 194,
+        "symbol_set": 81,
+        "light_shadow": 186,
+        "special_properties": [
+          224,
+          70,
+          178,
+          214
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.496333"
+    },
+    {
+      "governor_name": "ODDIORG",
+      "binary_traits": "564953310201b079b4c251bae046b2d6",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "SPIRAL",
+            "FRACTAL",
+            "CUSTOM"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 3,
+          "intensity": 3
+        },
+        "time_variations": 180,
+        "energy_signature": 194,
+        "symbol_set": 81,
+        "light_shadow": 186,
+        "special_properties": [
+          224,
+          70,
+          178,
+          214
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.496333"
+    },
+    {
+      "governor_name": "ODRAXTI",
+      "binary_traits": "56495331040420f46c3f6b08077858ed",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "FRACTAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 2,
+          "intensity": 7
+        },
+        "time_variations": 108,
+        "energy_signature": 63,
+        "symbol_set": 107,
+        "light_shadow": 8,
+        "special_properties": [
+          7,
+          120,
+          88,
+          237
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.497333"
+    },
+    {
+      "governor_name": "ODRAXTI",
+      "binary_traits": "56495331040420f46c3f6b08077858ed",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "FRACTAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 2,
+          "intensity": 7
+        },
+        "time_variations": 108,
+        "energy_signature": 63,
+        "symbol_set": 107,
+        "light_shadow": 8,
+        "special_properties": [
+          7,
+          120,
+          88,
+          237
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.497333"
+    },
+    {
+      "governor_name": "OMAGRAP",
+      "binary_traits": "564953310102102a182816c5cce2166d",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 1,
+          "intensity": 1
+        },
+        "time_variations": 24,
+        "energy_signature": 40,
+        "symbol_set": 22,
+        "light_shadow": 197,
+        "special_properties": [
+          204,
+          226,
+          22,
+          109
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.499335"
+    },
+    {
+      "governor_name": "OMAGRAP",
+      "binary_traits": "564953310102102a182816c5cce2166d",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 1,
+          "intensity": 1
+        },
+        "time_variations": 24,
+        "energy_signature": 40,
+        "symbol_set": 22,
+        "light_shadow": 197,
+        "special_properties": [
+          204,
+          226,
+          22,
+          109
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.499335"
+    },
+    {
+      "governor_name": "ONIZIMP",
+      "binary_traits": "56495331060401ac5bc60277cb1c766b",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 1,
+          "intensity": 5
+        },
+        "time_variations": 91,
+        "energy_signature": 198,
+        "symbol_set": 2,
+        "light_shadow": 119,
+        "special_properties": [
+          203,
+          28,
+          118,
+          107
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.502335"
+    },
+    {
+      "governor_name": "ONIZIMP",
+      "binary_traits": "56495331060401ac5bc60277cb1c766b",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 1,
+          "intensity": 5
+        },
+        "time_variations": 91,
+        "energy_signature": 198,
+        "symbol_set": 2,
+        "light_shadow": 119,
+        "special_properties": [
+          203,
+          28,
+          118,
+          107
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.502335"
+    },
+    {
+      "governor_name": "OPMACAS",
+      "binary_traits": "5649533107012c312331fa5b05157884",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "TORUS",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 2,
+          "intensity": 1
+        },
+        "time_variations": 35,
+        "energy_signature": 49,
+        "symbol_set": 250,
+        "light_shadow": 91,
+        "special_properties": [
+          5,
+          21,
+          120,
+          132
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.503335"
+    },
+    {
+      "governor_name": "OPMACAS",
+      "binary_traits": "5649533107012c312331fa5b05157884",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "TORUS",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 2,
+          "intensity": 1
+        },
+        "time_variations": 35,
+        "energy_signature": 49,
+        "symbol_set": 250,
+        "light_shadow": 91,
+        "special_properties": [
+          5,
+          21,
+          120,
+          132
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.503335"
+    },
+    {
+      "governor_name": "ORANCIR",
+      "binary_traits": "56495331000404ac19e376aabeccf1b6",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 1,
+          "intensity": 5
+        },
+        "time_variations": 25,
+        "energy_signature": 227,
+        "symbol_set": 118,
+        "light_shadow": 170,
+        "special_properties": [
+          190,
+          204,
+          241,
+          182
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.505334"
+    },
+    {
+      "governor_name": "ORANCIR",
+      "binary_traits": "56495331000404ac19e376aabeccf1b6",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 1,
+          "intensity": 5
+        },
+        "time_variations": 25,
+        "energy_signature": 227,
+        "symbol_set": 118,
+        "light_shadow": 170,
+        "special_properties": [
+          190,
+          204,
+          241,
+          182
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.505334"
+    },
+    {
+      "governor_name": "OSIDAIA",
+      "binary_traits": "5649533105020102ed7e671f2af54d7f",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 0,
+          "intensity": 0
+        },
+        "time_variations": 237,
+        "energy_signature": 126,
+        "symbol_set": 103,
+        "light_shadow": 31,
+        "special_properties": [
+          42,
+          245,
+          77,
+          127
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.507335"
+    },
+    {
+      "governor_name": "OSIDAIA",
+      "binary_traits": "5649533105020102ed7e671f2af54d7f",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 0,
+          "intensity": 0
+        },
+        "time_variations": 237,
+        "energy_signature": 126,
+        "symbol_set": 103,
+        "light_shadow": 31,
+        "special_properties": [
+          42,
+          245,
+          77,
+          127
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.507335"
+    },
+    {
+      "governor_name": "OXLOPAR",
+      "binary_traits": "564953310504201ceb2bed831b0167bc",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "FRACTAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 3,
+          "intensity": 0
+        },
+        "time_variations": 235,
+        "energy_signature": 43,
+        "symbol_set": 237,
+        "light_shadow": 131,
+        "special_properties": [
+          27,
+          1,
+          103,
+          188
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.509335"
+    },
+    {
+      "governor_name": "OXLOPAR",
+      "binary_traits": "564953310504201ceb2bed831b0167bc",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "FRACTAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 3,
+          "intensity": 0
+        },
+        "time_variations": 235,
+        "energy_signature": 43,
+        "symbol_set": 237,
+        "light_shadow": 131,
+        "special_properties": [
+          27,
+          1,
+          103,
+          188
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.509335"
+    },
+    {
+      "governor_name": "PABNIXP",
+      "binary_traits": "56495331030402e4a8c58c28110d0f1d",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 0,
+          "intensity": 7
+        },
+        "time_variations": 168,
+        "energy_signature": 197,
+        "symbol_set": 140,
+        "light_shadow": 40,
+        "special_properties": [
+          17,
+          13,
+          15,
+          29
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.510335"
+    },
+    {
+      "governor_name": "PABNIXP",
+      "binary_traits": "56495331030402e4a8c58c28110d0f1d",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 0,
+          "intensity": 7
+        },
+        "time_variations": 168,
+        "energy_signature": 197,
+        "symbol_set": 140,
+        "light_shadow": 40,
+        "special_properties": [
+          17,
+          13,
+          15,
+          29
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.510335"
+    },
+    {
+      "governor_name": "PACASNA",
+      "binary_traits": "5649533101030bcb4dbae50eaf2794cb",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "METATRON",
+            "TORUS"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 1,
+          "intensity": 6
+        },
+        "time_variations": 77,
+        "energy_signature": 186,
+        "symbol_set": 229,
+        "light_shadow": 14,
+        "special_properties": [
+          175,
+          39,
+          148,
+          203
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.512335"
+    },
+    {
+      "governor_name": "PACASNA",
+      "binary_traits": "5649533101030bcb4dbae50eaf2794cb",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "METATRON",
+            "TORUS"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 1,
+          "intensity": 6
+        },
+        "time_variations": 77,
+        "energy_signature": 186,
+        "symbol_set": 229,
+        "light_shadow": 14,
+        "special_properties": [
+          175,
+          39,
+          148,
+          203
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.512335"
+    },
+    {
+      "governor_name": "PARAOAN",
+      "binary_traits": "56495331060120606571a2bb5b00bf38",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "FRACTAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 0,
+          "radius": 0,
+          "intensity": 3
+        },
+        "time_variations": 101,
+        "energy_signature": 113,
+        "symbol_set": 162,
+        "light_shadow": 187,
+        "special_properties": [
+          91,
+          0,
+          191,
+          56
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.514335"
+    },
+    {
+      "governor_name": "PARAOAN",
+      "binary_traits": "56495331060120606571a2bb5b00bf38",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "FRACTAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 0,
+          "radius": 0,
+          "intensity": 3
+        },
+        "time_variations": 101,
+        "energy_signature": 113,
+        "symbol_set": 162,
+        "light_shadow": 187,
+        "special_properties": [
+          91,
+          0,
+          191,
+          56
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.514335"
+    },
+    {
+      "governor_name": "PARZIBA",
+      "binary_traits": "564953310502107a73ca94f07008d099",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 3,
+          "intensity": 3
+        },
+        "time_variations": 115,
+        "energy_signature": 202,
+        "symbol_set": 148,
+        "light_shadow": 240,
+        "special_properties": [
+          112,
+          8,
+          208,
+          153
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.516335"
+    },
+    {
+      "governor_name": "PARZIBA",
+      "binary_traits": "564953310502107a73ca94f07008d099",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 3,
+          "intensity": 3
+        },
+        "time_variations": 115,
+        "energy_signature": 202,
+        "symbol_set": 148,
+        "light_shadow": 240,
+        "special_properties": [
+          112,
+          8,
+          208,
+          153
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.516335"
+    },
+    {
+      "governor_name": "PASCOMB",
+      "binary_traits": "56495331000313438ecc9d116074a020",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "METATRON",
+            "SPIRAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 0,
+          "intensity": 2
+        },
+        "time_variations": 142,
+        "energy_signature": 204,
+        "symbol_set": 157,
+        "light_shadow": 17,
+        "special_properties": [
+          96,
+          116,
+          160,
+          32
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.518335"
+    },
+    {
+      "governor_name": "PASCOMB",
+      "binary_traits": "56495331000313438ecc9d116074a020",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "METATRON",
+            "SPIRAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 0,
+          "intensity": 2
+        },
+        "time_variations": 142,
+        "energy_signature": 204,
+        "symbol_set": 157,
+        "light_shadow": 17,
+        "special_properties": [
+          96,
+          116,
+          160,
+          32
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.518335"
+    },
+    {
+      "governor_name": "POCISNI",
+      "binary_traits": "564953310304805c92f4ef19e136867d",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "CUSTOM"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 3,
+          "intensity": 2
+        },
+        "time_variations": 146,
+        "energy_signature": 244,
+        "symbol_set": 239,
+        "light_shadow": 25,
+        "special_properties": [
+          225,
+          54,
+          134,
+          125
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.519335"
+    },
+    {
+      "governor_name": "POCISNI",
+      "binary_traits": "564953310304805c92f4ef19e136867d",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "CUSTOM"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 3,
+          "intensity": 2
+        },
+        "time_variations": 146,
+        "energy_signature": 244,
+        "symbol_set": 239,
+        "light_shadow": 25,
+        "special_properties": [
+          225,
+          54,
+          134,
+          125
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.519335"
+    },
+    {
+      "governor_name": "PONODOL",
+      "binary_traits": "5649533106013881e0459a6d0d967f05",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "TORUS",
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 0,
+          "intensity": 4
+        },
+        "time_variations": 224,
+        "energy_signature": 69,
+        "symbol_set": 154,
+        "light_shadow": 109,
+        "special_properties": [
+          13,
+          150,
+          127,
+          5
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.521335"
+    },
+    {
+      "governor_name": "PONODOL",
+      "binary_traits": "5649533106013881e0459a6d0d967f05",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "TORUS",
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 0,
+          "intensity": 4
+        },
+        "time_variations": 224,
+        "energy_signature": 69,
+        "symbol_set": 154,
+        "light_shadow": 109,
+        "special_properties": [
+          13,
+          150,
+          127,
+          5
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.521335"
+    },
+    {
+      "governor_name": "POPHAND",
+      "binary_traits": "564953310504204c3e66d43d3899fa2b",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "FRACTAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 1,
+          "intensity": 2
+        },
+        "time_variations": 62,
+        "energy_signature": 102,
+        "symbol_set": 212,
+        "light_shadow": 61,
+        "special_properties": [
+          56,
+          153,
+          250,
+          43
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.523334"
+    },
+    {
+      "governor_name": "POPHAND",
+      "binary_traits": "564953310504204c3e66d43d3899fa2b",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "FRACTAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 1,
+          "intensity": 2
+        },
+        "time_variations": 62,
+        "energy_signature": 102,
+        "symbol_set": 212,
+        "light_shadow": 61,
+        "special_properties": [
+          56,
+          153,
+          250,
+          43
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.523334"
+    },
+    {
+      "governor_name": "POTHNIR",
+      "binary_traits": "5649533101032cebdb92cae96af97426",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "TORUS",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 1,
+          "intensity": 7
+        },
+        "time_variations": 219,
+        "energy_signature": 146,
+        "symbol_set": 202,
+        "light_shadow": 233,
+        "special_properties": [
+          106,
+          249,
+          116,
+          38
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.525455"
+    },
+    {
+      "governor_name": "POTHNIR",
+      "binary_traits": "5649533101032cebdb92cae96af97426",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "TORUS",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 1,
+          "intensity": 7
+        },
+        "time_variations": 219,
+        "energy_signature": 146,
+        "symbol_set": 202,
+        "light_shadow": 233,
+        "special_properties": [
+          106,
+          249,
+          116,
+          38
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.525455"
+    },
+    {
+      "governor_name": "PRISTAC",
+      "binary_traits": "56495331070134b1791bb7c5011ecb26",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 2,
+          "intensity": 5
+        },
+        "time_variations": 121,
+        "energy_signature": 27,
+        "symbol_set": 183,
+        "light_shadow": 197,
+        "special_properties": [
+          1,
+          30,
+          203,
+          38
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.527422"
+    },
+    {
+      "governor_name": "PRISTAC",
+      "binary_traits": "56495331070134b1791bb7c5011ecb26",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 2,
+          "intensity": 5
+        },
+        "time_variations": 121,
+        "energy_signature": 27,
+        "symbol_set": 183,
+        "light_shadow": 197,
+        "special_properties": [
+          1,
+          30,
+          203,
+          38
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.527422"
+    },
+    {
+      "governor_name": "RANGLAM",
+      "binary_traits": "564953310704409cb4953ca78392e4ab",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "TESSERACT"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 3,
+          "intensity": 4
+        },
+        "time_variations": 180,
+        "energy_signature": 149,
+        "symbol_set": 60,
+        "light_shadow": 167,
+        "special_properties": [
+          131,
+          146,
+          228,
+          171
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.528427"
+    },
+    {
+      "governor_name": "RANGLAM",
+      "binary_traits": "564953310704409cb4953ca78392e4ab",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "TESSERACT"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 3,
+          "intensity": 4
+        },
+        "time_variations": 180,
+        "energy_signature": 149,
+        "symbol_set": 60,
+        "light_shadow": 167,
+        "special_properties": [
+          131,
+          146,
+          228,
+          171
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.528427"
+    },
+    {
+      "governor_name": "RONOOMB",
+      "binary_traits": "56495331050410a4d99f8ae61dd7a510",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 0,
+          "intensity": 5
+        },
+        "time_variations": 217,
+        "energy_signature": 159,
+        "symbol_set": 138,
+        "light_shadow": 230,
+        "special_properties": [
+          29,
+          215,
+          165,
+          16
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.530426"
+    },
+    {
+      "governor_name": "RONOOMB",
+      "binary_traits": "56495331050410a4d99f8ae61dd7a510",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 0,
+          "intensity": 5
+        },
+        "time_variations": 217,
+        "energy_signature": 159,
+        "symbol_set": 138,
+        "light_shadow": 230,
+        "special_properties": [
+          29,
+          215,
+          165,
+          16
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.530426"
+    },
+    {
+      "governor_name": "SAMAPHA",
+      "binary_traits": "5649533105031353bfcba3bf69314b91",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "METATRON",
+            "SPIRAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 2,
+          "intensity": 2
+        },
+        "time_variations": 191,
+        "energy_signature": 203,
+        "symbol_set": 163,
+        "light_shadow": 191,
+        "special_properties": [
+          105,
+          49,
+          75,
+          145
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.531427"
+    },
+    {
+      "governor_name": "SAMAPHA",
+      "binary_traits": "5649533105031353bfcba3bf69314b91",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "METATRON",
+            "SPIRAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 2,
+          "intensity": 2
+        },
+        "time_variations": 191,
+        "energy_signature": 203,
+        "symbol_set": 163,
+        "light_shadow": 191,
+        "special_properties": [
+          105,
+          49,
+          75,
+          145
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.531427"
+    },
+    {
+      "governor_name": "SAXTOMP",
+      "binary_traits": "5649533106018cc1b50464e075cd318c",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "TORUS",
+            "CUSTOM"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 0,
+          "intensity": 6
+        },
+        "time_variations": 181,
+        "energy_signature": 4,
+        "symbol_set": 100,
+        "light_shadow": 224,
+        "special_properties": [
+          117,
+          205,
+          49,
+          140
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.533427"
+    },
+    {
+      "governor_name": "SAXTOMP",
+      "binary_traits": "5649533106018cc1b50464e075cd318c",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "TORUS",
+            "CUSTOM"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 0,
+          "intensity": 6
+        },
+        "time_variations": 181,
+        "energy_signature": 4,
+        "symbol_set": 100,
+        "light_shadow": 224,
+        "special_properties": [
+          117,
+          205,
+          49,
+          140
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.533427"
+    },
+    {
+      "governor_name": "SAZIAMI",
+      "binary_traits": "56495331030420f4643ad97245c1f978",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "FRACTAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 2,
+          "intensity": 7
+        },
+        "time_variations": 100,
+        "energy_signature": 58,
+        "symbol_set": 217,
+        "light_shadow": 114,
+        "special_properties": [
+          69,
+          193,
+          249,
+          120
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.535426"
+    },
+    {
+      "governor_name": "SAZIAMI",
+      "binary_traits": "56495331030420f4643ad97245c1f978",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "FRACTAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 2,
+          "intensity": 7
+        },
+        "time_variations": 100,
+        "energy_signature": 58,
+        "symbol_set": 217,
+        "light_shadow": 114,
+        "special_properties": [
+          69,
+          193,
+          249,
+          120
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.535426"
+    },
+    {
+      "governor_name": "SIGMORF",
+      "binary_traits": "56495331000202b24a4edba68d1bc4c6",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 2,
+          "intensity": 5
+        },
+        "time_variations": 74,
+        "energy_signature": 78,
+        "symbol_set": 219,
+        "light_shadow": 166,
+        "special_properties": [
+          141,
+          27,
+          196,
+          198
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.536426"
+    },
+    {
+      "governor_name": "SIGMORF",
+      "binary_traits": "56495331000202b24a4edba68d1bc4c6",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 2,
+          "intensity": 5
+        },
+        "time_variations": 74,
+        "energy_signature": 78,
+        "symbol_set": 219,
+        "light_shadow": 166,
+        "special_properties": [
+          141,
+          27,
+          196,
+          198
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.536426"
+    },
+    {
+      "governor_name": "SOAGEEL",
+      "binary_traits": "564953310104401c3d0628dbbf79ecd8",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "TESSERACT"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 3,
+          "intensity": 0
+        },
+        "time_variations": 61,
+        "energy_signature": 6,
+        "symbol_set": 40,
+        "light_shadow": 219,
+        "special_properties": [
+          191,
+          121,
+          236,
+          216
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.538426"
+    },
+    {
+      "governor_name": "SOAGEEL",
+      "binary_traits": "564953310104401c3d0628dbbf79ecd8",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "TESSERACT"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 3,
+          "intensity": 0
+        },
+        "time_variations": 61,
+        "energy_signature": 6,
+        "symbol_set": 40,
+        "light_shadow": 219,
+        "special_properties": [
+          191,
+          121,
+          236,
+          216
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.538426"
+    },
+    {
+      "governor_name": "SOCHIAL",
+      "binary_traits": "56495331000240cac0ac6331be4d8760",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "TESSERACT"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 1,
+          "intensity": 6
+        },
+        "time_variations": 192,
+        "energy_signature": 172,
+        "symbol_set": 99,
+        "light_shadow": 49,
+        "special_properties": [
+          190,
+          77,
+          135,
+          96
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.540426"
+    },
+    {
+      "governor_name": "SOCHIAL",
+      "binary_traits": "56495331000240cac0ac6331be4d8760",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "TESSERACT"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 1,
+          "intensity": 6
+        },
+        "time_variations": 192,
+        "energy_signature": 172,
+        "symbol_set": 99,
+        "light_shadow": 49,
+        "special_properties": [
+          190,
+          77,
+          135,
+          96
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.540426"
+    },
+    {
+      "governor_name": "TABITOM",
+      "binary_traits": "564953310105301f900baede7e8871a6",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "PLASMA",
+        "geometry": {
+          "patterns": [
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 2
+        },
+        "environment": {
+          "effect_type": 7,
+          "radius": 3,
+          "intensity": 0
+        },
+        "time_variations": 144,
+        "energy_signature": 11,
+        "symbol_set": 174,
+        "light_shadow": 222,
+        "special_properties": [
+          126,
+          136,
+          113,
+          166
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.542426"
+    },
+    {
+      "governor_name": "TABITOM",
+      "binary_traits": "564953310105301f900baede7e8871a6",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "PLASMA",
+        "geometry": {
+          "patterns": [
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 2
+        },
+        "environment": {
+          "effect_type": 7,
+          "radius": 3,
+          "intensity": 0
+        },
+        "time_variations": 144,
+        "energy_signature": 11,
+        "symbol_set": 174,
+        "light_shadow": 222,
+        "special_properties": [
+          126,
+          136,
+          113,
+          166
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.542426"
+    },
+    {
+      "governor_name": "TAHAMDO",
+      "binary_traits": "56495331020210424a06e98a316c4d04",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 0,
+          "intensity": 2
+        },
+        "time_variations": 74,
+        "energy_signature": 6,
+        "symbol_set": 233,
+        "light_shadow": 138,
+        "special_properties": [
+          49,
+          108,
+          77,
+          4
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.543426"
+    },
+    {
+      "governor_name": "TAHAMDO",
+      "binary_traits": "56495331020210424a06e98a316c4d04",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 0,
+          "intensity": 2
+        },
+        "time_variations": 74,
+        "energy_signature": 6,
+        "symbol_set": 233,
+        "light_shadow": 138,
+        "special_properties": [
+          49,
+          108,
+          77,
+          4
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.543426"
+    },
+    {
+      "governor_name": "TAOAGLA",
+      "binary_traits": "5649533105031073fa689c75f60e8013",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 2,
+          "intensity": 3
+        },
+        "time_variations": 250,
+        "energy_signature": 104,
+        "symbol_set": 156,
+        "light_shadow": 117,
+        "special_properties": [
+          246,
+          14,
+          128,
+          19
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.545426"
+    },
+    {
+      "governor_name": "TAOAGLA",
+      "binary_traits": "5649533105031073fa689c75f60e8013",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 2,
+          "intensity": 3
+        },
+        "time_variations": 250,
+        "energy_signature": 104,
+        "symbol_set": 156,
+        "light_shadow": 117,
+        "special_properties": [
+          246,
+          14,
+          128,
+          19
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.545426"
+    },
+    {
+      "governor_name": "TAPAMAL",
+      "binary_traits": "5649533101013281033cde4a5a2ae33f",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "METATRON",
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 0,
+          "intensity": 4
+        },
+        "time_variations": 3,
+        "energy_signature": 60,
+        "symbol_set": 222,
+        "light_shadow": 74,
+        "special_properties": [
+          90,
+          42,
+          227,
+          63
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.547426"
+    },
+    {
+      "governor_name": "TAPAMAL",
+      "binary_traits": "5649533101013281033cde4a5a2ae33f",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "METATRON",
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 0,
+          "intensity": 4
+        },
+        "time_variations": 3,
+        "energy_signature": 60,
+        "symbol_set": 222,
+        "light_shadow": 74,
+        "special_properties": [
+          90,
+          42,
+          227,
+          63
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.547426"
+    },
+    {
+      "governor_name": "TASTOZO",
+      "binary_traits": "56495331010208e25c9b0fa1b616f329",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "TORUS"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 0,
+          "intensity": 7
+        },
+        "time_variations": 92,
+        "energy_signature": 155,
+        "symbol_set": 15,
+        "light_shadow": 161,
+        "special_properties": [
+          182,
+          22,
+          243,
+          41
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.549451"
+    },
+    {
+      "governor_name": "TASTOZO",
+      "binary_traits": "56495331010208e25c9b0fa1b616f329",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "TORUS"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 0,
+          "intensity": 7
+        },
+        "time_variations": 92,
+        "energy_signature": 155,
+        "symbol_set": 15,
+        "light_shadow": 161,
+        "special_properties": [
+          182,
+          22,
+          243,
+          41
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.549451"
+    },
+    {
+      "governor_name": "TEDOOND",
+      "binary_traits": "56495331000102b17061ac9ec8c00b48",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 2,
+          "intensity": 5
+        },
+        "time_variations": 112,
+        "energy_signature": 97,
+        "symbol_set": 172,
+        "light_shadow": 158,
+        "special_properties": [
+          200,
+          192,
+          11,
+          72
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.551454"
+    },
+    {
+      "governor_name": "TEDOOND",
+      "binary_traits": "56495331000102b17061ac9ec8c00b48",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 2,
+          "intensity": 5
+        },
+        "time_variations": 112,
+        "energy_signature": 97,
+        "symbol_set": 172,
+        "light_shadow": 158,
+        "special_properties": [
+          200,
+          192,
+          11,
+          72
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.551454"
+    },
+    {
+      "governor_name": "THOTANP",
+      "binary_traits": "5649533100030d5bec728acbc7562b56",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "FLOWER_OF_LIFE",
+            "TORUS"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 3,
+          "intensity": 2
+        },
+        "time_variations": 236,
+        "energy_signature": 114,
+        "symbol_set": 138,
+        "light_shadow": 203,
+        "special_properties": [
+          199,
+          86,
+          43,
+          86
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.552455"
+    },
+    {
+      "governor_name": "THOTANP",
+      "binary_traits": "5649533100030d5bec728acbc7562b56",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "FLOWER_OF_LIFE",
+            "TORUS"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 3,
+          "intensity": 2
+        },
+        "time_variations": 236,
+        "energy_signature": 114,
+        "symbol_set": 138,
+        "light_shadow": 203,
+        "special_properties": [
+          199,
+          86,
+          43,
+          86
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.552455"
+    },
+    {
+      "governor_name": "TIARPAX",
+      "binary_traits": "5649533102030d6be99bd9e55852a9ad",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "FLOWER_OF_LIFE",
+            "TORUS"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 1,
+          "intensity": 3
+        },
+        "time_variations": 233,
+        "energy_signature": 155,
+        "symbol_set": 217,
+        "light_shadow": 229,
+        "special_properties": [
+          88,
+          82,
+          169,
+          173
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.554454"
+    },
+    {
+      "governor_name": "TIARPAX",
+      "binary_traits": "5649533102030d6be99bd9e55852a9ad",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "FLOWER_OF_LIFE",
+            "TORUS"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 1,
+          "intensity": 3
+        },
+        "time_variations": 233,
+        "energy_signature": 155,
+        "symbol_set": 217,
+        "light_shadow": 229,
+        "special_properties": [
+          88,
+          82,
+          169,
+          173
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.554454"
+    },
+    {
+      "governor_name": "TOANTOM",
+      "binary_traits": "564953310302080a8646cd6675fa2a69",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "TORUS"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 1,
+          "intensity": 0
+        },
+        "time_variations": 134,
+        "energy_signature": 70,
+        "symbol_set": 205,
+        "light_shadow": 102,
+        "special_properties": [
+          117,
+          250,
+          42,
+          105
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.556455"
+    },
+    {
+      "governor_name": "TOANTOM",
+      "binary_traits": "564953310302080a8646cd6675fa2a69",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "TORUS"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 1,
+          "intensity": 0
+        },
+        "time_variations": 134,
+        "energy_signature": 70,
+        "symbol_set": 205,
+        "light_shadow": 102,
+        "special_properties": [
+          117,
+          250,
+          42,
+          105
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.556455"
+    },
+    {
+      "governor_name": "TOCARZI",
+      "binary_traits": "564953310102028ae6ae750f7aca7b37",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 1,
+          "intensity": 4
+        },
+        "time_variations": 230,
+        "energy_signature": 174,
+        "symbol_set": 117,
+        "light_shadow": 15,
+        "special_properties": [
+          122,
+          202,
+          123,
+          55
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.557454"
+    },
+    {
+      "governor_name": "TOCARZI",
+      "binary_traits": "564953310102028ae6ae750f7aca7b37",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "METATRON"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 1,
+          "intensity": 4
+        },
+        "time_variations": 230,
+        "energy_signature": 174,
+        "symbol_set": 117,
+        "light_shadow": 15,
+        "special_properties": [
+          122,
+          202,
+          123,
+          55
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.557454"
+    },
+    {
+      "governor_name": "TODNAON",
+      "binary_traits": "5649533107017031bc4048b864263496",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "SPIRAL",
+            "FRACTAL",
+            "TESSERACT"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 2,
+          "intensity": 1
+        },
+        "time_variations": 188,
+        "energy_signature": 64,
+        "symbol_set": 72,
+        "light_shadow": 184,
+        "special_properties": [
+          100,
+          38,
+          52,
+          150
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.559454"
+    },
+    {
+      "governor_name": "TODNAON",
+      "binary_traits": "5649533107017031bc4048b864263496",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "SPIRAL",
+            "FRACTAL",
+            "TESSERACT"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 2,
+          "intensity": 1
+        },
+        "time_variations": 188,
+        "energy_signature": 64,
+        "symbol_set": 72,
+        "light_shadow": 184,
+        "special_properties": [
+          100,
+          38,
+          52,
+          150
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.559454"
+    },
+    {
+      "governor_name": "TORZOXI",
+      "binary_traits": "5649533103020112b3b3f8698e815d56",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 2,
+          "intensity": 0
+        },
+        "time_variations": 179,
+        "energy_signature": 179,
+        "symbol_set": 248,
+        "light_shadow": 105,
+        "special_properties": [
+          142,
+          129,
+          93,
+          86
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.561453"
+    },
+    {
+      "governor_name": "TORZOXI",
+      "binary_traits": "5649533103020112b3b3f8698e815d56",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "MERKABA"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 2,
+          "intensity": 0
+        },
+        "time_variations": 179,
+        "energy_signature": 179,
+        "symbol_set": 248,
+        "light_shadow": 105,
+        "special_properties": [
+          142,
+          129,
+          93,
+          86
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.561453"
+    },
+    {
+      "governor_name": "TOTOCAN",
+      "binary_traits": "56495331070210aa121babf64e896c45",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 1,
+          "intensity": 5
+        },
+        "time_variations": 18,
+        "energy_signature": 27,
+        "symbol_set": 171,
+        "light_shadow": 246,
+        "special_properties": [
+          78,
+          137,
+          108,
+          69
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.563453"
+    },
+    {
+      "governor_name": "TOTOCAN",
+      "binary_traits": "56495331070210aa121babf64e896c45",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 1,
+          "intensity": 5
+        },
+        "time_variations": 18,
+        "energy_signature": 27,
+        "symbol_set": 171,
+        "light_shadow": 246,
+        "special_properties": [
+          78,
+          137,
+          108,
+          69
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.563453"
+    },
+    {
+      "governor_name": "USNARDA",
+      "binary_traits": "564953310503700b6d951a2dbb511034",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "SPIRAL",
+            "FRACTAL",
+            "TESSERACT"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 1,
+          "intensity": 0
+        },
+        "time_variations": 109,
+        "energy_signature": 149,
+        "symbol_set": 26,
+        "light_shadow": 45,
+        "special_properties": [
+          187,
+          81,
+          16,
+          52
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.564454"
+    },
+    {
+      "governor_name": "USNARDA",
+      "binary_traits": "564953310503700b6d951a2dbb511034",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "SPIRAL",
+            "FRACTAL",
+            "TESSERACT"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 1,
+          "intensity": 0
+        },
+        "time_variations": 109,
+        "energy_signature": 149,
+        "symbol_set": 26,
+        "light_shadow": 45,
+        "special_properties": [
+          187,
+          81,
+          16,
+          52
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.564454"
+    },
+    {
+      "governor_name": "VALGARS",
+      "binary_traits": "564953310403434b573d0168f2ffdbf3",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "METATRON",
+            "TESSERACT"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 1,
+          "intensity": 2
+        },
+        "time_variations": 87,
+        "energy_signature": 61,
+        "symbol_set": 1,
+        "light_shadow": 104,
+        "special_properties": [
+          242,
+          255,
+          219,
+          243
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.566497"
+    },
+    {
+      "governor_name": "VALGARS",
+      "binary_traits": "564953310403434b573d0168f2ffdbf3",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "METATRON",
+            "TESSERACT"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 1,
+          "intensity": 2
+        },
+        "time_variations": 87,
+        "energy_signature": 61,
+        "symbol_set": 1,
+        "light_shadow": 104,
+        "special_properties": [
+          242,
+          255,
+          219,
+          243
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.566497"
+    },
+    {
+      "governor_name": "VASTRIM",
+      "binary_traits": "56495331020404845d069389aef4199e",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 0,
+          "intensity": 4
+        },
+        "time_variations": 93,
+        "energy_signature": 6,
+        "symbol_set": 147,
+        "light_shadow": 137,
+        "special_properties": [
+          174,
+          244,
+          25,
+          158
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.568501"
+    },
+    {
+      "governor_name": "VASTRIM",
+      "binary_traits": "56495331020404845d069389aef4199e",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 0,
+          "intensity": 4
+        },
+        "time_variations": 93,
+        "energy_signature": 6,
+        "symbol_set": 147,
+        "light_shadow": 137,
+        "special_properties": [
+          174,
+          244,
+          25,
+          158
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.568501"
+    },
+    {
+      "governor_name": "VAUAAMP",
+      "binary_traits": "5649533107010c21c53922b9b94bb032",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "TORUS"
+          ],
+          "complexity": 2
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 0,
+          "intensity": 1
+        },
+        "time_variations": 197,
+        "energy_signature": 57,
+        "symbol_set": 34,
+        "light_shadow": 185,
+        "special_properties": [
+          185,
+          75,
+          176,
+          50
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.569499"
+    },
+    {
+      "governor_name": "VAUAAMP",
+      "binary_traits": "5649533107010c21c53922b9b94bb032",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "TORUS"
+          ],
+          "complexity": 2
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 0,
+          "intensity": 1
+        },
+        "time_variations": 197,
+        "energy_signature": 57,
+        "symbol_set": 34,
+        "light_shadow": 185,
+        "special_properties": [
+          185,
+          75,
+          176,
+          50
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.569499"
+    },
+    {
+      "governor_name": "VIROOLI",
+      "binary_traits": "56495331000383a3fcaee94897bb3ec6",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "METATRON",
+            "CUSTOM"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 0,
+          "intensity": 5
+        },
+        "time_variations": 252,
+        "energy_signature": 174,
+        "symbol_set": 233,
+        "light_shadow": 72,
+        "special_properties": [
+          151,
+          187,
+          62,
+          198
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.572499"
+    },
+    {
+      "governor_name": "VIROOLI",
+      "binary_traits": "56495331000383a3fcaee94897bb3ec6",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "AZURE",
+        "geometry": {
+          "patterns": [
+            "MERKABA",
+            "METATRON",
+            "CUSTOM"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 3,
+          "radius": 0,
+          "intensity": 5
+        },
+        "time_variations": 252,
+        "energy_signature": 174,
+        "symbol_set": 233,
+        "light_shadow": 72,
+        "special_properties": [
+          151,
+          187,
+          62,
+          198
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.572499"
+    },
+    {
+      "governor_name": "VIVIPOS",
+      "binary_traits": "5649533101011021cf2af23c3c268b5e",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 0,
+          "intensity": 1
+        },
+        "time_variations": 207,
+        "energy_signature": 42,
+        "symbol_set": 242,
+        "light_shadow": 60,
+        "special_properties": [
+          60,
+          38,
+          139,
+          94
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.573500"
+    },
+    {
+      "governor_name": "VIVIPOS",
+      "binary_traits": "5649533101011021cf2af23c3c268b5e",
+      "visual_aspects": {
+        "form": {
+          "name": "Geometric",
+          "description": "A perfect crystalline structure of sacred geometry",
+          "interactions": [
+            "pattern_matching",
+            "crystal_focus",
+            "geometric_alignment"
+          ]
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 0,
+          "intensity": 1
+        },
+        "time_variations": 207,
+        "energy_signature": 42,
+        "symbol_set": 242,
+        "light_shadow": 60,
+        "special_properties": [
+          60,
+          38,
+          139,
+          94
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.573500"
+    },
+    {
+      "governor_name": "VIXPALG",
+      "binary_traits": "56495331050204626d3d0bc4499c76c9",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 0,
+          "intensity": 3
+        },
+        "time_variations": 109,
+        "energy_signature": 61,
+        "symbol_set": 11,
+        "light_shadow": 196,
+        "special_properties": [
+          73,
+          156,
+          118,
+          201
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.575500"
+    },
+    {
+      "governor_name": "VIXPALG",
+      "binary_traits": "56495331050204626d3d0bc4499c76c9",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 0,
+          "intensity": 3
+        },
+        "time_variations": 109,
+        "energy_signature": 61,
+        "symbol_set": 11,
+        "light_shadow": 196,
+        "special_properties": [
+          73,
+          156,
+          118,
+          201
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.575500"
+    },
+    {
+      "governor_name": "VOANAMB",
+      "binary_traits": "56495331030108b935fb168612dedc3b",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "TORUS"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 3,
+          "intensity": 5
+        },
+        "time_variations": 53,
+        "energy_signature": 251,
+        "symbol_set": 22,
+        "light_shadow": 134,
+        "special_properties": [
+          18,
+          222,
+          220,
+          59
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.577500"
+    },
+    {
+      "governor_name": "VOANAMB",
+      "binary_traits": "56495331030108b935fb168612dedc3b",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "TORUS"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 3,
+          "intensity": 5
+        },
+        "time_variations": 53,
+        "energy_signature": 251,
+        "symbol_set": 22,
+        "light_shadow": 134,
+        "special_properties": [
+          18,
+          222,
+          220,
+          59
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.577500"
+    },
+    {
+      "governor_name": "YALPAMB",
+      "binary_traits": "564953310002800a585ccba30122b342",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "CUSTOM"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 1,
+          "intensity": 0
+        },
+        "time_variations": 88,
+        "energy_signature": 92,
+        "symbol_set": 203,
+        "light_shadow": 163,
+        "special_properties": [
+          1,
+          34,
+          179,
+          66
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.578500"
+    },
+    {
+      "governor_name": "YALPAMB",
+      "binary_traits": "564953310002800a585ccba30122b342",
+      "visual_aspects": {
+        "form": {
+          "name": "Ethereal",
+          "description": "A luminous, ever-shifting form of pure light and energy",
+          "interactions": [
+            "phase_shift",
+            "energy_resonance",
+            "light_manipulation"
+          ]
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "CUSTOM"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 1,
+          "intensity": 0
+        },
+        "time_variations": 88,
+        "energy_signature": 92,
+        "symbol_set": 203,
+        "light_shadow": 163,
+        "special_properties": [
+          1,
+          34,
+          179,
+          66
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.578500"
+    },
+    {
+      "governor_name": "ZAFASAI",
+      "binary_traits": "56495331040220fa76d61ab36c016c4c",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "FRACTAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 3,
+          "intensity": 7
+        },
+        "time_variations": 118,
+        "energy_signature": 214,
+        "symbol_set": 26,
+        "light_shadow": 179,
+        "special_properties": [
+          108,
+          1,
+          108,
+          76
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.580500"
+    },
+    {
+      "governor_name": "ZAFASAI",
+      "binary_traits": "56495331040220fa76d61ab36c016c4c",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "FRACTAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 3,
+          "intensity": 7
+        },
+        "time_variations": 118,
+        "energy_signature": 214,
+        "symbol_set": 26,
+        "light_shadow": 179,
+        "special_properties": [
+          108,
+          1,
+          108,
+          76
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.580500"
+    },
+    {
+      "governor_name": "ZAMFRES",
+      "binary_traits": "5649533103013411cd2bced2e4815ec3",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 2,
+          "intensity": 0
+        },
+        "time_variations": 205,
+        "energy_signature": 43,
+        "symbol_set": 206,
+        "light_shadow": 210,
+        "special_properties": [
+          228,
+          129,
+          94,
+          195
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.582501"
+    },
+    {
+      "governor_name": "ZAMFRES",
+      "binary_traits": "5649533103013411cd2bced2e4815ec3",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "SPIRAL",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 2,
+          "intensity": 0
+        },
+        "time_variations": 205,
+        "energy_signature": 43,
+        "symbol_set": 206,
+        "light_shadow": 210,
+        "special_properties": [
+          228,
+          129,
+          94,
+          195
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.582501"
+    },
+    {
+      "governor_name": "ZAXANIN",
+      "binary_traits": "564953310704049c786642387ad4e12b",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 3,
+          "intensity": 4
+        },
+        "time_variations": 120,
+        "energy_signature": 102,
+        "symbol_set": 66,
+        "light_shadow": 56,
+        "special_properties": [
+          122,
+          212,
+          225,
+          43
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.584500"
+    },
+    {
+      "governor_name": "ZAXANIN",
+      "binary_traits": "564953310704049c786642387ad4e12b",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "EMERALD",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 4,
+          "radius": 3,
+          "intensity": 4
+        },
+        "time_variations": 120,
+        "energy_signature": 102,
+        "symbol_set": 66,
+        "light_shadow": 56,
+        "special_properties": [
+          122,
+          212,
+          225,
+          43
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.584500"
+    },
+    {
+      "governor_name": "ZILDRON",
+      "binary_traits": "564953310302109a715c198b102cbc39",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 3,
+          "intensity": 4
+        },
+        "time_variations": 113,
+        "energy_signature": 92,
+        "symbol_set": 25,
+        "light_shadow": 139,
+        "special_properties": [
+          16,
+          44,
+          188,
+          57
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.585501"
+    },
+    {
+      "governor_name": "ZILDRON",
+      "binary_traits": "564953310302109a715c198b102cbc39",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "SILVER",
+        "geometry": {
+          "patterns": [
+            "SPIRAL"
+          ],
+          "complexity": 1
+        },
+        "environment": {
+          "effect_type": 2,
+          "radius": 3,
+          "intensity": 4
+        },
+        "time_variations": 113,
+        "energy_signature": 92,
+        "symbol_set": 25,
+        "light_shadow": 139,
+        "special_properties": [
+          16,
+          44,
+          188,
+          57
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.585501"
+    },
+    {
+      "governor_name": "ZIRZIRD",
+      "binary_traits": "5649533105012c6935471d851d5944c2",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "TORUS",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 1,
+          "intensity": 3
+        },
+        "time_variations": 53,
+        "energy_signature": 71,
+        "symbol_set": 29,
+        "light_shadow": 133,
+        "special_properties": [
+          29,
+          89,
+          68,
+          194
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.596102"
+    },
+    {
+      "governor_name": "ZIRZIRD",
+      "binary_traits": "5649533105012c6935471d851d5944c2",
+      "visual_aspects": {
+        "form": {
+          "name": "Unknown",
+          "description": "Undefined form"
+        },
+        "color": "GOLDEN",
+        "geometry": {
+          "patterns": [
+            "FLOWER_OF_LIFE",
+            "TORUS",
+            "FRACTAL"
+          ],
+          "complexity": 3
+        },
+        "environment": {
+          "effect_type": 1,
+          "radius": 1,
+          "intensity": 3
+        },
+        "time_variations": 53,
+        "energy_signature": 71,
+        "symbol_set": 29,
+        "light_shadow": 133,
+        "special_properties": [
+          29,
+          89,
+          68,
+          194
+        ]
+      },
+      "generation_time": "2025-07-09T00:39:59.596102"
+    }
+  ]
+}

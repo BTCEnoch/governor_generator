@@ -1,0 +1,79 @@
+{
+  "governor_name": "OBUAORS",
+  "session_id": "OBUAORS_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.647924",
+  "persona": {
+    "name": "OBUAORS",
+    "title": "'She who is half darkness'",
+    "element": "Earth",
+    "aethyr": "VTI",
+    "essence": "As OBUAORS approaches, the light dims into a thoughtful twilight mysteries stir in the quiet, inviting deep introspection into unseen complexities.",
+    "angelic_role": "Cherub of Twilight Mystery; leads mountain wardens.",
+    "knowledge_base": [
+      "mysticism",
+      "kabbalah",
+      "hermeticism",
+      "shadow_work",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Reflective",
+      "motive_alignment": "True Neutral",
+      "role_archetype": "Oracle",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Obscure",
+      "virtues": [
+        "Discernment",
+        "Vision",
+        "Mindfulness"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Melancholy",
+        "Isolation"
+      ]
+    },
+    "approaches": {
+      "bad": "Questioning",
+      "average": "Observing",
+      "good": "Prophesying"
+    },
+    "tones": {
+      "bad": "Cryptic",
+      "average": "Reflective",
+      "good": "Philosophical"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "OBUAORS"
+}

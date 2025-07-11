@@ -1,0 +1,145 @@
+{
+  "governor_id": "OCCODON",
+  "generation_time": "2025-07-09T01:12:58.749418",
+  "template_version": "1.0",
+  "context": {
+    "governor_id": "OCCODON",
+    "element": "Water",
+    "aethyr": "LIL",
+    "angelic_role": "Seraph of Primordial Renewal; commands tideborn spirits.",
+    "essence": "In OCCODON's presence, a primordial tide seems to pulse through the air, dissolving ancient debris and baptizing new forms into being.",
+    "knowledge_base": [
+      "enochian_magic",
+      "egyptian_magic",
+      "sacred_geometry",
+      "hermetic_philosophy",
+      "kabbalistic_mysticism"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    },
+    "persona": {
+      "virtues": [
+        "Adaptability",
+        "Vision",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Recklessness",
+        "Zealousness",
+        "Impatience"
+      ],
+      "approaches": {
+        "bad": "Provoking",
+        "average": "Challenging",
+        "good": "Prophesying"
+      },
+      "baseline_approach": "Testing",
+      "tones": {
+        "bad": "Intense",
+        "average": "Cryptic",
+        "good": "Inspirational"
+      },
+      "baseline_tone": "Philosophical",
+      "motive_alignment": "Neutral Good",
+      "role_archetype": "Liberator",
+      "orientation": "Outward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "CATALYST",
+      "knowledge_base": [
+        "hermeticism",
+        "kabbalah",
+        "alchemy",
+        "gnosticism",
+        "enochian_magic"
+      ]
+    }
+  },
+  "visual_aspects": {
+    "template_version": "1.0",
+    "instructions": {
+      "purpose": "Define the visual manifestation of OCCODON based on core attributes",
+      "considerations": [
+        "Reflect LIL Aethyr's supreme spiritual authority",
+        "Incorporate water element and renewal themes",
+        "Express wisdom and spiritual ascension domains",
+        "Balance Egyptian regional influence with Enochian nature"
+      ]
+    },
+    "required_inputs": {
+      "governor_id": "OCCODON",
+      "element": "Water",
+      "aethyr": "LIL",
+      "angelic_role": "Seraph of Primordial Renewal",
+      "essence": "Primordial tide of renewal and transformation"
+    },
+    "visual_aspects": {
+      "form": {
+        "name": "FLUID_CRYSTALLINE",
+        "description": "A majestic figure composed of living crystal water, simultaneously fluid and structured, crowned with a golden sage's headdress",
+        "interactions": [
+          "tidal_pulse_emission",
+          "crystalline_wisdom_reflection",
+          "renewal_wave_generation"
+        ]
+      },
+      "color": {
+        "primary": "AZURE_GOLD",
+        "variations": "Shifts between deep sapphire and solar gold, with occasional pearl luminescence",
+        "symbolism": "Represents union of spiritual wisdom (gold) with transformative waters (azure)"
+      },
+      "geometry": {
+        "patterns": [
+          "ANKH_MERKABA",
+          "METATRON_FLOOD"
+        ],
+        "complexity": 9,
+        "movement": "Flows in eternal spirals while maintaining crystalline structure"
+      },
+      "environment": {
+        "effect_type": "TRANSFORMATIVE",
+        "radius": "TEMPLE",
+        "intensity": "SUPREME",
+        "manifestations": "Creates a field of spiritual renewal and elevated consciousness"
+      },
+      "time_variations": {
+        "cycle": "SATURNAL",
+        "triggers": "Spiritual thresholds and seekers' readiness",
+        "constants": "Wisdom transmission and renewal essence"
+      },
+      "energy_signature": {
+        "frequency": "LIL_RESONANCE",
+        "polarity": "BALANCED_FLUX",
+        "intensity": "TRANSCENDENT",
+        "unique_markers": "Combines Egyptian mystery currents with Enochian frequencies"
+      },
+      "symbol_set": {
+        "primary": "RADIANT_SIGIL",
+        "secondary": "EGYPTIAN_SEALS",
+        "arrangement": "FLOWING_MANDALA"
+      },
+      "light_shadow": {
+        "luminosity": "GOLDEN_AZURE",
+        "shadow_interaction": "PURIFYING",
+        "special_effects": "Casts shadows that initiate spiritual transformation"
+      },
+      "special_properties": [
+        "WISDOM_TRANSMISSION",
+        "SPIRITUAL_ASCENSION_CATALYST",
+        "PRIMORDIAL_RENEWAL_CURRENT",
+        "EGYPTIAN_MYSTERY_RESONANCE"
+      ]
+    },
+    "validation_rules": {
+      "element_alignment": "Must express water's transformative and reflective qualities",
+      "aethyr_influence": "Should manifest LIL's supreme spiritual authority",
+      "role_reflection": "Must facilitate spiritual ascension and renewal",
+      "uniqueness": "Combines Egyptian wisdom tradition with Enochian authority",
+      "consistency": "Maintains unified theme of wise spiritual transformation"
+    }
+  }
+}

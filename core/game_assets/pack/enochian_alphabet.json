@@ -1,25 +1,39 @@
 {
-  "alphabet": [
-    "Pa",
-    "Ged",
-    "Gal",
-    "Or",
-    "Un",
-    "Graph",
-    "Tal",
-    "Gon",
-    "Na",
-    "Ur",
-    "Med",
-    "Don",
-    "Ceph",
-    "Ger",
-    "Drux",
-    "Pal",
-    "Van",
-    "Fam",
-    "Gisg",
-    "Veh",
-    "Ged"
-  ]
+    "letters": [
+        {
+            "name": "A",
+            "enochian_name": "Un",
+            "description": "First letter of the Enochian alphabet",
+            "attributes": {
+                "element": "fire",
+                "power": 1,
+                "resonance": 0.8
+            }
+        },
+        {
+            "name": "B",
+            "enochian_name": "Pa",
+            "description": "Second letter of the Enochian alphabet",
+            "attributes": {
+                "element": "earth",
+                "power": 2,
+                "resonance": 0.7
+            }
+        },
+        {
+            "name": "C",
+            "enochian_name": "Veh",
+            "description": "Third letter of the Enochian alphabet",
+            "attributes": {
+                "element": "air",
+                "power": 3,
+                "resonance": 0.9
+            }
+        }
+    ],
+    "metadata": {
+        "version": "1.0.0",
+        "description": "Enochian alphabet data for the Governor Generation system",
+        "last_updated": "2024-03-19"
+    }
 }

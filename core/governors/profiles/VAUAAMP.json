@@ -1,0 +1,79 @@
+{
+  "governor_name": "VAUAAMP",
+  "session_id": "VAUAAMP_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.704515",
+  "persona": {
+    "name": "VAUAAMP",
+    "title": "'He who initiates action'",
+    "element": "Fire",
+    "aethyr": "MAZ",
+    "essence": "In VAUAAMP's presence, a first spark of creation sketches sacred angles in living fire one feels the prime mover igniting all beginnings.",
+    "angelic_role": "Archangel of First Flame of Action; marshals blazing hosts.",
+    "knowledge_base": [
+      "alchemy",
+      "kabbalah",
+      "hermeticism",
+      "ceremonial_magic",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Challenging",
+      "baseline_tone": "Direct",
+      "motive_alignment": "Chaotic Good",
+      "role_archetype": "Herald",
+      "orientation": "Outward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Catalyst",
+      "virtues": [
+        "Courage",
+        "Vision",
+        "Zeal"
+      ],
+      "flaws": [
+        "Impatience",
+        "Recklessness",
+        "Zealousness"
+      ]
+    },
+    "approaches": {
+      "bad": "Provoking",
+      "average": "Challenging",
+      "good": "Demonstrating"
+    },
+    "tones": {
+      "bad": "Intense",
+      "average": "Direct",
+      "good": "Passionate"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "VAUAAMP"
+}

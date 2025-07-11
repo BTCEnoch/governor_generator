@@ -1,0 +1,79 @@
+{
+  "governor_name": "NOCAMAL",
+  "session_id": "NOCAMAL_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.645923",
+  "persona": {
+    "name": "NOCAMAL",
+    "title": "'He who is servant of the arrow'",
+    "element": "Water",
+    "aethyr": "LIT",
+    "essence": "When NOCAMAL is near, discernment hums in measured harmony wisdom unfolding like a deliberate, guiding hymn.",
+    "angelic_role": "Virtue of Guiding Wisdom; governs abyssal angels.",
+    "knowledge_base": [
+      "hermetic_philosophy",
+      "kabbalah",
+      "gnosticism",
+      "mystical_christianity",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Chariot",
+      "sephirot": "Hod",
+      "zodiac_sign": "Cancer",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Guiding",
+      "baseline_tone": "Analytical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Guide",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Discernment",
+        "Wisdom",
+        "Prudence"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Rigidity",
+        "Skepticism"
+      ]
+    },
+    "approaches": {
+      "bad": "Testing",
+      "average": "Guiding",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Analytical",
+      "good": "Direct"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "NOCAMAL"
+}

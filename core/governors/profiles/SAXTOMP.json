@@ -1,0 +1,79 @@
+{
+  "governor_name": "SAXTOMP",
+  "session_id": "SAXTOMP_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.676617",
+  "persona": {
+    "name": "SAXTOMP",
+    "title": "'She whose name means understanding'",
+    "element": "Fire",
+    "aethyr": "MAZ",
+    "essence": "In SAXTOMP's presence, a flame of pure comprehension burns away illusion until only the bone-truth of the cosmos remains.",
+    "angelic_role": "Principality of Sacred Understanding; leads flameborn sentinels.",
+    "knowledge_base": [
+      "hermeticism",
+      "kabbalah",
+      "alchemy",
+      "gnosticism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Questioning",
+      "baseline_tone": "Analytical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Oracle",
+      "orientation": "Inward-Focused",
+      "polarity": "Destructive",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Discernment",
+        "Vision",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Obsession",
+        "Aloofness",
+        "Zealousness"
+      ]
+    },
+    "approaches": {
+      "bad": "Testing",
+      "average": "Questioning",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Intense",
+      "average": "Analytical",
+      "good": "Philosophical"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "SAXTOMP"
+}

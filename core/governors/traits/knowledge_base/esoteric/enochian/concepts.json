@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "aethyrs",
+      "name": "Aethyrs",
+      "category": "cosmological_concept",
+      "definition": "The 30 concentric spiritual realms that form the hierarchical structure of the Enochian universe.",
+      "attributes": {
+        "number": 30,
+        "direction": "ascending",
+        "nature": "hierarchical"
+      },
+      "correspondences": [
+        "planetary spheres",
+        "qabalistic worlds",
+        "levels of consciousness"
+      ],
+      "sources": [
+        "Vision and the Voice",
+        "John Dee's Five Books of Mystery",
+        "Liber 418"
+      ]
+    },
+    {
+      "id": "governors",
+      "name": "Governors",
+      "category": "angelic_concept",
+      "definition": "The 91 angelic beings who administer and guide the spiritual functions of the Aethyrs.",
+      "attributes": {
+        "number": 91,
+        "distribution": "3 per Aethyr (except TEX)",
+        "function": "administrative"
+      },
+      "correspondences": [
+        "zodiacal powers",
+        "elemental forces",
+        "divine names"
+      ],
+      "sources": [
+        "Dee's True & Faithful Relation",
+        "The Golden Dawn's Enochian System",
+        "Liber Scientiae"
+      ]
+    },
+    {
+      "id": "watchtowers",
+      "name": "Watchtowers",
+      "category": "structural_concept",
+      "definition": "The four cardinal elemental tablets that anchor and organize angelic forces.",
+      "attributes": {
+        "number": 4,
+        "orientation": "cardinal",
+        "nature": "elemental"
+      },
+      "correspondences": [
+        "elements",
+        "directions",
+        "archangelic powers"
+      ],
+      "sources": [
+        "Dee's Great Table",
+        "The Golden Dawn's Tablet of Union",
+        "Liber Chanokh"
+      ]
+    },
+    {
+      "id": "enochian_language",
+      "name": "Angelic Language",
+      "category": "linguistic_concept",
+      "definition": "The divine language of creation and angelic communication received by Dee and Kelley.",
+      "attributes": {
+        "letters": 21,
+        "nature": "vibrational",
+        "usage": "invocatory"
+      },
+      "correspondences": [
+        "hebrew letters",
+        "sound frequencies",
+        "divine names"
+      ],
+      "sources": [
+        "Dee's Angelic Conversations",
+        "Liber Loagaeth",
+        "The 48 Angelic Keys"
+      ]
+    },
+    {
+      "id": "great_table",
+      "name": "Great Table",
+      "category": "structural_concept",
+      "definition": "The master grid containing all angelic names and correspondences.",
+      "attributes": {
+        "structure": "12x13 grid",
+        "components": ["watchtowers", "black cross", "tablet of union"],
+        "nature": "organizational"
+      },
+      "correspondences": [
+        "elemental tablets",
+        "angelic hierarchies",
+        "divine names"
+      ],
+      "sources": [
+        "Dee's Original Tables",
+        "The Reformed Great Table",
+        "Golden Dawn Adaptations"
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,28 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "AZURE",
+  "geometry": {
+    "patterns": [
+      "METATRON"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 3,
+    "radius": 3,
+    "intensity": 4
+  },
+  "time_variations": 32,
+  "energy_signature": 70,
+  "symbol_set": 183,
+  "light_shadow": 76,
+  "special_properties": [
+    120,
+    169,
+    98,
+    150
+  ]
+}

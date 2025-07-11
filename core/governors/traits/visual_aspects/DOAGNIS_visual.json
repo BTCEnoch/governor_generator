@@ -1,0 +1,30 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "AZURE",
+  "geometry": {
+    "patterns": [
+      "MERKABA",
+      "METATRON",
+      "CUSTOM"
+    ],
+    "complexity": 3
+  },
+  "environment": {
+    "effect_type": 3,
+    "radius": 0,
+    "intensity": 5
+  },
+  "time_variations": 79,
+  "energy_signature": 176,
+  "symbol_set": 180,
+  "light_shadow": 52,
+  "special_properties": [
+    219,
+    4,
+    184,
+    78
+  ]
+}

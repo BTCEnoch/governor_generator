@@ -1,0 +1,79 @@
+{
+  "governor_name": "CALZIRG",
+  "session_id": "CALZIRG_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.609925",
+  "persona": {
+    "name": "CALZIRG",
+    "title": "'She who is in the firmament'",
+    "element": "Earth",
+    "aethyr": "LIN",
+    "essence": "As CALZIRG approaches, the horizon stretches skyward an expansive, lofty feeling as if the very heavens have descended to meet the earth.",
+    "angelic_role": "Throne of Firmament of Grace; marshals mountain wardens.",
+    "knowledge_base": [
+      "astrology",
+      "elemental_magic",
+      "shamanic_practices",
+      "nature_mysticism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Star",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Cool",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Warden",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Vision",
+        "Fortitude",
+        "Mindfulness"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Rigidity",
+        "Yearning"
+      ]
+    },
+    "approaches": {
+      "bad": "Punishing",
+      "average": "Observing",
+      "good": "Prophesying"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Cool",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "CALZIRG"
+}

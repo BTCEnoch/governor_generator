@@ -1,0 +1,79 @@
+{
+  "governor_name": "LEXARPH",
+  "session_id": "LEXARPH_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.637925",
+  "persona": {
+    "name": "LEXARPH",
+    "title": "'He who is first of the air'",
+    "element": "Spirit",
+    "aethyr": "ZAX",
+    "essence": "In LEXARPH's presence, a liminal breeze seems to whisper fate onto invisible vellum one can almost read the script of destiny between worlds.",
+    "angelic_role": "Seraph of Primacy of Air; commands stoneclad sentinels.",
+    "knowledge_base": [
+      "astrology",
+      "hermetic_philosophy",
+      "numerology",
+      "elemental_magic",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Prophesying",
+      "baseline_tone": "Cryptic",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Warden",
+      "orientation": "Outward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Vision",
+        "Discernment",
+        "Valor"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Pride",
+        "Zealousness"
+      ]
+    },
+    "approaches": {
+      "bad": "Punishing",
+      "average": "Prophesying",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Cryptic",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "LEXARPH"
+}

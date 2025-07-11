@@ -1,0 +1,28 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "GOLDEN",
+  "geometry": {
+    "patterns": [
+      "METATRON"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 1,
+    "radius": 1,
+    "intensity": 0
+  },
+  "time_variations": 40,
+  "energy_signature": 248,
+  "symbol_set": 243,
+  "light_shadow": 25,
+  "special_properties": [
+    238,
+    57,
+    66,
+    160
+  ]
+}

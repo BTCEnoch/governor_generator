@@ -1,0 +1,76 @@
+{
+  "governor_name": "OCCODON",
+  "governor_id": "OCCODON",
+  "persona": {
+    "name": "OCCODON",
+    "title": "'He whose name is Renewal'",
+    "element": "Water",
+    "aethyr": "LIL",
+    "essence": "In OCCODON's presence, a primordial tide seems to pulse through the air, dissolving ancient debris and baptizing new forms into being.",
+    "angelic_role": "Seraph of Primordial Renewal; commands tideborn spirits.",
+    "knowledge_base": [
+      "enochian_magic",
+      "egyptian_magic",
+      "sacred_geometry",
+      "hermetic_philosophy",
+      "kabbalistic_mysticism"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    },
+    "polar_traits": {
+      "baseline_approach": "Testing",
+      "baseline_tone": "Philosophical",
+      "motive_alignment": "Neutral Good",
+      "role_archetype": "Liberator",
+      "orientation": "Outward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "CATALYST",
+      "virtues": [
+        "Adaptability",
+        "Vision",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Recklessness",
+        "Zealousness",
+        "Impatience"
+      ]
+    },
+    "approaches": {
+      "bad": "Provoking",
+      "average": "Challenging",
+      "good": "Prophesying"
+    },
+    "tones": {
+      "bad": "Intense",
+      "average": "Cryptic",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "enochian_sigils",
+      "name": "Enochian Sigils",
+      "category": "symbol_set",
+      "definition": "Sacred Enochian letters and divine symbols",
+      "parameters": {
+        "primary_symbols": ["Enochian alphabet", "Angelic seals"],
+        "secondary_symbols": ["Elemental symbols", "Planetary sigils"],
+        "hidden_symbols": ["Secret names", "Divine formulas"]
+      }
+    },
+    {
+      "id": "kabbalistic_glyphs",
+      "name": "Kabbalistic Glyphs",
+      "category": "symbol_set",
+      "definition": "Hebrew letters and Tree of Life symbols",
+      "parameters": {
+        "primary_symbols": ["Hebrew letters", "Sephiroth symbols"],
+        "secondary_symbols": ["Divine names", "Angel names"],
+        "hidden_symbols": ["Mystical combinations", "Sacred geometries"]
+      }
+    },
+    {
+      "id": "alchemical_signs",
+      "name": "Alchemical Signs",
+      "category": "symbol_set",
+      "definition": "Transformation and elemental symbols",
+      "parameters": {
+        "primary_symbols": ["Element symbols", "Process symbols"],
+        "secondary_symbols": ["Planetary symbols", "Metal symbols"],
+        "hidden_symbols": ["Secret operations", "Philosophical signs"]
+      }
+    },
+    {
+      "id": "celestial_script",
+      "name": "Celestial Script",
+      "category": "symbol_set",
+      "definition": "Star patterns and cosmic symbols",
+      "parameters": {
+        "primary_symbols": ["Star configurations", "Constellation marks"],
+        "secondary_symbols": ["Planetary aspects", "Zodiac signs"],
+        "hidden_symbols": ["Celestial keys", "Cosmic codes"]
+      }
+    },
+    {
+      "id": "angelic_seals",
+      "name": "Angelic Seals",
+      "category": "symbol_set",
+      "definition": "Divine seals and angelic signatures",
+      "parameters": {
+        "primary_symbols": ["Angel seals", "Divine names"],
+        "secondary_symbols": ["Sacred numbers", "Power symbols"],
+        "hidden_symbols": ["Secret keys", "Divine codes"]
+      }
+    },
+    {
+      "id": "elemental_runes",
+      "name": "Elemental Runes",
+      "category": "symbol_set",
+      "definition": "Primal force and elemental symbols",
+      "parameters": {
+        "primary_symbols": ["Element runes", "Force symbols"],
+        "secondary_symbols": ["Nature signs", "Power marks"],
+        "hidden_symbols": ["Secret elements", "Primal codes"]
+      }
+    },
+    {
+      "id": "sacred_geometry",
+      "name": "Sacred Geometry",
+      "category": "symbol_set",
+      "definition": "Divine mathematical patterns",
+      "parameters": {
+        "primary_symbols": ["Platonic solids", "Sacred ratios"],
+        "secondary_symbols": ["Geometric patterns", "Number sequences"],
+        "hidden_symbols": ["Divine proportions", "Sacred formulas"]
+      }
+    },
+    {
+      "id": "divine_script",
+      "name": "Divine Script",
+      "category": "symbol_set",
+      "definition": "Universal divine language symbols",
+      "parameters": {
+        "primary_symbols": ["Light language", "Divine alphabet"],
+        "secondary_symbols": ["Sacred syllables", "Power words"],
+        "hidden_symbols": ["Secret mantras", "Divine codes"]
+      }
+    }
+  ]
+} 

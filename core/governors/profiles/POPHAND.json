@@ -1,0 +1,79 @@
+{
+  "governor_name": "POPHAND",
+  "session_id": "POPHAND_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.668401",
+  "persona": {
+    "name": "POPHAND",
+    "title": "'He who is divided into three parts'",
+    "element": "Earth",
+    "aethyr": "DES",
+    "essence": "As POPHAND approaches, diverse energies converge harmoniously like a hearty stew blending flavors, nourishing both body and spirit in equal measure.",
+    "angelic_role": "Dominion of Triune Harmony; guides oak-crowned guardians.",
+    "knowledge_base": [
+      "druidism",
+      "hermetic_philosophy",
+      "kabbalah",
+      "alchemy",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Lovers",
+      "sephirot": "Daath",
+      "zodiac_sign": "Gemini",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Guiding",
+      "baseline_tone": "Formal",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Guardian",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Wisdom",
+        "Discernment",
+        "Temperance"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Obsession",
+        "Aloofness"
+      ]
+    },
+    "approaches": {
+      "bad": "Testing",
+      "average": "Guiding",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Formal",
+      "good": "Philosophical"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "POPHAND"
+}

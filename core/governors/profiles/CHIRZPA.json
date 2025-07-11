@@ -1,0 +1,79 @@
+{
+  "governor_name": "CHIRZPA",
+  "session_id": "CHIRZPA_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.612924",
+  "persona": {
+    "name": "CHIRZPA",
+    "title": "'He who enjoys loud sounds'",
+    "element": "Air",
+    "aethyr": "ASP",
+    "essence": "In CHIRZPA's presence, the ground itself feels alive with boisterous energy earthy laughter and exuberant vibrations spur bold action and joy.",
+    "angelic_role": "Principality of Rhapsody of Earth; commands skyward riders.",
+    "knowledge_base": [
+      "shamanism",
+      "sound_healing",
+      "druidism",
+      "celtic_mysticism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Encouraging",
+      "baseline_tone": "Playful",
+      "motive_alignment": "Chaotic Good",
+      "role_archetype": "Herald",
+      "orientation": "Outward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Radiant",
+      "virtues": [
+        "Enthusiasm",
+        "Charisma",
+        "Courage"
+      ],
+      "flaws": [
+        "Recklessness",
+        "Impulsiveness",
+        "Zealousness"
+      ]
+    },
+    "approaches": {
+      "bad": "Provoking",
+      "average": "Encouraging",
+      "good": "Demonstrating"
+    },
+    "tones": {
+      "bad": "Intense",
+      "average": "Playful",
+      "good": "Passionate"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "CHIRZPA"
+}

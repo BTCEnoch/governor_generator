@@ -1,0 +1,79 @@
+{
+  "governor_name": "DOAGNIS",
+  "session_id": "DOAGNIS_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.620924",
+  "persona": {
+    "name": "DOAGNIS",
+    "title": "'She who comes without a name'",
+    "element": "Water",
+    "aethyr": "ARN",
+    "essence": "When DOAGNIS is near, assistance arrives without fanfare an anonymous blessing, answers slipping in without name or notice.",
+    "angelic_role": "Dominion of Nameless Grace; guides waveborne angels.",
+    "knowledge_base": [
+      "mysticism",
+      "hermetic_philosophy",
+      "kabbalah",
+      "buddhism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Moon",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Pisces",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Mirroring",
+      "baseline_tone": "Gentle",
+      "motive_alignment": "True Neutral",
+      "role_archetype": "Mirror",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Obscure",
+      "virtues": [
+        "Humility",
+        "Empathy",
+        "Mindfulness"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Passivity",
+        "Isolation"
+      ]
+    },
+    "approaches": {
+      "bad": "Observing",
+      "average": "Mirroring",
+      "good": "Empathizing"
+    },
+    "tones": {
+      "bad": "Cool",
+      "average": "Gentle",
+      "good": "Reflective"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "DOAGNIS"
+}

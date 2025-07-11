@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "radiant_glory",
+      "name": "Radiant Glory",
+      "category": "light_shadow",
+      "definition": "Pure divine light with no shadow",
+      "parameters": {
+        "luminosity": "radiant",
+        "shadow_type": "absent"
+      }
+    },
+    {
+      "id": "light_veil",
+      "name": "Light Veil",
+      "category": "light_shadow",
+      "definition": "Soft luminous presence with translucent shadows",
+      "parameters": {
+        "luminosity": "bright",
+        "shadow_type": "translucent"
+      }
+    },
+    {
+      "id": "shadow_dance",
+      "name": "Shadow Dance",
+      "category": "light_shadow",
+      "definition": "Dynamic interplay of light and shifting shadows",
+      "parameters": {
+        "luminosity": "bright",
+        "shadow_type": "shifting"
+      }
+    },
+    {
+      "id": "inner_glow",
+      "name": "Inner Glow",
+      "category": "light_shadow",
+      "definition": "Deep inner radiance with solid outer shadow",
+      "parameters": {
+        "luminosity": "dim",
+        "shadow_type": "solid"
+      }
+    },
+    {
+      "id": "twilight_presence",
+      "name": "Twilight Presence",
+      "category": "light_shadow",
+      "definition": "Balance of dim light and translucent shadow",
+      "parameters": {
+        "luminosity": "dim",
+        "shadow_type": "translucent"
+      }
+    },
+    {
+      "id": "shadow_wisdom",
+      "name": "Shadow Wisdom",
+      "category": "light_shadow",
+      "definition": "Deep shadow containing hidden divine light",
+      "parameters": {
+        "luminosity": "dark",
+        "shadow_type": "shifting"
+      }
+    },
+    {
+      "id": "light_matrix",
+      "name": "Light Matrix",
+      "category": "light_shadow",
+      "definition": "Complex pattern of bright light and geometric shadows",
+      "parameters": {
+        "luminosity": "bright",
+        "shadow_type": "solid"
+      }
+    },
+    {
+      "id": "divine_eclipse",
+      "name": "Divine Eclipse",
+      "category": "light_shadow",
+      "definition": "Perfect balance of radiant light and solid shadow",
+      "parameters": {
+        "luminosity": "radiant",
+        "shadow_type": "solid"
+      }
+    }
+  ]
+} 

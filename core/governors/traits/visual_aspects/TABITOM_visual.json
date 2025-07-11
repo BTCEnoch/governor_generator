@@ -1,0 +1,34 @@
+{
+  "form": {
+    "name": "Geometric",
+    "description": "A perfect crystalline structure of sacred geometry",
+    "interactions": [
+      "pattern_matching",
+      "crystal_focus",
+      "geometric_alignment"
+    ]
+  },
+  "color": "PLASMA",
+  "geometry": {
+    "patterns": [
+      "SPIRAL",
+      "FRACTAL"
+    ],
+    "complexity": 2
+  },
+  "environment": {
+    "effect_type": 7,
+    "radius": 3,
+    "intensity": 0
+  },
+  "time_variations": 144,
+  "energy_signature": 11,
+  "symbol_set": 174,
+  "light_shadow": 222,
+  "special_properties": [
+    126,
+    136,
+    113,
+    166
+  ]
+}

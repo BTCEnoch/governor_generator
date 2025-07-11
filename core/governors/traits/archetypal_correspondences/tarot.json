@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "the_fool",
+      "name": "The Fool",
+      "definition": "Pure potential, divine innocence, spontaneous spirit.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "the_magician",
+      "name": "The Magician",
+      "definition": "Divine will manifesting, conscious creation, mastery.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "the_high_priestess",
+      "name": "The High Priestess",
+      "definition": "Divine mysteries, inner wisdom, sacred knowledge.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "the_empress",
+      "name": "The Empress",
+      "definition": "Divine abundance, nurturing creation, fertility.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "the_emperor",
+      "name": "The Emperor",
+      "definition": "Divine order, authority, structured power.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "the_hierophant",
+      "name": "The Hierophant",
+      "definition": "Divine teaching, tradition, spiritual guidance.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "the_lovers",
+      "name": "The Lovers",
+      "definition": "Divine union, choice, harmony of opposites.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "the_chariot",
+      "name": "The Chariot",
+      "definition": "Divine will in action, conquest, focused direction.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "strength",
+      "name": "Strength",
+      "definition": "Divine power tamed, spiritual mastery, inner force.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "the_hermit",
+      "name": "The Hermit",
+      "definition": "Divine wisdom sought, inner light, spiritual quest.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "wheel_of_fortune",
+      "name": "Wheel of Fortune",
+      "definition": "Divine cycles, cosmic law, destiny in motion.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "justice",
+      "name": "Justice",
+      "definition": "Divine balance, karma, truth revealed.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "the_hanged_man",
+      "name": "The Hanged Man",
+      "definition": "Divine surrender, sacrifice, new perspective.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "death",
+      "name": "Death",
+      "definition": "Divine transformation, endings, rebirth.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "temperance",
+      "name": "Temperance",
+      "definition": "Divine alchemy, balance, flowing grace.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "the_devil",
+      "name": "The Devil",
+      "definition": "Divine shadow, materialism, liberation needed.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "the_tower",
+      "name": "The Tower",
+      "definition": "Divine disruption, breakthrough, sudden change.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "the_star",
+      "name": "The Star",
+      "definition": "Divine hope, inspiration, celestial guidance.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "the_moon",
+      "name": "The Moon",
+      "definition": "Divine mystery, intuition, hidden paths.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "the_sun",
+      "name": "The Sun",
+      "definition": "Divine light, joy, enlightened consciousness.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "judgement",
+      "name": "Judgement",
+      "definition": "Divine calling, awakening, resurrection.",
+      "category": "tarot_major_arcana"
+    },
+    {
+      "id": "the_world",
+      "name": "The World",
+      "definition": "Divine completion, wholeness, cosmic dance.",
+      "category": "tarot_major_arcana"
+    }
+  ]
+} 

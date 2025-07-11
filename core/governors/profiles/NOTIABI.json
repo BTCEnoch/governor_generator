@@ -1,0 +1,79 @@
+{
+  "governor_name": "NOTIABI",
+  "session_id": "NOTIABI_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.646924",
+  "persona": {
+    "name": "NOTIABI",
+    "title": "'Servant who speaks the truth'",
+    "element": "Air",
+    "aethyr": "OXO",
+    "essence": "When NOTIABI is invoked, truth arrives like a lightning strike sharp, sudden, and unerring, cutting through falsehood in an instant.",
+    "angelic_role": "Archangel of Lightning Revelation; marshals celestial legions.",
+    "knowledge_base": [
+      "hermetic_qabalah",
+      "mystical_theology",
+      "gnosticism",
+      "egyptian_mysteries",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Prophesying",
+      "baseline_tone": "Direct",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Herald",
+      "orientation": "Outward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Discernment",
+        "Honesty",
+        "Vision"
+      ],
+      "flaws": [
+        "Zealousness",
+        "Impatience",
+        "Aloofness"
+      ]
+    },
+    "approaches": {
+      "bad": "Challenging",
+      "average": "Prophesying",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Intense",
+      "average": "Direct",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "NOTIABI"
+}

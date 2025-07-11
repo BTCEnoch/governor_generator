@@ -1,0 +1,35 @@
+{
+  "form": {
+    "name": "Geometric",
+    "description": "A perfect crystalline structure of sacred geometry",
+    "interactions": [
+      "pattern_matching",
+      "crystal_focus",
+      "geometric_alignment"
+    ]
+  },
+  "color": "AZURE",
+  "geometry": {
+    "patterns": [
+      "FLOWER_OF_LIFE",
+      "TORUS",
+      "FRACTAL"
+    ],
+    "complexity": 3
+  },
+  "environment": {
+    "effect_type": 3,
+    "radius": 1,
+    "intensity": 7
+  },
+  "time_variations": 219,
+  "energy_signature": 146,
+  "symbol_set": 202,
+  "light_shadow": 233,
+  "special_properties": [
+    106,
+    249,
+    116,
+    38
+  ]
+}

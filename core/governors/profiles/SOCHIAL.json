@@ -1,0 +1,79 @@
+{
+  "governor_name": "SOCHIAL",
+  "session_id": "SOCHIAL_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.682623",
+  "persona": {
+    "name": "SOCHIAL",
+    "title": "'He who burns up the past'",
+    "element": "Air",
+    "aethyr": "LEA",
+    "essence": "In SOCHIAL's presence, stagnation combusts into change her radical energy ignites a cathartic blaze that frees and renews the spirit.",
+    "angelic_role": "Throne of Cathartic Flame; marshals heavenly choristers.",
+    "knowledge_base": [
+      "alchemy",
+      "hermetic_kabbalah",
+      "gnosticism",
+      "mysticism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Star",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Provoking",
+      "baseline_tone": "Passionate",
+      "motive_alignment": "Chaotic Good",
+      "role_archetype": "Liberator",
+      "orientation": "Outward-Focused",
+      "polarity": "Destructive",
+      "self_regard": "Catalyst",
+      "virtues": [
+        "Courage",
+        "Vision",
+        "Zeal"
+      ],
+      "flaws": [
+        "Impatience",
+        "Recklessness",
+        "Zealousness"
+      ]
+    },
+    "approaches": {
+      "bad": "Challenging",
+      "average": "Provoking",
+      "good": "Prophesying"
+    },
+    "tones": {
+      "bad": "Intense",
+      "average": "Passionate",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "SOCHIAL"
+}

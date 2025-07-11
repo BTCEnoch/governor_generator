@@ -1,0 +1,79 @@
+{
+  "governor_name": "NIGRANA",
+  "session_id": "NIGRANA_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.643924",
+  "persona": {
+    "name": "NIGRANA",
+    "title": "'He who governs the 28 days of the moon'",
+    "element": "Earth",
+    "aethyr": "DES",
+    "essence": "In NIGRANA's presence, the world moves to a sacred rhythm half light, half darkness, each cycle intuitive and measured as if drawn by lunar tides at the edge of awareness.",
+    "angelic_role": "Virtue of Lunar Cycle; leads earth-forged legionaries.",
+    "knowledge_base": [
+      "lunar_magic",
+      "astrology",
+      "ritual_magic",
+      "hermetic_philosophy",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Moon",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Pisces",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Reflective",
+      "motive_alignment": "True Neutral",
+      "role_archetype": "Oracle",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Patience",
+        "Mindfulness",
+        "Vision"
+      ],
+      "flaws": [
+        "Melancholy",
+        "Obsession",
+        "Isolation"
+      ]
+    },
+    "approaches": {
+      "bad": "Prophesying",
+      "average": "Observing",
+      "good": "Guiding"
+    },
+    "tones": {
+      "bad": "Cryptic",
+      "average": "Reflective",
+      "good": "Gentle"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "NIGRANA"
+}

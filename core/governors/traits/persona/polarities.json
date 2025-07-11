@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "balanced_flux",
+      "name": "Balanced Flux",
+      "category": "polarities",
+      "definition": "Harmonious flow between different states of being"
+    },
+    {
+      "id": "constructive",
+      "name": "Constructive",
+      "category": "polarities",
+      "definition": "Builds and strengthens divine connections"
+    },
+    {
+      "id": "destructive",
+      "name": "Destructive",
+      "category": "polarities",
+      "definition": "Breaks down barriers to spiritual growth"
+    },
+    {
+      "id": "balanced_flux_(embodying_nature's_constant_change)",
+      "name": "Balanced Flux (embodying nature's constant change)",
+      "category": "polarities",
+      "definition": "Harmonious flow between different states of being - Specifically embodying nature's constant change"
+    }
+  ]
+} 

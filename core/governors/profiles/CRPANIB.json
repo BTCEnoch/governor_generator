@@ -1,0 +1,79 @@
+{
+  "governor_name": "CRPANIB",
+  "session_id": "CRPANIB_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.616925",
+  "persona": {
+    "name": "CRPANIB",
+    "title": "'He who destroys speech'",
+    "element": "Earth",
+    "aethyr": "ZAA",
+    "essence": "In CRPANIB's presence, even silence speaks volumes an unseen undercurrent passes through the hush, hinting at guarded secrets and hidden intentions.",
+    "angelic_role": "Angel of Silence of Secrets; guides oak-crowned guardians.",
+    "knowledge_base": [
+      "hermeticism",
+      "kabbalah",
+      "mysticism",
+      "alchemy",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The High Priestess",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Cancer",
+      "zodiac_angel": "Gabriel",
+      "numerology": 2
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Cool",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Warden",
+      "orientation": "Inward-Focused",
+      "polarity": "Destructive",
+      "self_regard": "Obscure",
+      "virtues": [
+        "Discernment",
+        "Mindfulness",
+        "Prudence"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Isolation",
+        "Suspicion"
+      ]
+    },
+    "approaches": {
+      "bad": "Deceiving",
+      "average": "Observing",
+      "good": "Guiding"
+    },
+    "tones": {
+      "bad": "Cryptic",
+      "average": "Cool",
+      "good": "Reflective"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "CRPANIB"
+}

@@ -1,0 +1,79 @@
+{
+  "governor_name": "AYDROPT",
+  "session_id": "AYDROPT_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.608925",
+  "persona": {
+    "name": "AYDROPT",
+    "title": "'She who sees us with equality'",
+    "element": "Air",
+    "aethyr": "TAN",
+    "essence": "In AYDROPT's presence, the atmosphere feels balanced and benevolent a gentle wind of fairness that carries compassion and clears all prejudice.",
+    "angelic_role": "Virtue of Winds of Equilibrium; commands empyrean legions.",
+    "knowledge_base": [
+      "hermetic_philosophy",
+      "kabbalah",
+      "buddhism",
+      "alchemy",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Analytical",
+      "motive_alignment": "True Neutral",
+      "role_archetype": "Judge",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Justice",
+        "Equanimity",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Self-doubt",
+        "Rigidity"
+      ]
+    },
+    "approaches": {
+      "bad": "Mediating",
+      "average": "Observing",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Cool",
+      "average": "Analytical",
+      "good": "Empathetic"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "AYDROPT"
+}

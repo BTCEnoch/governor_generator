@@ -1,0 +1,82 @@
+{
+  "template_version": "1.0",
+  "instructions": {
+    "purpose": "Define the visual manifestation of an Enochian Governor based on their core attributes",
+    "considerations": [
+      "Consider the governor's element, aethyr level, and role",
+      "Ensure visual aspects reflect their mystical nature and power",
+      "Create a cohesive visual identity that aids in recognition and invocation",
+      "Balance traditional Enochian symbolism with unique characteristics"
+    ]
+  },
+  "required_inputs": {
+    "governor_id": "",
+    "element": "",
+    "aethyr": "",
+    "angelic_role": "",
+    "essence": ""
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "GEOMETRIC",
+      "description": "A crystalline manifestation of sacred geometry, pulsing with divine light",
+      "interactions": [
+        "resonance_amplification",
+        "light_refraction",
+        "energy_focusing"
+      ]
+    },
+    "color": {
+      "primary": "SILVER",
+      "variations": "Shifts between platinum and pearl depending on spiritual energy",
+      "symbolism": "Represents divine wisdom and ethereal purity"
+    },
+    "geometry": {
+      "patterns": [
+        "METATRON",
+        "MERKABA"
+      ],
+      "complexity": 7,
+      "movement": "Rotates in perfect golden ratio spirals"
+    },
+    "environment": {
+      "effect_type": "DIMENSIONAL",
+      "radius": "ROOM",
+      "intensity": "HIGH",
+      "manifestations": "Creates subtle reality distortions and heightened spiritual awareness"
+    },
+    "time_variations": {
+      "cycle": "LUNAR",
+      "triggers": "Astrological alignments and ritual invocations",
+      "constants": "Core geometric structure remains unchanged"
+    },
+    "energy_signature": {
+      "frequency": "CELESTIAL",
+      "polarity": "BALANCED",
+      "intensity": "STRONG",
+      "unique_markers": "Distinct harmonic resonance with angelic frequencies"
+    },
+    "symbol_set": {
+      "primary": "ENOCHIAN_SIGIL",
+      "secondary": "KABBALISTIC_SEALS",
+      "arrangement": "TETRAHEDRAL"
+    },
+    "light_shadow": {
+      "luminosity": "RADIANT",
+      "shadow_interaction": "TRANSMUTATIVE",
+      "special_effects": "Casts shadows that reveal hidden truths"
+    },
+    "special_properties": [
+      "REALITY_ANCHORING",
+      "WISDOM_AMPLIFICATION",
+      "DIVINE_RESONANCE"
+    ]
+  },
+  "validation_rules": {
+    "element_alignment": "Visual aspects must reflect elemental nature",
+    "aethyr_influence": "Higher aethyrs should have more complex/abstract forms",
+    "role_reflection": "Visual aspects should aid in role fulfillment",
+    "uniqueness": "Must have at least 3 unique identifying features",
+    "consistency": "All aspects should form a cohesive whole"
+  }
+} 

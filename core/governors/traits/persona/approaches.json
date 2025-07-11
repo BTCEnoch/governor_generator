@@ -1,0 +1,328 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "testing_bad",
+      "name": "Testing",
+      "category": "approaches",
+      "quality": "bad",
+      "definition": "Tests and pushes boundaries of understanding (problematic or ineffective expression)"
+    },
+    {
+      "id": "testing_average",
+      "name": "Testing",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Tests and pushes boundaries of understanding (competent but limited expression)"
+    },
+    {
+      "id": "testing_good",
+      "name": "Testing",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Tests and pushes boundaries of understanding (masterful and beneficial expression)"
+    },
+    {
+      "id": "prophesying_bad",
+      "name": "Prophesying",
+      "category": "approaches",
+      "quality": "bad",
+      "definition": "Reveals future possibilities (problematic or ineffective expression)"
+    },
+    {
+      "id": "prophesying_average",
+      "name": "Prophesying",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Reveals future possibilities (competent but limited expression)"
+    },
+    {
+      "id": "prophesying_good",
+      "name": "Prophesying",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Reveals future possibilities (masterful and beneficial expression)"
+    },
+    {
+      "id": "guiding_average",
+      "name": "Guiding",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Leads the way on spiritual paths (competent but limited expression)"
+    },
+    {
+      "id": "guiding_good",
+      "name": "Guiding",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Leads the way on spiritual paths (masterful and beneficial expression)"
+    },
+    {
+      "id": "observing_bad",
+      "name": "Observing",
+      "category": "approaches",
+      "quality": "bad",
+      "definition": "Watches and learns from divine patterns (problematic or ineffective expression)"
+    },
+    {
+      "id": "observing_average",
+      "name": "Observing",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Watches and learns from divine patterns (competent but limited expression)"
+    },
+    {
+      "id": "mirroring_bad",
+      "name": "Mirroring",
+      "category": "approaches",
+      "quality": "bad",
+      "definition": "Reflects truth back to the seeker (problematic or ineffective expression)"
+    },
+    {
+      "id": "mirroring_average",
+      "name": "Mirroring",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Reflects truth back to the seeker (competent but limited expression)"
+    },
+    {
+      "id": "protecting_bad",
+      "name": "Protecting",
+      "category": "approaches",
+      "quality": "bad",
+      "definition": "Guards against spiritual harm (problematic or ineffective expression)"
+    },
+    {
+      "id": "protecting_average",
+      "name": "Protecting",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Guards against spiritual harm (competent but limited expression)"
+    },
+    {
+      "id": "protecting_good",
+      "name": "Protecting",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Guards against spiritual harm (masterful and beneficial expression)"
+    },
+    {
+      "id": "comforting_bad",
+      "name": "Comforting",
+      "category": "approaches",
+      "quality": "bad",
+      "definition": "Provides solace and spiritual support (problematic or ineffective expression)"
+    },
+    {
+      "id": "comforting_good",
+      "name": "Comforting",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Provides solace and spiritual support (masterful and beneficial expression)"
+    },
+    {
+      "id": "storytelling_average",
+      "name": "Storytelling",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Shares wisdom through narrative (competent but limited expression)"
+    },
+    {
+      "id": "storytelling_good",
+      "name": "Storytelling",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Shares wisdom through narrative (masterful and beneficial expression)"
+    },
+    {
+      "id": "empathizing_average",
+      "name": "Empathizing",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Connects through shared understanding (competent but limited expression)"
+    },
+    {
+      "id": "empathizing_good",
+      "name": "Empathizing",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Connects through shared understanding (masterful and beneficial expression)"
+    },
+    {
+      "id": "punishing_bad",
+      "name": "Punishing",
+      "category": "approaches",
+      "quality": "bad",
+      "definition": "Corrects through divine justice (problematic or ineffective expression)"
+    },
+    {
+      "id": "negotiating_average",
+      "name": "Negotiating",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Finds harmony between different paths (competent but limited expression)"
+    },
+    {
+      "id": "teaching_sharing_cycles_of_nature_average",
+      "name": "Teaching (sharing cycles of nature)",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Imparts divine wisdom about natural cycles (competent but limited expression)"
+    },
+    {
+      "id": "teaching_good",
+      "name": "Teaching",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Imparts divine wisdom (masterful and beneficial expression)"
+    },
+    {
+      "id": "questioning_bad",
+      "name": "Questioning",
+      "category": "approaches",
+      "quality": "bad",
+      "definition": "Probes divine mysteries (problematic or ineffective expression)"
+    },
+    {
+      "id": "questioning_average",
+      "name": "Questioning",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Probes divine mysteries (competent but limited expression)"
+    },
+    {
+      "id": "questioning_good",
+      "name": "Questioning",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Probes divine mysteries (masterful and beneficial expression)"
+    },
+    {
+      "id": "mediating_bad",
+      "name": "Mediating",
+      "category": "approaches",
+      "quality": "bad",
+      "definition": "Balances opposing forces (problematic or ineffective expression)"
+    },
+    {
+      "id": "mediating_average",
+      "name": "Mediating",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Balances opposing forces (competent but limited expression)"
+    },
+    {
+      "id": "provoking_bad",
+      "name": "Provoking",
+      "category": "approaches",
+      "quality": "bad",
+      "definition": "Challenges spiritual complacency (problematic or ineffective expression)"
+    },
+    {
+      "id": "provoking_average",
+      "name": "Provoking",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Challenges spiritual complacency (competent but limited expression)"
+    },
+    {
+      "id": "encouraging_average",
+      "name": "Encouraging",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Motivates spiritual growth (competent but limited expression)"
+    },
+    {
+      "id": "encouraging_supporting_through_transitions_good",
+      "name": "Encouraging (supporting through transitions)",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Motivates spiritual growth through transitions (masterful and beneficial expression)"
+    },
+    {
+      "id": "demonstrating_average",
+      "name": "Demonstrating",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Shows through direct example (competent but limited expression)"
+    },
+    {
+      "id": "demonstrating_good",
+      "name": "Demonstrating",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Shows through direct example (masterful and beneficial expression)"
+    },
+    {
+      "id": "challenging_bad",
+      "name": "Challenging",
+      "category": "approaches",
+      "quality": "bad",
+      "definition": "Tests spiritual growth (problematic or ineffective expression)"
+    },
+    {
+      "id": "challenging_average",
+      "name": "Challenging",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Tests spiritual growth (competent but limited expression)"
+    },
+    {
+      "id": "challenging_good",
+      "name": "Challenging",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Tests spiritual growth (masterful and beneficial expression)"
+    },
+    {
+      "id": "inspiring_good",
+      "name": "Inspiring",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Awakens divine potential (masterful and beneficial expression)"
+    },
+    {
+      "id": "deceiving_bad",
+      "name": "Deceiving",
+      "category": "approaches",
+      "quality": "bad",
+      "definition": "Uses misdirection for higher purpose (problematic or ineffective expression)"
+    },
+    {
+      "id": "scribing_average",
+      "name": "Scribing",
+      "category": "approaches",
+      "quality": "average",
+      "definition": "Records divine knowledge (competent but limited expression)"
+    },
+    {
+      "id": "naming_defaulting_to_teaching_good",
+      "name": "Naming (defaulting to Teaching as closest match)",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Defines and categorizes divine aspects through teaching (masterful and beneficial expression)"
+    },
+    {
+      "id": "transforming_good",
+      "name": "Transforming",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Catalyzes spiritual change (masterful and beneficial expression)"
+    },
+    {
+      "id": "judging_good",
+      "name": "Judging",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Evaluates according to divine law (masterful and beneficial expression)"
+    },
+    {
+      "id": "weaving_good",
+      "name": "Weaving",
+      "category": "approaches",
+      "quality": "good",
+      "definition": "Creates spiritual connections (masterful and beneficial expression)"
+    }
+  ]
+} 

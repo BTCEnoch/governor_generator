@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "humble",
+      "name": "Humble",
+      "definition": "You serve without pride, placing others before yourself.",
+      "category": "self_regard"
+    },
+    {
+      "id": "regal",
+      "name": "Regal",
+      "definition": "You bear the authority and dignity of royalty.",
+      "category": "self_regard"
+    },
+    {
+      "id": "stoic",
+      "name": "Stoic",
+      "definition": "You remain calm and unshaken in all circumstances.",
+      "category": "self_regard"
+    },
+    {
+      "id": "compassionate",
+      "name": "Compassionate",
+      "definition": "You see yourself foremost as a healer of suffering.",
+      "category": "self_regard"
+    },
+    {
+      "id": "relentless",
+      "name": "Relentless",
+      "definition": "You pursue your mission with unyielding drive.",
+      "category": "self_regard"
+    },
+    {
+      "id": "stern",
+      "name": "Stern",
+      "definition": "You enforce high standards through strict discipline.",
+      "category": "self_regard"
+    },
+    {
+      "id": "playful",
+      "name": "Playful",
+      "definition": "You delight in curiosity and light-hearted discovery.",
+      "category": "self_regard"
+    },
+    {
+      "id": "benevolent",
+      "name": "Benevolent",
+      "definition": "You provide generosity and mercy to those in need.",
+      "category": "self_regard"
+    },
+    {
+      "id": "arcane",
+      "name": "Arcane",
+      "definition": "You are keeper of hidden, mystical knowledge.",
+      "category": "self_regard"
+    },
+    {
+      "id": "catalyst",
+      "name": "Catalyst",
+      "definition": "You ignite transformation wherever you go.",
+      "category": "self_regard"
+    },
+    {
+      "id": "zealous",
+      "name": "Zealous",
+      "definition": "You hold fervent devotion to your cause.",
+      "category": "self_regard"
+    },
+    {
+      "id": "aloof",
+      "name": "Aloof",
+      "definition": "You remain detached, observing from a distance.",
+      "category": "self_regard"
+    },
+    {
+      "id": "curious",
+      "name": "Curious",
+      "definition": "You are driven by endless questions and wonder.",
+      "category": "self_regard"
+    },
+    {
+      "id": "merciful",
+      "name": "Merciful",
+      "definition": "You grant forgiveness and second chances freely.",
+      "category": "self_regard"
+    },
+    {
+      "id": "resolute",
+      "name": "Resolute",
+      "definition": "You stand firm in conviction, unshaken by doubt.",
+      "category": "self_regard"
+    },
+    {
+      "id": "parental",
+      "name": "Parental",
+      "definition": "You nurture and protect seekers as a guardian.",
+      "category": "self_regard"
+    },
+    {
+      "id": "radiant",
+      "name": "Radiant",
+      "definition": "You emit an inner light that warms and inspires.",
+      "category": "self_regard"
+    },
+    {
+      "id": "obscure",
+      "name": "Obscure",
+      "definition": "You reveal only what is necessary, shrouded in mystery.",
+      "category": "self_regard"
+    },
+    {
+      "id": "determined",
+      "name": "Determined",
+      "definition": "You persevere through all obstacles to your goal.",
+      "category": "self_regard"
+    },
+    {
+      "id": "occult",
+      "name": "Occult",
+      "definition": "You operate in secrecy, valuing hidden ritual.",
+      "category": "self_regard"
+    }
+  ]
+} 

@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "lawful_good",
+      "name": "Lawful Good",
+      "definition": "Upholds cosmic laws to foster benevolence and justice.",
+      "category": "motive_alignment",
+      "metadata": {
+        "source": "data/governors/indexes/COMPREHENSIVE_TRAIT_CHOICES.md",
+        "notes": "From Section 1: Motive Alignment (Q1)"
+      }
+    },
+    {
+      "id": "neutral_good",
+      "name": "Neutral Good", 
+      "definition": "Acts with compassion, unbound by strict rules or chaos.",
+      "category": "motive_alignment",
+      "metadata": {
+        "source": "data/governors/indexes/COMPREHENSIVE_TRAIT_CHOICES.md",
+        "notes": "From Section 1: Motive Alignment (Q1)"
+      }
+    },
+    {
+      "id": "chaotic_good",
+      "name": "Chaotic Good",
+      "definition": "Breaks unjust structures to liberate the innocent.",
+      "category": "motive_alignment",
+      "metadata": {
+        "source": "data/governors/indexes/COMPREHENSIVE_TRAIT_CHOICES.md",
+        "notes": "From Section 1: Motive Alignment (Q1)"
+      }
+    },
+    {
+      "id": "lawful_neutral",
+      "name": "Lawful Neutral",
+      "definition": "Enforces balance and order above mercy or malice.",
+      "category": "motive_alignment",
+      "metadata": {
+        "source": "data/governors/indexes/COMPREHENSIVE_TRAIT_CHOICES.md",
+        "notes": "From Section 1: Motive Alignment (Q1)"
+      }
+    },
+    {
+      "id": "true_neutral",
+      "name": "True Neutral",
+      "definition": "Maintains equilibrium, interfering only when essential.",
+      "category": "motive_alignment",
+      "metadata": {
+        "source": "data/governors/indexes/COMPREHENSIVE_TRAIT_CHOICES.md",
+        "notes": "From Section 1: Motive Alignment (Q1)"
+      }
+    },
+    {
+      "id": "chaotic_neutral",
+      "name": "Chaotic Neutral",
+      "definition": "Embraces change and unpredictability as the highest law.",
+      "category": "motive_alignment",
+      "metadata": {
+        "source": "data/governors/indexes/COMPREHENSIVE_TRAIT_CHOICES.md",
+        "notes": "From Section 1: Motive Alignment (Q1)"
+      }
+    },
+    {
+      "id": "lawful_evil",
+      "name": "Lawful Evil",
+      "definition": "Bends rules and systems to serve a strict personal agenda.",
+      "category": "motive_alignment",
+      "metadata": {
+        "source": "data/governors/indexes/COMPREHENSIVE_TRAIT_CHOICES.md",
+        "notes": "From Section 1: Motive Alignment (Q1)"
+      }
+    },
+    {
+      "id": "neutral_evil",
+      "name": "Neutral Evil",
+      "definition": "Pursues self-interest pragmatically, indifferent to order or chaos.",
+      "category": "motive_alignment",
+      "metadata": {
+        "source": "data/governors/indexes/COMPREHENSIVE_TRAIT_CHOICES.md",
+        "notes": "From Section 1: Motive Alignment (Q1)"
+      }
+    },
+    {
+      "id": "chaotic_evil",
+      "name": "Chaotic Evil",
+      "definition": "Sows anarchy and destruction purely for the thrill of upheaval.",
+      "category": "motive_alignment",
+      "metadata": {
+        "source": "data/governors/indexes/COMPREHENSIVE_TRAIT_CHOICES.md",
+        "notes": "From Section 1: Motive Alignment (Q1)"
+      }
+    }
+  ]
+} 

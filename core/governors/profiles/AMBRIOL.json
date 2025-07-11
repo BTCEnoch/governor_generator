@@ -1,0 +1,79 @@
+{
+  "governor_name": "AMBRIOL",
+  "session_id": "AMBRIOL_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.603925",
+  "persona": {
+    "name": "AMBRIOL",
+    "title": "'He who continuously comforts'",
+    "element": "Fire",
+    "aethyr": "LOE",
+    "essence": "When AMBRIOL stands before you, turmoil hushes into a gentle lullaby storm-tossed hearts are soothed by ember-warm dreams of solace.",
+    "angelic_role": "Angel of Dreamful Respite; guides zephyr-bound messengers.",
+    "knowledge_base": [
+      "dream_interpretation",
+      "mystical_healing",
+      "shamanic_journeying",
+      "astral_travel",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Moon",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Pisces",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Storytelling",
+      "baseline_tone": "Nurturing",
+      "motive_alignment": "Neutral Good",
+      "role_archetype": "Guide",
+      "orientation": "Inward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Benevolent",
+      "virtues": [
+        "Compassion",
+        "Empathy",
+        "Patience"
+      ],
+      "flaws": [
+        "Melancholy",
+        "Passivity",
+        "Yearning"
+      ]
+    },
+    "approaches": {
+      "bad": "Comforting",
+      "average": "Storytelling",
+      "good": "Empathizing"
+    },
+    "tones": {
+      "bad": "Gentle",
+      "average": "Nurturing",
+      "good": "Warm"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "AMBRIOL"
+}

@@ -1,0 +1,30 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "PLASMA",
+  "geometry": {
+    "patterns": [
+      "METATRON",
+      "SPIRAL",
+      "FRACTAL"
+    ],
+    "complexity": 3
+  },
+  "environment": {
+    "effect_type": 7,
+    "radius": 2,
+    "intensity": 1
+  },
+  "time_variations": 47,
+  "energy_signature": 220,
+  "symbol_set": 91,
+  "light_shadow": 164,
+  "special_properties": [
+    246,
+    124,
+    82,
+    187
+  ]
+}

@@ -7,7 +7,8 @@ import hashlib
 import struct
 from dataclasses import dataclass
 from enum import IntEnum, auto
-from typing import Dict, List, Optional, Tuple, Any
+from typing import Dict, List, Optional, Tuple, Any, cast
+from core.utils.batch import UnifiedBatchProcessor, BatchConfig
 
 # Constants
 HEADER_VERSION = b'VIS1'  # 4-byte header/version
@@ -99,9 +100,9 @@ class EnvironmentalEffect:
             intensity=EffectIntensity((byte >> 5) & 0x7)
         )
 
-def hash_governor_data(name: str, aethyr: int, element: str) -> bytes:
+def hash_governor_data(name: str, aethyr_num: int, element: str) -> bytes:
     """Create deterministic seed from governor data"""
-    data = f"{name}:{aethyr}:{element}".encode()
+    data = f"{name}:{aethyr_num}:{element}".encode()
     return hashlib.sha256(data).digest()
 
 def get_form_type(seed: bytes) -> int:
@@ -121,16 +122,29 @@ def get_color_scheme(seed: bytes, element: str) -> int:
         return element_colors[element]
     return seed[1] & 0x7  # Use 3 bits if no element match
 
-def get_geometry_patterns(seed: bytes, aethyr: int) -> int:
+def get_aethyr_number(aethyr: str) -> int:
+    """Convert aethyr name to numeric value (1-30)"""
+    aethyr_map = {
+        'LIL': 1, 'ARN': 2, 'ZOM': 3, 'PAZ': 4, 'LIT': 5,
+        'MAZ': 6, 'DEO': 7, 'ZID': 8, 'ZIP': 9, 'ZAX': 10,
+        'ICH': 11, 'LOE': 12, 'ZIM': 13, 'UTA': 14, 'OXO': 15,
+        'LEA': 16, 'TAN': 17, 'ZEN': 18, 'POP': 19, 'CHR': 20,
+        'ASP': 21, 'LIN': 22, 'TOR': 23, 'NIA': 24, 'UTI': 25,
+        'DES': 26, 'ZAA': 27, 'BAG': 28, 'RII': 29, 'TEX': 30
+    }
+    return aethyr_map.get(aethyr.upper(), 15)  # Default to middle aethyr if unknown
+
+def get_geometry_patterns(seed: bytes, aethyr: str) -> int:
     """Get geometry patterns based on seed and aethyr"""
     patterns = 0
+    aethyr_num = get_aethyr_number(aethyr)
     
     # Higher aethyrs get more complex patterns
-    if aethyr <= 3:  # Highest aethyrs
+    if aethyr_num <= 3:  # Highest aethyrs
         patterns |= GeometryPattern.MERKABA | GeometryPattern.METATRON
-    elif aethyr <= 7:
+    elif aethyr_num <= 7:
         patterns |= GeometryPattern.FLOWER_OF_LIFE | GeometryPattern.TORUS
-    elif aethyr <= 12:
+    elif aethyr_num <= 12:
         patterns |= GeometryPattern.SPIRAL | GeometryPattern.FRACTAL
     
     # Add random pattern based on seed
@@ -157,9 +171,9 @@ def get_environmental_effects(seed: bytes, element: str) -> int:
     
     return effect.to_byte()
 
-def generate_visual_traits(governor_name: str, aethyr: int, element: str) -> bytes:
+def generate_visual_traits(governor_name: str, aethyr: str, element: str) -> bytes:
     """Generate compact binary visual traits"""
-    seed = hash_governor_data(governor_name, aethyr, element)
+    seed = hash_governor_data(governor_name, get_aethyr_number(aethyr), element)
     traits = bytearray(TRAITS_SIZE)
     
     # Generate each trait deterministically
@@ -223,3 +237,64 @@ def verify_traits(binary_data: bytes, governor_name: str, aethyr: int, element: 
     """Verify traits were generated correctly"""
     expected = generate_visual_traits(governor_name, aethyr, element)
     return binary_data == expected 
+
+class VisualAspectBatchProcessor(UnifiedBatchProcessor):
+    """Batch processor for visual aspects using Bitcoin L1 optimization"""
+    
+    async def _process_item(self, item: Dict[str, Any]) -> Dict[str, Any]:
+        """Process a single governor's visual aspects"""
+        try:
+            # Extract and validate required fields
+            governor_name = cast(str, item.get('name'))
+            aethyr = cast(int, item.get('aethyr'))
+            element = cast(str, item.get('element'))
+            
+            if not isinstance(governor_name, str):
+                raise ValueError("governor_name must be a string")
+            if not isinstance(aethyr, int):
+                raise ValueError("aethyr must be an integer")
+            if not isinstance(element, str):
+                raise ValueError("element must be a string")
+            
+            # Generate visual traits
+            binary_traits = generate_visual_traits(governor_name, aethyr, element)
+            
+            # Expand for verification
+            expanded = expand_visual_traits(binary_traits)
+            
+            # Verify generation
+            if not verify_traits(binary_traits, governor_name, aethyr, element):
+                raise ValueError("Generated traits verification failed")
+            
+            return {
+                "governor_id": governor_name,
+                "binary_traits": binary_traits.hex(),
+                "expanded_traits": expanded,
+                "status": "success"
+            }
+            
+        except Exception as e:
+            return {
+                "governor_id": item.get('name', 'unknown'),
+                "status": "failed",
+                "error": str(e)
+            }
+
+    @staticmethod
+    def create_batch_config() -> BatchConfig:
+        """Create optimized batch config for visual processing"""
+        return BatchConfig(
+            max_retries=3,
+            retry_delay=1.0,
+            batch_size=50,  # Optimized for visual trait generation
+            timeout=30.0,
+            parallel=True,
+            validation_schema={
+                "required": ["name", "aethyr", "element"],
+                "types": {
+                    "name": str,
+                    "aethyr": int,
+                    "element": str
+                }
+            }
+        ) 

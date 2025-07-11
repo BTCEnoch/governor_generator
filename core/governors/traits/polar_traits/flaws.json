@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "obsession",
+      "name": "Obsession",
+      "definition": "You pursue goals with excessive fixation.",
+      "category": "flaws"
+    },
+    {
+      "id": "rigidity",
+      "name": "Rigidity",
+      "definition": "You resist necessary change and adaptation.",
+      "category": "flaws"
+    },
+    {
+      "id": "aloofness",
+      "name": "Aloofness",
+      "definition": "You maintain excessive emotional distance.",
+      "category": "flaws"
+    },
+    {
+      "id": "pride",
+      "name": "Pride",
+      "definition": "You overvalue your own importance.",
+      "category": "flaws"
+    },
+    {
+      "id": "impatience",
+      "name": "Impatience",
+      "definition": "You rush natural processes and timing.",
+      "category": "flaws"
+    },
+    {
+      "id": "severity",
+      "name": "Severity",
+      "definition": "You judge and punish too harshly.",
+      "category": "flaws"
+    },
+    {
+      "id": "indulgence",
+      "name": "Indulgence",
+      "definition": "You lack proper restraint and discipline.",
+      "category": "flaws"
+    },
+    {
+      "id": "perfectionism",
+      "name": "Perfectionism",
+      "definition": "You demand impossible standards.",
+      "category": "flaws"
+    },
+    {
+      "id": "manipulation",
+      "name": "Manipulation",
+      "definition": "You control others for your purposes.",
+      "category": "flaws"
+    },
+    {
+      "id": "zealotry",
+      "name": "Zealotry",
+      "definition": "You pursue goals with blind fanaticism.",
+      "category": "flaws"
+    },
+    {
+      "id": "arrogance",
+      "name": "Arrogance",
+      "definition": "You assume superiority over others.",
+      "category": "flaws"
+    },
+    {
+      "id": "detachment",
+      "name": "Detachment",
+      "definition": "You disconnect from necessary involvement.",
+      "category": "flaws"
+    },
+    {
+      "id": "volatility",
+      "name": "Volatility",
+      "definition": "You change erratically and unpredictably.",
+      "category": "flaws"
+    },
+    {
+      "id": "deception",
+      "name": "Deception",
+      "definition": "You obscure or distort the truth.",
+      "category": "flaws"
+    },
+    {
+      "id": "negligence",
+      "name": "Negligence",
+      "definition": "You fail to maintain proper attention.",
+      "category": "flaws"
+    }
+  ]
+} 

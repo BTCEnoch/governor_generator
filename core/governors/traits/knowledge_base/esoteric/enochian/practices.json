@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "aethyr_scrying",
+      "name": "Aethyr Scrying",
+      "category": "visionary_practice",
+      "definition": "The systematic exploration of the 30 Aethyrs through visionary techniques.",
+      "methods": [
+        "crystal gazing",
+        "mirror scrying",
+        "ritual invocation"
+      ],
+      "requirements": {
+        "tools": [
+          "crystal sphere",
+          "black mirror",
+          "holy table"
+        ],
+        "preparations": [
+          "purification",
+          "consecration",
+          "banishing"
+        ]
+      },
+      "stages": [
+        "initial invocation",
+        "governor contact",
+        "vision reception",
+        "record keeping"
+      ]
+    },
+    {
+      "id": "key_vibration",
+      "name": "Enochian Key Vibration",
+      "category": "invocatory_practice",
+      "definition": "The proper pronunciation and vibration of the Angelic Keys for spiritual effects.",
+      "methods": [
+        "phonetic practice",
+        "energy raising",
+        "divine name vibration"
+      ],
+      "requirements": {
+        "tools": [
+          "key texts",
+          "pronunciation guide",
+          "ritual space"
+        ],
+        "preparations": [
+          "voice training",
+          "energy work",
+          "protective measures"
+        ]
+      },
+      "stages": [
+        "preliminary silence",
+        "key recitation",
+        "power building",
+        "release"
+      ]
+    },
+    {
+      "id": "tablet_working",
+      "name": "Watchtower Operations",
+      "category": "ceremonial_practice",
+      "definition": "Working with the elemental tablets and their angelic forces.",
+      "methods": [
+        "tablet consecration",
+        "angel evocation",
+        "force direction"
+      ],
+      "requirements": {
+        "tools": [
+          "elemental tablets",
+          "magical weapons",
+          "temple furniture"
+        ],
+        "preparations": [
+          "temple setup",
+          "tool consecration",
+          "operator preparation"
+        ]
+      },
+      "stages": [
+        "opening by watchtower",
+        "force invocation",
+        "practical working",
+        "closure"
+      ]
+    },
+    {
+      "id": "governor_communion",
+      "name": "Governor Communion",
+      "category": "contact_practice",
+      "definition": "Establishing and maintaining contact with specific Governors.",
+      "methods": [
+        "meditation",
+        "invocation",
+        "astral contact"
+      ],
+      "requirements": {
+        "tools": [
+          "governor sigil",
+          "corresponding incense",
+          "ritual space"
+        ],
+        "preparations": [
+          "purification",
+          "study of governor",
+          "energy alignment"
+        ]
+      },
+      "stages": [
+        "initial contact",
+        "communication",
+        "instruction",
+        "integration"
+      ]
+    },
+    {
+      "id": "ring_ritual",
+      "name": "Ring and Lamen Working",
+      "category": "protective_practice",
+      "definition": "Use of the Ring of Solomon and Holy Lamen for Enochian operations.",
+      "methods": [
+        "ring consecration",
+        "lamen charging",
+        "combined use"
+      ],
+      "requirements": {
+        "tools": [
+          "ring of art",
+          "holy lamen",
+          "consecration materials"
+        ],
+        "preparations": [
+          "tool creation",
+          "personal purification",
+          "space preparation"
+        ]
+      },
+      "stages": [
+        "tool preparation",
+        "charging ritual",
+        "protective circle",
+        "operation"
+      ]
+    }
+  ]
+} 

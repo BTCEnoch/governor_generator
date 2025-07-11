@@ -1,0 +1,79 @@
+{
+  "governor_name": "ANDISPI",
+  "session_id": "ANDISPI_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.604924",
+  "persona": {
+    "name": "ANDISPI",
+    "title": "'He who binds into obedience'",
+    "element": "Water",
+    "aethyr": "ZOM",
+    "essence": "When ANDISPI is near, a profound covenant fills the space a resonant vow knitting separate wills into living harmony.",
+    "angelic_role": "Angel of Binding Covenant; guides oceanic hosts.",
+    "knowledge_base": [
+      "kabbalah",
+      "hermetic_philosophy",
+      "ceremonial_magic",
+      "mystical_judaism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Negotiating",
+      "baseline_tone": "Formal",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Warden",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Faith",
+        "Loyalty",
+        "Honor"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Zealousness",
+        "Distrust"
+      ]
+    },
+    "approaches": {
+      "bad": "Punishing",
+      "average": "Negotiating",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Formal",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "ANDISPI"
+}

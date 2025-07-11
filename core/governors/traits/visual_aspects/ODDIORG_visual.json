@@ -1,0 +1,30 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "GOLDEN",
+  "geometry": {
+    "patterns": [
+      "SPIRAL",
+      "FRACTAL",
+      "CUSTOM"
+    ],
+    "complexity": 3
+  },
+  "environment": {
+    "effect_type": 1,
+    "radius": 3,
+    "intensity": 3
+  },
+  "time_variations": 180,
+  "energy_signature": 194,
+  "symbol_set": 81,
+  "light_shadow": 186,
+  "special_properties": [
+    224,
+    70,
+    178,
+    214
+  ]
+}

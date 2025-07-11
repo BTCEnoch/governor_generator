@@ -1,0 +1,29 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "GOLDEN",
+  "geometry": {
+    "patterns": [
+      "FLOWER_OF_LIFE",
+      "TORUS"
+    ],
+    "complexity": 2
+  },
+  "environment": {
+    "effect_type": 1,
+    "radius": 0,
+    "intensity": 1
+  },
+  "time_variations": 197,
+  "energy_signature": 57,
+  "symbol_set": 34,
+  "light_shadow": 185,
+  "special_properties": [
+    185,
+    75,
+    176,
+    50
+  ]
+}

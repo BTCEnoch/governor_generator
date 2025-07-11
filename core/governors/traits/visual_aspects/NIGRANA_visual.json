@@ -1,0 +1,28 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "EMERALD",
+  "geometry": {
+    "patterns": [
+      "MERKABA"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 4,
+    "radius": 2,
+    "intensity": 5
+  },
+  "time_variations": 116,
+  "energy_signature": 171,
+  "symbol_set": 125,
+  "light_shadow": 135,
+  "special_properties": [
+    174,
+    162,
+    157,
+    108
+  ]
+}

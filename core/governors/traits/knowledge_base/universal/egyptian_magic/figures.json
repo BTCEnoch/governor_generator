@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "egyptian_magic",
+      "name": "Ancient Egyptian Magic",
+      "category": "tradition_archetype",
+      "definition": "",
+      "dates": {},
+      "roles": [],
+      "contributions": [
+        "Truth and justice create sustainable cosmic order",
+        "Creative power manifests through focused will and word",
+        "All beings share the same vital life force",
+        "Different situations call for different divine approaches",
+        "Present actions shape future spiritual states",
+        "Sacred magic serves the highest good",
+        "Balance maintains harmony between opposing forces"
+      ],
+      "key_works": [],
+      "attributes": {
+        "governor_essence": "A Ancient Egyptian Magic Governor upholds Ma'at (divine order) through truth, justice, and cosmic balance, channeling sacred creative power (Heka) while honoring the vital force that connects all beings.",
+        "conflict_styles": [],
+        "communication_styles": [
+          "Truth-telling",
+          "Justice-centered",
+          "Magically-precise words",
+          "Life-affirming communication"
+        ],
+        "relationship_approaches": []
+      }
+    }
+  ]
+}

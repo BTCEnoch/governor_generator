@@ -1,0 +1,1283 @@
+{
+  "schema_version": "1.0.0",
+  "tradition_name": "tarot_tradition",
+  "display_name": "Tarot Divination System",
+  "last_updated": "2024-03-21T12:00:00Z",
+  "description": "A comprehensive system of divination and spiritual symbolism using a deck of 78 cards, integrating elements of astrology, numerology, and Kabbalah.",
+  "core_systems": [
+    {
+      "id": "tarot_major_arcana",
+      "title": "The Major Arcana",
+      "summary": "The 22 trump cards representing major life themes and spiritual lessons.",
+      "cards": [
+        {
+          "id": "fool",
+          "number": 0,
+          "name": "The Fool",
+          "hebrew_letter": "Aleph",
+          "astrological": "Air/Uranus",
+          "element": "Air",
+          "description": "A young person standing at the edge of a cliff, carrying a white rose and a small bundle, accompanied by a white dog. The figure appears carefree and ready to step off into the unknown.",
+          "keywords": ["Beginnings", "Innocence", "Spontaneity", "Adventure", "Potential"],
+          "upright_meaning": "New beginnings, fresh starts, innocence, spontaneity, free spirit, taking risks, following your heart",
+          "reversed_meaning": "Recklessness, carelessness, risk-taking, poor judgment, naivety",
+          "governor_associations": ["Spirits of Air", "Initiators of Change"]
+        },
+        {
+          "id": "magician",
+          "number": 1,
+          "name": "The Magician",
+          "hebrew_letter": "Beth",
+          "astrological": "Mercury",
+          "element": "Air",
+          "description": "A figure standing before a table with the four suits of the tarot (wand, cup, sword, pentacle) representing mastery over the elements. Above their head is the infinity symbol, and they point both above and below.",
+          "keywords": ["Manifestation", "Power", "Action", "Divine inspiration"],
+          "upright_meaning": "Manifestation, resourcefulness, power, inspired action, divine guidance",
+          "reversed_meaning": "Manipulation, poor planning, untapped talents, wasted energy",
+          "governor_associations": ["Masters of Wisdom", "Channels of Power"]
+        },
+        {
+          "id": "high_priestess",
+          "number": 2,
+          "name": "The High Priestess",
+          "hebrew_letter": "Gimel",
+          "astrological": "Moon",
+          "element": "Water",
+          "description": "A female figure seated between two pillars (Boaz and Jachin), with a crescent moon at her feet. She holds a scroll of esoteric knowledge and wears the crown of Isis.",
+          "keywords": ["Intuition", "Mystery", "Inner knowledge", "Divine feminine"],
+          "upright_meaning": "Intuition, sacred knowledge, divine mystery, inner voice, unconscious mind",
+          "reversed_meaning": "Secrets kept, disconnection from intuition, withdrawal, cognitive dissonance",
+          "governor_associations": ["Keepers of Mysteries", "Guardians of the Veil"]
+        },
+        {
+          "id": "empress",
+          "number": 3,
+          "name": "The Empress",
+          "hebrew_letter": "Daleth",
+          "astrological": "Venus",
+          "element": "Earth",
+          "description": "A crowned woman seated on a throne in a lush garden, wearing a robe adorned with pomegranates. She holds a scepter and her shield bears the symbol of Venus.",
+          "keywords": ["Abundance", "Fertility", "Nurturing", "Nature", "Creation"],
+          "upright_meaning": "Fertility, nurturing, abundance, sensuality, nature, creativity, maternal care",
+          "reversed_meaning": "Creative blocks, dependence, smothering, lack of growth, domestic problems",
+          "governor_associations": ["Nurturers of Life", "Bearers of Abundance"]
+        },
+        {
+          "id": "emperor",
+          "number": 4,
+          "name": "The Emperor",
+          "hebrew_letter": "He",
+          "astrological": "Aries",
+          "element": "Fire",
+          "description": "A crowned male figure seated on a stone throne decorated with ram heads. He holds an ankh scepter and orb, symbolizing divine authority and worldly power.",
+          "keywords": ["Authority", "Structure", "Control", "Leadership", "Stability"],
+          "upright_meaning": "Authority, establishment, structure, protection, reason, leadership",
+          "reversed_meaning": "Domination, excessive control, rigidity, inflexibility, lack of discipline",
+          "governor_associations": ["Lords of Order", "Pillars of Authority"]
+        },
+        {
+          "id": "hierophant",
+          "number": 5,
+          "name": "The Hierophant",
+          "hebrew_letter": "Vau",
+          "astrological": "Taurus",
+          "element": "Earth",
+          "description": "A religious figure seated between two pillars, wearing triple crown. He holds a staff in his left hand and makes a blessing gesture with his right. Two acolytes kneel before him.",
+          "keywords": ["Tradition", "Conformity", "Belief systems", "Education", "Wisdom"],
+          "upright_meaning": "Spiritual guidance, religious beliefs, tradition, conformity, education, wisdom",
+          "reversed_meaning": "Challenge to beliefs, unconventionality, new approaches, personal truth",
+          "governor_associations": ["Teachers of Wisdom", "Guardians of Tradition"]
+        },
+        {
+          "id": "lovers",
+          "number": 6,
+          "name": "The Lovers",
+          "hebrew_letter": "Zayin",
+          "astrological": "Gemini",
+          "element": "Air",
+          "description": "A naked man and woman stand beneath an angel in a garden setting. Behind them are two trees - one bearing flames, the other bearing fruit. The sun shines above.",
+          "keywords": ["Choice", "Union", "Relationships", "Values", "Harmony"],
+          "upright_meaning": "Love, harmony, relationships, values alignment, choices, union, partnerships",
+          "reversed_meaning": "Disharmony, imbalance, misalignment of values, conflict in relationships",
+          "governor_associations": ["Harmonizers of Opposites", "Bridges of Unity"]
+        },
+        {
+          "id": "chariot",
+          "number": 7,
+          "name": "The Chariot",
+          "hebrew_letter": "Cheth",
+          "astrological": "Cancer",
+          "element": "Water",
+          "description": "A crowned figure in armor stands in a chariot drawn by two sphinxes or horses (one black, one white). The canopy of stars represents celestial guidance.",
+          "keywords": ["Victory", "Willpower", "Control", "Direction", "Determination"],
+          "upright_meaning": "Control, willpower, victory, assertion, determination, focus, direction",
+          "reversed_meaning": "Lack of control, aggression, obstacles, lack of direction, defeat",
+          "governor_associations": ["Masters of Will", "Charioteers of Destiny"]
+        },
+        {
+          "id": "strength",
+          "number": 8,
+          "name": "Strength",
+          "hebrew_letter": "Teth",
+          "astrological": "Leo",
+          "element": "Fire",
+          "description": "A woman gently closes the jaws of a lion, demonstrating mastery through gentleness rather than force. She wears white robes and a crown of flowers, with the infinity symbol above her head.",
+          "keywords": ["Inner strength", "Courage", "Patience", "Gentle control", "Compassion"],
+          "upright_meaning": "Inner strength, courage, persuasion, influence, compassion, patience",
+          "reversed_meaning": "Self-doubt, weakness, lack of self-discipline, raw emotion",
+          "governor_associations": ["Tamers of Power", "Masters of Inner Force"]
+        },
+        {
+          "id": "hermit",
+          "number": 9,
+          "name": "The Hermit",
+          "hebrew_letter": "Yod",
+          "astrological": "Virgo",
+          "element": "Earth",
+          "description": "An elderly figure in a gray cloak stands alone on a mountain peak, holding up a lantern with a six-pointed star inside. In his other hand he holds a staff for support.",
+          "keywords": ["Introspection", "Solitude", "Guidance", "Inner wisdom", "Soul-searching"],
+          "upright_meaning": "Soul-searching, introspection, being alone, inner guidance, divine wisdom",
+          "reversed_meaning": "Isolation, loneliness, withdrawal, lost your way, rejection",
+          "governor_associations": ["Guides of Wisdom", "Keepers of Sacred Light"]
+        },
+        {
+          "id": "wheel_of_fortune",
+          "number": 10,
+          "name": "Wheel of Fortune",
+          "hebrew_letter": "Kaph",
+          "astrological": "Jupiter",
+          "element": "Fire",
+          "description": "A great wheel turns in the heavens, surrounded by mystical figures. The Hebrew letters YHVH appear along with alchemical symbols for the four elements. Sphinxes or creatures rest upon clouds in the corners.",
+          "keywords": ["Change", "Cycles", "Fate", "Turning point", "Karma"],
+          "upright_meaning": "Good luck, karma, life cycles, destiny, turning point, change",
+          "reversed_meaning": "Bad luck, resistance to change, breaking cycles, unwelcome change",
+          "governor_associations": ["Turners of the Wheel", "Masters of Destiny"]
+        },
+        {
+          "id": "justice",
+          "number": 11,
+          "name": "Justice",
+          "hebrew_letter": "Lamed",
+          "astrological": "Libra",
+          "element": "Air",
+          "description": "A figure in red robes sits between two pillars, holding a sword in one hand and scales in the other. They wear a crown with a small square representing the law.",
+          "keywords": ["Justice", "Fairness", "Truth", "Cause and effect", "Law"],
+          "upright_meaning": "Justice, fairness, truth, cause and effect, law, karma, consequences",
+          "reversed_meaning": "Unfairness, lack of accountability, dishonesty, unbalanced scales",
+          "governor_associations": ["Keepers of Balance", "Lords of Karma"]
+        },
+        {
+          "id": "hanged_man",
+          "number": 12,
+          "name": "The Hanged Man",
+          "hebrew_letter": "Mem",
+          "astrological": "Water",
+          "element": "Water",
+          "description": "A man hangs upside-down from a living wood T-cross, with a peaceful expression. His right leg is bent forming a '4', and there is a halo around his head. His hands are bound behind his back.",
+          "keywords": ["Surrender", "Letting go", "New perspective", "Sacrifice", "Suspension"],
+          "upright_meaning": "Surrender, new perspective, enlightenment, sacrifice, letting go, suspension",
+          "reversed_meaning": "Stagnation, delay, resistance, avoiding sacrifice, needless sacrifice",
+          "governor_associations": ["Masters of Sacrifice", "Bearers of New Vision"]
+        },
+        {
+          "id": "death",
+          "number": 13,
+          "name": "Death",
+          "hebrew_letter": "Nun",
+          "astrological": "Scorpio",
+          "element": "Water",
+          "description": "A skeleton in black armor rides a white horse. Various figures from all classes of life fall before Death. In the background, the sun rises between two towers, while a boat sails on a river.",
+          "keywords": ["Transformation", "Endings", "Change", "Transition", "Letting go"],
+          "upright_meaning": "Endings, change, transformation, transition, letting go, metamorphosis",
+          "reversed_meaning": "Resistance to change, inability to move on, stagnation, decay",
+          "governor_associations": ["Agents of Change", "Harbingers of Transformation"]
+        },
+        {
+          "id": "temperance",
+          "number": 14,
+          "name": "Temperance",
+          "hebrew_letter": "Samech",
+          "astrological": "Sagittarius",
+          "element": "Fire",
+          "description": "An angel with solar disk and wings stands with one foot in water, one on land, pouring liquid between two cups. The angel wears a triangle in a square on their robe, representing spirit manifesting in matter.",
+          "keywords": ["Balance", "Moderation", "Patience", "Purpose", "Meaning"],
+          "upright_meaning": "Balance, moderation, patience, purpose, meaning, self-control",
+          "reversed_meaning": "Imbalance, excess, lack of harmony, misalignment, discord",
+          "governor_associations": ["Harmonizers of Forces", "Masters of Flow"]
+        },
+        {
+          "id": "devil",
+          "number": 15,
+          "name": "The Devil",
+          "hebrew_letter": "Ayin",
+          "astrological": "Capricorn",
+          "element": "Earth",
+          "description": "A winged, horned figure sits above two chained human figures. The Devil has bat wings, a reversed pentagram on his forehead, and holds a torch pointing downward. The humans have loose chains they could easily remove.",
+          "keywords": ["Bondage", "Materialism", "Addiction", "Sexuality", "Shadow self"],
+          "upright_meaning": "Bondage, addiction, materialism, sexuality, shadow self, restriction",
+          "reversed_meaning": "Breaking free, release, restoring control, detachment, reclaiming power",
+          "governor_associations": ["Revealers of Shadows", "Teachers of Liberation"]
+        },
+        {
+          "id": "tower",
+          "number": 16,
+          "name": "The Tower",
+          "hebrew_letter": "Peh",
+          "astrological": "Mars",
+          "element": "Fire",
+          "description": "A tall tower on a rocky outcrop is struck by lightning, its crown falling. Two figures fall from the tower, symbolizing sudden change and upheaval. Flames emerge from the windows.",
+          "keywords": ["Sudden change", "Upheaval", "Revelation", "Awakening", "Breaking free"],
+          "upright_meaning": "Sudden change, upheaval, chaos, revelation, awakening, breaking free",
+          "reversed_meaning": "Avoiding disaster, fear of change, delaying the inevitable",
+          "governor_associations": ["Breakers of Illusion", "Catalysts of Change"]
+        },
+        {
+          "id": "star",
+          "number": 17,
+          "name": "The Star",
+          "hebrew_letter": "Tzaddi",
+          "astrological": "Aquarius",
+          "element": "Air",
+          "description": "A naked woman kneels by a pool, pouring water onto land and water. Above her, eight stars shine, with one large central star. Birds and flowers surround her in a peaceful scene.",
+          "keywords": ["Hope", "Inspiration", "Serenity", "Renewal", "Connection"],
+          "upright_meaning": "Hope, faith, purpose, renewal, spirituality, inspiration, serenity",
+          "reversed_meaning": "Lack of faith, despair, disconnection, discouragement",
+          "governor_associations": ["Bearers of Hope", "Guides to Inspiration"]
+        },
+        {
+          "id": "moon",
+          "number": 18,
+          "name": "The Moon",
+          "hebrew_letter": "Qoph",
+          "astrological": "Pisces",
+          "element": "Water",
+          "description": "A full moon with a face shines between two towers. A wolf and dog howl at the moon, while a crayfish emerges from a pool. A path leads between the towers into the distance.",
+          "keywords": ["Illusion", "Fear", "Anxiety", "Subconscious", "Intuition"],
+          "upright_meaning": "Illusion, fear, anxiety, subconscious, intuition, dreams",
+          "reversed_meaning": "Release of fear, repressed emotion, inner confusion",
+          "governor_associations": ["Keepers of Mystery", "Guides through Darkness"]
+        },
+        {
+          "id": "sun",
+          "number": 19,
+          "name": "The Sun",
+          "hebrew_letter": "Resh",
+          "astrological": "Sun",
+          "element": "Fire",
+          "description": "A radiant sun shines above a child riding a white horse. Sunflowers grow in a garden wall behind them. The scene represents pure joy and innocence.",
+          "keywords": ["Joy", "Success", "Celebration", "Positivity", "Vitality"],
+          "upright_meaning": "Joy, success, celebration, positivity, vitality, enlightenment",
+          "reversed_meaning": "Temporary depression, inner child issues, overly optimistic",
+          "governor_associations": ["Bringers of Light", "Masters of Joy"]
+        },
+        {
+          "id": "judgement",
+          "number": 20,
+          "name": "Judgement",
+          "hebrew_letter": "Shin",
+          "astrological": "Pluto/Fire",
+          "element": "Fire",
+          "description": "An angel blows a trumpet in the heavens, while below, people rise from their graves with arms upraised. The scene represents awakening and rebirth.",
+          "keywords": ["Awakening", "Rebirth", "Inner calling", "Reckoning", "Absolution"],
+          "upright_meaning": "Awakening, rebirth, inner calling, reckoning, absolution, clarity",
+          "reversed_meaning": "Self-doubt, ignoring the call, refusing change",
+          "governor_associations": ["Heralds of Awakening", "Voices of Truth"]
+        },
+        {
+          "id": "world",
+          "number": 21,
+          "name": "The World",
+          "hebrew_letter": "Tau",
+          "astrological": "Saturn/Earth",
+          "element": "Earth",
+          "description": "A dancing figure in a wreath, surrounded by the four fixed signs of the zodiac (bull, lion, eagle, angel). The figure holds two wands, representing balance and accomplishment.",
+          "keywords": ["Completion", "Integration", "Accomplishment", "Travel", "Wholeness"],
+          "upright_meaning": "Completion, integration, accomplishment, travel, wholeness, success",
+          "reversed_meaning": "Lack of completion, stagnation, delays in completion",
+          "governor_associations": ["Masters of Completion", "Guardians of Wholeness"]
+        }
+      ]
+    },
+    {
+      "id": "tarot_minor_arcana",
+      "title": "The Minor Arcana",
+      "summary": "The 56 cards representing everyday forces and influences in life, divided into four elemental suits.",
+      "suits": [
+        {
+          "id": "wands",
+          "name": "Suit of Wands",
+          "element": "Fire",
+          "zodiac_signs": ["Aries", "Leo", "Sagittarius"],
+          "season": "Summer",
+          "direction": "South",
+          "time": "Midday",
+          "colors": ["Red", "Orange", "Gold"],
+          "keywords": ["Energy", "Passion", "Creativity", "Spirituality", "Will", "Inspiration", "Action"],
+          "description": "The suit of spiritual and creative energy, representing ambition, inspiration, willpower and enterprise. Associated with the element of Fire and the season of Summer.",
+          "cards": [
+            {
+              "id": "ace_of_wands",
+              "name": "Ace of Wands",
+              "number": 1,
+              "astrological": "Root Powers of Fire",
+              "description": "A hand emerges from a cloud, grasping a flowering wand. A castle stands in the background with a river flowing before it.",
+              "keywords": ["Creation", "Inspiration", "New Beginnings", "Potential", "Enterprise"],
+              "meanings": {
+                "upright": ["Beginning of a new venture", "Spark of inspiration", "Creative potential", "Spiritual awakening", "New opportunities"],
+                "reversed": ["Delayed start", "Creative block", "Lack of enthusiasm", "False starts", "Missed opportunities"]
+              },
+              "element_affinity": "Pure Fire",
+              "governor_associations": ["Governors of Creation", "Governors of Inspiration"]
+            },
+            {
+              "id": "two_of_wands",
+              "name": "Two of Wands",
+              "number": 2,
+              "astrological": "Mars in Aries",
+              "description": "A figure in rich robes stands on battlements holding a globe, with two wands crossed. Roses and lilies decorate the scene.",
+              "keywords": ["Planning", "Decision", "Power", "Dominion", "Future Vision"],
+              "meanings": {
+                "upright": ["Future planning", "Making decisions", "Worldly success", "Discovery", "Personal power"],
+                "reversed": ["Fear of change", "Playing it safe", "Bad planning", "Lack of foresight", "Difficulty choosing"]
+              },
+              "element_affinity": "Fire of Fire",
+              "governor_associations": ["Governors of Choice", "Governors of Vision"]
+            },
+            {
+              "id": "three_of_wands",
+              "name": "Three of Wands",
+              "number": 3,
+              "astrological": "Sun in Aries",
+              "description": "A merchant stands with his back turned, looking out to sea. Three wands are planted in the ground beside him.",
+              "keywords": ["Expansion", "Foresight", "Enterprise", "Trade", "Opportunity"],
+              "meanings": {
+                "upright": ["Business expansion", "Trade opportunities", "Growth", "Adventure", "Successful partnerships"],
+                "reversed": ["Delays in business", "Lack of cooperation", "Obstacles to growth", "Limited opportunities", "Setbacks"]
+              },
+              "element_affinity": "Fire of Fire",
+              "governor_associations": ["Governors of Commerce", "Governors of Growth"]
+            },
+            {
+              "id": "four_of_wands",
+              "name": "Four of Wands",
+              "number": 4,
+              "astrological": "Venus in Aries",
+              "description": "Four wands decorated with flowers and garlands frame a scene of celebration, with people dancing near a castle.",
+              "keywords": ["Celebration", "Harmony", "Marriage", "Home", "Community"],
+              "meanings": {
+                "upright": ["Celebration", "Homecoming", "Community", "Welcome", "Marriage or reunion"],
+                "reversed": ["Lack of support", "Transience", "Home conflicts", "Cancel celebration", "Instability"]
+              },
+              "element_affinity": "Fire of Earth",
+              "governor_associations": ["Governors of Harmony", "Governors of Community"]
+            },
+            {
+              "id": "five_of_wands",
+              "name": "Five of Wands",
+              "number": 5,
+              "astrological": "Saturn in Leo",
+              "description": "Five figures wielding wands appear to be in conflict or competition with each other.",
+              "keywords": ["Competition", "Conflict", "Rivalry", "Challenge", "Growth through Struggle"],
+              "meanings": {
+                "upright": ["Competition", "Rivalry", "Conflict", "Challenge", "Group dynamics"],
+                "reversed": ["Avoiding conflict", "End of competition", "Inner conflict", "Release of tension", "Agreement"]
+              },
+              "element_affinity": "Fire of Mars",
+              "governor_associations": ["Governors of Conflict", "Governors of Competition"]
+            },
+            {
+              "id": "six_of_wands",
+              "name": "Six of Wands",
+              "number": 6,
+              "astrological": "Jupiter in Leo",
+              "description": "A rider on horseback wearing a wreath of victory, carrying a decorated wand. A crowd celebrates his triumph with raised wands.",
+              "keywords": ["Victory", "Success", "Public Recognition", "Progress", "Self-Confidence"],
+              "meanings": {
+                "upright": ["Victory after struggle", "Public recognition", "Progress", "Self-confidence", "Leadership"],
+                "reversed": ["Private achievement", "Fall from grace", "Egotism", "Lack of recognition", "Overconfidence"]
+              },
+              "element_affinity": "Fire of Sun",
+              "governor_associations": ["Governors of Victory", "Governors of Leadership"]
+            },
+            {
+              "id": "seven_of_wands",
+              "name": "Seven of Wands",
+              "number": 7,
+              "astrological": "Mars in Leo",
+              "description": "A figure on higher ground defends their position against six attacking wands from below.",
+              "keywords": ["Challenge", "Defense", "Perseverance", "Standing Ground", "Conviction"],
+              "meanings": {
+                "upright": ["Defending position", "Standing your ground", "Maintaining advantage", "Meeting challenges", "Conviction"],
+                "reversed": ["Giving up", "Overwhelmed", "Self-doubt", "Yielding", "Lack of conviction"]
+              },
+              "element_affinity": "Fire of Mars",
+              "governor_associations": ["Governors of Defense", "Governors of Perseverance"]
+            },
+            {
+              "id": "eight_of_wands",
+              "name": "Eight of Wands",
+              "number": 8,
+              "astrological": "Mercury in Sagittarius",
+              "description": "Eight wands flying through the air in parallel formation, suggesting swift movement and action.",
+              "keywords": ["Swift Action", "Movement", "Progress", "Communication", "Travel"],
+              "meanings": {
+                "upright": ["Swift action", "Quick developments", "Air travel", "Messages arriving", "Progress"],
+                "reversed": ["Delays", "Frustration", "Scattered energy", "Slowing down", "Arrows missing their mark"]
+              },
+              "element_affinity": "Fire of Air",
+              "governor_associations": ["Governors of Speed", "Governors of Communication"]
+            },
+            {
+              "id": "nine_of_wands",
+              "name": "Nine of Wands",
+              "number": 9,
+              "astrological": "Moon in Sagittarius",
+              "description": "A wounded but vigilant figure stands guard with a wand, while eight other wands form a defensive wall behind them.",
+              "keywords": ["Resilience", "Persistence", "Last Stand", "Boundaries", "Stamina"],
+              "meanings": {
+                "upright": ["Resilience", "Persistence", "Last stand", "Boundaries", "Never giving up"],
+                "reversed": ["Exhaustion", "Fatigue", "Paranoia", "Vulnerability", "Letting go"]
+              },
+              "element_affinity": "Fire of Moon",
+              "governor_associations": ["Governors of Resilience", "Governors of Protection"]
+            },
+            {
+              "id": "ten_of_wands",
+              "name": "Ten of Wands",
+              "number": 10,
+              "astrological": "Saturn in Sagittarius",
+              "description": "A figure struggles to carry ten heavy wands, bending under their weight as they approach a distant town.",
+              "keywords": ["Burden", "Responsibility", "Hard Work", "Completion", "Overwhelm"],
+              "meanings": {
+                "upright": ["Burden", "Responsibility", "Hard work", "Completion", "Achievement at a cost"],
+                "reversed": ["Laying down burdens", "Delegation", "Release", "Overwhelm", "Unable to cope"]
+              },
+              "element_affinity": "Fire of Earth",
+              "governor_associations": ["Governors of Burden", "Governors of Completion"]
+            }
+          ],
+          "court_cards": [
+            {
+              "id": "page_of_wands",
+              "name": "Page of Wands",
+              "rank": "Page",
+              "element": "Earth of Fire",
+              "description": "A young figure in a yellow tunic stands in a desert landscape, holding a flowering wand and gazing at it with wonder.",
+              "keywords": ["Enthusiasm", "Exploration", "Discovery", "New Ideas", "Student"],
+              "meanings": {
+                "upright": ["New ideas or opportunities", "Enthusiasm for learning", "Free spirit", "Adventure seeker", "Creative potential"],
+                "reversed": ["Procrastination", "Lack of direction", "Unstable commitments", "Blocked creativity", "Immaturity"]
+              },
+              "personality_traits": {
+                "positive": ["Enthusiastic", "Creative", "Adventurous", "Energetic", "Playful"],
+                "negative": ["Impulsive", "Unfocused", "Immature", "Restless", "Scattered"]
+              },
+              "governor_associations": ["Governors of Youth", "Governors of Discovery"]
+            },
+            {
+              "id": "knight_of_wands",
+              "name": "Knight of Wands",
+              "rank": "Knight",
+              "element": "Air of Fire",
+              "description": "A knight in orange armor rides a rearing horse, holding a flowering wand aloft, his tunic decorated with salamanders.",
+              "keywords": ["Action", "Adventure", "Fearlessness", "Impulsiveness", "Travel"],
+              "meanings": {
+                "upright": ["Swift action", "Adventure", "Fearless pursuit", "Travel", "Charismatic leadership"],
+                "reversed": ["Recklessness", "Scattered energy", "Delays", "Frustration", "Unpredictability"]
+              },
+              "personality_traits": {
+                "positive": ["Courageous", "Energetic", "Charismatic", "Adventurous", "Dynamic"],
+                "negative": ["Impulsive", "Reckless", "Volatile", "Hasty", "Unreliable"]
+              },
+              "governor_associations": ["Governors of Action", "Governors of Adventure"]
+            },
+            {
+              "id": "queen_of_wands",
+              "name": "Queen of Wands",
+              "rank": "Queen",
+              "element": "Water of Fire",
+              "description": "A queen sits on a throne adorned with lions and sunflowers, holding a sunflower in her left hand and a wand in her right, with a black cat at her feet.",
+              "keywords": ["Confidence", "Leadership", "Determination", "Social Butterfly", "Optimism"],
+              "meanings": {
+                "upright": ["Confident leadership", "Social charm", "Determination", "Optimistic outlook", "Natural charisma"],
+                "reversed": ["Demanding", "Jealousy", "Insecurity", "Attention-seeking", "Domineering"]
+              },
+              "personality_traits": {
+                "positive": ["Confident", "Charismatic", "Warm", "Inspiring", "Determined"],
+                "negative": ["Demanding", "Jealous", "Temperamental", "Aggressive", "Controlling"]
+              },
+              "governor_associations": ["Governors of Leadership", "Governors of Inspiration"]
+            },
+            {
+              "id": "king_of_wands",
+              "name": "King of Wands",
+              "rank": "King",
+              "element": "Fire of Fire",
+              "description": "A king sits on a throne adorned with lions and salamanders, holding a flowering wand like a scepter, wearing robes decorated with salamanders.",
+              "keywords": ["Leadership", "Vision", "Entrepreneur", "Honor", "Authority"],
+              "meanings": {
+                "upright": ["Natural leader", "Vision and ambition", "Entrepreneurial spirit", "Experience", "Creative authority"],
+                "reversed": ["Tyrannical", "Domineering", "Impulsive decisions", "Vain", "Poor leadership"]
+              },
+              "personality_traits": {
+                "positive": ["Visionary", "Charismatic", "Experienced", "Honorable", "Creative"],
+                "negative": ["Authoritarian", "Egotistical", "Demanding", "Impatient", "Overbearing"]
+              },
+              "governor_associations": ["Governors of Authority", "Governors of Vision"]
+            }
+          ]
+        },
+        {
+          "id": "cups",
+          "name": "Suit of Cups",
+          "element": "Water",
+          "description": "The suit of emotions, intuition, relationships, and spiritual connection. Associated with the element of Water, representing feelings, creativity, and the unconscious mind.",
+          "cards": [
+            {
+              "id": "ace_of_cups",
+              "number": 1,
+              "name": "Ace of Cups",
+              "element": "Water",
+              "astrological": "Cancer, Scorpio, Pisces",
+              "description": "A divine hand emerges from a cloud, holding an ornate chalice overflowing with five streams of water. A white dove descends toward the cup, carrying a wafer marked with a cross. Lotus flowers and water lilies float on the surface of a serene sea below.",
+              "keywords": ["Love", "Intuition", "Emotional awakening", "Spirituality", "Divine connection"],
+              "meanings": {
+                "upright": ["New feelings", "Emotional awakening", "Spiritual connection", "Love", "Intuitive gifts", "Creative inspiration", "Emotional abundance"],
+                "reversed": ["Blocked emotions", "Emotional numbness", "Creative blocks", "Spiritual disconnection", "Repressed feelings"]
+              },
+              "element_affinity": "Pure Water",
+              "governor_associations": ["Bearers of the Holy Grail", "Keepers of Sacred Waters"]
+            },
+            {
+              "id": "two_of_cups",
+              "number": 2,
+              "name": "Two of Cups",
+              "element": "Water",
+              "astrological": "Venus in Cancer",
+              "description": "A young man and woman exchange cups in a ceremony of union. Above them floats the caduceus of Hermes, with a lion's head at its top, symbolizing passion tempered by wisdom.",
+              "keywords": ["Partnership", "Connection", "Harmony", "Mutual attraction", "Balance"],
+              "meanings": {
+                "upright": ["Deep connection", "Partnership", "Mutual attraction", "Shared feelings", "Understanding", "Reconciliation", "Healing relationship"],
+                "reversed": ["Broken partnerships", "Imbalanced relationships", "Miscommunication", "Disconnection", "Power struggles"]
+              },
+              "element_affinity": "Water of Venus",
+              "governor_associations": ["Unifiers of Hearts", "Masters of Sacred Union"]
+            },
+            {
+              "id": "three_of_cups",
+              "number": 3,
+              "name": "Three of Cups",
+              "element": "Water",
+              "astrological": "Mercury in Cancer",
+              "description": "Three women in flowing dresses dance together in a circle, each raising a cup in celebration. The ground beneath them is rich with fruits and flowers, symbolizing abundance and joy.",
+              "keywords": ["Celebration", "Friendship", "Community", "Joy", "Creative collaboration"],
+              "meanings": {
+                "upright": ["Celebration", "Friendship", "Community support", "Creative collaboration", "Emotional abundance", "Shared joy"],
+                "reversed": ["Overindulgence", "Gossip", "Exclusion from group", "Creative blocks", "Superficial relationships"]
+              },
+              "element_affinity": "Water of Mercury",
+              "governor_associations": ["Celebrants of Joy", "Weavers of Community"]
+            },
+            {
+              "id": "four_of_cups",
+              "number": 4,
+              "name": "Four of Cups",
+              "element": "Water",
+              "astrological": "Moon in Cancer",
+              "description": "A young man sits under a tree in contemplation, arms crossed, looking dissatisfied. Before him are three cups, while a hand emerges from a cloud offering a fourth cup that he seems to ignore.",
+              "keywords": ["Contemplation", "Apathy", "Reevaluation", "Discontent", "Meditation"],
+              "meanings": {
+                "upright": ["Contemplation", "Meditation", "Reevaluation", "Emotional dissatisfaction", "Looking within", "Missed opportunities"],
+                "reversed": ["Awakening to new possibilities", "Choosing to engage", "Accepting what's offered", "Moving forward"]
+              },
+              "element_affinity": "Water of Moon",
+              "governor_associations": ["Guides of Inner Reflection", "Revealers of Hidden Gifts"]
+            },
+            {
+              "id": "five_of_cups",
+              "number": 5,
+              "name": "Five of Cups",
+              "element": "Water",
+              "astrological": "Mars in Scorpio",
+              "description": "A figure in a black cloak stands grieving over three spilled cups, while two full cups remain standing behind them. In the background, a bridge crosses a river leading to a distant castle.",
+              "keywords": ["Loss", "Regret", "Disappointment", "Healing", "Recovery"],
+              "meanings": {
+                "upright": ["Emotional loss", "Disappointment", "Regret", "Focusing on what's lost", "Grief", "Healing process beginning"],
+                "reversed": ["Acceptance", "Moving forward", "Finding peace", "Forgiveness", "Learning from loss"]
+              },
+              "element_affinity": "Water of Mars",
+              "governor_associations": ["Healers of Hearts", "Guides Through Sorrow"]
+            },
+            {
+              "id": "six_of_cups",
+              "number": 6,
+              "name": "Six of Cups",
+              "element": "Water",
+              "astrological": "Sun in Scorpio",
+              "description": "Two children in a garden, one passing a cup filled with white flowers to the other. Five more cups with white flowers stand nearby. The scene suggests innocence, nostalgia, and pure emotional connections.",
+              "keywords": ["Nostalgia", "Innocence", "Memories", "Childhood", "Gift-giving"],
+              "meanings": {
+                "upright": ["Nostalgia", "Childhood memories", "Innocence", "Joy", "Reunion", "Gift-giving", "Sharing", "Pure love"],
+                "reversed": ["Living in the past", "Unrealistic memories", "Moving forward", "Leaving home"]
+              },
+              "element_affinity": "Water of Sun",
+              "governor_associations": ["Keepers of Memory", "Guardians of Innocence"]
+            },
+            {
+              "id": "seven_of_cups",
+              "number": 7,
+              "name": "Seven of Cups",
+              "element": "Water",
+              "astrological": "Venus in Scorpio",
+              "description": "A figure faced with seven cups floating in clouds, each containing different visions: a castle, jewels, a wreath, a dragon, a head, a snake, and a shrouded figure.",
+              "keywords": ["Choices", "Fantasy", "Illusion", "Dreams", "Possibilities"],
+              "meanings": {
+                "upright": ["Multiple choices", "Fantasy", "Illusion", "Wishful thinking", "Opportunities", "Dreams"],
+                "reversed": ["Clarity", "Focus", "Determination", "Making choices", "Disillusionment"]
+              },
+              "element_affinity": "Water of Venus",
+              "governor_associations": ["Weavers of Dreams", "Masters of Vision"]
+            },
+            {
+              "id": "eight_of_cups",
+              "number": 8,
+              "name": "Eight of Cups",
+              "element": "Water",
+              "astrological": "Saturn in Pisces",
+              "description": "A cloaked figure walks away from eight stacked cups under a moon in eclipse. Mountains loom in the background, suggesting a spiritual journey ahead.",
+              "keywords": ["Abandonment", "Withdrawal", "Seeking more", "Journey", "Moving on"],
+              "meanings": {
+                "upright": ["Walking away", "Seeking more", "Spiritual journey", "Leaving behind", "Following your path"],
+                "reversed": ["Fear of change", "Fear of loss", "Staying in bad situation", "Returning to past"]
+              },
+              "element_affinity": "Water of Saturn",
+              "governor_associations": ["Guides of the Soul's Journey", "Initiators of Change"]
+            },
+            {
+              "id": "nine_of_cups",
+              "number": 9,
+              "name": "Nine of Cups",
+              "element": "Water",
+              "astrological": "Jupiter in Pisces",
+              "description": "A well-dressed merchant sits on a wooden bench, arms crossed in satisfaction, with nine golden cups arranged in an arc behind him.",
+              "keywords": ["Satisfaction", "Wishes", "Contentment", "Happiness", "Success"],
+              "meanings": {
+                "upright": ["Contentment", "Satisfaction", "Wishes fulfilled", "Abundance", "Joy", "Emotional stability"],
+                "reversed": ["False happiness", "Materialism", "Dissatisfaction", "Overindulgence"]
+              },
+              "element_affinity": "Water of Jupiter",
+              "governor_associations": ["Granters of Wishes", "Bearers of Joy"]
+            },
+            {
+              "id": "ten_of_cups",
+              "number": 10,
+              "name": "Ten of Cups",
+              "element": "Water",
+              "astrological": "Mars in Pisces",
+              "description": "A couple embrace while their children dance nearby, with ten cups forming a rainbow above them. Their home stands in the distance under clear skies.",
+              "keywords": ["Harmony", "Perfect love", "Family", "Bliss", "Divine connection"],
+              "meanings": {
+                "upright": ["Perfect love", "Harmony", "Family completion", "Joy", "Lasting happiness", "Peace"],
+                "reversed": ["Broken family", "Domestic problems", "Disconnection", "Shattered dreams"]
+              },
+              "element_affinity": "Water of Mars",
+              "governor_associations": ["Guardians of Divine Love", "Keepers of Family Harmony"]
+            },
+            {
+              "id": "page_of_cups",
+              "number": 11,
+              "name": "Page of Cups",
+              "element": "Earth of Water",
+              "astrological": "Cancer, Scorpio, Pisces",
+              "description": "A young person in a blue tunic decorated with floral patterns stands at a seashore, holding a cup from which a fish emerges. The fish symbolizes spiritual messages and creative inspiration.",
+              "keywords": ["Intuitive messages", "Creativity", "New ideas", "Inner child", "Beginning of love"],
+              "meanings": {
+                "upright": ["New creative ideas", "Intuitive messages", "Inner child awakening", "New love", "Artistic inspiration"],
+                "reversed": ["Creative blocks", "Emotional immaturity", "Avoiding feelings", "Missed opportunities"]
+              },
+              "personality_traits": {
+                "positive": ["Intuitive", "Creative", "Innocent", "Gentle", "Dreamy"],
+                "negative": ["Immature", "Oversensitive", "Naive", "Unrealistic", "Moody"]
+              },
+              "element_affinity": "Earth of Water",
+              "governor_associations": ["Messengers of the Heart", "Awakeners of Intuition"]
+            },
+            {
+              "id": "knight_of_cups",
+              "number": 12,
+              "name": "Knight of Cups",
+              "element": "Air of Water",
+              "astrological": "Cancer, Scorpio, Pisces",
+              "description": "A knight in decorated armor rides a white horse, holding a cup carefully as he moves forward. His horse symbolizes the power of imagination, while his gentle approach represents romantic pursuit.",
+              "keywords": ["Romance", "Charm", "Imagination", "Beauty", "Idealism"],
+              "meanings": {
+                "upright": ["Romantic pursuit", "Following dreams", "Artistic endeavors", "Charm", "Idealism", "Proposal"],
+                "reversed": ["Unrealistic dreams", "Moodiness", "Emotional manipulation", "False promises"]
+              },
+              "personality_traits": {
+                "positive": ["Romantic", "Creative", "Charming", "Refined", "Artistic"],
+                "negative": ["Unrealistic", "Moody", "Deceptive", "Flighty", "Superficial"]
+              },
+              "element_affinity": "Air of Water",
+              "governor_associations": ["Bearers of Romance", "Champions of Dreams"]
+            },
+            {
+              "id": "queen_of_cups",
+              "number": 13,
+              "name": "Queen of Cups",
+              "element": "Water of Water",
+              "astrological": "Cancer, Scorpio, Pisces",
+              "description": "A queen sits on a throne decorated with sea creatures, holding an ornate cup. Her throne is at the edge of the sea, symbolizing her mastery of the emotional and psychic realms.",
+              "keywords": ["Intuition", "Empathy", "Nurturing", "Emotional wisdom", "Psychic ability"],
+              "meanings": {
+                "upright": ["Deep intuition", "Emotional wisdom", "Empathy", "Nurturing", "Psychic abilities", "Compassion"],
+                "reversed": ["Emotional instability", "Dependency", "Manipulation", "Smothering love"]
+              },
+              "personality_traits": {
+                "positive": ["Intuitive", "Empathetic", "Nurturing", "Wise", "Compassionate"],
+                "negative": ["Oversensitive", "Codependent", "Manipulative", "Unstable", "Smothering"]
+              },
+              "element_affinity": "Water of Water",
+              "governor_associations": ["Masters of Intuition", "Guardians of Emotional Wisdom"]
+            },
+            {
+              "id": "king_of_cups",
+              "number": 14,
+              "name": "King of Cups",
+              "element": "Fire of Water",
+              "astrological": "Cancer, Scorpio, Pisces",
+              "description": "A king sits on a stone throne amid turbulent seas, yet remains calm. He holds a cup in one hand and a scepter in the other, symbolizing emotional mastery and authority.",
+              "keywords": ["Emotional balance", "Diplomacy", "Wisdom", "Counseling", "Mastery"],
+              "meanings": {
+                "upright": ["Emotional balance", "Compassionate leadership", "Diplomacy", "Counseling", "Wisdom"],
+                "reversed": ["Emotional manipulation", "Moodiness", "Coldness", "Poor advice"]
+              },
+              "personality_traits": {
+                "positive": ["Balanced", "Diplomatic", "Wise", "Compassionate", "Masterful"],
+                "negative": ["Manipulative", "Repressed", "Cold", "Untrustworthy", "Volatile"]
+              },
+              "element_affinity": "Fire of Water",
+              "governor_associations": ["Lords of Emotional Mastery", "Counselors of Wisdom"]
+            }
+          ]
+        },
+        {
+          "id": "pentacles",
+          "name": "Suit of Pentacles",
+          "element": "Earth",
+          "description": "The suit of material wealth, physical manifestation, career, and earthly matters. Associated with the element of Earth, representing stability, resources, and practical achievements.",
+          "cards": [
+            {
+              "id": "ace_of_pentacles",
+              "number": 1,
+              "name": "Ace of Pentacles",
+              "element": "Earth",
+              "astrological": "Taurus, Virgo, Capricorn",
+              "description": "A divine hand emerges from a cloud, holding a large golden pentacle. Below is a lush garden with a path leading through an archway of flowers, suggesting opportunity and prosperity.",
+              "keywords": ["Opportunity", "Prosperity", "New venture", "Manifestation", "Abundance"],
+              "meanings": {
+                "upright": ["New financial opportunity", "Manifestation", "Abundance", "Security", "Material success", "New career path"],
+                "reversed": ["Missed opportunity", "Lack of planning", "Material setbacks", "Scarcity mindset", "Poor investments"]
+              },
+              "element_affinity": "Pure Earth",
+              "governor_associations": ["Masters of Abundance", "Keepers of Material Wisdom"]
+            },
+            {
+              "id": "two_of_pentacles",
+              "number": 2,
+              "name": "Two of Pentacles",
+              "element": "Earth",
+              "astrological": "Jupiter in Capricorn",
+              "description": "A figure juggles two pentacles connected by an infinity symbol, while ships ride waves in the background, representing the balance of multiple material concerns.",
+              "keywords": ["Balance", "Adaptability", "Time management", "Prioritization", "Juggling resources"],
+              "meanings": {
+                "upright": ["Balancing resources", "Adaptability", "Time management", "Multiple priorities", "Financial decisions"],
+                "reversed": ["Imbalance", "Disorganization", "Overwhelm", "Poor prioritization", "Financial stress"]
+              },
+              "element_affinity": "Earth of Jupiter",
+              "governor_associations": ["Masters of Balance", "Guides of Material Harmony"]
+            },
+            {
+              "id": "three_of_pentacles",
+              "number": 3,
+              "name": "Three of Pentacles",
+              "element": "Earth",
+              "astrological": "Mars in Capricorn",
+              "description": "A craftsman consults with two others in a cathedral, showing his work. The pentacles are arranged in a triangle above them, symbolizing collaboration and mastery.",
+              "keywords": ["Teamwork", "Craftsmanship", "Mastery", "Planning", "Collaboration"],
+              "meanings": {
+                "upright": ["Skilled work", "Collaboration", "Quality", "Learning", "Implementation", "Teamwork"],
+                "reversed": ["Lack of teamwork", "Poor planning", "Low quality work", "Miscommunication"]
+              },
+              "element_affinity": "Earth of Mars",
+              "governor_associations": ["Masters of Craft", "Guides of Collaboration"]
+            },
+            {
+              "id": "four_of_pentacles",
+              "number": 4,
+              "name": "Four of Pentacles",
+              "element": "Earth",
+              "astrological": "Sun in Capricorn",
+              "description": "A figure sits clutching a pentacle tightly, with three more pentacles at their feet and crown. The posture suggests both security and possessiveness.",
+              "keywords": ["Security", "Conservation", "Frugality", "Material concerns", "Possession"],
+              "meanings": {
+                "upright": ["Material security", "Conservation", "Frugality", "Long-term planning", "Holding on"],
+                "reversed": ["Greed", "Materialism", "Insecurity", "Hoarding", "Need to let go"]
+              },
+              "element_affinity": "Earth of Sun",
+              "governor_associations": ["Guardians of Resources", "Teachers of Conservation"]
+            },
+            {
+              "id": "five_of_pentacles",
+              "number": 5,
+              "name": "Five of Pentacles",
+              "element": "Earth",
+              "astrological": "Mercury in Taurus",
+              "description": "Two figures in tattered clothes walk through snow past a stained glass window with five pentacles. One figure uses crutches, suggesting hardship.",
+              "keywords": ["Hardship", "Loss", "Poverty", "Adversity", "Recovery"],
+              "meanings": {
+                "upright": ["Financial loss", "Poverty", "Hardship", "Material challenge", "Spiritual poverty"],
+                "reversed": ["Recovery", "Spiritual growth", "Finding help", "Positive change", "Support"]
+              },
+              "element_affinity": "Earth of Mercury",
+              "governor_associations": ["Guides Through Hardship", "Teachers of Resilience"]
+            },
+            {
+              "id": "six_of_pentacles",
+              "number": 6,
+              "name": "Six of Pentacles",
+              "element": "Earth",
+              "astrological": "Moon in Taurus",
+              "description": "A wealthy figure weighs coins on a scale while giving to beggars, suggesting charity and the fair distribution of wealth.",
+              "keywords": ["Generosity", "Charity", "Giving", "Receiving", "Sharing wealth"],
+              "meanings": {
+                "upright": ["Generosity", "Charity", "Sharing wealth", "Material help", "Support"],
+                "reversed": ["Selfishness", "Debt", "Uneven distribution", "Power imbalance"]
+              },
+              "element_affinity": "Earth of Moon",
+              "governor_associations": ["Lords of Charity", "Masters of Fair Exchange"]
+            },
+            {
+              "id": "seven_of_pentacles",
+              "number": 7,
+              "name": "Seven of Pentacles",
+              "element": "Earth",
+              "astrological": "Saturn in Taurus",
+              "description": "A figure leans on their hoe, contemplating seven pentacles growing on a bush, suggesting assessment of long-term investments.",
+              "keywords": ["Assessment", "Evaluation", "Progress", "Patience", "Investment"],
+              "meanings": {
+                "upright": ["Long-term view", "Sustainable growth", "Investment", "Assessment", "Patience"],
+                "reversed": ["Lack of progress", "Impatience", "Poor planning", "Wasteful investments"]
+              },
+              "element_affinity": "Earth of Saturn",
+              "governor_associations": ["Masters of Growth", "Teachers of Patience"]
+            },
+            {
+              "id": "eight_of_pentacles",
+              "number": 8,
+              "name": "Eight of Pentacles",
+              "element": "Earth",
+              "astrological": "Sun in Virgo",
+              "description": "An apprentice carefully crafts pentacles, with six completed ones displayed above. The scene shows dedication to mastering a craft.",
+              "keywords": ["Skill development", "Craftsmanship", "Dedication", "Quality work", "Learning"],
+              "meanings": {
+                "upright": ["Skill development", "Dedication", "Quality work", "Attention to detail", "Mastery"],
+                "reversed": ["Perfectionism", "Lack of focus", "Poor workmanship", "Rushed work"]
+              },
+              "element_affinity": "Earth of Sun",
+              "governor_associations": ["Masters of Detail", "Guides of Perfection"]
+            },
+            {
+              "id": "nine_of_pentacles",
+              "number": 9,
+              "name": "Nine of Pentacles",
+              "element": "Earth",
+              "astrological": "Venus in Virgo",
+              "description": "A well-dressed woman stands in a lush garden with a hooded falcon, surrounded by nine pentacles, representing self-made abundance.",
+              "keywords": ["Luxury", "Self-reliance", "Abundance", "Discipline", "Refinement"],
+              "meanings": {
+                "upright": ["Financial independence", "Luxury", "Self-reliance", "Discipline", "Refinement"],
+                "reversed": ["Materialism", "Codependence", "Superficiality", "False success"]
+              },
+              "element_affinity": "Earth of Venus",
+              "governor_associations": ["Lords of Refinement", "Masters of Independence"]
+            },
+            {
+              "id": "ten_of_pentacles",
+              "number": 10,
+              "name": "Ten of Pentacles",
+              "element": "Earth",
+              "astrological": "Mercury in Virgo",
+              "description": "An elderly figure sits with dogs in a courtyard of a great estate, with family members nearby and ten pentacles arranged in the Tree of Life pattern.",
+              "keywords": ["Wealth", "Legacy", "Family", "Inheritance", "Establishment"],
+              "meanings": {
+                "upright": ["Wealth", "Family legacy", "Inheritance", "Tradition", "Security", "Long-term success"],
+                "reversed": ["Family conflicts", "Financial failure", "Loss of legacy", "Instability"]
+              },
+              "element_affinity": "Earth of Mercury",
+              "governor_associations": ["Keepers of Legacy", "Masters of Inheritance"]
+            },
+            {
+              "id": "page_of_pentacles",
+              "name": "Page of Pentacles",
+              "rank": "Page",
+              "element": "Earth of Earth",
+              "description": "A young person stands in a meadow, gazing intently at a pentacle they hold, suggesting studious contemplation of material matters.",
+              "keywords": ["Study", "Learning", "Practicality", "Manifestation", "New opportunity"],
+              "meanings": {
+                "upright": ["New opportunities", "Study", "Manifestation", "Learning", "Practical mindset"],
+                "reversed": ["Lack of progress", "Procrastination", "Blocked goals", "Distractions"]
+              },
+              "personality_traits": {
+                "positive": ["Studious", "Practical", "Diligent", "Patient", "Methodical"],
+                "negative": ["Stubborn", "Materialistic", "Slow", "Unimaginative", "Dull"]
+              },
+              "element_affinity": "Earth of Earth",
+              "governor_associations": ["Students of Matter", "Seekers of Knowledge"]
+            },
+            {
+              "id": "knight_of_pentacles",
+              "name": "Knight of Pentacles",
+              "rank": "Knight",
+              "element": "Air of Earth",
+              "description": "A knight sits on a stationary black horse in a plowed field, carefully contemplating a pentacle, representing methodical progress.",
+              "keywords": ["Responsibility", "Routine", "Conservatism", "Patience", "Reliability"],
+              "meanings": {
+                "upright": ["Responsibility", "Hard work", "Routine", "Conservatism", "Reliability"],
+                "reversed": ["Boredom", "Stagnation", "Laziness", "Risk-averse", "Workaholic"]
+              },
+              "personality_traits": {
+                "positive": ["Reliable", "Hardworking", "Patient", "Methodical", "Responsible"],
+                "negative": ["Stubborn", "Boring", "Obsessive", "Unadventurous", "Workaholic"]
+              },
+              "element_affinity": "Air of Earth",
+              "governor_associations": ["Knights of Duty", "Guardians of Method"]
+            },
+            {
+              "id": "queen_of_pentacles",
+              "name": "Queen of Pentacles",
+              "rank": "Queen",
+              "element": "Water of Earth",
+              "description": "A queen sits in a lush garden, cradling a pentacle in her lap. Her throne is decorated with nature symbols, representing material abundance and nurturing.",
+              "keywords": ["Nurturing", "Abundance", "Security", "Practicality", "Luxury"],
+              "meanings": {
+                "upright": ["Nurturing", "Practical help", "Financial security", "Abundance", "Home comfort"],
+                "reversed": ["Materialism", "Smothering", "Financial codependence", "Insecurity"]
+              },
+              "personality_traits": {
+                "positive": ["Nurturing", "Practical", "Generous", "Secure", "Down-to-earth"],
+                "negative": ["Materialistic", "Possessive", "Smothering", "Status-focused", "Shallow"]
+              },
+              "element_affinity": "Water of Earth",
+              "governor_associations": ["Queens of Abundance", "Mothers of Prosperity"]
+            },
+            {
+              "id": "king_of_pentacles",
+              "name": "King of Pentacles",
+              "rank": "King",
+              "element": "Fire of Earth",
+              "description": "A king sits on an ornate throne adorned with bull and vine carvings, holding a pentacle scepter, representing material success and business acumen.",
+              "keywords": ["Wealth", "Business", "Leadership", "Security", "Discipline"],
+              "meanings": {
+                "upright": ["Business acumen", "Financial security", "Discipline", "Abundance", "Leadership"],
+                "reversed": ["Greed", "Materialism", "Poor financial decisions", "Corruption"]
+              },
+              "personality_traits": {
+                "positive": ["Successful", "Reliable", "Disciplined", "Wealthy", "Practical"],
+                "negative": ["Materialistic", "Rigid", "Status-obsessed", "Controlling", "Workaholic"]
+              },
+              "element_affinity": "Fire of Earth",
+              "governor_associations": ["Kings of Wealth", "Masters of Material Power"]
+            }
+          ]
+        },
+        {
+          "id": "swords",
+          "name": "Suit of Swords",
+          "element": "Air",
+          "description": "The suit of intellect, conflict, decisions, and mental activity. Associated with the element of Air, representing thoughts, communication, and challenges.",
+          "cards": [
+            {
+              "id": "ace_of_swords",
+              "number": 1,
+              "name": "Ace of Swords",
+              "element": "Air",
+              "astrological": "Gemini, Libra, Aquarius",
+              "description": "A divine hand emerges from a cloud, holding an upright sword crowned with a golden crown. White lilies and roses adorn the scene, representing pure thought and intellectual victory.",
+              "keywords": ["Truth", "Clarity", "Breakthrough", "Mental power", "New ideas"],
+              "meanings": {
+                "upright": ["Mental clarity", "Breakthrough", "New ideas", "Truth revealed", "Strategic thinking", "Victory"],
+                "reversed": ["Confusion", "Chaos", "Mental blocks", "Deception", "Failed plans"]
+              },
+              "element_affinity": "Pure Air",
+              "governor_associations": ["Bearers of Truth", "Masters of Mental Power"]
+            },
+            {
+              "id": "two_of_swords",
+              "number": 2,
+              "name": "Two of Swords",
+              "element": "Air",
+              "astrological": "Moon in Libra",
+              "description": "A blindfolded figure sits holding two crossed swords, with a crescent moon and sea in the background, representing difficult choices and mental stalemate.",
+              "keywords": ["Decision", "Stalemate", "Balance", "Tension", "Choice"],
+              "meanings": {
+                "upright": ["Difficult decisions", "Stalemate", "Inner conflict", "Truce", "Blocked emotions"],
+                "reversed": ["Indecision", "Confusion", "Information overload", "No-win situation"]
+              },
+              "element_affinity": "Air of Moon",
+              "governor_associations": ["Arbiters of Choice", "Keepers of Balance"]
+            },
+            {
+              "id": "three_of_swords",
+              "number": 3,
+              "name": "Three of Swords",
+              "element": "Air",
+              "astrological": "Saturn in Libra",
+              "description": "Three swords pierce a red heart against a stormy sky, representing heartbreak, sorrow, and emotional pain transformed through understanding.",
+              "keywords": ["Heartbreak", "Sorrow", "Grief", "Release", "Revelation"],
+              "meanings": {
+                "upright": ["Heartbreak", "Emotional pain", "Sorrow", "Truth hurts", "Release through pain"],
+                "reversed": ["Recovery", "Forgiveness", "Moving on", "Learning from pain"]
+              },
+              "element_affinity": "Air of Saturn",
+              "governor_associations": ["Healers of Hearts", "Teachers of Truth"]
+            },
+            {
+              "id": "four_of_swords",
+              "number": 4,
+              "name": "Four of Swords",
+              "element": "Air",
+              "astrological": "Jupiter in Libra",
+              "description": "A knight lies in repose on a tomb, with three swords hanging above and one on the side. A stained glass window suggests spiritual contemplation.",
+              "keywords": ["Rest", "Recuperation", "Meditation", "Retreat", "Recovery"],
+              "meanings": {
+                "upright": ["Rest", "Recovery", "Contemplation", "Meditation", "Strategic withdrawal"],
+                "reversed": ["Restlessness", "Burnout", "No time to rest", "Return to activity"]
+              },
+              "element_affinity": "Air of Jupiter",
+              "governor_associations": ["Guards of Rest", "Masters of Recovery"]
+            },
+            {
+              "id": "five_of_swords",
+              "number": 5,
+              "name": "Five of Swords",
+              "element": "Air",
+              "astrological": "Venus in Aquarius",
+              "description": "A figure gathers swords while others walk away in defeat. The stormy sky and scattered clouds suggest conflict and hollow victory.",
+              "keywords": ["Conflict", "Defeat", "Win at all costs", "Dishonor", "Strife"],
+              "meanings": {
+                "upright": ["Conflict", "Defeat", "Win at all costs", "Dishonor", "Betrayal"],
+                "reversed": ["Reconciliation", "Making amends", "Learning from defeat", "Forgiveness"]
+              },
+              "element_affinity": "Air of Venus",
+              "governor_associations": ["Witnesses of Conflict", "Teachers of Honor"]
+            },
+            {
+              "id": "six_of_swords",
+              "number": 6,
+              "name": "Six of Swords",
+              "element": "Air",
+              "astrological": "Mercury in Aquarius",
+              "description": "A ferryman poles a boat carrying a woman and child, with six swords standing upright. The waters ahead are calm, suggesting transition to peace.",
+              "keywords": ["Transition", "Moving on", "Journey", "Leaving behind", "Progress"],
+              "meanings": {
+                "upright": ["Transition", "Moving forward", "Leaving behind", "Journey", "Progress"],
+                "reversed": ["Stuck", "Unable to move on", "Baggage", "Resistance to change"]
+              },
+              "element_affinity": "Air of Mercury",
+              "governor_associations": ["Guides of Passage", "Masters of Transition"]
+            },
+            {
+              "id": "seven_of_swords",
+              "number": 7,
+              "name": "Seven of Swords",
+              "element": "Air",
+              "astrological": "Moon in Aquarius",
+              "description": "A figure sneaks away from a camp carrying five swords, leaving two behind. Their expression suggests cunning and deception.",
+              "keywords": ["Deception", "Strategy", "Stealth", "Escape", "Cunning"],
+              "meanings": {
+                "upright": ["Deception", "Strategy", "Cunning", "Getting away with something", "Mental agility"],
+                "reversed": ["Confession", "Caught in the act", "Return", "Better choices"]
+              },
+              "element_affinity": "Air of Moon",
+              "governor_associations": ["Masters of Strategy", "Revealers of Truth"]
+            },
+            {
+              "id": "eight_of_swords",
+              "number": 8,
+              "name": "Eight of Swords",
+              "element": "Air",
+              "astrological": "Jupiter in Gemini",
+              "description": "A blindfolded woman is bound and surrounded by eight swords, yet the bonds are loose and escape is possible, suggesting self-imposed limitations.",
+              "keywords": ["Restriction", "Imprisonment", "Victim mentality", "Helplessness", "Self-imposed limits"],
+              "meanings": {
+                "upright": ["Feeling trapped", "Self-imposed restrictions", "Imprisonment", "Victim mentality"],
+                "reversed": ["Freedom", "Self-acceptance", "New perspective", "Release"]
+              },
+              "element_affinity": "Air of Jupiter",
+              "governor_associations": ["Breakers of Chains", "Teachers of Freedom"]
+            },
+            {
+              "id": "nine_of_swords",
+              "number": 9,
+              "name": "Nine of Swords",
+              "element": "Air",
+              "astrological": "Mars in Gemini",
+              "description": "A figure sits up in bed, face in hands, with nine swords on the wall behind them. The dark night suggests anxiety and mental anguish.",
+              "keywords": ["Anxiety", "Nightmares", "Worry", "Depression", "Mental anguish"],
+              "meanings": {
+                "upright": ["Anxiety", "Nightmares", "Depression", "Intense worry", "Mental anguish"],
+                "reversed": ["Hope", "Release of fear", "Reaching out", "Dawn after darkness"]
+              },
+              "element_affinity": "Air of Mars",
+              "governor_associations": ["Healers of Mind", "Comforters in Darkness"]
+            },
+            {
+              "id": "ten_of_swords",
+              "number": 10,
+              "name": "Ten of Swords",
+              "element": "Air",
+              "astrological": "Sun in Gemini",
+              "description": "A figure lies face down with ten swords in their back. The dawn breaks on the horizon, suggesting that the darkest hour comes before dawn.",
+              "keywords": ["Endings", "Rock bottom", "Crisis", "Transformation", "Release"],
+              "meanings": {
+                "upright": ["Rock bottom", "Crisis", "Painful ending", "Deep wounds", "Release"],
+                "reversed": ["Recovery", "Regeneration", "Resistance to change", "Upward turn"]
+              },
+              "element_affinity": "Air of Sun",
+              "governor_associations": ["Harbingers of Change", "Masters of Endings"]
+            },
+            {
+              "id": "page_of_swords",
+              "name": "Page of Swords",
+              "rank": "Page",
+              "element": "Earth of Air",
+              "description": "A youth stands on a hilltop with a raised sword, their hair and cloak blown by strong winds, representing vigilance and new ideas.",
+              "keywords": ["Curiosity", "Communication", "Vigilance", "New ideas", "Learning"],
+              "meanings": {
+                "upright": ["New ideas", "Curiosity", "Communication", "Vigilance", "Preparation"],
+                "reversed": ["Deception", "Manipulation", "All talk", "Impulsive communication"]
+              },
+              "personality_traits": {
+                "positive": ["Curious", "Alert", "Intelligent", "Truthful", "Observant"],
+                "negative": ["Impulsive", "Scattered", "Tactless", "Gossipy", "Restless"]
+              },
+              "element_affinity": "Earth of Air",
+              "governor_associations": ["Seekers of Truth", "Watchers of Thought"]
+            },
+            {
+              "id": "knight_of_swords",
+              "name": "Knight of Swords",
+              "rank": "Knight",
+              "element": "Air of Air",
+              "description": "A knight charges forward on a white horse, sword raised, charging into strong winds and turbulent clouds.",
+              "keywords": ["Action", "Ambition", "Speed", "Determination", "Intellect"],
+              "meanings": {
+                "upright": ["Swift action", "Intellectual power", "Determination", "Ambition", "Direct approach"],
+                "reversed": ["Impulsiveness", "Aggression", "Burnout", "Reckless action"]
+              },
+              "personality_traits": {
+                "positive": ["Decisive", "Intelligent", "Direct", "Focused", "Determined"],
+                "negative": ["Aggressive", "Reckless", "Impatient", "Harsh", "Ruthless"]
+              },
+              "element_affinity": "Air of Air",
+              "governor_associations": ["Champions of Truth", "Masters of Thought"]
+            },
+            {
+              "id": "queen_of_swords",
+              "name": "Queen of Swords",
+              "rank": "Queen",
+              "element": "Water of Air",
+              "description": "A queen sits on a throne with a raised sword, facing forward with a stern expression. Clouds and a bird in flight suggest clear vision and independence.",
+              "keywords": ["Intelligence", "Independence", "Clear vision", "Judgment", "Truth"],
+              "meanings": {
+                "upright": ["Clear thinking", "Independence", "Unbiased judgment", "Direct communication", "Intellectual clarity"],
+                "reversed": ["Cold-hearted", "Bitter", "Sharp-tongued", "Cruel honesty"]
+              },
+              "personality_traits": {
+                "positive": ["Intelligent", "Independent", "Clear-minded", "Honest", "Fair"],
+                "negative": ["Cold", "Bitter", "Harsh", "Unforgiving", "Judgmental"]
+              },
+              "element_affinity": "Water of Air",
+              "governor_associations": ["Queens of Wisdom", "Judges of Truth"]
+            },
+            {
+              "id": "king_of_swords",
+              "name": "King of Swords",
+              "rank": "King",
+              "element": "Fire of Air",
+              "description": "A king sits on a throne adorned with butterflies and angels, holding an upright sword, representing intellectual authority and ethical leadership.",
+              "keywords": ["Authority", "Truth", "Logic", "Ethics", "Leadership"],
+              "meanings": {
+                "upright": ["Mental clarity", "Intellectual power", "Authority", "Ethical leadership", "Truth"],
+                "reversed": ["Tyranny", "Manipulation", "Cruelty", "Abuse of power"]
+              },
+              "personality_traits": {
+                "positive": ["Intellectual", "Ethical", "Authoritative", "Just", "Strategic"],
+                "negative": ["Cruel", "Tyrannical", "Cold", "Ruthless", "Domineering"]
+              },
+              "element_affinity": "Fire of Air",
+              "governor_associations": ["Kings of Truth", "Masters of Justice"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tarot_court_cards",
+      "title": "The Court Cards",
+      "summary": "The 16 royal cards representing personality types and levels of mastery.",
+      "content": "Each suit has four court cards: Page (Earth), Knight (Air), Queen (Water), and King (Fire), representing different aspects and maturity levels of that suit's energy.",
+      "courts": [
+        {
+          "rank": "Page",
+          "element": "Earth",
+          "general_meaning": "Student, messenger, beginner's mind",
+          "cards": [
+            {
+              "id": "wands_page",
+              "name": "Page of Wands",
+              "keywords": ["enthusiasm", "exploration", "discovery"],
+              "description": "A free spirit eager to explore and learn, bringing news of opportunities.",
+              "governor_associations": ["NOCAMAL - Governor of Learning"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tarot_spreads",
+      "title": "Tarot Spreads",
+      "summary": "Traditional and Enochian-specific layouts for card reading.",
+      "content": "Various spread patterns used for different types of divination, from the simple three-card spread to the complex Celtic Cross.",
+      "spreads": [
+        {
+          "name": "Celtic Cross",
+          "positions": 10,
+          "description": "A comprehensive spread showing past, present, future, challenges, and potential outcomes.",
+          "governor_associations": ["LAIDROM - Governor of Divination"]
+        }
+      ]
+    },
+    {
+      "id": "tarot_correspondences",
+      "title": "Tarot Correspondences",
+      "summary": "Connections between Tarot and other mystical systems.",
+      "content": "The Tarot's relationship with astrology, Kabbalah, and Enochian magic.",
+      "tags": ["astrology", "kabbalah", "elements", "numerology"],
+      "related_concepts": ["tree_of_life", "zodiac", "planets", "elements"],
+      "quality": "HIGH",
+      "cross_references": {
+        "kabbalah": ["paths_of_wisdom", "tree_of_life"],
+        "astrology": ["zodiac_signs", "planets"],
+        "enochian": ["calls", "angels", "watchtowers"]
+      }
+    }
+  ],
+  "cross_references": {
+    "kabbalah": ["sephiroth", "paths", "hebrew_letters"],
+    "astrology": ["zodiac", "planets", "elements"],
+    "enochian": ["calls", "angels", "watchtowers"],
+    "numerology": ["gematria", "reduction"]
+  }
+} 

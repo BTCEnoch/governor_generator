@@ -1,0 +1,79 @@
+{
+  "governor_name": "TIARPAX",
+  "session_id": "TIARPAX_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.692622",
+  "persona": {
+    "name": "TIARPAX",
+    "title": "'He whose name means truth'",
+    "element": "Water",
+    "aethyr": "LIT",
+    "essence": "When TIARPAX is near, a higher truth becomes evident as if the microcosm and macrocosm suddenly recognize each other in perfect reflection.",
+    "angelic_role": "Power of Absolute Truth; commands rain-crowned wardens.",
+    "knowledge_base": [
+      "hermeticism",
+      "kabbalah",
+      "alchemy",
+      "gnosticism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Mirroring",
+      "baseline_tone": "Direct",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Mirror",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Discernment",
+        "Wisdom",
+        "Honesty"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Obsession",
+        "Zealousness"
+      ]
+    },
+    "approaches": {
+      "bad": "Testing",
+      "average": "Mirroring",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Direct",
+      "good": "Philosophical"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "TIARPAX"
+}

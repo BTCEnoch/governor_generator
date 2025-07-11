@@ -1,0 +1,150 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "dimensional_shift",
+      "name": "Dimensional Shift",
+      "category": "special_properties",
+      "definition": "Ability to manifest across multiple dimensions",
+      "parameters": {
+        "properties": [
+          "Multi-dimensional presence",
+          "Reality-bending effects",
+          "Spatial distortion"
+        ],
+        "manifestation_conditions": [
+          "During dimensional alignments",
+          "In sacred spaces",
+          "At power points"
+        ]
+      }
+    },
+    {
+      "id": "quantum_resonance",
+      "name": "Quantum Resonance",
+      "category": "special_properties",
+      "definition": "Simultaneous existence in multiple states",
+      "parameters": {
+        "properties": [
+          "Quantum superposition",
+          "Wave-particle duality",
+          "Entanglement effects"
+        ],
+        "manifestation_conditions": [
+          "In high-energy states",
+          "During cosmic events",
+          "In quantum fields"
+        ]
+      }
+    },
+    {
+      "id": "elemental_harmony",
+      "name": "Elemental Harmony",
+      "category": "special_properties",
+      "definition": "Perfect balance of all elemental forces",
+      "parameters": {
+        "properties": [
+          "Elemental fusion",
+          "Force balance",
+          "Nature harmony"
+        ],
+        "manifestation_conditions": [
+          "At elemental crossroads",
+          "During solstices",
+          "In natural sanctuaries"
+        ]
+      }
+    },
+    {
+      "id": "time_weaving",
+      "name": "Time Weaving",
+      "category": "special_properties",
+      "definition": "Manipulation of temporal energies",
+      "parameters": {
+        "properties": [
+          "Time dilation",
+          "Temporal echoes",
+          "Chronological waves"
+        ],
+        "manifestation_conditions": [
+          "At time nexus points",
+          "During celestial events",
+          "In temporal anomalies"
+        ]
+      }
+    },
+    {
+      "id": "sacred_resonance",
+      "name": "Sacred Resonance",
+      "category": "special_properties",
+      "definition": "Harmonic vibration with divine frequencies",
+      "parameters": {
+        "properties": [
+          "Divine harmonics",
+          "Sacred frequencies",
+          "Spiritual resonance"
+        ],
+        "manifestation_conditions": [
+          "During prayer",
+          "In holy places",
+          "At power sites"
+        ]
+      }
+    },
+    {
+      "id": "light_transmutation",
+      "name": "Light Transmutation",
+      "category": "special_properties",
+      "definition": "Transformation of light into various forms",
+      "parameters": {
+        "properties": [
+          "Light manipulation",
+          "Color transformation",
+          "Energy conversion"
+        ],
+        "manifestation_conditions": [
+          "In pure light",
+          "During dawn/dusk",
+          "In prismatic fields"
+        ]
+      }
+    },
+    {
+      "id": "cosmic_alignment",
+      "name": "Cosmic Alignment",
+      "category": "special_properties",
+      "definition": "Connection to celestial forces and patterns",
+      "parameters": {
+        "properties": [
+          "Star alignment",
+          "Celestial harmony",
+          "Cosmic resonance"
+        ],
+        "manifestation_conditions": [
+          "During alignments",
+          "At star gates",
+          "In cosmic events"
+        ]
+      }
+    },
+    {
+      "id": "divine_presence",
+      "name": "Divine Presence",
+      "category": "special_properties",
+      "definition": "Manifestation of pure divine energy",
+      "parameters": {
+        "properties": [
+          "Divine aura",
+          "Sacred presence",
+          "Spiritual force"
+        ],
+        "manifestation_conditions": [
+          "In sacred ritual",
+          "During worship",
+          "At holy sites"
+        ]
+      }
+    }
+  ]
+} 

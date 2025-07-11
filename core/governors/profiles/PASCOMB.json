@@ -1,0 +1,79 @@
+{
+  "governor_name": "PASCOMB",
+  "session_id": "PASCOMB_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.665401",
+  "persona": {
+    "name": "PASCOMB",
+    "title": "'He who precedes understanding'",
+    "element": "Water",
+    "aethyr": "LIL",
+    "essence": "In PASCOMB's presence, a diamond spark glimmers at the cusp of dawn an intuition before thought, a proto-logos of inspiration.",
+    "angelic_role": "Cherub of Dawn of Understanding; leads oceanic hosts.",
+    "knowledge_base": [
+      "kabbalah",
+      "hermetic_philosophy",
+      "gnosticism",
+      "mystical_christianity",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Questioning",
+      "baseline_tone": "Cryptic",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Herald",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Vision",
+        "Discernment",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Cryptic",
+        "Zealousness"
+      ]
+    },
+    "approaches": {
+      "bad": "Prophesying",
+      "average": "Questioning",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Cryptic",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "PASCOMB"
+}

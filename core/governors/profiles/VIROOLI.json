@@ -1,0 +1,79 @@
+{
+  "governor_name": "VIROOLI",
+  "session_id": "VIROOLI_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.705515",
+  "persona": {
+    "name": "VIROOLI",
+    "title": "'He who made the first nest'",
+    "element": "Water",
+    "aethyr": "ZOM",
+    "essence": "In VIROOLI's presence, one feels held within a primordial sanctuary an inner sacred chamber built before any outer realm can be commanded.",
+    "angelic_role": "Archangel of Primordial Sanctuary; marshals tideborn spirits.",
+    "knowledge_base": [
+      "shamanism",
+      "druidism",
+      "hermetic_mysticism",
+      "kabbalah",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Sombre",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Guardian",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Patience",
+        "Mindfulness",
+        "Fortitude"
+      ],
+      "flaws": [
+        "Isolation",
+        "Aloofness",
+        "Rigidity"
+      ]
+    },
+    "approaches": {
+      "bad": "Protecting",
+      "average": "Observing",
+      "good": "Guiding"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Sombre",
+      "good": "Gentle"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "VIROOLI"
+}

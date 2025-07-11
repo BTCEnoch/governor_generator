@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-02T15:26:23.165373",
+  "entries": [
+    {
+      "id": "tarot_knowledge",
+      "name": "Tarot Divination System",
+      "category": "tradition_archetype",
+      "definition": "Tarot Divination System provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "dates": {},
+      "roles": [
+        "Uses Tarot Divination System principles for empowerment",
+        "Balances authority with wisdom"
+      ],
+      "contributions": [
+        "Tarot Divination System teaches authentic self-expression in leadership",
+        "Wisdom governance balances authority with compassion",
+        "True power serves the highest good of all beings",
+        "Sacred principles guide ethical decision-making",
+        "Spiritual insight illuminates practical solutions"
+      ],
+      "key_works": [],
+      "attributes": {
+        "governor_essence": "A Tarot Divination System Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by tarot knowledge principles.",
+        "conflict_styles": [
+          "Seeks understanding through wisdom application"
+        ],
+        "communication_styles": [
+          "Authentic and wisdom-centered"
+        ],
+        "relationship_approaches": [
+          "Connects through Tarot Divination System understanding",
+          "Builds trust through authentic wisdom"
+        ]
+      }
+    }
+  ]
+}

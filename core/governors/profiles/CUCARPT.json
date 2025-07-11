@@ -1,0 +1,79 @@
+{
+  "governor_name": "CUCARPT",
+  "session_id": "CUCARPT_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.617926",
+  "persona": {
+    "name": "CUCARPT",
+    "title": "'She who replaces what was with something similar'",
+    "element": "Air",
+    "aethyr": "LEA",
+    "essence": "In CUCARPT's presence, every ending glows with a new dawn an echo-forge where conclusions transform into beginnings lit by gentle light.",
+    "angelic_role": "Seraph of Forge of Renewal; commands radiant ministers.",
+    "knowledge_base": [
+      "alchemy",
+      "hermetic_philosophy",
+      "kabbalah",
+      "gnosticism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Encouraging",
+      "baseline_tone": "Warm",
+      "motive_alignment": "Neutral Good",
+      "role_archetype": "Artificer",
+      "orientation": "Balanced",
+      "polarity": "Constructive",
+      "self_regard": "Catalyst",
+      "virtues": [
+        "Creativity",
+        "Hope",
+        "Vision"
+      ],
+      "flaws": [
+        "Yearning",
+        "Impatience",
+        "Obsession"
+      ]
+    },
+    "approaches": {
+      "bad": "Challenging",
+      "average": "Encouraging",
+      "good": "Guiding"
+    },
+    "tones": {
+      "bad": "Intense",
+      "average": "Warm",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "CUCARPT"
+}

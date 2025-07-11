@@ -1,0 +1,28 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "SILVER",
+  "geometry": {
+    "patterns": [
+      "TORUS"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 2,
+    "radius": 1,
+    "intensity": 0
+  },
+  "time_variations": 134,
+  "energy_signature": 70,
+  "symbol_set": 205,
+  "light_shadow": 102,
+  "special_properties": [
+    117,
+    250,
+    42,
+    105
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "governor_name": "SAMAPHA",
+  "session_id": "SAMAPHA_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.675402",
+  "persona": {
+    "name": "SAMAPHA",
+    "title": "'He who is with continuity'",
+    "element": "Water",
+    "aethyr": "ZOM",
+    "essence": "When SAMAPHA is near, a golden thread of continuity weaves through the atmosphere, ensuring identity endures through every transformation.",
+    "angelic_role": "Principality of Golden Continuum; leads deluge-born bringers.",
+    "knowledge_base": [
+      "hermetic_philosophy",
+      "kabbalah",
+      "alchemy",
+      "egyptian_mysteries",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Guiding",
+      "baseline_tone": "Philosophical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Weaver",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Perseverance",
+        "Wisdom",
+        "Faith"
+      ],
+      "flaws": [
+        "Obsession",
+        "Rigidity",
+        "Zealousness"
+      ]
+    },
+    "approaches": {
+      "bad": "Testing",
+      "average": "Guiding",
+      "good": "Weaving"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Philosophical",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "SAMAPHA"
+}

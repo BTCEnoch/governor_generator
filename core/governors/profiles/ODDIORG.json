@@ -1,0 +1,79 @@
+{
+  "governor_name": "ODDIORG",
+  "session_id": "ODDIORG_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.649925",
+  "persona": {
+    "name": "ODDIORG",
+    "title": "'He of fire and justice'",
+    "element": "Fire",
+    "aethyr": "ZIP",
+    "essence": "When ODDIORG stands before you, an inner alchemy begins will and psyche are tempered in a crucible of sacred number.",
+    "angelic_role": "Principality of Fiery Justice; leads thunderous riders.",
+    "knowledge_base": [
+      "hermetic_magic",
+      "kabbalah",
+      "alchemy",
+      "sacred_geometry",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Testing",
+      "baseline_tone": "Intense",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Judge",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Justice",
+        "Valor",
+        "Discernment"
+      ],
+      "flaws": [
+        "Wrath",
+        "Zealousness",
+        "Pride"
+      ]
+    },
+    "approaches": {
+      "bad": "Punishing",
+      "average": "Testing",
+      "good": "Challenging"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Intense",
+      "good": "Assertive"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "ODDIORG"
+}

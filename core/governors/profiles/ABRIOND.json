@@ -1,0 +1,79 @@
+{
+  "governor_name": "ABRIOND",
+  "session_id": "ABRIOND_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.601924",
+  "persona": {
+    "name": "ABRIOND",
+    "title": "'He who prepares his kingdom'",
+    "element": "Air",
+    "aethyr": "POP",
+    "essence": "In ABRIOND's presence, nebulous visions crystallize into strategy her provident insight lays methodical plans that light the way ahead.",
+    "angelic_role": "Cherub of Provident Strategy; leads divine messengers.",
+    "knowledge_base": [
+      "hermetic_qabalah",
+      "strategic_divination",
+      "prophetic_interpretation",
+      "angelic_invocation",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    },
+    "polar_traits": {
+      "baseline_approach": "Prophesying",
+      "baseline_tone": "Analytical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Herald",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Vision",
+        "Prudence",
+        "Discernment"
+      ],
+      "flaws": [
+        "Obsession",
+        "Rigidity",
+        "Aloofness"
+      ]
+    },
+    "approaches": {
+      "bad": "Testing",
+      "average": "Prophesying",
+      "good": "Guiding"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Analytical",
+      "good": "Direct"
+    },
+    "interview_responses": {}
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "ABRIOND"
+}

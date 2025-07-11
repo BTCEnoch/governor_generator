@@ -1,0 +1,79 @@
+{
+  "governor_name": "OMAGRAP",
+  "session_id": "OMAGRAP_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.652401",
+  "persona": {
+    "name": "OMAGRAP",
+    "title": "'He of lunar knowledge'",
+    "element": "Air",
+    "aethyr": "POP",
+    "essence": "When OMAGRAP is invoked, intuition moves in gentle cycles the atmosphere invites deep reflection as patterns repeat like comforting lunar phases.",
+    "angelic_role": "Throne of Lunar Reflection; marshals ethereal choristers.",
+    "knowledge_base": [
+      "astrology",
+      "alchemy",
+      "kabbalah",
+      "hermetic_philosophy",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Moon",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Pisces",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Mirroring",
+      "baseline_tone": "Reflective",
+      "motive_alignment": "True Neutral",
+      "role_archetype": "Oracle",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Obscure",
+      "virtues": [
+        "Patience",
+        "Mindfulness",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Melancholy",
+        "Isolation",
+        "Passivity"
+      ]
+    },
+    "approaches": {
+      "bad": "Observing",
+      "average": "Mirroring",
+      "good": "Prophesying"
+    },
+    "tones": {
+      "bad": "Sombre",
+      "average": "Reflective",
+      "good": "Gentle"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "OMAGRAP"
+}

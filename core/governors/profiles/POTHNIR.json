@@ -1,0 +1,79 @@
+{
+  "governor_name": "POTHNIR",
+  "session_id": "POTHNIR_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.670401",
+  "persona": {
+    "name": "POTHNIR",
+    "title": "'Son of the three fold throne'",
+    "element": "Water",
+    "aethyr": "PAZ",
+    "essence": "In POTHNIR's presence, vision spans threefold time past, present, and future refract together into a single, balanced ray.",
+    "angelic_role": "Throne of Threefold Time; marshals tideborn guardians.",
+    "knowledge_base": [
+      "astrology",
+      "hermeticism",
+      "kabbalah",
+      "theurgy",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Cryptic",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Oracle",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Vision",
+        "Discernment",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Obsession",
+        "Rigidity"
+      ]
+    },
+    "approaches": {
+      "bad": "Prophesying",
+      "average": "Observing",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Cryptic",
+      "good": "Philosophical"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "POTHNIR"
+}

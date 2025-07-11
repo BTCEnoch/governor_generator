@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "chaos_magic",
+      "name": "Chaos Magic",
+      "category": "tradition_archetype",
+      "definition": "",
+      "dates": {},
+      "roles": [],
+      "contributions": [
+        "Flexible thinking creates breakthrough solutions",
+        "Effectiveness matters more than traditional approaches",
+        "Paradigm shifts unlock new possibilities",
+        "Beliefs are tools to be used consciously",
+        "Peak states reveal hidden creative potential",
+        "Results validate magical and leadership approaches",
+        "Innovation requires intellectual courage"
+      ],
+      "key_works": [],
+      "attributes": {
+        "governor_essence": "A Chaos Magic Governor adapts their leadership style to achieve results, embracing paradigm flexibility and innovative approaches while maintaining focus on practical outcomes and breakthrough solutions.",
+        "conflict_styles": [],
+        "communication_styles": [
+          "Paradigm-shifting dialogue",
+          "Results-oriented communication",
+          "Adaptive messaging",
+          "Breakthrough-focused"
+        ],
+        "relationship_approaches": []
+      }
+    }
+  ]
+}

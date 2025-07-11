@@ -1,0 +1,306 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "lil",
+      "name": "LIL",
+      "number": 1,
+      "definition": "The highest and most divine Aethyr, realm of ultimate truth and cosmic reality.",
+      "category": "aethyr",
+      "correspondence": "The Universe (Saturn)",
+      "governors": ["Occodon", "Pascomb", "Valgars"],
+      "element": "Spirit"
+    },
+    {
+      "id": "arn",
+      "name": "ARN",
+      "number": 2,
+      "definition": "The Aethyr of divine secrets and creation mysteries.",
+      "category": "aethyr",
+      "correspondence": "The Moon (Pisces)",
+      "governors": ["Dialoia", "Doagnis", "Pacasna"],
+      "element": "Water"
+    },
+    {
+      "id": "zom",
+      "name": "ZOM",
+      "number": 3,
+      "definition": "The Aethyr of divine power and celestial force.",
+      "category": "aethyr",
+      "correspondence": "The Sun (Leo)",
+      "governors": ["Samapha", "Virooli", "Andispi"],
+      "element": "Fire"
+    },
+    {
+      "id": "paz",
+      "name": "PAZ",
+      "number": 4,
+      "definition": "The Aethyr of divine justice and cosmic balance.",
+      "category": "aethyr",
+      "correspondence": "Justice (Libra)",
+      "governors": ["Thotanp", "Axziarg", "Pothnir"],
+      "element": "Air"
+    },
+    {
+      "id": "lit",
+      "name": "LIT",
+      "number": 5,
+      "definition": "The Aethyr of divine wisdom and illumination.",
+      "category": "aethyr",
+      "correspondence": "The Hierophant (Taurus)",
+      "governors": ["Lazdixi", "Nocamal", "Tiarpax"],
+      "element": "Earth"
+    },
+    {
+      "id": "maz",
+      "name": "MAZ",
+      "number": 6,
+      "definition": "The Aethyr of divine transformation and change.",
+      "category": "aethyr",
+      "correspondence": "Death (Scorpio)",
+      "governors": ["Saxtomp", "Vavaamp", "Zirzird"],
+      "element": "Water"
+    },
+    {
+      "id": "deo",
+      "name": "DEO",
+      "number": 7,
+      "definition": "The Aethyr of divine love and harmony.",
+      "category": "aethyr",
+      "correspondence": "The Lovers (Gemini)",
+      "governors": ["Aspiaon", "Genadol", "Opmacas"],
+      "element": "Air"
+    },
+    {
+      "id": "zid",
+      "name": "ZID",
+      "number": 8,
+      "definition": "The Aethyr of divine will and purpose.",
+      "category": "aethyr",
+      "correspondence": "The Emperor (Aries)",
+      "governors": ["Pristac", "Todnaon", "Zamfres"],
+      "element": "Fire"
+    },
+    {
+      "id": "zip",
+      "name": "ZIP",
+      "number": 9,
+      "definition": "The Aethyr of divine inspiration and creativity.",
+      "category": "aethyr",
+      "correspondence": "The Star (Aquarius)",
+      "governors": ["Cralpir", "Doanzin", "Oddiorg"],
+      "element": "Air"
+    },
+    {
+      "id": "zax",
+      "name": "ZAX",
+      "number": 10,
+      "definition": "The Aethyr of the Crossing, void and potential.",
+      "category": "aethyr",
+      "correspondence": "The Abyss",
+      "governors": ["Lexarph", "Comanan", "Tabitom"],
+      "element": "Void"
+    },
+    {
+      "id": "ich",
+      "name": "ICH",
+      "number": 11,
+      "definition": "The Aethyr of divine intelligence and understanding.",
+      "category": "aethyr",
+      "correspondence": "The Magician (Mercury)",
+      "governors": ["Molpand", "Ponodol", "Usnarda"],
+      "element": "Air"
+    },
+    {
+      "id": "loe",
+      "name": "LOE",
+      "number": 12,
+      "definition": "The Aethyr of divine completion and wholeness.",
+      "category": "aethyr",
+      "correspondence": "The World",
+      "governors": ["Ambriol", "Gedoons", "Tapamal"],
+      "element": "Earth"
+    },
+    {
+      "id": "vta",
+      "name": "VTA",
+      "number": 13,
+      "definition": "The Aethyr of divine truth and obedience.",
+      "category": "aethyr",
+      "correspondence": "The Hierophant",
+      "governors": ["Tedoond", "Vivipos", "Voanamb"],
+      "element": "Earth"
+    },
+    {
+      "id": "oxo",
+      "name": "OXO",
+      "number": 14,
+      "definition": "The Aethyr of divine joy and celebration.",
+      "category": "aethyr",
+      "correspondence": "The Sun",
+      "governors": ["Notiabi", "Tahamdo", "Tastozo"],
+      "element": "Fire"
+    },
+    {
+      "id": "vti",
+      "name": "VTI",
+      "number": 15,
+      "definition": "The Aethyr of divine darkness and transformation.",
+      "category": "aethyr",
+      "correspondence": "The Moon",
+      "governors": ["Mirzind", "Obuaors", "Ranglam"],
+      "element": "Water"
+    },
+    {
+      "id": "lea",
+      "name": "LEA",
+      "number": 16,
+      "definition": "The Aethyr of divine change and renewal.",
+      "category": "aethyr",
+      "correspondence": "Death",
+      "governors": ["Cucarpt", "Lavacon", "Sochial"],
+      "element": "Water"
+    },
+    {
+      "id": "tan",
+      "name": "TAN",
+      "number": 17,
+      "definition": "The Aethyr of divine balance and equality.",
+      "category": "aethyr",
+      "correspondence": "Justice",
+      "governors": ["Aydropt", "Sigmorf", "Tocarzi"],
+      "element": "Air"
+    },
+    {
+      "id": "zen",
+      "name": "ZEN",
+      "number": 18,
+      "definition": "The Aethyr of divine emptiness and completion.",
+      "category": "aethyr",
+      "correspondence": "The World",
+      "governors": ["Nabaomi", "Yalpamb", "Zafasai"],
+      "element": "Earth"
+    },
+    {
+      "id": "pop",
+      "name": "POP",
+      "number": 19,
+      "definition": "The Aethyr of divine prophecy and foresight.",
+      "category": "aethyr",
+      "correspondence": "The High Priestess (Moon)",
+      "governors": ["Abriond", "Omagrap", "Torzoxi"],
+      "element": "Water"
+    },
+    {
+      "id": "chr",
+      "name": "CHR",
+      "number": 20,
+      "definition": "The Aethyr of divine cycles and promises.",
+      "category": "aethyr",
+      "correspondence": "Wheel of Fortune",
+      "governors": ["Parziba", "Totocan", "Zildron"],
+      "element": "Fire"
+    },
+    {
+      "id": "asp",
+      "name": "ASP",
+      "number": 21,
+      "definition": "The Aethyr of divine sound and knowledge.",
+      "category": "aethyr",
+      "correspondence": "The Hierophant",
+      "governors": ["Chirzpa", "Toantom", "Vixpalg"],
+      "element": "Earth"
+    },
+    {
+      "id": "lin",
+      "name": "LIN",
+      "number": 22,
+      "definition": "The Aethyr of divine truth and vision.",
+      "category": "aethyr",
+      "correspondence": "The Sun",
+      "governors": ["Calzirg", "Osidaia", "Paraoan"],
+      "element": "Fire"
+    },
+    {
+      "id": "tor",
+      "name": "TOR",
+      "number": 23,
+      "definition": "The Aethyr of divine labor and becoming.",
+      "category": "aethyr",
+      "correspondence": "The Tower",
+      "governors": ["Onizimp", "Ronoomb", "Zaxanin"],
+      "element": "Fire"
+    },
+    {
+      "id": "nia",
+      "name": "NIA",
+      "number": 24,
+      "definition": "The Aethyr of divine joy and service.",
+      "category": "aethyr",
+      "correspondence": "The Star",
+      "governors": ["Chaslpo", "Orancir", "Soageel"],
+      "element": "Air"
+    },
+    {
+      "id": "zim",
+      "name": "ZIM",
+      "number": 25,
+      "definition": "The Aethyr of divine names and obedience.",
+      "category": "aethyr",
+      "correspondence": "The Emperor",
+      "governors": ["Docepax", "Gecaond", "Laparin"],
+      "element": "Fire"
+    },
+    {
+      "id": "des",
+      "name": "DES",
+      "number": 26,
+      "definition": "The Aethyr of divine time and cycles.",
+      "category": "aethyr",
+      "correspondence": "The Wheel of Fortune",
+      "governors": ["Lazhiim", "Nigrana", "Pophand"],
+      "element": "Fire"
+    },
+    {
+      "id": "zaa",
+      "name": "ZAA",
+      "number": 27,
+      "definition": "The Aethyr of divine speech and power.",
+      "category": "aethyr",
+      "correspondence": "The Emperor",
+      "governors": ["Crpanib", "Mathvla", "Saziami"],
+      "element": "Fire"
+    },
+    {
+      "id": "bag",
+      "name": "BAG",
+      "number": 28,
+      "definition": "The Aethyr of divine governance and authority.",
+      "category": "aethyr",
+      "correspondence": "The Emperor",
+      "governors": ["Oxlopar", "Pabnixp", "Pocisni"],
+      "element": "Fire"
+    },
+    {
+      "id": "rii",
+      "name": "RII",
+      "number": 29,
+      "definition": "The Aethyr of divine mercy and knowledge.",
+      "category": "aethyr",
+      "correspondence": "The Hierophant",
+      "governors": ["Gmtziam", "Odraxti", "Vastrim"],
+      "element": "Earth"
+    },
+    {
+      "id": "tex",
+      "name": "TEX",
+      "number": 30,
+      "definition": "The lowest Aethyr, bridging material and spiritual realms.",
+      "category": "aethyr",
+      "correspondence": "The World (Earth)",
+      "governors": ["Advorpt", "Doxmael", "Gemnimb", "Taoagla"],
+      "element": "Earth"
+    }
+  ]
+} 

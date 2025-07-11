@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "celestial_gold",
+      "name": "Celestial Gold",
+      "category": "color",
+      "definition": "Radiant golden light symbolizing divine wisdom and enlightenment",
+      "combinations": {
+        "primary": "Gold",
+        "secondary": "White",
+        "accent": "Silver"
+      }
+    },
+    {
+      "id": "ethereal_blue",
+      "name": "Ethereal Blue",
+      "category": "color",
+      "definition": "Deep azure tones representing spiritual truth and divine communication",
+      "combinations": {
+        "primary": "Azure",
+        "secondary": "Indigo",
+        "accent": "White"
+      }
+    },
+    {
+      "id": "purifying_white",
+      "name": "Purifying White",
+      "category": "color",
+      "definition": "Pure white light symbolizing divine perfection and clarity",
+      "combinations": {
+        "primary": "White",
+        "secondary": "Pearl",
+        "accent": "Gold"
+      }
+    },
+    {
+      "id": "royal_purple",
+      "name": "Royal Purple",
+      "category": "color",
+      "definition": "Deep purple hues representing divine sovereignty and spiritual power",
+      "combinations": {
+        "primary": "Purple",
+        "secondary": "Violet",
+        "accent": "Gold"
+      }
+    },
+    {
+      "id": "emerald_light",
+      "name": "Emerald Light",
+      "category": "color",
+      "definition": "Vibrant green energy symbolizing growth and divine healing",
+      "combinations": {
+        "primary": "Emerald",
+        "secondary": "Green",
+        "accent": "Gold"
+      }
+    },
+    {
+      "id": "flame_red",
+      "name": "Flame Red",
+      "category": "color",
+      "definition": "Intense red light representing divine passion and transformation",
+      "combinations": {
+        "primary": "Red",
+        "secondary": "Orange",
+        "accent": "Gold"
+      }
+    },
+    {
+      "id": "silver_radiance",
+      "name": "Silver Radiance",
+      "category": "color",
+      "definition": "Reflective silver light symbolizing divine reflection and lunar wisdom",
+      "combinations": {
+        "primary": "Silver",
+        "secondary": "Pearl",
+        "accent": "Blue"
+      }
+    },
+    {
+      "id": "rainbow_light",
+      "name": "Rainbow Light",
+      "category": "color",
+      "definition": "Prismatic display of all colors representing divine completeness",
+      "combinations": {
+        "primary": "Rainbow",
+        "secondary": "White",
+        "accent": "Gold"
+      }
+    },
+    {
+      "id": "obsidian_depth",
+      "name": "Obsidian Depth",
+      "category": "color",
+      "definition": "Deep black with inner light representing divine mysteries",
+      "combinations": {
+        "primary": "Black",
+        "secondary": "Purple",
+        "accent": "Silver"
+      }
+    }
+  ]
+} 

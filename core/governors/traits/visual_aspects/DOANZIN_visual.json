@@ -1,0 +1,35 @@
+{
+  "form": {
+    "name": "Geometric",
+    "description": "A perfect crystalline structure of sacred geometry",
+    "interactions": [
+      "pattern_matching",
+      "crystal_focus",
+      "geometric_alignment"
+    ]
+  },
+  "color": "GOLDEN",
+  "geometry": {
+    "patterns": [
+      "MERKABA",
+      "SPIRAL",
+      "FRACTAL"
+    ],
+    "complexity": 3
+  },
+  "environment": {
+    "effect_type": 1,
+    "radius": 1,
+    "intensity": 3
+  },
+  "time_variations": 36,
+  "energy_signature": 24,
+  "symbol_set": 137,
+  "light_shadow": 126,
+  "special_properties": [
+    69,
+    121,
+    205,
+    40
+  ]
+}

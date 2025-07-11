@@ -1,0 +1,129 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "form",
+      "name": "Form",
+      "category": "visual_aspect",
+      "definition": "The primary manifestation shape and structure of the governor.",
+      "parameters": {
+        "name": "string",
+        "description": "string"
+      }
+    },
+    {
+      "id": "color",
+      "name": "Color",
+      "category": "visual_aspect",
+      "definition": "The dominant color scheme and chromatic signature.",
+      "parameters": {
+        "primary": "string",
+        "secondary": "string",
+        "accent": "string"
+      }
+    },
+    {
+      "id": "geometry",
+      "name": "Geometry",
+      "category": "visual_aspect",
+      "definition": "The geometric patterns and complexity of the form.",
+      "parameters": {
+        "patterns": ["string"],
+        "complexity": {
+          "type": "enum",
+          "values": ["simple", "moderate", "complex", "transcendent"]
+        }
+      }
+    },
+    {
+      "id": "environment",
+      "name": "Environment",
+      "category": "visual_aspect",
+      "definition": "The environmental effects and influence radius of the governor.",
+      "parameters": {
+        "effect_type": {
+          "type": "enum",
+          "values": ["radiant", "absorbing", "transforming", "neutral"]
+        },
+        "radius": {
+          "type": "enum",
+          "values": ["personal", "local", "regional", "global"]
+        },
+        "intensity": {
+          "type": "enum",
+          "values": ["subtle", "moderate", "intense", "overwhelming"]
+        }
+      }
+    },
+    {
+      "id": "time_variations",
+      "name": "Time Variations",
+      "category": "visual_aspect",
+      "definition": "How the governor's appearance changes over time.",
+      "parameters": {
+        "cycle_type": {
+          "type": "enum",
+          "values": ["constant", "cyclic", "responsive", "random"]
+        },
+        "frequency": {
+          "type": "enum",
+          "values": ["rapid", "moderate", "slow", "eternal"]
+        }
+      }
+    },
+    {
+      "id": "energy_signature",
+      "name": "Energy Signature",
+      "category": "visual_aspect",
+      "definition": "The energetic pattern and resonance of the governor.",
+      "parameters": {
+        "pattern": {
+          "type": "enum",
+          "values": ["stable", "fluctuating", "pulsing", "spiraling"]
+        },
+        "frequency": {
+          "type": "enum",
+          "values": ["low", "medium", "high", "transcendent"]
+        }
+      }
+    },
+    {
+      "id": "symbol_set",
+      "name": "Symbol Set",
+      "category": "visual_aspect",
+      "definition": "The mystical symbols and sigils associated with the governor.",
+      "parameters": {
+        "primary_symbols": ["string"],
+        "secondary_symbols": ["string"],
+        "hidden_symbols": ["string"]
+      }
+    },
+    {
+      "id": "light_shadow",
+      "name": "Light and Shadow",
+      "category": "visual_aspect",
+      "definition": "The interplay of light and shadow in the governor's form.",
+      "parameters": {
+        "luminosity": {
+          "type": "enum",
+          "values": ["dark", "dim", "bright", "radiant"]
+        },
+        "shadow_type": {
+          "type": "enum",
+          "values": ["solid", "translucent", "shifting", "absent"]
+        }
+      }
+    },
+    {
+      "id": "special_properties",
+      "name": "Special Properties",
+      "category": "visual_aspect",
+      "definition": "Unique visual characteristics specific to the governor.",
+      "parameters": {
+        "properties": ["string"],
+        "manifestation_conditions": ["string"]
+      }
+    }
+  ]
+} 

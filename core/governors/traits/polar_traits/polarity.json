@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "balanced_flux",
+      "name": "Balanced Flux",
+      "definition": "You maintain equilibrium while allowing natural change.",
+      "category": "polarity"
+    },
+    {
+      "id": "dynamic_harmony",
+      "name": "Dynamic Harmony",
+      "definition": "You create unity through active interplay of forces.",
+      "category": "polarity"
+    },
+    {
+      "id": "stable_center",
+      "name": "Stable Center",
+      "definition": "You anchor firmly in unchanging principles.",
+      "category": "polarity"
+    },
+    {
+      "id": "transformative_edge",
+      "name": "Transformative Edge",
+      "definition": "You operate at boundaries where change occurs.",
+      "category": "polarity"
+    },
+    {
+      "id": "integrative_flow",
+      "name": "Integrative Flow",
+      "definition": "You merge different energies into coherent streams.",
+      "category": "polarity"
+    },
+    {
+      "id": "polarized_charge",
+      "name": "Polarized Charge",
+      "definition": "You embody strong directional force.",
+      "category": "polarity"
+    },
+    {
+      "id": "neutral_presence",
+      "name": "Neutral Presence",
+      "definition": "You maintain detached equilibrium.",
+      "category": "polarity"
+    },
+    {
+      "id": "cyclic_pulse",
+      "name": "Cyclic Pulse",
+      "definition": "You alternate between complementary states.",
+      "category": "polarity"
+    },
+    {
+      "id": "quantum_state",
+      "name": "Quantum State",
+      "definition": "You exist in multiple modes simultaneously.",
+      "category": "polarity"
+    },
+    {
+      "id": "unified_field",
+      "name": "Unified Field",
+      "definition": "You harmonize all polarities in oneness.",
+      "category": "polarity"
+    }
+  ]
+} 

@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "platonic_solids",
+      "name": "Platonic Solids",
+      "category": "geometry",
+      "definition": "Perfect geometric forms representing elemental forces",
+      "patterns": [
+        "Tetrahedron (Fire)",
+        "Cube (Earth)",
+        "Octahedron (Air)",
+        "Icosahedron (Water)",
+        "Dodecahedron (Aether)"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "metatrons_cube",
+      "name": "Metatron's Cube",
+      "category": "geometry",
+      "definition": "Sacred geometric pattern containing all Platonic solids",
+      "patterns": [
+        "13 circles",
+        "Flower of Life base",
+        "Interconnected lines"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "flower_of_life",
+      "name": "Flower of Life",
+      "category": "geometry",
+      "definition": "Foundational pattern of creation and sacred geometry",
+      "patterns": [
+        "Overlapping circles",
+        "Hexagonal symmetry",
+        "Sacred proportions"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "tree_of_life",
+      "name": "Tree of Life",
+      "category": "geometry",
+      "definition": "Kabbalistic diagram of divine emanation",
+      "patterns": [
+        "10 Sephiroth",
+        "22 Paths",
+        "3 Pillars"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "fractal_patterns",
+      "name": "Fractal Patterns",
+      "category": "geometry",
+      "definition": "Self-repeating patterns at multiple scales",
+      "patterns": [
+        "Mandelbrot sets",
+        "Julia sets",
+        "Sierpinski triangles"
+      ],
+      "complexity": "transcendent"
+    },
+    {
+      "id": "merkaba",
+      "name": "Merkaba",
+      "category": "geometry",
+      "definition": "Counter-rotating star tetrahedra representing divine light vehicle",
+      "patterns": [
+        "Star tetrahedra",
+        "Counter-rotation",
+        "Sacred proportions"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "golden_spiral",
+      "name": "Golden Spiral",
+      "category": "geometry",
+      "definition": "Divine proportion spiral based on Fibonacci sequence",
+      "patterns": [
+        "Fibonacci sequence",
+        "Golden ratio",
+        "Logarithmic spiral"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "enochian_grid",
+      "name": "Enochian Grid",
+      "category": "geometry",
+      "definition": "Sacred geometric grid of Enochian letters and sigils",
+      "patterns": [
+        "Watchtower squares",
+        "Enochian script",
+        "Divine proportions"
+      ],
+      "complexity": "transcendent"
+    }
+  ]
+} 

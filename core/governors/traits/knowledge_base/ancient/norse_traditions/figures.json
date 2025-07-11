@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-02T15:26:23.117373",
+  "entries": [
+    {
+      "id": "norse_traditions",
+      "name": "Norse/Germanic Traditions",
+      "category": "tradition_archetype",
+      "definition": "Norse/Germanic Traditions provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "dates": {},
+      "roles": [
+        "Uses Norse/Germanic Traditions principles for empowerment",
+        "Balances authority with wisdom"
+      ],
+      "contributions": [
+        "Norse/Germanic Traditions teaches authentic self-expression in leadership",
+        "Wisdom governance balances authority with compassion",
+        "True power serves the highest good of all beings",
+        "Sacred principles guide ethical decision-making",
+        "Spiritual insight illuminates practical solutions"
+      ],
+      "key_works": [],
+      "attributes": {
+        "governor_essence": "A Norse/Germanic Traditions Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by norse traditions principles.",
+        "conflict_styles": [
+          "Seeks understanding through wisdom application"
+        ],
+        "communication_styles": [
+          "Authentic and wisdom-centered"
+        ],
+        "relationship_approaches": [
+          "Connects through Norse/Germanic Traditions understanding",
+          "Builds trust through authentic wisdom"
+        ]
+      }
+    }
+  ]
+}

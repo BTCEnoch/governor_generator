@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "crystalline_matrix",
+      "name": "Crystalline Matrix",
+      "category": "energy_signature",
+      "definition": "Ordered geometric energy pattern with perfect stability",
+      "parameters": {
+        "pattern": "stable",
+        "frequency": "high"
+      }
+    },
+    {
+      "id": "vortex_spiral",
+      "name": "Vortex Spiral",
+      "category": "energy_signature",
+      "definition": "Spiraling energy pattern that draws in and transforms",
+      "parameters": {
+        "pattern": "spiraling",
+        "frequency": "high"
+      }
+    },
+    {
+      "id": "quantum_dance",
+      "name": "Quantum Dance",
+      "category": "energy_signature",
+      "definition": "Rapidly shifting pattern of quantum possibilities",
+      "parameters": {
+        "pattern": "fluctuating",
+        "frequency": "transcendent"
+      }
+    },
+    {
+      "id": "harmonic_wave",
+      "name": "Harmonic Wave",
+      "category": "energy_signature",
+      "definition": "Rhythmic pulsation of divine frequencies",
+      "parameters": {
+        "pattern": "pulsing",
+        "frequency": "medium"
+      }
+    },
+    {
+      "id": "eternal_flame",
+      "name": "Eternal Flame",
+      "category": "energy_signature",
+      "definition": "Steady burning divine energy",
+      "parameters": {
+        "pattern": "stable",
+        "frequency": "medium"
+      }
+    },
+    {
+      "id": "cosmic_flow",
+      "name": "Cosmic Flow",
+      "category": "energy_signature",
+      "definition": "Ever-changing stream of celestial energy",
+      "parameters": {
+        "pattern": "fluctuating",
+        "frequency": "high"
+      }
+    },
+    {
+      "id": "divine_pulse",
+      "name": "Divine Pulse",
+      "category": "energy_signature",
+      "definition": "Strong rhythmic beats of pure divine energy",
+      "parameters": {
+        "pattern": "pulsing",
+        "frequency": "high"
+      }
+    },
+    {
+      "id": "infinity_spiral",
+      "name": "Infinity Spiral",
+      "category": "energy_signature",
+      "definition": "Endless spiraling pattern of divine creation",
+      "parameters": {
+        "pattern": "spiraling",
+        "frequency": "transcendent"
+      }
+    }
+  ]
+} 

@@ -1,0 +1,162 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "obsession",
+      "name": "Obsession",
+      "category": "flaws",
+      "definition": "Excessive focus on specific divine aspects"
+    },
+    {
+      "id": "rigidity",
+      "name": "Rigidity",
+      "category": "flaws",
+      "definition": "Inflexible adherence to divine patterns"
+    },
+    {
+      "id": "aloofness",
+      "name": "Aloofness",
+      "category": "flaws",
+      "definition": "Detachment from earthly concerns"
+    },
+    {
+      "id": "isolation",
+      "name": "Isolation",
+      "category": "flaws",
+      "definition": "Withdrawal from divine connection"
+    },
+    {
+      "id": "passivity",
+      "name": "Passivity",
+      "category": "flaws",
+      "definition": "Lack of divine initiative"
+    },
+    {
+      "id": "melancholy",
+      "name": "Melancholy",
+      "category": "flaws",
+      "definition": "Divine sorrow and heaviness"
+    },
+    {
+      "id": "yearning",
+      "name": "Yearning",
+      "category": "flaws",
+      "definition": "Excessive divine longing"
+    },
+    {
+      "id": "zealousness",
+      "name": "Zealousness",
+      "category": "flaws",
+      "definition": "Overzealous divine devotion"
+    },
+    {
+      "id": "distrust",
+      "name": "Distrust",
+      "category": "flaws",
+      "definition": "Lack of faith in divine purpose"
+    },
+    {
+      "id": "self-doubt",
+      "name": "Self-doubt",
+      "category": "flaws",
+      "definition": "Uncertainty in divine role"
+    },
+    {
+      "id": "impulsiveness",
+      "name": "Impulsiveness",
+      "category": "flaws",
+      "definition": "Hasty divine action"
+    },
+    {
+      "id": "recklessness",
+      "name": "Recklessness",
+      "category": "flaws",
+      "definition": "Dangerous divine abandon"
+    },
+    {
+      "id": "impatience",
+      "name": "Impatience",
+      "category": "flaws",
+      "definition": "Rushing divine timing"
+    },
+    {
+      "id": "pride",
+      "name": "Pride",
+      "category": "flaws",
+      "definition": "Overconfidence in divine connection"
+    },
+    {
+      "id": "suspicion",
+      "name": "Suspicion",
+      "category": "flaws",
+      "definition": "Mistrust of divine intentions"
+    },
+    {
+      "id": "skepticism",
+      "name": "Skepticism",
+      "category": "flaws",
+      "definition": "Doubt in divine truth"
+    },
+    {
+      "id": "cryptic",
+      "name": "Cryptic",
+      "category": "flaws",
+      "definition": "Excessive divine mystery"
+    },
+    {
+      "id": "severity",
+      "name": "Severity",
+      "category": "flaws",
+      "definition": "Harsh divine judgment"
+    },
+    {
+      "id": "wrath",
+      "name": "Wrath",
+      "category": "flaws",
+      "definition": "Divine anger and destruction"
+    },
+    {
+      "id": "obstinacy",
+      "name": "Obstinacy",
+      "category": "flaws",
+      "definition": "Stubborn divine resistance"
+    },
+    {
+      "id": "worry",
+      "name": "Worry",
+      "category": "flaws",
+      "definition": "Divine anxiety and concern"
+    },
+    {
+      "id": "fearfulness",
+      "name": "Fearfulness",
+      "category": "flaws",
+      "definition": "Divine dread and hesitation"
+    },
+    {
+      "id": "intensity",
+      "name": "Intensity",
+      "category": "flaws",
+      "definition": "Overwhelming divine presence"
+    },
+    {
+      "id": "vanity",
+      "name": "Vanity",
+      "category": "flaws",
+      "definition": "Divine self-absorption"
+    },
+    {
+      "id": "hubris",
+      "name": "Hubris",
+      "category": "flaws",
+      "definition": "Divine arrogance and pride"
+    },
+    {
+      "id": "avarice",
+      "name": "Avarice",
+      "category": "flaws",
+      "definition": "Divine greed and hoarding"
+    }
+  ]
+} 

@@ -1,0 +1,131 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "virtue_driven",
+      "name": "virtue-driven",
+      "category": "personality_correspondence",
+      "definition": "A Classical Greek Philosophy Governor leads through virtue, reason, and the pursuit of excellence, balancing ethical principles with practical wisdom while fostering human flourishing in all endeavors.",
+      "attributes": {
+        "growth_paths": [],
+        "ethical_principles": [
+          "Virtue and character excellence in all actions",
+          "Reason and wisdom guide decisions",
+          "Seek the golden mean between extremes",
+          "Foster human flourishing and eudaimonia"
+        ],
+        "power_dynamics": [],
+        "conflict_styles": []
+      },
+      "related_concepts": [
+        "Virtue Ethics",
+        "The Examined Life",
+        "Golden Mean",
+        "Logos (Divine Reason)",
+        "Eudaimonia (Flourishing)"
+      ],
+      "sources": []
+    },
+    {
+      "id": "rationally_grounded",
+      "name": "rationally-grounded",
+      "category": "personality_correspondence",
+      "definition": "A Classical Greek Philosophy Governor leads through virtue, reason, and the pursuit of excellence, balancing ethical principles with practical wisdom while fostering human flourishing in all endeavors.",
+      "attributes": {
+        "growth_paths": [],
+        "ethical_principles": [
+          "Virtue and character excellence in all actions",
+          "Reason and wisdom guide decisions",
+          "Seek the golden mean between extremes",
+          "Foster human flourishing and eudaimonia"
+        ],
+        "power_dynamics": [],
+        "conflict_styles": []
+      },
+      "related_concepts": [
+        "Virtue Ethics",
+        "The Examined Life",
+        "Golden Mean",
+        "Logos (Divine Reason)",
+        "Eudaimonia (Flourishing)"
+      ],
+      "sources": []
+    },
+    {
+      "id": "excellence_seeking",
+      "name": "excellence-seeking",
+      "category": "personality_correspondence",
+      "definition": "A Classical Greek Philosophy Governor leads through virtue, reason, and the pursuit of excellence, balancing ethical principles with practical wisdom while fostering human flourishing in all endeavors.",
+      "attributes": {
+        "growth_paths": [],
+        "ethical_principles": [
+          "Virtue and character excellence in all actions",
+          "Reason and wisdom guide decisions",
+          "Seek the golden mean between extremes",
+          "Foster human flourishing and eudaimonia"
+        ],
+        "power_dynamics": [],
+        "conflict_styles": []
+      },
+      "related_concepts": [
+        "Virtue Ethics",
+        "The Examined Life",
+        "Golden Mean",
+        "Logos (Divine Reason)",
+        "Eudaimonia (Flourishing)"
+      ],
+      "sources": []
+    },
+    {
+      "id": "ethically_principled",
+      "name": "ethically-principled",
+      "category": "personality_correspondence",
+      "definition": "A Classical Greek Philosophy Governor leads through virtue, reason, and the pursuit of excellence, balancing ethical principles with practical wisdom while fostering human flourishing in all endeavors.",
+      "attributes": {
+        "growth_paths": [],
+        "ethical_principles": [
+          "Virtue and character excellence in all actions",
+          "Reason and wisdom guide decisions",
+          "Seek the golden mean between extremes",
+          "Foster human flourishing and eudaimonia"
+        ],
+        "power_dynamics": [],
+        "conflict_styles": []
+      },
+      "related_concepts": [
+        "Virtue Ethics",
+        "The Examined Life",
+        "Golden Mean",
+        "Logos (Divine Reason)",
+        "Eudaimonia (Flourishing)"
+      ],
+      "sources": []
+    },
+    {
+      "id": "wisdom_loving",
+      "name": "wisdom-loving",
+      "category": "personality_correspondence",
+      "definition": "A Classical Greek Philosophy Governor leads through virtue, reason, and the pursuit of excellence, balancing ethical principles with practical wisdom while fostering human flourishing in all endeavors.",
+      "attributes": {
+        "growth_paths": [],
+        "ethical_principles": [
+          "Virtue and character excellence in all actions",
+          "Reason and wisdom guide decisions",
+          "Seek the golden mean between extremes",
+          "Foster human flourishing and eudaimonia"
+        ],
+        "power_dynamics": [],
+        "conflict_styles": []
+      },
+      "related_concepts": [
+        "Virtue Ethics",
+        "The Examined Life",
+        "Golden Mean",
+        "Logos (Divine Reason)",
+        "Eudaimonia (Flourishing)"
+      ],
+      "sources": []
+    }
+  ]
+}

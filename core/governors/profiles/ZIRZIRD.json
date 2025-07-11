@@ -1,0 +1,79 @@
+{
+  "governor_name": "ZIRZIRD",
+  "session_id": "ZIRZIRD_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.716860",
+  "persona": {
+    "name": "ZIRZIRD",
+    "title": "'He who was and will be'",
+    "element": "Fire",
+    "aethyr": "MAZ",
+    "essence": "In ZIRZIRD's presence, the cosmic ledger turns epochs are tallied on starry wheels with unwavering precision.",
+    "angelic_role": "Angel of Eternal Cycle; guides solar warriors.",
+    "knowledge_base": [
+      "astrology",
+      "hermetic_philosophy",
+      "numerology",
+      "sacred_geometry",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Analytical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Chronicler",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Discernment",
+        "Mindfulness",
+        "Perseverance"
+      ],
+      "flaws": [
+        "Obsession",
+        "Aloofness",
+        "Rigidity"
+      ]
+    },
+    "approaches": {
+      "bad": "Testing",
+      "average": "Observing",
+      "good": "Prophesying"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Analytical",
+      "good": "Philosophical"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "ZIRZIRD"
+}

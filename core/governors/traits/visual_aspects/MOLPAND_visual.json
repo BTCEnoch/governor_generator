@@ -1,0 +1,35 @@
+{
+  "form": {
+    "name": "Geometric",
+    "description": "A perfect crystalline structure of sacred geometry",
+    "interactions": [
+      "pattern_matching",
+      "crystal_focus",
+      "geometric_alignment"
+    ]
+  },
+  "color": "AZURE",
+  "geometry": {
+    "patterns": [
+      "METATRON",
+      "SPIRAL",
+      "FRACTAL"
+    ],
+    "complexity": 3
+  },
+  "environment": {
+    "effect_type": 3,
+    "radius": 2,
+    "intensity": 4
+  },
+  "time_variations": 62,
+  "energy_signature": 199,
+  "symbol_set": 27,
+  "light_shadow": 53,
+  "special_properties": [
+    5,
+    12,
+    142,
+    169
+  ]
+}

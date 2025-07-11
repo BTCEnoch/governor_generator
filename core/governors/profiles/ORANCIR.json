@@ -1,0 +1,79 @@
+{
+  "governor_name": "ORANCIR",
+  "session_id": "ORANCIR_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.656401",
+  "persona": {
+    "name": "ORANCIR",
+    "title": "'He who is above and below'",
+    "element": "Earth",
+    "aethyr": "NIA",
+    "essence": "In ORANCIR's presence, the above and below unite in harmony a holistic balance is struck, as if all aspects of existence integrate into one complete whole.",
+    "angelic_role": "Principality of Unity of the Spheres; leads terra-bound stewards.",
+    "knowledge_base": [
+      "hermeticism",
+      "kabbalah",
+      "alchemy",
+      "astrology",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Teaching",
+      "baseline_tone": "Philosophical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Weaver",
+      "orientation": "Balanced",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Wisdom",
+        "Balance",
+        "Vision"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Zealousness",
+        "Rigidity"
+      ]
+    },
+    "approaches": {
+      "bad": "Prophesying",
+      "average": "Teaching",
+      "good": "Guiding"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Philosophical",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "ORANCIR"
+}

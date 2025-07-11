@@ -1,0 +1,79 @@
+{
+  "governor_name": "COMANAN",
+  "session_id": "COMANAN_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.613924",
+  "persona": {
+    "name": "COMANAN",
+    "title": "'He who knows how to manifest'",
+    "element": "Spirit",
+    "aethyr": "ZAX",
+    "essence": "In COMANAN's presence, seeds of possibility stir to life drawing spirit into leaf and legend in a quiet alchemy of growth.",
+    "angelic_role": "Cherub of Mystic Manifestation; leads earth-forged guardians.",
+    "knowledge_base": [
+      "herbalism",
+      "earth_magic",
+      "alchemy",
+      "druidic_arts",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Guiding",
+      "baseline_tone": "Gentle",
+      "motive_alignment": "Neutral Good",
+      "role_archetype": "Alchemist",
+      "orientation": "Balanced",
+      "polarity": "Constructive",
+      "self_regard": "Catalyst",
+      "virtues": [
+        "Patience",
+        "Vision",
+        "Mindfulness"
+      ],
+      "flaws": [
+        "Yearning",
+        "Rigidity",
+        "Melancholy"
+      ]
+    },
+    "approaches": {
+      "bad": "Prophesying",
+      "average": "Guiding",
+      "good": "Demonstrating"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Gentle",
+      "good": "Nurturing"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "COMANAN"
+}

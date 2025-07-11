@@ -1,0 +1,79 @@
+{
+  "governor_name": "RANGLAM",
+  "session_id": "RANGLAM_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.672401",
+  "persona": {
+    "name": "RANGLAM",
+    "title": "'He who governs his thoughts'",
+    "element": "Earth",
+    "aethyr": "VTI",
+    "essence": "As RANGLAM approaches, a monk-like stillness prevails mind and body align under strict self-discipline, and contemplation becomes as natural as breath.",
+    "angelic_role": "Throne of Monastic Mind; marshals iron-winged legionaries.",
+    "knowledge_base": [
+      "buddhism",
+      "zen_meditation",
+      "vedanta",
+      "contemplative_christianity",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Analytical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Master",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Stoic",
+      "virtues": [
+        "Mindfulness",
+        "Self-control",
+        "Discernment"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Aloofness",
+        "Zealousness"
+      ]
+    },
+    "approaches": {
+      "bad": "Testing",
+      "average": "Observing",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Analytical",
+      "good": "Philosophical"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "RANGLAM"
+}

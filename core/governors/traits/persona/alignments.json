@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "lawful_neutral",
+      "name": "Lawful Neutral",
+      "category": "alignments",
+      "definition": "Maintains cosmic law without bias"
+    },
+    {
+      "id": "true_neutral",
+      "name": "True Neutral",
+      "category": "alignments",
+      "definition": "Maintains perfect balance in all things"
+    },
+    {
+      "id": "neutral_good",
+      "name": "Neutral Good",
+      "category": "alignments",
+      "definition": "Promotes harmony while remaining flexible"
+    },
+    {
+      "id": "lawful_good",
+      "name": "Lawful Good",
+      "category": "alignments",
+      "definition": "Upholds divine order for the benefit of all"
+    },
+    {
+      "id": "chaotic_good",
+      "name": "Chaotic Good",
+      "category": "alignments",
+      "definition": "Creates positive change through divine inspiration"
+    },
+    {
+      "id": "true_neutral_(maintaining_natural_balance)",
+      "name": "True Neutral (maintaining natural balance)",
+      "category": "alignments",
+      "definition": "Maintains perfect balance in all things - Specifically maintaining natural balance"
+    },
+    {
+      "id": "chaotic_neutral",
+      "name": "Chaotic Neutral",
+      "category": "alignments",
+      "definition": "Embodies divine unpredictability"
+    },
+    {
+      "id": "neutral_evil",
+      "name": "Neutral Evil",
+      "category": "alignments",
+      "definition": "Serves self-interest over divine purpose"
+    }
+  ]
+} 

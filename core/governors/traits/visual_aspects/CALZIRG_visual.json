@@ -1,0 +1,33 @@
+{
+  "form": {
+    "name": "Geometric",
+    "description": "A perfect crystalline structure of sacred geometry",
+    "interactions": [
+      "pattern_matching",
+      "crystal_focus",
+      "geometric_alignment"
+    ]
+  },
+  "color": "EMERALD",
+  "geometry": {
+    "patterns": [
+      "SPIRAL"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 4,
+    "radius": 1,
+    "intensity": 3
+  },
+  "time_variations": 236,
+  "energy_signature": 25,
+  "symbol_set": 93,
+  "light_shadow": 166,
+  "special_properties": [
+    222,
+    78,
+    89,
+    223
+  ]
+}

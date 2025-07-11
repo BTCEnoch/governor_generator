@@ -1,0 +1,28 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "SILVER",
+  "geometry": {
+    "patterns": [
+      "FLOWER_OF_LIFE"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 2,
+    "radius": 0,
+    "intensity": 3
+  },
+  "time_variations": 109,
+  "energy_signature": 61,
+  "symbol_set": 11,
+  "light_shadow": 196,
+  "special_properties": [
+    73,
+    156,
+    118,
+    201
+  ]
+}

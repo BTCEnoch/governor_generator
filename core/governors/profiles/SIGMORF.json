@@ -1,0 +1,79 @@
+{
+  "governor_name": "SIGMORF",
+  "session_id": "SIGMORF_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.679622",
+  "persona": {
+    "name": "SIGMORF",
+    "title": "'He who visits the darkness'",
+    "element": "Air",
+    "aethyr": "TAN",
+    "essence": "In SIGMORF's presence, fear melts away in steady flame a fearless aura that forges fearless resolve and lights introspection with strength.",
+    "angelic_role": "Dominion of Fearless Resolve; guides celestial hosts.",
+    "knowledge_base": [
+      "hermetic_mysticism",
+      "kabbalah",
+      "alchemy",
+      "shamanic_practices",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Testing",
+      "baseline_tone": "Intense",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Provocateur",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Courage",
+        "Fortitude",
+        "Valor"
+      ],
+      "flaws": [
+        "Intensity",
+        "Zealousness",
+        "Aloofness"
+      ]
+    },
+    "approaches": {
+      "bad": "Challenging",
+      "average": "Testing",
+      "good": "Encouraging"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Intense",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "SIGMORF"
+}

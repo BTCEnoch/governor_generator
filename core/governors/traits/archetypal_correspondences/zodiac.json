@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "aries",
+      "name": "Aries",
+      "definition": "Divine spark, initiating force, spiritual warrior.",
+      "category": "zodiac",
+      "element": "Fire",
+      "angel": "Malchidael"
+    },
+    {
+      "id": "taurus",
+      "name": "Taurus",
+      "definition": "Divine form, manifestation, sacred earth.",
+      "category": "zodiac",
+      "element": "Earth",
+      "angel": "Asmodel"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "definition": "Divine communication, duality, sacred knowledge.",
+      "category": "zodiac",
+      "element": "Air",
+      "angel": "Ambriel"
+    },
+    {
+      "id": "cancer",
+      "name": "Cancer",
+      "definition": "Divine nurturing, soul memory, sacred waters.",
+      "category": "zodiac",
+      "element": "Water",
+      "angel": "Muriel"
+    },
+    {
+      "id": "leo",
+      "name": "Leo",
+      "definition": "Divine radiance, spiritual royalty, sacred heart.",
+      "category": "zodiac",
+      "element": "Fire",
+      "angel": "Verchiel"
+    },
+    {
+      "id": "virgo",
+      "name": "Virgo",
+      "definition": "Divine service, purification, sacred work.",
+      "category": "zodiac",
+      "element": "Earth",
+      "angel": "Hamaliel"
+    },
+    {
+      "id": "libra",
+      "name": "Libra",
+      "definition": "Divine balance, harmony, sacred justice.",
+      "category": "zodiac",
+      "element": "Air",
+      "angel": "Zuriel"
+    },
+    {
+      "id": "scorpio",
+      "name": "Scorpio",
+      "definition": "Divine transformation, mystery, sacred death.",
+      "category": "zodiac",
+      "element": "Water",
+      "angel": "Barchiel"
+    },
+    {
+      "id": "sagittarius",
+      "name": "Sagittarius",
+      "definition": "Divine vision, expansion, sacred quest.",
+      "category": "zodiac",
+      "element": "Fire",
+      "angel": "Advachiel"
+    },
+    {
+      "id": "capricorn",
+      "name": "Capricorn",
+      "definition": "Divine structure, mastery, sacred law.",
+      "category": "zodiac",
+      "element": "Earth",
+      "angel": "Hanael"
+    },
+    {
+      "id": "aquarius",
+      "name": "Aquarius",
+      "definition": "Divine innovation, freedom, sacred future.",
+      "category": "zodiac",
+      "element": "Air",
+      "angel": "Cambriel"
+    },
+    {
+      "id": "pisces",
+      "name": "Pisces",
+      "definition": "Divine unity, dissolution, sacred ocean.",
+      "category": "zodiac",
+      "element": "Water",
+      "angel": "Amnitziel"
+    }
+  ]
+} 

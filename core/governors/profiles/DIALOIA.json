@@ -1,0 +1,79 @@
+{
+  "governor_name": "DIALOIA",
+  "session_id": "DIALOIA_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.618925",
+  "persona": {
+    "name": "DIALOIA",
+    "title": "'The god where truth is'",
+    "element": "Water",
+    "aethyr": "ARN",
+    "essence": "When DIALOIA is near, truth stands revealed: her presence is the embodied Logos, enthroned wherever clarity reigns.",
+    "angelic_role": "Power of Enthroned Truth; commands rain-crowned heralds.",
+    "knowledge_base": [
+      "hermetic_philosophy",
+      "kabbalah",
+      "neoplatonism",
+      "gnosticism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Questioning",
+      "baseline_tone": "Analytical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "High Priestess",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Discernment",
+        "Honesty",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Rigidity",
+        "Skepticism"
+      ]
+    },
+    "approaches": {
+      "bad": "Testing",
+      "average": "Questioning",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Analytical",
+      "good": "Direct"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "DIALOIA"
+}

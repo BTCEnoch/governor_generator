@@ -1,0 +1,79 @@
+{
+  "governor_name": "ZAFASAI",
+  "session_id": "ZAFASAI_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.711859",
+  "persona": {
+    "name": "ZAFASAI",
+    "title": "'He who is in emptiness'",
+    "element": "Air",
+    "aethyr": "ZEN",
+    "essence": "In ZAFASAI's presence, solitude feels sacred the air grows still and serene, inviting a detached peace that softens every edge of being.",
+    "angelic_role": "Archangel of Sacred Solitude; marshals resplendent watchers.",
+    "knowledge_base": [
+      "zen_buddhism",
+      "hermetic_mysticism",
+      "contemplative_christianity",
+      "vedanta",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Questioning",
+      "baseline_tone": "Reflective",
+      "motive_alignment": "True Neutral",
+      "role_archetype": "Mirror",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Aloof",
+      "virtues": [
+        "Mindfulness",
+        "Equanimity",
+        "Discernment"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Isolation",
+        "Melancholy"
+      ]
+    },
+    "approaches": {
+      "bad": "Observing",
+      "average": "Questioning",
+      "good": "Guiding"
+    },
+    "tones": {
+      "bad": "Cool",
+      "average": "Reflective",
+      "good": "Gentle"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "ZAFASAI"
+}

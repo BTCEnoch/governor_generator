@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "angelic_humanoid",
+      "name": "Angelic Humanoid",
+      "category": "form",
+      "definition": "A luminous humanoid figure with ethereal wings and flowing robes",
+      "variants": [
+        "Multiple pairs of wings",
+        "Geometric halos",
+        "Crystalline features"
+      ]
+    },
+    {
+      "id": "geometric_energy",
+      "name": "Geometric Energy",
+      "category": "form",
+      "definition": "Pure energy manifesting in sacred geometric patterns",
+      "variants": [
+        "Platonic solids",
+        "Fractal patterns",
+        "Merkaba structures"
+      ]
+    },
+    {
+      "id": "elemental_force",
+      "name": "Elemental Force",
+      "category": "form",
+      "definition": "Pure manifestation of elemental energy (fire, water, air, earth, aether)",
+      "variants": [
+        "Flame vortexes",
+        "Water spirals",
+        "Air currents",
+        "Crystal formations",
+        "Light matrices"
+      ]
+    },
+    {
+      "id": "celestial_body",
+      "name": "Celestial Body",
+      "category": "form",
+      "definition": "Manifestation as a cosmic or celestial phenomenon",
+      "variants": [
+        "Star clusters",
+        "Nebulae",
+        "Planetary forms",
+        "Cosmic storms"
+      ]
+    },
+    {
+      "id": "composite_being",
+      "name": "Composite Being",
+      "category": "form",
+      "definition": "Multiple forms merged into a harmonious whole",
+      "variants": [
+        "Animal-human hybrids",
+        "Element-geometry fusions",
+        "Multi-dimensional overlays"
+      ]
+    },
+    {
+      "id": "abstract_presence",
+      "name": "Abstract Presence",
+      "category": "form",
+      "definition": "Non-physical manifestation of pure divine energy",
+      "variants": [
+        "Light patterns",
+        "Energy fields",
+        "Vibrational forms"
+      ]
+    },
+    {
+      "id": "symbolic_manifestation",
+      "name": "Symbolic Manifestation",
+      "category": "form",
+      "definition": "Form composed of living mystical symbols and sigils",
+      "variants": [
+        "Hebrew letters",
+        "Enochian script",
+        "Alchemical symbols"
+      ]
+    }
+  ]
+} 

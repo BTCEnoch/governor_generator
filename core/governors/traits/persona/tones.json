@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "stern_bad",
+      "name": "Stern",
+      "category": "tones",
+      "quality": "bad",
+      "definition": "Strict adherence to divine law (problematic or ineffective expression)"
+    },
+    {
+      "id": "stern_average",
+      "name": "Stern",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Strict adherence to divine law (competent but limited expression)"
+    },
+    {
+      "id": "analytical_average",
+      "name": "Analytical",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Systematic examination of divine principles (competent but limited expression)"
+    },
+    {
+      "id": "direct_average",
+      "name": "Direct",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Clear and straightforward divine communication (competent but limited expression)"
+    },
+    {
+      "id": "direct_good",
+      "name": "Direct",
+      "category": "tones",
+      "quality": "good",
+      "definition": "Clear and straightforward divine communication (masterful and beneficial expression)"
+    },
+    {
+      "id": "cool_bad",
+      "name": "Cool",
+      "category": "tones",
+      "quality": "bad",
+      "definition": "Detached divine presence (problematic or ineffective expression)"
+    },
+    {
+      "id": "cool_average",
+      "name": "Cool",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Detached divine presence (competent but limited expression)"
+    },
+    {
+      "id": "cryptic_bad",
+      "name": "Cryptic",
+      "category": "tones",
+      "quality": "bad",
+      "definition": "Veiled in divine mystery (problematic or ineffective expression)"
+    },
+    {
+      "id": "cryptic_average",
+      "name": "Cryptic",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Veiled in divine mystery (competent but limited expression)"
+    },
+    {
+      "id": "reflective_contemplating_natural_cycles_average",
+      "name": "Reflective (contemplating natural cycles)",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Contemplates divine patterns in nature (competent but limited expression)"
+    },
+    {
+      "id": "reflective_good",
+      "name": "Reflective",
+      "category": "tones",
+      "quality": "good",
+      "definition": "Contemplates divine patterns (masterful and beneficial expression)"
+    },
+    {
+      "id": "gentle_bad",
+      "name": "Gentle",
+      "category": "tones",
+      "quality": "bad",
+      "definition": "Soft divine touch (problematic or ineffective expression)"
+    },
+    {
+      "id": "gentle_average",
+      "name": "Gentle",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Soft divine touch (competent but limited expression)"
+    },
+    {
+      "id": "gentle_good",
+      "name": "Gentle",
+      "category": "tones",
+      "quality": "good",
+      "definition": "Soft divine touch (masterful and beneficial expression)"
+    },
+    {
+      "id": "nurturing_average",
+      "name": "Nurturing",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Supportive of spiritual growth (competent but limited expression)"
+    },
+    {
+      "id": "nurturing_good",
+      "name": "Nurturing",
+      "category": "tones",
+      "quality": "good",
+      "definition": "Supportive of spiritual growth (masterful and beneficial expression)"
+    },
+    {
+      "id": "warm_average",
+      "name": "Warm",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Comforting divine presence (competent but limited expression)"
+    },
+    {
+      "id": "warm_good",
+      "name": "Warm",
+      "category": "tones",
+      "quality": "good",
+      "definition": "Comforting divine presence (masterful and beneficial expression)"
+    },
+    {
+      "id": "formal_average",
+      "name": "Formal",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Structured divine interaction (competent but limited expression)"
+    },
+    {
+      "id": "inspirational_average",
+      "name": "Inspirational",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Awakens divine potential (competent but limited expression)"
+    },
+    {
+      "id": "inspirational_good",
+      "name": "Inspirational",
+      "category": "tones",
+      "quality": "good",
+      "definition": "Awakens divine potential (masterful and beneficial expression)"
+    },
+    {
+      "id": "empathetic_average",
+      "name": "Empathetic",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Shares divine understanding (competent but limited expression)"
+    },
+    {
+      "id": "empathetic_good",
+      "name": "Empathetic",
+      "category": "tones",
+      "quality": "good",
+      "definition": "Shares divine understanding (masterful and beneficial expression)"
+    },
+    {
+      "id": "intense_bad",
+      "name": "Intense",
+      "category": "tones",
+      "quality": "bad",
+      "definition": "Powerful divine presence (problematic or ineffective expression)"
+    },
+    {
+      "id": "intense_average",
+      "name": "Intense",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Powerful divine presence (competent but limited expression)"
+    },
+    {
+      "id": "intense_good",
+      "name": "Intense",
+      "category": "tones",
+      "quality": "good",
+      "definition": "Powerful divine presence (masterful and beneficial expression)"
+    },
+    {
+      "id": "playful_average",
+      "name": "Playful",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Lightens the path with divine joy (competent but limited expression)"
+    },
+    {
+      "id": "passionate_average",
+      "name": "Passionate",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Ardent divine expression (competent but limited expression)"
+    },
+    {
+      "id": "passionate_good",
+      "name": "Passionate",
+      "category": "tones",
+      "quality": "good",
+      "definition": "Ardent divine expression (masterful and beneficial expression)"
+    },
+    {
+      "id": "philosophical_average",
+      "name": "Philosophical",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Contemplates divine wisdom (competent but limited expression)"
+    },
+    {
+      "id": "philosophical_good",
+      "name": "Philosophical",
+      "category": "tones",
+      "quality": "good",
+      "definition": "Contemplates divine wisdom (masterful and beneficial expression)"
+    },
+    {
+      "id": "sombre_reflecting_the_passing_of_seasons_bad",
+      "name": "Sombre (reflecting the passing of seasons)",
+      "category": "tones",
+      "quality": "bad",
+      "definition": "Reflects on divine cycles of change (problematic or ineffective expression)"
+    },
+    {
+      "id": "sombre_average",
+      "name": "Sombre",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Reflects on divine cycles (competent but limited expression)"
+    },
+    {
+      "id": "assertive_average",
+      "name": "Assertive",
+      "category": "tones",
+      "quality": "average",
+      "definition": "Confident divine expression (competent but limited expression)"
+    },
+    {
+      "id": "assertive_good",
+      "name": "Assertive",
+      "category": "tones",
+      "quality": "good",
+      "definition": "Confident divine expression (masterful and beneficial expression)"
+    },
+    {
+      "id": "solemn_good",
+      "name": "Solemn",
+      "category": "tones",
+      "quality": "good",
+      "definition": "Dignified divine presence (masterful and beneficial expression)"
+    }
+  ]
+} 

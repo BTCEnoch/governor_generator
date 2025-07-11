@@ -24,7 +24,7 @@ from core.questlines.story_tree import (
     StoryNodeState,
     StoryRequirement
 )
-from core.governors.profiler.core.enhanced_profile_analyzer import EnhancedGovernorProfile
+from core.governors.profiles.analyzer import EnhancedProfile
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -70,7 +70,7 @@ class QuestGenerator:
         
     def generate_quest_line(
         self,
-        governor_profile: EnhancedGovernorProfile,
+        governor_profile: EnhancedProfile,
         config: QuestGenerationConfig
     ) -> StoryTree:
         """Generate a complete quest line"""
@@ -105,7 +105,7 @@ class QuestGenerator:
         self,
         story_tree: StoryTree,
         parent_id: str,
-        profile: EnhancedGovernorProfile,
+        profile: EnhancedProfile,
         config: QuestGenerationConfig
     ) -> None:
         """Generate a single linear quest"""
@@ -140,7 +140,7 @@ class QuestGenerator:
         self,
         story_tree: StoryTree,
         parent_id: str,
-        profile: EnhancedGovernorProfile,
+        profile: EnhancedProfile,
         config: QuestGenerationConfig
     ) -> None:
         """Generate a quest with choice-based branches"""
@@ -207,7 +207,7 @@ class QuestGenerator:
         self,
         story_tree: StoryTree,
         parent_id: str,
-        profile: EnhancedGovernorProfile,
+        profile: EnhancedProfile,
         config: QuestGenerationConfig
     ) -> None:
         """Generate a quest with condition-based paths"""
@@ -274,7 +274,7 @@ class QuestGenerator:
         self,
         story_tree: StoryTree,
         parent_id: str,
-        profile: EnhancedGovernorProfile,
+        profile: EnhancedProfile,
         config: QuestGenerationConfig
     ) -> None:
         """Generate a series of connected quests"""
@@ -340,7 +340,7 @@ class QuestGenerator:
         self,
         story_tree: StoryTree,
         parent_id: str,
-        profile: EnhancedGovernorProfile,
+        profile: EnhancedProfile,
         config: QuestGenerationConfig
     ) -> None:
         """Generate a multi-governor quest chain"""

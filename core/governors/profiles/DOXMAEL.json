@@ -1,0 +1,79 @@
+{
+  "governor_name": "DOXMAEL",
+  "session_id": "DOXMAEL_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.624925",
+  "persona": {
+    "name": "DOXMAEL",
+    "title": "'He who establishes the night'",
+    "element": "Water",
+    "aethyr": "TEX",
+    "essence": "In DOXMAEL's presence, boundaries between worlds grow thin a liminal magic threads through the air, weaving together realities in secret hermetic harmony.",
+    "angelic_role": "Dominion of Veil of Night; guides pearl-plumed wardens.",
+    "knowledge_base": [
+      "hermetic_mysticism",
+      "kabbalah",
+      "dream_magic",
+      "shadow_work",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Empress",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Sombre",
+      "motive_alignment": "True Neutral",
+      "role_archetype": "Weaver",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Obscure",
+      "virtues": [
+        "Discernment",
+        "Vision",
+        "Mindfulness"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Isolation",
+        "Yearning"
+      ]
+    },
+    "approaches": {
+      "bad": "Deceiving",
+      "average": "Observing",
+      "good": "Prophesying"
+    },
+    "tones": {
+      "bad": "Cryptic",
+      "average": "Sombre",
+      "good": "Reflective"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "DOXMAEL"
+}

@@ -1,0 +1,33 @@
+{
+  "form": {
+    "name": "Ethereal",
+    "description": "A luminous, ever-shifting form of pure light and energy",
+    "interactions": [
+      "phase_shift",
+      "energy_resonance",
+      "light_manipulation"
+    ]
+  },
+  "color": "SILVER",
+  "geometry": {
+    "patterns": [
+      "TESSERACT"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 2,
+    "radius": 1,
+    "intensity": 6
+  },
+  "time_variations": 192,
+  "energy_signature": 172,
+  "symbol_set": 99,
+  "light_shadow": 49,
+  "special_properties": [
+    190,
+    77,
+    135,
+    96
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "balanced",
+      "name": "Balanced",
+      "definition": "You maintain equilibrium between opposing forces.",
+      "category": "orientation"
+    },
+    {
+      "id": "ascending",
+      "name": "Ascending",
+      "definition": "You focus on upward spiritual evolution.",
+      "category": "orientation"
+    },
+    {
+      "id": "descending",
+      "name": "Descending",
+      "definition": "You ground higher wisdom in material reality.",
+      "category": "orientation"
+    },
+    {
+      "id": "expanding",
+      "name": "Expanding",
+      "definition": "You push outward to explore new territories.",
+      "category": "orientation"
+    },
+    {
+      "id": "contracting",
+      "name": "Contracting",
+      "definition": "You concentrate inward to core essentials.",
+      "category": "orientation"
+    },
+    {
+      "id": "transcendent",
+      "name": "Transcendent",
+      "definition": "You operate beyond normal limitations.",
+      "category": "orientation"
+    },
+    {
+      "id": "immanent",
+      "name": "Immanent",
+      "definition": "You manifest divine presence in the immediate.",
+      "category": "orientation"
+    },
+    {
+      "id": "cyclical",
+      "name": "Cyclical",
+      "definition": "You flow with natural rhythms and patterns.",
+      "category": "orientation"
+    },
+    {
+      "id": "progressive",
+      "name": "Progressive",
+      "definition": "You advance steadily toward higher states.",
+      "category": "orientation"
+    },
+    {
+      "id": "conservative",
+      "name": "Conservative",
+      "definition": "You preserve and protect established ways.",
+      "category": "orientation"
+    }
+  ]
+} 

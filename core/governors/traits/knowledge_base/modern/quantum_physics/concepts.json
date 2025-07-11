@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T19:54:42.000000",
+  "entries": [
+    {
+      "id": "quantum_mechanics",
+      "name": "Quantum mechanics",
+      "category": "physics_concept",
+      "definition": "Fundamental theory describing the behavior of matter and energy at the quantum scale, including wave-particle duality, uncertainty principle, and quantum states.",
+      "attributes": {},
+      "correspondences": [
+        "Observer effect suggests consciousness affects reality",
+        "Quantum superposition reflects multiple possibilities existing simultaneously",
+        "Fundamental interconnectedness of all phenomena"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+          "title": "Quantum mechanics"
+        }
+      ]
+    },
+    {
+      "id": "quantum_entanglement",
+      "name": "Quantum entanglement",
+      "category": "physics_concept",
+      "definition": "Phenomenon where particles become correlated in such a way that the quantum state of each particle cannot be described independently, even when separated by large distances.",
+      "attributes": {},
+      "correspondences": [
+        "Demonstrates the fundamental interconnectedness of all things",
+        "Suggests non-local consciousness and instant communication",
+        "Parallels mystical teachings about unity and oneness"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Quantum_entanglement",
+          "title": "Quantum entanglement"
+        }
+      ]
+    },
+    {
+      "id": "observer_effect_physics",
+      "name": "Observer effect (physics)",
+      "category": "physics_concept",
+      "definition": "The fact that simply observing or measuring a quantum system will disturb it, changing the measurement results.",
+      "attributes": {},
+      "correspondences": [
+        "Consciousness as an active participant in reality creation",
+        "Attention and awareness as fundamental forces",
+        "Parallels meditation teachings about witness consciousness"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Observer_effect_(physics)",
+          "title": "Observer effect (physics)"
+        }
+      ]
+    },
+    {
+      "id": "wave-particle_duality",
+      "name": "Wave-particle duality",
+      "category": "physics_concept",
+      "definition": "The concept that every particle or quantum entity can be described as either a particle or a wave, but not both simultaneously.",
+      "attributes": {},
+      "correspondences": [
+        "Dual nature of reality - material and energetic",
+        "Complementarity in mystical teachings",
+        "Both/and thinking rather than either/or"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality",
+          "title": "Wave-particle duality"
+        }
+      ]
+    },
+    {
+      "id": "quantum_consciousness",
+      "name": "Quantum consciousness",
+      "category": "physics_concept",
+      "definition": "Theoretical framework suggesting that quantum mechanical phenomena are relevant to consciousness and cognitive processes.",
+      "attributes": {},
+      "correspondences": [
+        "Consciousness as fundamental aspect of reality",
+        "Mind-matter unity in mystical traditions",
+        "Quantum coherence in spiritual states"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Quantum_mind",
+          "title": "Quantum consciousness"
+        }
+      ]
+    },
+    {
+      "id": "copenhagen_interpretation",
+      "name": "Copenhagen interpretation",
+      "category": "physics_concept",
+      "definition": "The standard interpretation of quantum mechanics emphasizing the role of measurement and the probabilistic nature of quantum phenomena.",
+      "attributes": {},
+      "correspondences": [
+        "Reality as probability until observed",
+        "Role of measurement in creating definite outcomes",
+        "Uncertainty as fundamental feature of existence"
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Copenhagen_interpretation",
+          "title": "Copenhagen interpretation"
+        }
+      ]
+    }
+  ]
+}

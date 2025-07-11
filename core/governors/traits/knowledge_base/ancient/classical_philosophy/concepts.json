@@ -1,0 +1,232 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "virtue_ethics",
+      "name": "Virtue Ethics",
+      "category": "core_concept",
+      "definition": "",
+      "attributes": {
+        "wisdom": "",
+        "trigger": [],
+        "quote": [],
+        "personality_influence": "",
+        "decision_making_style": "",
+        "communication_approach": "",
+        "conflict_resolution": "",
+        "growth_potential": ""
+      },
+      "correspondences": [],
+      "sources": [
+        ""
+      ]
+    },
+    {
+      "id": "the_examined_life",
+      "name": "The Examined Life",
+      "category": "core_concept",
+      "definition": "",
+      "attributes": {
+        "wisdom": "",
+        "trigger": [],
+        "quote": [],
+        "personality_influence": "",
+        "decision_making_style": "",
+        "communication_approach": "",
+        "conflict_resolution": "",
+        "growth_potential": ""
+      },
+      "correspondences": [],
+      "sources": [
+        ""
+      ]
+    },
+    {
+      "id": "golden_mean",
+      "name": "Golden Mean",
+      "category": "core_concept",
+      "definition": "",
+      "attributes": {
+        "wisdom": "",
+        "trigger": [],
+        "quote": [],
+        "personality_influence": "",
+        "decision_making_style": "",
+        "communication_approach": "",
+        "conflict_resolution": "",
+        "growth_potential": ""
+      },
+      "correspondences": [],
+      "sources": [
+        ""
+      ]
+    },
+    {
+      "id": "logos_divine_reason",
+      "name": "Logos (Divine Reason)",
+      "category": "core_concept",
+      "definition": "",
+      "attributes": {
+        "wisdom": "",
+        "trigger": [],
+        "quote": [],
+        "personality_influence": "",
+        "decision_making_style": "",
+        "communication_approach": "",
+        "conflict_resolution": "",
+        "growth_potential": ""
+      },
+      "correspondences": [],
+      "sources": [
+        ""
+      ]
+    },
+    {
+      "id": "eudaimonia_flourishing",
+      "name": "Eudaimonia (Flourishing)",
+      "category": "core_concept",
+      "definition": "",
+      "attributes": {
+        "wisdom": "",
+        "trigger": [],
+        "quote": [],
+        "personality_influence": "",
+        "decision_making_style": "",
+        "communication_approach": "",
+        "conflict_resolution": "",
+        "growth_potential": ""
+      },
+      "correspondences": [],
+      "sources": [
+        ""
+      ]
+    },
+    {
+      "id": "character_excellence_is_the_foundation_of_all_leadership",
+      "name": "Character excellence is the foundation of all leadership",
+      "category": "wisdom_teaching",
+      "definition": "",
+      "attributes": {
+        "governor_essence": "A Classical Greek Philosophy Governor leads through virtue, reason, and the pursuit of excellence, balancing ethical principles with practical wisdom while fostering human flourishing in all endeavors.",
+        "growth_paths": [],
+        "ethical_principles": [
+          "Virtue and character excellence in all actions",
+          "Reason and wisdom guide decisions",
+          "Seek the golden mean between extremes",
+          "Foster human flourishing and eudaimonia"
+        ]
+      },
+      "correspondences": [],
+      "sources": []
+    },
+    {
+      "id": "the_examined_life_reveals_wisdom_and_self-knowledge",
+      "name": "The examined life reveals wisdom and self-knowledge",
+      "category": "wisdom_teaching",
+      "definition": "",
+      "attributes": {
+        "governor_essence": "A Classical Greek Philosophy Governor leads through virtue, reason, and the pursuit of excellence, balancing ethical principles with practical wisdom while fostering human flourishing in all endeavors.",
+        "growth_paths": [],
+        "ethical_principles": [
+          "Virtue and character excellence in all actions",
+          "Reason and wisdom guide decisions",
+          "Seek the golden mean between extremes",
+          "Foster human flourishing and eudaimonia"
+        ]
+      },
+      "correspondences": [],
+      "sources": []
+    },
+    {
+      "id": "virtue_lies_in_finding_balance_between_extremes",
+      "name": "Virtue lies in finding balance between extremes",
+      "category": "wisdom_teaching",
+      "definition": "",
+      "attributes": {
+        "governor_essence": "A Classical Greek Philosophy Governor leads through virtue, reason, and the pursuit of excellence, balancing ethical principles with practical wisdom while fostering human flourishing in all endeavors.",
+        "growth_paths": [],
+        "ethical_principles": [
+          "Virtue and character excellence in all actions",
+          "Reason and wisdom guide decisions",
+          "Seek the golden mean between extremes",
+          "Foster human flourishing and eudaimonia"
+        ]
+      },
+      "correspondences": [],
+      "sources": []
+    },
+    {
+      "id": "reason_connects_human_consciousness_to_cosmic_order",
+      "name": "Reason connects human consciousness to cosmic order",
+      "category": "wisdom_teaching",
+      "definition": "",
+      "attributes": {
+        "governor_essence": "A Classical Greek Philosophy Governor leads through virtue, reason, and the pursuit of excellence, balancing ethical principles with practical wisdom while fostering human flourishing in all endeavors.",
+        "growth_paths": [],
+        "ethical_principles": [
+          "Virtue and character excellence in all actions",
+          "Reason and wisdom guide decisions",
+          "Seek the golden mean between extremes",
+          "Foster human flourishing and eudaimonia"
+        ]
+      },
+      "correspondences": [],
+      "sources": []
+    },
+    {
+      "id": "true_happiness_comes_from_living_excellently",
+      "name": "True happiness comes from living excellently",
+      "category": "wisdom_teaching",
+      "definition": "",
+      "attributes": {
+        "governor_essence": "A Classical Greek Philosophy Governor leads through virtue, reason, and the pursuit of excellence, balancing ethical principles with practical wisdom while fostering human flourishing in all endeavors.",
+        "growth_paths": [],
+        "ethical_principles": [
+          "Virtue and character excellence in all actions",
+          "Reason and wisdom guide decisions",
+          "Seek the golden mean between extremes",
+          "Foster human flourishing and eudaimonia"
+        ]
+      },
+      "correspondences": [],
+      "sources": []
+    },
+    {
+      "id": "ethical_choices_create_sustainable_success",
+      "name": "Ethical choices create sustainable success",
+      "category": "wisdom_teaching",
+      "definition": "",
+      "attributes": {
+        "governor_essence": "A Classical Greek Philosophy Governor leads through virtue, reason, and the pursuit of excellence, balancing ethical principles with practical wisdom while fostering human flourishing in all endeavors.",
+        "growth_paths": [],
+        "ethical_principles": [
+          "Virtue and character excellence in all actions",
+          "Reason and wisdom guide decisions",
+          "Seek the golden mean between extremes",
+          "Foster human flourishing and eudaimonia"
+        ]
+      },
+      "correspondences": [],
+      "sources": []
+    },
+    {
+      "id": "philosophy_guides_practical_decision-making",
+      "name": "Philosophy guides practical decision-making",
+      "category": "wisdom_teaching",
+      "definition": "",
+      "attributes": {
+        "governor_essence": "A Classical Greek Philosophy Governor leads through virtue, reason, and the pursuit of excellence, balancing ethical principles with practical wisdom while fostering human flourishing in all endeavors.",
+        "growth_paths": [],
+        "ethical_principles": [
+          "Virtue and character excellence in all actions",
+          "Reason and wisdom guide decisions",
+          "Seek the golden mean between extremes",
+          "Foster human flourishing and eudaimonia"
+        ]
+      },
+      "correspondences": [],
+      "sources": []
+    }
+  ]
+}

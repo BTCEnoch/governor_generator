@@ -1,0 +1,150 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "enochian_scrying",
+      "name": "Enochian Scrying",
+      "category": "divination",
+      "definition": "The art of receiving visions and communications from Enochian angels through crystal or mirror gazing.",
+      "parent_tradition": "enochian_magic",
+      "key_skills": [
+        "crystal gazing",
+        "angelic invocation",
+        "vision interpretation"
+      ]
+    },
+    {
+      "id": "aethyr_exploration",
+      "name": "Aethyr Exploration",
+      "category": "spiritual_travel",
+      "definition": "The practice of exploring and understanding the 30 Aethyric realms of Enochian cosmology.",
+      "parent_tradition": "enochian_magic",
+      "key_skills": [
+        "spiritual navigation",
+        "governor interaction",
+        "realm interpretation"
+      ]
+    },
+    {
+      "id": "qabalistic_pathworking",
+      "name": "Qabalistic Pathworking",
+      "category": "mystical_practice",
+      "definition": "The systematic exploration of the Tree of Life paths for spiritual development.",
+      "parent_tradition": "hermetic_qabalah",
+      "key_skills": [
+        "path visualization",
+        "divine name vibration",
+        "sephirotic meditation"
+      ]
+    },
+    {
+      "id": "angelic_evocation",
+      "name": "Angelic Evocation",
+      "category": "ceremonial_magic",
+      "definition": "The practice of calling and communicating with angelic beings through ritual means.",
+      "parent_tradition": "golden_dawn",
+      "key_skills": [
+        "ritual construction",
+        "divine name pronunciation",
+        "protective circle creation"
+      ]
+    },
+    {
+      "id": "elemental_magic",
+      "name": "Elemental Magic",
+      "category": "natural_magic",
+      "definition": "Working with the four elements and their corresponding forces and beings.",
+      "parent_tradition": "golden_dawn",
+      "key_skills": [
+        "elemental invocation",
+        "tool consecration",
+        "force balancing"
+      ]
+    },
+    {
+      "id": "true_will_discovery",
+      "name": "True Will Discovery",
+      "category": "spiritual_development",
+      "definition": "Techniques for uncovering and aligning with one's divine purpose.",
+      "parent_tradition": "thelema",
+      "key_skills": [
+        "meditation",
+        "magical record keeping",
+        "synchronicity interpretation"
+      ]
+    },
+    {
+      "id": "nature_communion",
+      "name": "Nature Communion",
+      "category": "nature_magic",
+      "definition": "Direct spiritual connection with natural forces and beings.",
+      "parent_tradition": "celtic_druidic",
+      "key_skills": [
+        "tree meditation",
+        "land blessing",
+        "seasonal attunement"
+      ]
+    },
+    {
+      "id": "sacred_geometry_application",
+      "name": "Sacred Geometry Application",
+      "category": "universal_practice",
+      "definition": "The practical application of geometric principles in spiritual work.",
+      "parent_tradition": "sacred_geometry",
+      "key_skills": [
+        "mandala creation",
+        "geometric visualization",
+        "proportion analysis"
+      ]
+    },
+    {
+      "id": "quantum_consciousness",
+      "name": "Quantum Consciousness Work",
+      "category": "modern_practice",
+      "definition": "Applying quantum principles to consciousness exploration and reality manipulation.",
+      "parent_tradition": "quantum_physics",
+      "key_skills": [
+        "observer effect utilization",
+        "quantum meditation",
+        "reality tunneling"
+      ]
+    },
+    {
+      "id": "egyptian_temple_magic",
+      "name": "Egyptian Temple Magic",
+      "category": "ceremonial_magic",
+      "definition": "Ancient Egyptian practices of divine invocation and temple ceremony.",
+      "parent_tradition": "egyptian_magic",
+      "key_skills": [
+        "hieroglyphic power",
+        "temple orientation",
+        "divine alignment"
+      ]
+    },
+    {
+      "id": "hermetic_alchemy",
+      "name": "Hermetic Alchemy",
+      "category": "transformation_practice",
+      "definition": "The spiritual art of transformation through hermetic principles.",
+      "parent_tradition": "hermetic_qabalah",
+      "key_skills": [
+        "principle application",
+        "symbolic interpretation",
+        "energy transformation"
+      ]
+    },
+    {
+      "id": "angelic_language",
+      "name": "Angelic Language",
+      "category": "divine_communication",
+      "definition": "The study and use of Enochian language for divine communication.",
+      "parent_tradition": "enochian_magic",
+      "key_skills": [
+        "pronunciation",
+        "call recitation",
+        "tablet working"
+      ]
+    }
+  ]
+} 

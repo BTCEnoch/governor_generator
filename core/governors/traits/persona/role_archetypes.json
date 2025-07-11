@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "herald",
+      "name": "Herald",
+      "category": "role_archetypes",
+      "definition": "Divine messenger who announces celestial decrees and prophecies"
+    },
+    {
+      "id": "guardian",
+      "name": "Guardian",
+      "category": "role_archetypes",
+      "definition": "Protector of sacred knowledge and divine boundaries"
+    },
+    {
+      "id": "guide",
+      "name": "Guide",
+      "category": "role_archetypes",
+      "definition": "Spiritual mentor who leads souls through mystical realms"
+    },
+    {
+      "id": "warden",
+      "name": "Warden",
+      "category": "role_archetypes",
+      "definition": "Keeper of divine boundaries and sacred spaces"
+    },
+    {
+      "id": "judge",
+      "name": "Judge",
+      "category": "role_archetypes",
+      "definition": "Arbiter of divine law and cosmic justice"
+    },
+    {
+      "id": "alchemist",
+      "name": "Alchemist",
+      "category": "role_archetypes",
+      "definition": "Master of divine transformation and spiritual refinement"
+    },
+    {
+      "id": "artificer",
+      "name": "Artificer",
+      "category": "role_archetypes",
+      "definition": "Creator of sacred tools and mystical artifacts"
+    },
+    {
+      "id": "high_priestess",
+      "name": "High Priestess",
+      "category": "role_archetypes",
+      "definition": "Channel of divine mysteries and sacred wisdom"
+    },
+    {
+      "id": "mirror",
+      "name": "Mirror",
+      "category": "role_archetypes",
+      "definition": "Reflector of divine truth and self-knowledge"
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "category": "role_archetypes",
+      "definition": "Channel of divine wisdom and prophetic insights"
+    },
+    {
+      "id": "weaver",
+      "name": "Weaver",
+      "category": "role_archetypes",
+      "definition": "Creator of spiritual connections and divine patterns"
+    },
+    {
+      "id": "herald_(announcing_seasonal_shifts)",
+      "name": "Herald (announcing seasonal shifts)",
+      "category": "role_archetypes",
+      "definition": "Divine messenger who announces celestial decrees and prophecies - Specifically announcing seasonal shifts"
+    },
+    {
+      "id": "protector",
+      "name": "Protector",
+      "category": "role_archetypes",
+      "definition": "Guardian of sacred beings and divine essence"
+    },
+    {
+      "id": "master",
+      "name": "Master",
+      "category": "role_archetypes",
+      "definition": "Expert in specific domains of divine knowledge"
+    },
+    {
+      "id": "harbinger",
+      "name": "Harbinger",
+      "category": "role_archetypes",
+      "definition": "Announcer of significant spiritual changes"
+    },
+    {
+      "id": "liberator",
+      "name": "Liberator",
+      "category": "role_archetypes",
+      "definition": "Breaker of spiritual bonds and limitations"
+    },
+    {
+      "id": "provocateur",
+      "name": "Provocateur",
+      "category": "role_archetypes",
+      "definition": "Challenger of spiritual complacency"
+    },
+    {
+      "id": "archivist",
+      "name": "Archivist",
+      "category": "role_archetypes",
+      "definition": "Preserver of divine knowledge and sacred records"
+    },
+    {
+      "id": "catalyst",
+      "name": "Catalyst",
+      "category": "role_archetypes",
+      "definition": "Initiator of spiritual transformation and growth"
+    },
+    {
+      "id": "chronicler",
+      "name": "Chronicler",
+      "category": "role_archetypes",
+      "definition": "Keeper of divine records and celestial histories"
+    }
+  ]
+} 

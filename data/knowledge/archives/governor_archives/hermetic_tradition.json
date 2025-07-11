@@ -1,0 +1,155 @@
+{
+  "schema_version": "1.0.0",
+  "tradition_name": "hermetic_tradition",
+  "display_name": "Hermetic Tradition",
+  "last_updated": "2024-03-21T00:00:00Z",
+  "description": "The philosophical and magical tradition attributed to Hermes Trismegistus, synthesizing Egyptian wisdom, Greek philosophy, and practical alchemy.",
+  "core_principles": [
+    {
+      "id": "hermetic_principle_mentalism",
+      "title": "The Principle of Mentalism",
+      "summary": "The All is Mind; the Universe is Mental.",
+      "content": "The first Hermetic principle establishes that all of reality is mental in nature, created by universal consciousness. The Universe exists as a mental creation within the mind of THE ALL. This principle forms the foundation for all magical and transformative work, as it implies that by changing our mental state, we can affect reality itself.",
+      "tags": ["mentalism", "mind", "consciousness", "creation"],
+      "related_concepts": ["universal_mind", "mental_transmutation", "thought_power"],
+      "source_url": "https://sacred-texts.com/eso/kyb/",
+      "quality": "HIGH"
+    },
+    {
+      "id": "hermetic_principle_correspondence",
+      "title": "The Principle of Correspondence",
+      "summary": "As above, so below; as below, so above.",
+      "content": "This principle states that there is always a correspondence between the planes of existence. What happens on one level of reality also occurs on other levels. This principle enables magical work by establishing the connection between mental, physical, and spiritual planes. The famous axiom 'As above, so below' encapsulates this law.",
+      "tags": ["correspondence", "planes", "reflection", "microcosm", "macrocosm"],
+      "related_concepts": ["planes_of_existence", "magical_correspondence", "reflection"],
+      "source_url": "https://sacred-texts.com/eso/kyb/",
+      "quality": "HIGH"
+    },
+    {
+      "id": "hermetic_principle_vibration",
+      "title": "The Principle of Vibration",
+      "summary": "Nothing rests; everything moves; everything vibrates.",
+      "content": "The third principle reveals that everything in the Universe is in constant motion at various rates of vibration. Even seemingly solid matter is vibrating at some frequency. This principle explains phenomena from dense matter to the finest forms of energy. Understanding and working with vibration is key to magical and alchemical operations.",
+      "tags": ["vibration", "motion", "energy", "frequency"],
+      "related_concepts": ["energy_work", "sound_magic", "transmutation"],
+      "source_url": "https://sacred-texts.com/eso/kyb/",
+      "quality": "HIGH"
+    },
+    {
+      "id": "hermetic_principle_polarity",
+      "title": "The Principle of Polarity",
+      "summary": "Everything is dual; everything has poles; everything has its pair of opposites.",
+      "content": "This principle explains that opposites are identical in nature but different in degree. Hot and cold are simply varying degrees of temperature. This understanding allows for mental transmutation - changing vibrations from one pole to another. All paradoxes may be reconciled through this principle.",
+      "tags": ["polarity", "duality", "opposites", "balance"],
+      "related_concepts": ["transmutation", "alchemy", "reconciliation"],
+      "source_url": "https://sacred-texts.com/eso/kyb/",
+      "quality": "HIGH"
+    },
+    {
+      "id": "hermetic_principle_rhythm",
+      "title": "The Principle of Rhythm",
+      "summary": "Everything flows, out and in; everything has its tides; all things rise and fall.",
+      "content": "The fifth principle describes the cyclical nature of all things. This manifests as cycles, phases, stages of development, and the pendulum swing of emotions and circumstances. Understanding rhythm allows one to position oneself to work with these natural cycles rather than against them.",
+      "tags": ["rhythm", "cycles", "tides", "flow"],
+      "related_concepts": ["cycles_of_nature", "timing", "natural_law"],
+      "source_url": "https://sacred-texts.com/eso/kyb/",
+      "quality": "HIGH"
+    },
+    {
+      "id": "hermetic_principle_cause_effect",
+      "title": "The Principle of Cause and Effect",
+      "summary": "Every Cause has its Effect; every Effect has its Cause.",
+      "content": "This principle states that nothing happens by chance - there is a cause for every effect and an effect for every cause. Understanding this allows one to rise from being a mere effect of causes to becoming a cause in itself. This principle is crucial for magical operations and personal development.",
+      "tags": ["causation", "karma", "action", "consequence"],
+      "related_concepts": ["karma", "magical_causation", "will"],
+      "source_url": "https://sacred-texts.com/eso/kyb/",
+      "quality": "HIGH"
+    },
+    {
+      "id": "hermetic_principle_gender",
+      "title": "The Principle of Gender",
+      "summary": "Gender is in everything; everything has its Masculine and Feminine principles.",
+      "content": "The final principle explains that gender manifests on all planes - not just the physical. The Masculine and Feminine principles work together in generation and creation. This principle operates in mental and spiritual planes as well as physical, explaining how new thoughts and ideas are generated.",
+      "tags": ["gender", "masculine", "feminine", "creation"],
+      "related_concepts": ["creative_force", "generation", "balance"],
+      "source_url": "https://sacred-texts.com/eso/kyb/",
+      "quality": "HIGH"
+    }
+  ],
+  "core_concepts": [
+    {
+      "id": "hermetic_emerald_tablet",
+      "title": "The Emerald Tablet",
+      "summary": "The foundational text of Hermetic philosophy and alchemy.",
+      "content": "The Emerald Tablet (Tabula Smaragdina) contains the essence of Hermetic philosophy in a brief, symbolic text. Its most famous axiom 'That which is above is like that which is below' establishes the principle of correspondence. The tablet describes the nature of creation, the relationship between microcosm and macrocosm, and the process of alchemical transformation.",
+      "tags": ["emerald_tablet", "alchemy", "transformation"],
+      "related_concepts": ["correspondence", "alchemy", "transformation"],
+      "source_url": "https://sacred-texts.com/alc/emerald.htm",
+      "quality": "HIGH"
+    },
+    {
+      "id": "hermetic_great_work",
+      "title": "The Great Work",
+      "summary": "The ultimate goal of Hermetic practice - spiritual and material perfection.",
+      "content": "The Great Work (Magnum Opus) is the process of transmutation leading to the creation of the Philosopher's Stone. This represents both physical alchemy (transmutation of metals) and spiritual alchemy (transformation of the soul). The stages of the work - nigredo (blackening), albedo (whitening), citrinitas (yellowing), and rubedo (reddening) - represent stages of spiritual development.",
+      "tags": ["great_work", "alchemy", "transformation", "philosopher_stone"],
+      "related_concepts": ["alchemy", "transformation", "spiritual_development"],
+      "source_url": "https://sacred-texts.com/alc/emerald.htm",
+      "quality": "HIGH"
+    }
+  ],
+  "practices": [
+    {
+      "id": "hermetic_meditation",
+      "title": "Hermetic Meditation",
+      "summary": "Mental practices for understanding and applying Hermetic principles.",
+      "content": "Hermetic meditation involves contemplation of principles, visualization of symbols, and mental transmutation exercises. Practitioners work with the principle of mentalism to change their mental states and thereby affect their reality. This includes exercises like the Middle Pillar, visualization of alchemical processes, and contemplation of correspondences.",
+      "tags": ["meditation", "mental_work", "visualization"],
+      "related_concepts": ["mentalism", "visualization", "transformation"],
+      "source_url": "https://sacred-texts.com/eso/kyb/",
+      "quality": "HIGH"
+    },
+    {
+      "id": "practical_alchemy",
+      "title": "Practical Alchemy",
+      "summary": "The practical application of Hermetic principles in laboratory work.",
+      "content": "Practical alchemy involves working with physical substances to understand and demonstrate Hermetic principles. This includes spagyric preparation of plant medicines, work with metals and minerals, and creation of alchemical tinctures. The physical work parallels and supports inner spiritual transformation.",
+      "tags": ["alchemy", "laboratory", "transformation"],
+      "related_concepts": ["great_work", "transformation", "medicine"],
+      "source_url": "https://sacred-texts.com/alc/emerald.htm",
+      "quality": "HIGH"
+    }
+  ],
+  "cross_references": {
+    "kabbalah": [
+      "tree_of_life",
+      "four_worlds",
+      "divine_names"
+    ],
+    "enochian": [
+      "elemental_tablets",
+      "angelic_hierarchy",
+      "divine_names"
+    ],
+    "golden_dawn": [
+      "ritual_magic",
+      "correspondences",
+      "grade_system"
+    ]
+  },
+  "metadata": {
+    "total_entries": 11,
+    "quality_metrics": {
+      "source_count": 4,
+      "primary_sources": 3,
+      "academic_sources": 1,
+      "content_quality": "HIGH",
+      "completion_status": "COMPLETE"
+    },
+    "extraction_info": {
+      "last_extracted": "2024-03-21T00:00:00Z",
+      "extractor_version": "1.0.0",
+      "validation_status": "PASSED"
+    }
+  }
+} 

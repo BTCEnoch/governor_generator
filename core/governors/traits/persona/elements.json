@@ -1,0 +1,174 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "fire",
+      "name": "Fire",
+      "definition": "The element of transformation, will, and divine inspiration.",
+      "category": "element",
+      "direction": "south",
+      "season": "summer",
+      "time": "noon",
+      "tool": "wand",
+      "color": "red",
+      "qualities": [
+        "transformative",
+        "energetic", 
+        "purifying"
+      ],
+      "governor_attributes": [
+        "passionate",
+        "inspiring",
+        "dynamic"
+      ],
+      "domains": [
+        "transformation",
+        "will",
+        "inspiration"
+      ],
+      "magical_beings": "salamanders",
+      "archangel": "Michael"
+    },
+    {
+      "id": "water",
+      "name": "Water", 
+      "definition": "The element of emotion, intuition, and healing.",
+      "category": "element",
+      "direction": "west",
+      "season": "autumn",
+      "time": "sunset",
+      "tool": "cup",
+      "color": "blue",
+      "qualities": [
+        "flowing",
+        "cleansing",
+        "intuitive"
+      ],
+      "governor_attributes": [
+        "empathic",
+        "healing",
+        "receptive"
+      ],
+      "domains": [
+        "emotion",
+        "healing",
+        "divination"
+      ],
+      "magical_beings": "undines",
+      "archangel": "Gabriel"
+    },
+    {
+      "id": "air",
+      "name": "Air",
+      "definition": "The element of intellect, communication, and movement.",
+      "category": "element", 
+      "direction": "east",
+      "season": "spring",
+      "time": "dawn",
+      "tool": "dagger",
+      "color": "yellow",
+      "qualities": [
+        "intellectual",
+        "communicative",
+        "swift"
+      ],
+      "governor_attributes": [
+        "analytical",
+        "communicative",
+        "strategic"
+      ],
+      "domains": [
+        "knowledge",
+        "communication",
+        "movement"
+      ],
+      "magical_beings": "sylphs",
+      "archangel": "Raphael"
+    },
+    {
+      "id": "earth",
+      "name": "Earth",
+      "definition": "The element of manifestation, stability, and grounding.",
+      "category": "element",
+      "direction": "north", 
+      "season": "winter",
+      "time": "midnight",
+      "tool": "pentacle",
+      "color": "green",
+      "qualities": [
+        "stable",
+        "nurturing",
+        "manifesting"
+      ],
+      "governor_attributes": [
+        "grounding",
+        "practical",
+        "reliable"
+      ],
+      "domains": [
+        "manifestation",
+        "abundance",
+        "protection"
+      ],
+      "magical_beings": "gnomes",
+      "archangel": "Uriel"
+    },
+    {
+      "id": "spirit",
+      "name": "Spirit",
+      "definition": "The quintessential element that unifies and transcends the other four.",
+      "category": "element",
+      "direction": "center",
+      "season": "all",
+      "time": "timeless",
+      "tool": "lamp",
+      "color": "white",
+      "qualities": [
+        "unifying",
+        "transcendent",
+        "eternal"
+      ],
+      "governor_attributes": [
+        "illuminated",
+        "transcendent",
+        "divine"
+      ],
+      "domains": [
+        "unity",
+        "transcendence",
+        "divine_connection"
+      ],
+      "magical_beings": "devas",
+      "archangel": "Metatron"
+    },
+    {
+      "id": "void",
+      "name": "Void",
+      "definition": "The element of potential and the abyss, representing both nothingness and infinite possibility.",
+      "category": "element",
+      "direction": "beyond",
+      "season": "none",
+      "time": "eternal",
+      "tool": "obsidian",
+      "color": "black",
+      "qualities": [
+        "empty",
+        "potential",
+        "infinite"
+      ],
+      "governor_attributes": [
+        "mysterious",
+        "profound",
+        "limitless"
+      ],
+      "domains": [
+        "potential",
+        "mystery",
+        "transformation"
+      ],
+      "magical_beings": "void_spirits",
+      "archangel": "Raziel"
+    }
+  ]
+} 

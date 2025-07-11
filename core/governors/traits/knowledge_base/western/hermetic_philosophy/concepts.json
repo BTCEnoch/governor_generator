@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-02T15:16:09.073557",
+  "entries": [
+    {
+      "id": "hermes_trismegistus_and_hermetic_tradition",
+      "name": "Hermes Trismegistus and Hermetic Tradition",
+      "category": "core_concept",
+      "definition": "Legendary figure attributed with founding Hermetic philosophy and alchemy",
+      "attributes": {
+        "wisdom": "Hermes Trismegistus ('Thrice-Greatest Hermes') is the legendary author of the Hermetic Corpus, a collection of philosophical and religious texts that form the foundation of Hermeticism. These writings...",
+        "trigger": [
+          "Hermes Trismegistus",
+          "ancient wisdom",
+          "philosophical foundation"
+        ],
+        "quote": [
+          "Through Hermes Trismegistus and Hermetic Tradition we find deeper understanding.",
+          "The path of Hermetic Philosophy reveals truth through hermes trismegistus and hermetic tradition."
+        ],
+        "personality_influence": "Influences Hermetic Philosophy governors through hermes trismegistus and hermetic tradition",
+        "decision_making_style": "Principled through universal laws",
+        "communication_approach": "Analogical and correspondence-based",
+        "conflict_resolution": "Applies universal principles to find balance",
+        "growth_potential": "Through understanding hermes trismegistus and hermetic tradition"
+      },
+      "correspondences": [],
+      "sources": [
+        "Hermetic Philosophy"
+      ]
+    },
+    {
+      "id": "the_emerald_tablet",
+      "name": "The Emerald Tablet",
+      "category": "core_concept",
+      "definition": "Foundational alchemical text containing core Hermetic principles",
+      "attributes": {
+        "wisdom": "The Emerald Tablet is the most famous Hermetic text, containing the fundamental principles of alchemy and spiritual transformation. Its central axiom 'As above, so below' expresses the correspondence ...",
+        "trigger": [
+          "as above so below",
+          "alchemical transformation",
+          "universal principles"
+        ],
+        "quote": [
+          "Through The Emerald Tablet we find deeper understanding.",
+          "The path of Hermetic Philosophy reveals truth through the emerald tablet."
+        ],
+        "personality_influence": "Influences Hermetic Philosophy governors through the emerald tablet",
+        "decision_making_style": "Principled through universal laws",
+        "communication_approach": "Analogical and correspondence-based",
+        "conflict_resolution": "Applies universal principles to find balance",
+        "growth_potential": "Through understanding the emerald tablet"
+      },
+      "correspondences": [],
+      "sources": [
+        "Hermetic Philosophy"
+      ]
+    },
+    {
+      "id": "seven_hermetic_principles",
+      "name": "Seven Hermetic Principles",
+      "category": "core_concept",
+      "definition": "Core philosophical laws governing reality according to Hermetic teaching",
+      "attributes": {
+        "wisdom": "The Seven Hermetic Principles are fundamental laws that govern all existence: Mentalism (all is mind), Correspondence (as above, so below), Vibration (nothing rests), Polarity (everything is dual), Rh...",
+        "trigger": [
+          "universal laws",
+          "philosophical principles",
+          "reality structure"
+        ],
+        "quote": [
+          "Through Seven Hermetic Principles we find deeper understanding.",
+          "The path of Hermetic Philosophy reveals truth through seven hermetic principles."
+        ],
+        "personality_influence": "Influences Hermetic Philosophy governors through seven hermetic principles",
+        "decision_making_style": "Principled through universal laws",
+        "communication_approach": "Analogical and correspondence-based",
+        "conflict_resolution": "Applies universal principles to find balance",
+        "growth_potential": "Through understanding seven hermetic principles"
+      },
+      "correspondences": [],
+      "sources": [
+        "Hermetic Philosophy"
+      ]
+    },
+    {
+      "id": "principle_of_mentalism",
+      "name": "Principle of Mentalism",
+      "category": "core_concept",
+      "definition": "The universe is mental in nature, existing as thoughts in the Universal Mind",
+      "attributes": {
+        "wisdom": "The Principle of Mentalism states 'THE ALL IS MIND; The Universe is Mental.' This principle establishes that all of reality is fundamentally mental in nature, created and sustained by universal consci...",
+        "trigger": [
+          "universal mind",
+          "mental creation",
+          "consciousness primary"
+        ],
+        "quote": [
+          "Through Principle of Mentalism we find deeper understanding.",
+          "The path of Hermetic Philosophy reveals truth through principle of mentalism."
+        ],
+        "personality_influence": "Influences Hermetic Philosophy governors through principle of mentalism",
+        "decision_making_style": "Principled through universal laws",
+        "communication_approach": "Analogical and correspondence-based",
+        "conflict_resolution": "Applies universal principles to find balance",
+        "growth_potential": "Through understanding principle of mentalism"
+      },
+      "correspondences": [],
+      "sources": [
+        "Hermetic Philosophy"
+      ]
+    },
+    {
+      "id": "principle_of_correspondence",
+      "name": "Principle of Correspondence",
+      "category": "core_concept",
+      "definition": "Harmony between different planes of existence enables understanding",
+      "attributes": {
+        "wisdom": "The Principle of Correspondence reveals the harmony between the Mental, Astral, and Physical planes of existence. By understanding patterns on one plane, we can comprehend similar patterns on other pl...",
+        "trigger": [
+          "macrocosm microcosm",
+          "three planes",
+          "analogical thinking"
+        ],
+        "quote": [
+          "Through Principle of Correspondence we find deeper understanding.",
+          "The path of Hermetic Philosophy reveals truth through principle of correspondence."
+        ],
+        "personality_influence": "Influences Hermetic Philosophy governors through principle of correspondence",
+        "decision_making_style": "Principled through universal laws",
+        "communication_approach": "Analogical and correspondence-based",
+        "conflict_resolution": "Applies universal principles to find balance",
+        "growth_potential": "Through understanding principle of correspondence"
+      },
+      "correspondences": [],
+      "sources": [
+        "Hermetic Philosophy"
+      ]
+    },
+    {
+      "id": "as_above,_so_below_-_governance_must_align_earthly_and_cosmic_principles",
+      "name": "As above, so below - governance must align earthly and cosmic principles",
+      "category": "wisdom_teaching",
+      "definition": "Hermetic Philosophy provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "attributes": {
+        "governor_essence": "A Hermetic Philosophy Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by hermetic philosophy principles.",
+        "growth_paths": [
+          "Through deepening Hermetic Philosophy understanding",
+          "Via practical application of spiritual principles"
+        ],
+        "ethical_principles": [
+          "Act in alignment with divine will",
+          "Serve the highest good of all beings",
+          "Maintain authentic spiritual authority",
+          "Honor the wisdom of Hermetic Philosophy"
+        ]
+      },
+      "correspondences": [],
+      "sources": []
+    },
+    {
+      "id": "mental_mastery_precedes_effective_external_leadership",
+      "name": "Mental mastery precedes effective external leadership",
+      "category": "wisdom_teaching",
+      "definition": "Hermetic Philosophy provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "attributes": {
+        "governor_essence": "A Hermetic Philosophy Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by hermetic philosophy principles.",
+        "growth_paths": [
+          "Through deepening Hermetic Philosophy understanding",
+          "Via practical application of spiritual principles"
+        ],
+        "ethical_principles": [
+          "Act in alignment with divine will",
+          "Serve the highest good of all beings",
+          "Maintain authentic spiritual authority",
+          "Honor the wisdom of Hermetic Philosophy"
+        ]
+      },
+      "correspondences": [],
+      "sources": []
+    },
+    {
+      "id": "all_phenomena_operate_through_universal_laws_that_can_be_understood",
+      "name": "All phenomena operate through universal laws that can be understood",
+      "category": "wisdom_teaching",
+      "definition": "Hermetic Philosophy provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "attributes": {
+        "governor_essence": "A Hermetic Philosophy Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by hermetic philosophy principles.",
+        "growth_paths": [
+          "Through deepening Hermetic Philosophy understanding",
+          "Via practical application of spiritual principles"
+        ],
+        "ethical_principles": [
+          "Act in alignment with divine will",
+          "Serve the highest good of all beings",
+          "Maintain authentic spiritual authority",
+          "Honor the wisdom of Hermetic Philosophy"
+        ]
+      },
+      "correspondences": [],
+      "sources": []
+    },
+    {
+      "id": "polarity_thinking_resolves_apparent_contradictions_in_governance",
+      "name": "Polarity thinking resolves apparent contradictions in governance",
+      "category": "wisdom_teaching",
+      "definition": "Hermetic Philosophy provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "attributes": {
+        "governor_essence": "A Hermetic Philosophy Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by hermetic philosophy principles.",
+        "growth_paths": [
+          "Through deepening Hermetic Philosophy understanding",
+          "Via practical application of spiritual principles"
+        ],
+        "ethical_principles": [
+          "Act in alignment with divine will",
+          "Serve the highest good of all beings",
+          "Maintain authentic spiritual authority",
+          "Honor the wisdom of Hermetic Philosophy"
+        ]
+      },
+      "correspondences": [],
+      "sources": []
+    },
+    {
+      "id": "rhythm_and_cycles_guide_optimal_timing_for_decision-making",
+      "name": "Rhythm and cycles guide optimal timing for decision-making",
+      "category": "wisdom_teaching",
+      "definition": "Hermetic Philosophy provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "attributes": {
+        "governor_essence": "A Hermetic Philosophy Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by hermetic philosophy principles.",
+        "growth_paths": [
+          "Through deepening Hermetic Philosophy understanding",
+          "Via practical application of spiritual principles"
+        ],
+        "ethical_principles": [
+          "Act in alignment with divine will",
+          "Serve the highest good of all beings",
+          "Maintain authentic spiritual authority",
+          "Honor the wisdom of Hermetic Philosophy"
+        ]
+      },
+      "correspondences": [],
+      "sources": []
+    },
+    {
+      "id": "every_action_has_consequences_that_ripple_through_multiple_planes",
+      "name": "Every action has consequences that ripple through multiple planes",
+      "category": "wisdom_teaching",
+      "definition": "Hermetic Philosophy provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "attributes": {
+        "governor_essence": "A Hermetic Philosophy Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by hermetic philosophy principles.",
+        "growth_paths": [
+          "Through deepening Hermetic Philosophy understanding",
+          "Via practical application of spiritual principles"
+        ],
+        "ethical_principles": [
+          "Act in alignment with divine will",
+          "Serve the highest good of all beings",
+          "Maintain authentic spiritual authority",
+          "Honor the wisdom of Hermetic Philosophy"
+        ]
+      },
+      "correspondences": [],
+      "sources": []
+    },
+    {
+      "id": "balance_of_masculine_and_feminine_principles_creates_wholeness",
+      "name": "Balance of masculine and feminine principles creates wholeness",
+      "category": "wisdom_teaching",
+      "definition": "Hermetic Philosophy provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "attributes": {
+        "governor_essence": "A Hermetic Philosophy Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by hermetic philosophy principles.",
+        "growth_paths": [
+          "Through deepening Hermetic Philosophy understanding",
+          "Via practical application of spiritual principles"
+        ],
+        "ethical_principles": [
+          "Act in alignment with divine will",
+          "Serve the highest good of all beings",
+          "Maintain authentic spiritual authority",
+          "Honor the wisdom of Hermetic Philosophy"
+        ]
+      },
+      "correspondences": [],
+      "sources": []
+    }
+  ]
+}

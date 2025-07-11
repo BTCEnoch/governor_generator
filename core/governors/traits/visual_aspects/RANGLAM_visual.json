@@ -1,0 +1,28 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "EMERALD",
+  "geometry": {
+    "patterns": [
+      "TESSERACT"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 4,
+    "radius": 3,
+    "intensity": 4
+  },
+  "time_variations": 180,
+  "energy_signature": 149,
+  "symbol_set": 60,
+  "light_shadow": 167,
+  "special_properties": [
+    131,
+    146,
+    228,
+    171
+  ]
+}

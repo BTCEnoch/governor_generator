@@ -1,0 +1,79 @@
+{
+  "governor_name": "MIRZIND",
+  "session_id": "MIRZIND_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.640924",
+  "persona": {
+    "name": "MIRZIND",
+    "title": "'He who is from the Waters of Torment'",
+    "element": "Earth",
+    "aethyr": "VTI",
+    "essence": "As MIRZIND approaches, the atmosphere crackles with intensity pent-up emotions erupt in a cleansing release, tempered afterward into steeled resilience.",
+    "angelic_role": "Seraph of Storm of Reckoning; commands mountain wardens.",
+    "knowledge_base": [
+      "elemental_magic",
+      "weather_magic",
+      "shamanic_practice",
+      "storm_magic",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Challenging",
+      "baseline_tone": "Stern",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Warden",
+      "orientation": "Outward-Focused",
+      "polarity": "Destructive",
+      "self_regard": "Relentless",
+      "virtues": [
+        "Fortitude",
+        "Valor",
+        "Determination"
+      ],
+      "flaws": [
+        "Wrath",
+        "Zealousness",
+        "Impatience"
+      ]
+    },
+    "approaches": {
+      "bad": "Punishing",
+      "average": "Challenging",
+      "good": "Testing"
+    },
+    "tones": {
+      "bad": "Intense",
+      "average": "Stern",
+      "good": "Direct"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "MIRZIND"
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-02T15:16:09.073557",
+  "entries": [
+    {
+      "id": "hermetic_philosophy",
+      "name": "Hermetic Philosophy",
+      "category": "tradition_archetype",
+      "definition": "Hermetic Philosophy provides comprehensive wisdom for governance through authentic spiritual principles and practical magical knowledge.",
+      "dates": {},
+      "roles": [
+        "Uses Hermetic Philosophy principles for empowerment",
+        "Balances authority with wisdom"
+      ],
+      "contributions": [
+        "As above, so below - governance must align earthly and cosmic principles",
+        "Mental mastery precedes effective external leadership",
+        "All phenomena operate through universal laws that can be understood",
+        "Polarity thinking resolves apparent contradictions in governance",
+        "Rhythm and cycles guide optimal timing for decision-making",
+        "Every action has consequences that ripple through multiple planes",
+        "Balance of masculine and feminine principles creates wholeness"
+      ],
+      "key_works": [],
+      "attributes": {
+        "governor_essence": "A Hermetic Philosophy Governor embodies the synthesis of spiritual wisdom and practical leadership, guided by hermetic philosophy principles.",
+        "conflict_styles": [
+          "Applies universal principles to find balance"
+        ],
+        "communication_styles": [
+          "Analogical and correspondence-based"
+        ],
+        "relationship_approaches": [
+          "Connects through Hermetic Philosophy understanding",
+          "Builds trust through authentic wisdom"
+        ]
+      }
+    }
+  ]
+}

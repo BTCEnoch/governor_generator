@@ -1,0 +1,30 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "AZURE",
+  "geometry": {
+    "patterns": [
+      "METATRON",
+      "FLOWER_OF_LIFE",
+      "TORUS"
+    ],
+    "complexity": 3
+  },
+  "environment": {
+    "effect_type": 3,
+    "radius": 1,
+    "intensity": 5
+  },
+  "time_variations": 220,
+  "energy_signature": 218,
+  "symbol_set": 62,
+  "light_shadow": 14,
+  "special_properties": [
+    146,
+    127,
+    85,
+    111
+  ]
+}

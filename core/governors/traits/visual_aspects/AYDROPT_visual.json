@@ -1,0 +1,28 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "SILVER",
+  "geometry": {
+    "patterns": [
+      "FRACTAL"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 2,
+    "radius": 1,
+    "intensity": 5
+  },
+  "time_variations": 219,
+  "energy_signature": 140,
+  "symbol_set": 127,
+  "light_shadow": 178,
+  "special_properties": [
+    33,
+    185,
+    69,
+    119
+  ]
+}

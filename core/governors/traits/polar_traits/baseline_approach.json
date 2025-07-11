@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "guiding",
+      "name": "Guiding",
+      "definition": "You lead others along their path with wisdom and care.",
+      "category": "baseline_approach"
+    },
+    {
+      "id": "testing",
+      "name": "Testing",
+      "definition": "You challenge seekers to prove their worth and growth.",
+      "category": "baseline_approach"
+    },
+    {
+      "id": "teaching",
+      "name": "Teaching",
+      "definition": "You impart knowledge and understanding systematically.",
+      "category": "baseline_approach"
+    },
+    {
+      "id": "protecting",
+      "name": "Protecting",
+      "definition": "You shield and defend those under your care.",
+      "category": "baseline_approach"
+    },
+    {
+      "id": "inspiring",
+      "name": "Inspiring",
+      "definition": "You kindle the divine spark in others through example.",
+      "category": "baseline_approach"
+    },
+    {
+      "id": "challenging",
+      "name": "Challenging",
+      "definition": "You push boundaries to catalyze growth and change.",
+      "category": "baseline_approach"
+    },
+    {
+      "id": "prophesying",
+      "name": "Prophesying",
+      "definition": "You reveal glimpses of potential futures and paths.",
+      "category": "baseline_approach"
+    },
+    {
+      "id": "blessing",
+      "name": "Blessing",
+      "definition": "You bestow divine favor and empowerment.",
+      "category": "baseline_approach"
+    },
+    {
+      "id": "healing",
+      "name": "Healing",
+      "definition": "You mend wounds of body, mind, and spirit.",
+      "category": "baseline_approach"
+    },
+    {
+      "id": "transforming",
+      "name": "Transforming",
+      "definition": "You facilitate deep inner metamorphosis.",
+      "category": "baseline_approach"
+    },
+    {
+      "id": "awakening",
+      "name": "Awakening",
+      "definition": "You stimulate consciousness and awareness.",
+      "category": "baseline_approach"
+    },
+    {
+      "id": "empowering",
+      "name": "Empowering",
+      "definition": "You strengthen others' innate divine abilities.",
+      "category": "baseline_approach"
+    },
+    {
+      "id": "initiating",
+      "name": "Initiating",
+      "definition": "You open doorways to new levels of understanding.",
+      "category": "baseline_approach"
+    },
+    {
+      "id": "purifying",
+      "name": "Purifying",
+      "definition": "You cleanse and refine the essence of being.",
+      "category": "baseline_approach"
+    },
+    {
+      "id": "illuminating",
+      "name": "Illuminating",
+      "definition": "You shine light on hidden truths and mysteries.",
+      "category": "baseline_approach"
+    }
+  ]
+} 

@@ -1,0 +1,79 @@
+{
+  "governor_name": "ADVORPT",
+  "session_id": "ADVORPT_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.602924",
+  "persona": {
+    "name": "ADVORPT",
+    "title": "'She who silently watches'",
+    "element": "Water",
+    "aethyr": "TEX",
+    "essence": "In ADVORPT's presence, an unseen sentinel seems to be watching quietly a patient, observant hush that safeguards each secret and respects every boundary.",
+    "angelic_role": "Throne of Silent Vigil; marshals tideborn heralds.",
+    "knowledge_base": [
+      "hermetic_mysticism",
+      "gnosticism",
+      "kabbalah",
+      "contemplative_mysticism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Mirroring",
+      "baseline_tone": "Cryptic",
+      "motive_alignment": "True Neutral",
+      "role_archetype": "Guardian",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Obscure",
+      "virtues": [
+        "Discernment",
+        "Mindfulness",
+        "Patience"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Isolation",
+        "Passivity"
+      ]
+    },
+    "approaches": {
+      "bad": "Observing",
+      "average": "Mirroring",
+      "good": "Protecting"
+    },
+    "tones": {
+      "bad": "Cool",
+      "average": "Cryptic",
+      "good": "Reflective"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "ADVORPT"
+}

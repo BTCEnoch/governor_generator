@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "celestial_cycle",
+      "name": "Celestial Cycle",
+      "category": "time_variations",
+      "definition": "Changes according to celestial movements and alignments",
+      "parameters": {
+        "cycle_type": "cyclic",
+        "frequency": "slow"
+      }
+    },
+    {
+      "id": "elemental_flux",
+      "name": "Elemental Flux",
+      "category": "time_variations",
+      "definition": "Shifts between different elemental manifestations",
+      "parameters": {
+        "cycle_type": "responsive",
+        "frequency": "moderate"
+      }
+    },
+    {
+      "id": "eternal_constant",
+      "name": "Eternal Constant",
+      "category": "time_variations",
+      "definition": "Maintains unchanging divine presence",
+      "parameters": {
+        "cycle_type": "constant",
+        "frequency": "eternal"
+      }
+    },
+    {
+      "id": "quantum_fluctuation",
+      "name": "Quantum Fluctuation",
+      "category": "time_variations",
+      "definition": "Rapid shifts between multiple states of being",
+      "parameters": {
+        "cycle_type": "random",
+        "frequency": "rapid"
+      }
+    },
+    {
+      "id": "seasonal_harmony",
+      "name": "Seasonal Harmony",
+      "category": "time_variations",
+      "definition": "Changes with natural seasonal cycles",
+      "parameters": {
+        "cycle_type": "cyclic",
+        "frequency": "moderate"
+      }
+    },
+    {
+      "id": "lunar_resonance",
+      "name": "Lunar Resonance",
+      "category": "time_variations",
+      "definition": "Shifts with lunar phases and tides",
+      "parameters": {
+        "cycle_type": "cyclic",
+        "frequency": "moderate"
+      }
+    },
+    {
+      "id": "divine_pulse",
+      "name": "Divine Pulse",
+      "category": "time_variations",
+      "definition": "Rhythmic pulsation of divine energy",
+      "parameters": {
+        "cycle_type": "cyclic",
+        "frequency": "rapid"
+      }
+    },
+    {
+      "id": "karmic_wave",
+      "name": "Karmic Wave",
+      "category": "time_variations",
+      "definition": "Responds to spiritual cause and effect",
+      "parameters": {
+        "cycle_type": "responsive",
+        "frequency": "slow"
+      }
+    }
+  ]
+} 

@@ -1,0 +1,79 @@
+{
+  "governor_name": "ZAMFRES",
+  "session_id": "ZAMFRES_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.712860",
+  "persona": {
+    "name": "ZAMFRES",
+    "title": "'He who appears when praised'",
+    "element": "Fire",
+    "aethyr": "ZID",
+    "essence": "In ZAMFRES's presence, honest praise takes on life genuine gratitude manifests tangible blessings before your eyes.",
+    "angelic_role": "Dominion of Blessings of Praise; guides flameborn hosts.",
+    "knowledge_base": [
+      "hermetic_mysticism",
+      "ceremonial_magic",
+      "kabbalah",
+      "christian_mysticism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Chariot",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Cancer",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Encouraging",
+      "baseline_tone": "Warm",
+      "motive_alignment": "Lawful Good",
+      "role_archetype": "Herald",
+      "orientation": "Outward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Radiant",
+      "virtues": [
+        "Gratitude",
+        "Charisma",
+        "Enthusiasm"
+      ],
+      "flaws": [
+        "Pride",
+        "Zealousness",
+        "Vanity"
+      ]
+    },
+    "approaches": {
+      "bad": "Punishing",
+      "average": "Encouraging",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Warm",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "ZAMFRES"
+}

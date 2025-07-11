@@ -1,0 +1,79 @@
+{
+  "governor_name": "CRALPIR",
+  "session_id": "CRALPIR_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.615925",
+  "persona": {
+    "name": "CRALPIR",
+    "title": "'He of bright joy'",
+    "element": "Fire",
+    "aethyr": "ZIP",
+    "essence": "In CRALPIR's presence, despair yields to comfort like the triumphant solace of sunrise after a long night on the battlefield.",
+    "angelic_role": "Archangel of Radiant Dawn; marshals zephyr-bound sentinels.",
+    "knowledge_base": [
+      "hermetic_mysticism",
+      "solar_worship",
+      "light_working",
+      "warrior_traditions",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Encouraging",
+      "baseline_tone": "Warm",
+      "motive_alignment": "Lawful Good",
+      "role_archetype": "Herald",
+      "orientation": "Outward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Radiant",
+      "virtues": [
+        "Hope",
+        "Valor",
+        "Charisma"
+      ],
+      "flaws": [
+        "Zealousness",
+        "Impatience",
+        "Pride"
+      ]
+    },
+    "approaches": {
+      "bad": "Challenging",
+      "average": "Encouraging",
+      "good": "Inspiring"
+    },
+    "tones": {
+      "bad": "Intense",
+      "average": "Warm",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "CRALPIR"
+}

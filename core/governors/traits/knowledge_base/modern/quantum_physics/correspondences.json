@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T19:54:42.000000",
+  "entries": [
+    {
+      "id": "buddhism",
+      "name": "Buddhism",
+      "category": "quantum_correspondence",
+      "definition": "Quantum emptiness and interdependence",
+      "attributes": {},
+      "related_concepts": [],
+      "sources": []
+    },
+    {
+      "id": "hermetic_philosophy",
+      "name": "Hermetic Philosophy",
+      "category": "quantum_correspondence",
+      "definition": "As above, so below - quantum/macro correspondences",
+      "attributes": {},
+      "related_concepts": [],
+      "sources": []
+    },
+    {
+      "id": "kabbalah",
+      "name": "Kabbalah",
+      "category": "quantum_correspondence",
+      "definition": "Quantum Tree of Life and probability states",
+      "attributes": {},
+      "related_concepts": [],
+      "sources": []
+    },
+    {
+      "id": "consciousness_studies",
+      "name": "Consciousness Studies",
+      "category": "quantum_correspondence",
+      "definition": "Quantum theories of awareness",
+      "attributes": {},
+      "related_concepts": [],
+      "sources": []
+    },
+    {
+      "id": "sacred_geometry",
+      "name": "Sacred Geometry",
+      "category": "quantum_correspondence",
+      "definition": "Quantum field patterns and sacred forms",
+      "attributes": {},
+      "related_concepts": [],
+      "sources": []
+    }
+  ]
+}

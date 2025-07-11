@@ -1,0 +1,79 @@
+{
+  "governor_name": "NABAOMI",
+  "session_id": "NABAOMI_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.642924",
+  "persona": {
+    "name": "NABAOMI",
+    "title": "'He who knows pain'",
+    "element": "Air",
+    "aethyr": "ZEN",
+    "essence": "In NABAOMI's presence, a gentle cyclone of compassion swirls through hidden heart-chambers old traumas are scoured clean and grief is tempered into quiet, luminous resolve.",
+    "angelic_role": "Principality of Path of Compassion; leads celestial spirits.",
+    "knowledge_base": [
+      "buddhism",
+      "mystical_christianity",
+      "kabbalah",
+      "yogic_traditions",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Chariot",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Cancer",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Empathizing",
+      "baseline_tone": "Empathetic",
+      "motive_alignment": "Neutral Good",
+      "role_archetype": "Guide",
+      "orientation": "Inward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Compassionate",
+      "virtues": [
+        "Compassion",
+        "Empathy",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Melancholy",
+        "Self-doubt",
+        "Yearning"
+      ]
+    },
+    "approaches": {
+      "bad": "Comforting",
+      "average": "Empathizing",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Gentle",
+      "average": "Empathetic",
+      "good": "Nurturing"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "NABAOMI"
+}

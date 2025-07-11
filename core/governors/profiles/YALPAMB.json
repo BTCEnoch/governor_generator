@@ -1,0 +1,79 @@
+{
+  "governor_name": "YALPAMB",
+  "session_id": "YALPAMB_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.710854",
+  "persona": {
+    "name": "YALPAMB",
+    "title": "'He who is the beginning and the end'",
+    "element": "Air",
+    "aethyr": "ZEN",
+    "essence": "In YALPAMB's presence, one senses the eternal cycle turning past and future fold together in a vast calm, revealing the unbroken wholeness of time.",
+    "angelic_role": "Angel of Wholeness of Time; guides radiant ministers.",
+    "knowledge_base": [
+      "zen_buddhism",
+      "hermeticism",
+      "kabbalah",
+      "taoism",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The World",
+      "sephirot": "Binah",
+      "zodiac_sign": "Capricorn",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Observing",
+      "baseline_tone": "Philosophical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Oracle",
+      "orientation": "Inward-Focused",
+      "polarity": "Balanced Flux",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Wisdom",
+        "Mindfulness",
+        "Equanimity"
+      ],
+      "flaws": [
+        "Aloofness",
+        "Isolation",
+        "Obstinacy"
+      ]
+    },
+    "approaches": {
+      "bad": "Prophesying",
+      "average": "Observing",
+      "good": "Teaching"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Philosophical",
+      "good": "Direct"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "YALPAMB"
+}

@@ -1,0 +1,79 @@
+{
+  "governor_name": "OSIDAIA",
+  "session_id": "OSIDAIA_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.657401",
+  "persona": {
+    "name": "OSIDAIA",
+    "title": "'He who is the god of truth'",
+    "element": "Air",
+    "aethyr": "LIN",
+    "essence": "When OSIDAIA is invoked, a clarifying radiance floods the scene nothing corrupt can hide from this illuminating truth that shines in every nook.",
+    "angelic_role": "Seraph of Light of Truth; commands stoneclad hosts.",
+    "knowledge_base": [
+      "hermeticism",
+      "kabbalah",
+      "theurgy",
+      "alchemy",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Questioning",
+      "baseline_tone": "Direct",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Judge",
+      "orientation": "Balanced",
+      "polarity": "Constructive",
+      "self_regard": "Resolute",
+      "virtues": [
+        "Discernment",
+        "Integrity",
+        "Honor"
+      ],
+      "flaws": [
+        "Zealousness",
+        "Rigidity",
+        "Aloofness"
+      ]
+    },
+    "approaches": {
+      "bad": "Testing",
+      "average": "Questioning",
+      "good": "Demonstrating"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Direct",
+      "good": "Inspirational"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "OSIDAIA"
+}

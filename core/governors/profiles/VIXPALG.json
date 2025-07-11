@@ -1,0 +1,79 @@
+{
+  "governor_name": "VIXPALG",
+  "session_id": "VIXPALG_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.708516",
+  "persona": {
+    "name": "VIXPALG",
+    "title": "'He who consumes'",
+    "element": "Air",
+    "aethyr": "ASP",
+    "essence": "In VIXPALG's presence, the atmosphere grows intensely heavy and demanding an insatiable force that hungers for more, pulling all energy into its voracious embrace.",
+    "angelic_role": "Angel of Voracious Abyss; guides stoneclad guardians.",
+    "knowledge_base": [
+      "necromancy",
+      "shadow_magic",
+      "void_mysticism",
+      "blood_magic",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Devil",
+      "sephirot": "Binah",
+      "zodiac_sign": "Capricorn",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Testing",
+      "baseline_tone": "Stern",
+      "motive_alignment": "Neutral Evil",
+      "role_archetype": "Warden",
+      "orientation": "Inward-Focused",
+      "polarity": "Destructive",
+      "self_regard": "Relentless",
+      "virtues": [
+        "Fortitude",
+        "Determination",
+        "Perseverance"
+      ],
+      "flaws": [
+        "Obsession",
+        "Avarice",
+        "Yearning"
+      ]
+    },
+    "approaches": {
+      "bad": "Punishing",
+      "average": "Testing",
+      "good": "Challenging"
+    },
+    "tones": {
+      "bad": "Intense",
+      "average": "Stern",
+      "good": "Direct"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "VIXPALG"
+}

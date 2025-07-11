@@ -1,0 +1,122 @@
+{
+  "schema_version": "1.0.0",
+  "last_updated": "2025-07-04T22:07:00.000Z",
+  "entries": [
+    {
+      "id": "john_dee",
+      "name": "Dr. John Dee",
+      "category": "historical_figure",
+      "definition": "Primary receiver of the Enochian system, court astrologer to Queen Elizabeth I.",
+      "dates": {
+        "birth": "1527",
+        "death": "1608"
+      },
+      "roles": [
+        "system founder",
+        "angelic communicator",
+        "record keeper"
+      ],
+      "contributions": [
+        "Enochian language documentation",
+        "Great Table reception",
+        "Angelic conversations"
+      ],
+      "key_works": [
+        "Five Books of Mystery",
+        "True & Faithful Relation",
+        "48 Claves Angelicae"
+      ]
+    },
+    {
+      "id": "edward_kelley",
+      "name": "Edward Kelley",
+      "category": "historical_figure",
+      "definition": "Primary scryer and medium for the Enochian communications.",
+      "dates": {
+        "birth": "1555",
+        "death": "1597"
+      },
+      "roles": [
+        "crystal seer",
+        "angelic medium",
+        "system receiver"
+      ],
+      "contributions": [
+        "Aethyric visions",
+        "Angelic language reception",
+        "Governor communications"
+      ],
+      "key_works": [
+        "Angelic sessions records",
+        "Vision transcripts",
+        "Spirit diaries"
+      ]
+    },
+    {
+      "id": "uriel",
+      "name": "Archangel Uriel",
+      "category": "angelic_figure",
+      "definition": "Primary angelic contact and instructor in the Enochian system.",
+      "domain": "divine wisdom",
+      "roles": [
+        "system teacher",
+        "divine messenger",
+        "wisdom bearer"
+      ],
+      "attributes": {
+        "element": "Earth",
+        "direction": "North",
+        "color": "black"
+      },
+      "teachings": [
+        "Holy Table construction",
+        "Ring of Solomon",
+        "Sigillum Dei Aemeth"
+      ]
+    },
+    {
+      "id": "nalvage",
+      "name": "Nalvage",
+      "category": "angelic_figure",
+      "definition": "Angel who delivered the Enochian Keys and tablet structure.",
+      "domain": "divine language",
+      "roles": [
+        "key bearer",
+        "language teacher",
+        "tablet revealer"
+      ],
+      "attributes": {
+        "nature": "instructional",
+        "focus": "systematic revelation",
+        "method": "direct teaching"
+      },
+      "teachings": [
+        "Angelic Keys",
+        "Tablet system",
+        "Divine names"
+      ]
+    },
+    {
+      "id": "macelon",
+      "name": "Ave/Macelon",
+      "category": "angelic_figure",
+      "definition": "Angel who revealed the structure of the Aethyrs.",
+      "domain": "cosmic structure",
+      "roles": [
+        "aethyr revealer",
+        "cosmic teacher",
+        "structure shower"
+      ],
+      "attributes": {
+        "nature": "revelatory",
+        "focus": "cosmic architecture",
+        "method": "visionary instruction"
+      },
+      "teachings": [
+        "30 Aethyrs",
+        "Governor system",
+        "Cosmic hierarchy"
+      ]
+    }
+  ]
+} 

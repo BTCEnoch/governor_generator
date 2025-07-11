@@ -1,0 +1,79 @@
+{
+    "tradition": "kabbalah",
+    "name": "Kabbalah - Tree of Life and Divine Emanations",
+    "description": "The mystical tradition of Kabbalah, centered on the Tree of Life (Etz Chaim) and the divine emanations (Sefirot).",
+    "core_concepts": [
+        {
+            "id": "kabbalah_sefirah_keter",
+            "title": "Keter - The Crown: Divine Will",
+            "summary": "Keter is the highest Sefirah on the Tree of Life, representing the divine crown and the first emanation of the infinite Ein Sof.",
+            "full_content": "Keter (Hebrew: כֶּתֶר, \"Crown\") is the first and highest Sefirah on the Tree of Life, representing the divine will and the first emanation from the infinite Ein Sof.\n\nKey Attributes:\n- Position: 1st Sefirah (Crown)\n- Divine Name: Ehyeh (אהיה - \"I Am\")\n- Archangel: Metatron\n- Heavenly Body: Primum Mobile (First Swirlings)\n- Element: Pure Spirit\n- Color: Brilliant White/Clear Light\n\nSpiritual Meaning:\nKeter represents the divine will and the first impulse of creation. It is the bridge between the infinite Ein Sof and the manifest creation. In Keter, there is no duality or separation - only pure divine consciousness in its most primordial state.\n\nFunctions:\n1. Divine Will: The primal intention behind all creation\n2. Pure Consciousness: Undifferentiated awareness before manifestation\n3. Unity: The state before polarity and differentiation\n4. Source: The fountainhead from which all other Sefirot flow\n5. Crown: The divine crown that rules over all creation",
+            "knowledge_type": "CONCEPT",
+            "tags": ["keter", "crown", "divine_will", "ein_sof", "first_emanation"],
+            "related_concepts": ["tree_of_life", "ein_sof", "sefirot"],
+            "source_url": "https://en.wikipedia.org/wiki/Keter",
+            "confidence_score": 0.95,
+            "quality": "HIGH",
+            "sefirot_data": {
+                "position": "KETER",
+                "hebrew_name": "כֶּתֶר",
+                "number": 1,
+                "divine_attribute": "Crown of Creation",
+                "human_attribute": "Pure Will",
+                "shadow_aspect": "Disconnection from higher purpose, spiritual emptiness",
+                "element": "Pure Light",
+                "planet": "Neptune",
+                "influence_categories": {
+                    "spirituality": 0.95,
+                    "transcendence": 0.9,
+                    "unity": 0.85,
+                    "wisdom": 0.8,
+                    "leadership": 0.7
+                }
+            }
+        }
+    ],
+    "practices": [
+        {
+            "id": "kabbalah_meditation",
+            "title": "Kabbalistic Meditation",
+            "summary": "Traditional meditation practices in Kabbalah, including visualization of the Tree of Life, Hebrew letter meditation, and divine name vibration.",
+            "full_content": "Kabbalistic meditation encompasses several traditional practices:\n\n1. Tree of Life Pathworking:\n- Visualizing and traversing the paths between Sefirot\n- Understanding the qualities of each sphere\n- Integrating the divine attributes\n\n2. Hebrew Letter Meditation:\n- Contemplating the shapes and meanings of Hebrew letters\n- Combining letters to form divine names\n- Understanding letter permutations\n\n3. Divine Name Vibration:\n- Proper pronunciation of divine names\n- Understanding the power of sacred sound\n- Connecting to divine qualities through resonance",
+            "knowledge_type": "PRACTICE",
+            "tags": ["meditation", "visualization", "hebrew_letters", "divine_names"],
+            "related_concepts": ["tree_of_life", "hebrew_alphabet", "divine_names"],
+            "source_url": "https://en.wikipedia.org/wiki/Jewish_meditation",
+            "confidence_score": 0.9,
+            "quality": "HIGH"
+        }
+    ],
+    "correspondences": {
+        "elements": {
+            "fire": ["Chokhmah", "Gevurah", "Netzach"],
+            "water": ["Binah", "Chesed"],
+            "air": ["Tiferet", "Hod", "Yesod"],
+            "earth": ["Malkuth"],
+            "spirit": ["Keter"]
+        },
+        "planets": {
+            "neptune": ["Keter"],
+            "uranus": ["Chokhmah"],
+            "saturn": ["Binah"],
+            "jupiter": ["Chesed"],
+            "mars": ["Gevurah"],
+            "sun": ["Tiferet"],
+            "venus": ["Netzach"],
+            "mercury": ["Hod"],
+            "moon": ["Yesod"],
+            "earth": ["Malkuth"]
+        }
+    },
+    "meta": {
+        "version": "1.0.0",
+        "last_updated": "2025-07-09",
+        "source_files": [
+            "kabbalah_knowledge_database.py",
+            "sefirot_database.py"
+        ]
+    }
+} 

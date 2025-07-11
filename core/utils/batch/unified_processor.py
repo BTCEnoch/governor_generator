@@ -119,6 +119,14 @@ class UnifiedBatchProcessor:
             while not self.job_queue.empty():
                 await self._process_queue()
                 
+        # Collect results
+        for item_id, result in self.results.items():
+            if result.get('status') == 'success':
+                successful.append(result)
+            else:
+                failed.append(result)
+                stats["processing_errors"] += 1
+                
         # Handle retries for failed items
         if failed and self.config.max_retries > 0:
             retry_result = await self.handle_retries(failed)
@@ -175,8 +183,24 @@ class UnifiedBatchProcessor:
             return True
             
         try:
-            # Implement validation logic here
+            schema = self.config.validation_schema
+            
+            # Check required fields
+            if "required" in schema:
+                for field in schema["required"]:
+                    if field not in item:
+                        logger.error(f"Missing required field: {field}")
+                        return False
+                        
+            # Check types
+            if "types" in schema:
+                for field, expected_type in schema["types"].items():
+                    if field in item and not isinstance(item[field], expected_type):
+                        logger.error(f"Invalid type for {field}: expected {expected_type}, got {type(item[field])}")
+                        return False
+                        
             return True
+            
         except Exception as e:
             logger.error(f"Validation error: {e}")
             return False
@@ -198,27 +222,25 @@ class UnifiedBatchProcessor:
             retry_batch = still_failed
             still_failed = []
             
-            # Process retries
+            # Try processing failed items again
             for item in retry_batch:
                 try:
                     result = await self._process_item(item)
-                    recovered.append(item)
-                    self.results[id(item)] = result
-                except Exception as e:
-                    if self.error_handler.handle_error(item, e):
-                        still_failed.append(item)
+                    if result.get('status') == 'success':
+                        recovered.append(result)
                     else:
-                        # Permanent failure
-                        self.results[id(item)] = {"status": "failed", "error": str(e)}
-                        
+                        still_failed.append(item)
+                except Exception:
+                    still_failed.append(item)
+                    
         return RetryResult(
             recovered=recovered,
             permanent_failures=still_failed,
             retry_count=retry_count
         )
-    
+        
     def track_progress(self) -> ProgressStatus:
-        """Track batch processing progress"""
+        """Get current processing progress"""
         if not self.start_time:
             return ProgressStatus(
                 total_items=0,
@@ -230,27 +252,27 @@ class UnifiedBatchProcessor:
                 eta=None
             )
             
-        total_items = self.job_queue.qsize() + self.processed_count
-        successful = sum(1 for r in self.results.values() if r.get("status") != "failed")
-        failed = sum(1 for r in self.results.values() if r.get("status") == "failed")
-        in_progress = total_items - successful - failed
+        total = self.job_queue.qsize() + self.processed_count
+        successful = len([r for r in self.results.values() if r.get('status') == 'success'])
+        failed = len([r for r in self.results.values() if r.get('status') == 'failed'])
+        in_progress = total - successful - failed
         
-        # Calculate progress
-        percent_complete = (self.processed_count / total_items) * 100 if total_items > 0 else 0
+        percent = (self.processed_count / total * 100) if total > 0 else 0
         
         # Calculate ETA
-        if percent_complete > 0:
+        if self.processed_count > 0:
             elapsed = (datetime.now() - self.start_time).total_seconds()
-            eta = (elapsed / percent_complete) * (100 - percent_complete)
+            rate = self.processed_count / elapsed
+            remaining = (total - self.processed_count) / rate if rate > 0 else None
         else:
-            eta = None
+            remaining = None
             
         return ProgressStatus(
-            total_items=total_items,
+            total_items=total,
             processed=self.processed_count,
             successful=successful,
             failed=failed,
             in_progress=in_progress,
-            percent_complete=percent_complete,
-            eta=eta
+            percent_complete=percent,
+            eta=remaining
         ) 

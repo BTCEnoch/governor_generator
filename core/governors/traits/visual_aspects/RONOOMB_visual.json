@@ -1,0 +1,28 @@
+{
+  "form": {
+    "name": "Unknown",
+    "description": "Undefined form"
+  },
+  "color": "EMERALD",
+  "geometry": {
+    "patterns": [
+      "SPIRAL"
+    ],
+    "complexity": 1
+  },
+  "environment": {
+    "effect_type": 4,
+    "radius": 0,
+    "intensity": 5
+  },
+  "time_variations": 217,
+  "energy_signature": 159,
+  "symbol_set": 138,
+  "light_shadow": 230,
+  "special_properties": [
+    29,
+    215,
+    165,
+    16
+  ]
+}

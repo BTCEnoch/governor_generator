@@ -1,0 +1,79 @@
+{
+  "governor_name": "TOANTOM",
+  "session_id": "TOANTOM_20250704_220700",
+  "start_time": "2025-07-04T22:07:00.693510",
+  "persona": {
+    "name": "TOANTOM",
+    "title": "'He who loves knowledge'",
+    "element": "Air",
+    "aethyr": "ASP",
+    "essence": "In TOANTOM's presence, even stones seem to whisper knowledge an inquisitive hush invites discovery as the scholar in you awakens with curiosity.",
+    "angelic_role": "Archangel of Vault of Knowledge; marshals stoneclad soldiers.",
+    "knowledge_base": [
+      "hermetic_philosophy",
+      "kabbalah",
+      "alchemy",
+      "sacred_geometry",
+      "enochian_magic"
+    ],
+    "archetypal_correspondences": {
+      "tarot": "The Magician",
+      "sephirot": "Hod",
+      "zodiac_sign": "Gemini",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    },
+    "interview_responses": {},
+    "polar_traits": {
+      "baseline_approach": "Teaching",
+      "baseline_tone": "Analytical",
+      "motive_alignment": "Lawful Neutral",
+      "role_archetype": "Archivist",
+      "orientation": "Inward-Focused",
+      "polarity": "Constructive",
+      "self_regard": "Arcane",
+      "virtues": [
+        "Wisdom",
+        "Discernment",
+        "Perseverance"
+      ],
+      "flaws": [
+        "Obsession",
+        "Aloofness",
+        "Rigidity"
+      ]
+    },
+    "approaches": {
+      "bad": "Testing",
+      "average": "Teaching",
+      "good": "Questioning"
+    },
+    "tones": {
+      "bad": "Stern",
+      "average": "Analytical",
+      "good": "Philosophical"
+    }
+  },
+  "visual_aspects": {
+    "form": {
+      "name": "",
+      "description": ""
+    },
+    "color": "",
+    "geometry": {
+      "patterns": [],
+      "complexity": null
+    },
+    "environment": {
+      "effect_type": null,
+      "radius": null,
+      "intensity": null
+    },
+    "time_variations": null,
+    "energy_signature": null,
+    "symbol_set": null,
+    "light_shadow": null,
+    "special_properties": []
+  },
+  "governor_id": "TOANTOM"
+}
